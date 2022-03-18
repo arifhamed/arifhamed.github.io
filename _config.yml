@@ -9,3 +9,4 @@ plugins:
   - jekyll-coffeescript
   - jekyll-seo-tag
   - jekyll-redirect-from
+  - jekyll-multiple-languages-plugin
