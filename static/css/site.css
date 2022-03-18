@@ -185,14 +185,14 @@ text-align: right;
 .timestamp {
     color: #333;
     text-shadow: 
-        1px 0 #333,
-        1px 1px #333,
-        0 1px #333,
-        -1px 1px #333,
-        -1px 0 #333,
-        -1px -1px #333,
-        0 -1px #333,
-        1px -1px #333
+        1px 0 #929292,
+        1px 1px #929292,
+        0 1px #929292,
+        -1px 1px #929292,
+        -1px 0 #929292,
+        -1px -1px #929292,
+        0 -1px #929292,
+        1px -1px #929292
     ;
 }
 
