@@ -1,0 +1,1914 @@
+<!DOCTYPE html>
+<!-- saved from url=(0042)https://www.google.com/fbx?fbx=minesweeper -->
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta content="dark" name="color-scheme">
+    <meta content="origin" name="referrer">
+    <meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image">
+    <title>Google</title>
+    <script nonce="pfR4/6+DRKngr5NoGlIStA==">
+      (function() {
+        var b = window.addEventListener;
+        window.addEventListener = function(a, c, d) {
+          "unload" !== a && b(a, c, d)
+        };
+      }).call(this);
+      (function() {
+        window.google = {
+          kEI: 'MAIaYq3FKNWq4t4PnseUiA0'
+        };
+        google.sn = 'web';
+        google.kHL = 'en-SG';
+      })();
+      (function() {
+        var f = this || self;
+        var h, k = [];
+
+        function l(a) {
+          for (var b; a && (!a.getAttribute || !(b = a.getAttribute("eid")));) a = a.parentNode;
+          return b || h
+        }
+
+        function m(a) {
+          for (var b = null; a && (!a.getAttribute || !(b = a.getAttribute("leid")));) a = a.parentNode;
+          return b
+        }
+
+        function n(a, b, c, d, g) {
+          var e = "";
+          c || -1 !== b.search("&ei=") || (e = "&ei=" + l(d), -1 === b.search("&lei=") && (d = m(d)) && (e += "&lei=" + d));
+          d = "";
+          !c && f._cshid && -1 === b.search("&cshid=") && "slh" !== a && (d = "&cshid=" + f._cshid);
+          c = c || "/" + (g || "gen_204") + "?atyp=i&ct=" + a + "&cad=" + b + e + "&zx=" + Date.now() + d;
+          /^http:/i.test(c) && "https:" === window.location.protocol && (google.ml && google.ml(Error("a"), !1, {
+            src: c,
+            glmm: 1
+          }), c = "");
+          return c
+        };
+        h = google.kEI;
+        google.getEI = l;
+        google.getLEI = m;
+        google.ml = function() {
+          return null
+        };
+        google.log = function(a, b, c, d, g) {
+          if (c = n(a, b, c, d, g)) {
+            a = new Image;
+            var e = k.length;
+            k[e] = a;
+            a.onerror = a.onload = a.onabort = function() {
+              delete k[e]
+            };
+            a.src = c
+          }
+        };
+        google.logUrl = n;
+      }).call(this);
+      (function() {
+        google.y = {};
+        google.sy = [];
+        google.x = function(a, b) {
+          if (a) var c = a.id;
+          else {
+            do c = Math.random(); while (google.y[c])
+          }
+          google.y[c] = [a, b];
+          return !1
+        };
+        google.sx = function(a) {
+          google.sy.push(a)
+        };
+        google.lm = [];
+        google.plm = function(a) {
+          google.lm.push.apply(google.lm, a)
+        };
+        google.lq = [];
+        google.load = function(a, b, c) {
+          google.lq.push([
+            [a], b, c
+          ])
+        };
+        google.loadAll = function(a, b) {
+          google.lq.push([a, b])
+        };
+        google.bx = !1;
+        google.lx = function() {};
+      }).call(this);
+      google.f = {};
+      (function() {
+        document.documentElement.addEventListener("submit", function(b) {
+          var a;
+          if (a = b.target) {
+            var c = a.getAttribute("data-submitfalse");
+            a = "1" === c || "q" === c && !a.elements.q.value ? !0 : !1
+          } else a = !1;
+          a && (b.preventDefault(), b.stopPropagation())
+        }, !0);
+        document.documentElement.addEventListener("click", function(b) {
+          var a;
+          a: {
+            for (a = b.target; a && a !== document.documentElement; a = a.parentElement)
+              if ("A" === a.tagName) {
+                a = "1" === a.getAttribute("data-nohref");
+                break a
+              } a = !1
+          }
+          a && b.preventDefault()
+        }, !0);
+      }).call(this);
+      (function() {
+        google.hs = {
+          h: true,
+          nhs: false,
+          sie: false
+        };
+      })();
+      (function() {
+        var b = [function() {
+          google.tick && google.tick("load", "dcl")
+        }];
+        google.dclc = function(a) {
+          b.length ? b.push(a) : a()
+        };
+
+        function c() {
+          for (var a = b.shift(); a;) a(), a = b.shift()
+        }
+        window.addEventListener ? (document.addEventListener("DOMContentLoaded", c, !1), window.addEventListener("load", c, !1)) : window.attachEvent && window.attachEvent("onload", c);
+      }).call(this);
+      (function() {
+        var b = [];
+        google.jsc = {
+          xx: b,
+          x: function(a) {
+            b.push(a)
+          },
+          mm: [],
+          m: function(a) {
+            google.jsc.mm.length || (google.jsc.mm = a)
+          }
+        };
+      }).call(this);
+      (function() {
+        var e = this || self;
+        var f = {};
+
+        function w(a, c) {
+          if (null === c) return !1;
+          if ("contains" in a && 1 == c.nodeType) return a.contains(c);
+          if ("compareDocumentPosition" in a) return a == c || !!(a.compareDocumentPosition(c) & 16);
+          for (; c && a != c;) c = c.parentNode;
+          return c == a
+        };
+        var x = function(a, c) {
+            return function(d) {
+              d || (d = window.event);
+              return c.call(a, d)
+            }
+          },
+          z = "undefined" != typeof navigator && /Macintosh/.test(navigator.userAgent),
+          A = function() {
+            this._mouseEventsPrevented = !0
+          };
+        var F = function(a) {
+            this.g = a;
+            this.h = []
+          },
+          G = function(a) {
+            for (var c = 0; c < a.h.length; ++c) {
+              var d = a.g,
+                b = a.h[c];
+              d.removeEventListener ? d.removeEventListener(b.eventType, b.o, b.capture) : d.detachEvent && d.detachEvent("on" + b.eventType, b.o)
+            }
+            a.h = []
+          };
+        var H = e._jsa || {};
+        H._cfc = void 0;
+        H._aeh = void 0;
+        var I = function() {
+            this.h = this.g = null
+          },
+          K = function(a, c) {
+            var d = J;
+            d.g = a;
+            d.h = c;
+            return d
+          };
+        I.prototype.i = function() {
+          var a = this.g;
+          this.g && this.g != this.h ? this.g = this.g.__owner || this.g.parentNode : this.g = null;
+          return a
+        };
+        var L = function() {
+          this.j = [];
+          this.g = 0;
+          this.h = null;
+          this.l = !1
+        };
+        L.prototype.i = function() {
+          if (this.l) return J.i();
+          if (this.g != this.j.length) {
+            var a = this.j[this.g];
+            this.g++;
+            a != this.h && a && a.__owner && (this.l = !0, K(a.__owner, this.h));
+            return a
+          }
+          return null
+        };
+        var J = new I,
+          M = new L;
+        var Q = function() {
+            this.s = [];
+            this.g = [];
+            this.h = [];
+            this.l = {};
+            this.i = null;
+            this.j = [];
+            N(this, "_custom")
+          },
+          R = function(a) {
+            return String.prototype.trim ? a.trim() : a.replace(/^\s+/, "").replace(/\s+$/, "")
+          },
+          ha = function(a, c) {
+            return function m(b, g) {
+              g = void 0 === g ? !0 : g;
+              var l = c;
+              if ("_custom" == l) {
+                l = b.detail;
+                if (!l || !l._type) return;
+                l = l._type
+              }
+              var k = l;
+              "click" == k && (z && b.metaKey || !z && b.ctrlKey || 2 == b.which || null == b.which && 4 == b.button || b.shiftKey) ? k = "clickmod" : "keydown" == k && !b.a11ysc && (k = "maybe_click");
+              var u = b.srcElement || b.target;
+              l = S(k, b, u, "", null);
+              if (b.path) {
+                M.j = b.path;
+                M.g = 0;
+                M.h = this;
+                M.l = !1;
+                var O = M
+              } else O = K(u, this);
+              for (var r; r = O.i();) {
+                var h = r;
+                var p = void 0;
+                r = h;
+                var q = k,
+                  aa = b;
+                var n = r.__jsaction;
+                if (!n) {
+                  var y;
+                  n = null;
+                  "getAttribute" in r && (n = r.getAttribute("jsaction"));
+                  if (y = n) {
+                    n = f[y];
+                    if (!n) {
+                      n = {};
+                      for (var B = y.split(ba), ca = B ? B.length : 0, C = 0; C < ca; C++) {
+                        var v = B[C];
+                        if (v) {
+                          var D = v.indexOf(":"),
+                            P = -1 != D,
+                            ea = P ? R(v.substr(0, D)) : da;
+                          v = P ? R(v.substr(D + 1)) : v;
+                          n[ea] = v
+                        }
+                      }
+                      f[y] = n
+                    }
+                    r.__jsaction = n
+                  } else n = fa, r.__jsaction = n
+                }
+                "maybe_click" == q && n.click ? (p = q, q = "click") : "clickkey" == q ? q = "click" : "click" != q || n.click || (q = "clickonly");
+                p = H._cfc && n.click ? H._cfc(r, aa, n, q, p) : {
+                  eventType: p ? p : q,
+                  action: n[q] || "",
+                  event: null,
+                  ignore: !1
+                };
+                l = S(p.eventType, p.event || b, u, p.action || "", h, l.timeStamp);
+                if (p.ignore || p.action) break
+              }
+              l && "touchend" == l.eventType && (l.event._preventMouseEvents = A);
+              if (p && p.action) {
+                if ("mouseenter" == k || "mouseleave" == k || "pointerenter" == k || "pointerleave" == k)
+                  if (u = b.relatedTarget, !("mouseover" == b.type && "mouseenter" == k || "mouseout" == b.type && "mouseleave" == k || "pointerover" == b.type && "pointerenter" == k || "pointerout" == b.type && "pointerleave" == k) || u && (u === h || w(h, u))) l.action = "", l.actionElement = null;
+                  else {
+                    k = {};
+                    for (var t in b) "function" !== typeof b[t] && "srcElement" !== t && "target" !== t && (k[t] = b[t]);
+                    k.type = "mouseover" == b.type ? "mouseenter" : "mouseout" == b.type ? "mouseleave" : "pointerover" == b.type ? "pointerenter" : "pointerleave";
+                    k.target = k.srcElement = h;
+                    k.bubbles = !1;
+                    l.event = k;
+                    l.targetElement = h
+                  }
+              } else l.action = "", l.actionElement = null;
+              h = l;
+              a.i && !h.event.a11ysgd && (t = S(h.eventType, h.event, h.targetElement, h.action, h.actionElement, h.timeStamp), "clickonly" == t.eventType && (t.eventType = "click"), a.i(t, !0));
+              if (h.actionElement || "maybe_click" == h.eventType) {
+                if (a.i) {
+                  if (!h.actionElement || "A" != h.actionElement.tagName || "click" != h.eventType && "clickmod" != h.eventType || (b.preventDefault ? b.preventDefault() : b.returnValue = !1), (b = a.i(h)) && g) {
+                    m.call(this, b, !1);
+                    return
+                  }
+                } else {
+                  if ((g = e.document) && !g.createEvent && g.createEventObject) try {
+                    var E = g.createEventObject(b)
+                  } catch (ka) {
+                    E = b
+                  } else E = b;
+                  h.event = E;
+                  a.j.push(h)
+                }
+                H._aeh && H._aeh(h)
+              }
+            }
+          },
+          S = function(a, c, d, b, g, m) {
+            return {
+              eventType: a,
+              event: c,
+              targetElement: d,
+              action: b,
+              actionElement: g,
+              timeStamp: m || Date.now()
+            }
+          },
+          ia = function(a, c) {
+            return function(d) {
+              var b = a,
+                g = c,
+                m = !1;
+              "mouseenter" == b ? b = "mouseover" : "mouseleave" == b ? b = "mouseout" : "pointerenter" == b ? b = "pointerover" : "pointerleave" == b && (b = "pointerout");
+              if (d.addEventListener) {
+                if ("focus" == b || "blur" == b || "error" == b || "load" == b) m = !0;
+                d.addEventListener(b, g, m)
+              } else d.attachEvent && ("focus" == b ? b = "focusin" : "blur" == b && (b = "focusout"), g = x(d, g), d.attachEvent("on" + b, g));
+              return {
+                eventType: b,
+                o: g,
+                capture: m
+              }
+            }
+          },
+          N = function(a, c) {
+            if (!a.l.hasOwnProperty(c)) {
+              var d = ha(a, c),
+                b = ia(c, d);
+              a.l[c] = d;
+              a.s.push(b);
+              for (d = 0; d < a.g.length; ++d) {
+                var g = a.g[d];
+                g.h.push(b.call(null, g.g))
+              }
+              "click" == c && N(a, "keydown")
+            }
+          };
+        Q.prototype.o = function(a) {
+          return this.l[a]
+        };
+        var W = function(a, c) {
+            var d = new F(c);
+            a: {
+              for (var b = 0; b < a.g.length; b++)
+                if (T(a.g[b].g, c)) {
+                  c = !0;
+                  break a
+                } c = !1
+            }
+            if (c) return a.h.push(d), d;
+            U(a, d);
+            a.g.push(d);
+            V(a);
+            return d
+          },
+          V = function(a) {
+            for (var c = a.h.concat(a.g), d = [], b = [], g = 0; g < a.g.length; ++g) {
+              var m = a.g[g];
+              X(m, c) ? (d.push(m), G(m)) : b.push(m)
+            }
+            for (g = 0; g < a.h.length; ++g) m = a.h[g], X(m, c) ? d.push(m) : (b.push(m), U(a, m));
+            a.g = b;
+            a.h = d
+          },
+          U = function(a, c) {
+            var d = c.g;
+            ja && (d.style.cursor = "pointer");
+            for (d = 0; d < a.s.length; ++d) c.h.push(a.s[d].call(null, c.g))
+          },
+          Y = function(a, c) {
+            a.i = c;
+            a.j && (0 < a.j.length && c(a.j), a.j = null)
+          },
+          X = function(a, c) {
+            for (var d = 0; d < c.length; ++d)
+              if (c[d].g != a.g && T(c[d].g, a.g)) return !0;
+            return !1
+          },
+          T = function(a, c) {
+            for (; a != c && c.parentNode;) c = c.parentNode;
+            return a == c
+          },
+          ja = "undefined" != typeof navigator && /iPhone|iPad|iPod/.test(navigator.userAgent),
+          ba = /\s*;\s*/,
+          da = "click",
+          fa = {};
+        var Z = new Q;
+        W(Z, window.document.documentElement);
+        N(Z, "click");
+        N(Z, "focus");
+        N(Z, "focusin");
+        N(Z, "blur");
+        N(Z, "focusout");
+        N(Z, "error");
+        N(Z, "load");
+        N(Z, "auxclick");
+        N(Z, "change");
+        N(Z, "dblclick");
+        N(Z, "input");
+        N(Z, "keyup");
+        N(Z, "keydown");
+        N(Z, "keypress");
+        N(Z, "mousedown");
+        N(Z, "mouseenter");
+        N(Z, "mouseleave");
+        N(Z, "mouseout");
+        N(Z, "mouseover");
+        N(Z, "mouseup");
+        N(Z, "paste");
+        N(Z, "touchstart");
+        N(Z, "touchend");
+        N(Z, "touchcancel");
+        N(Z, "transitioncancel");
+        N(Z, "transitionend");
+        N(Z, "transitionrun");
+        N(Z, "transitionstart");
+        N(Z, "speech");
+        (function(a) {
+          google.jsad = function(c) {
+            Y(a, c)
+          };
+          google.jsaac = function(c) {
+            return W(a, c)
+          };
+          google.jsarc = function(c) {
+            G(c);
+            for (var d = !1, b = 0; b < a.g.length; ++b)
+              if (a.g[b] === c) {
+                a.g.splice(b, 1);
+                d = !0;
+                break
+              } if (!d)
+              for (d = 0; d < a.h.length; ++d)
+                if (a.h[d] === c) {
+                  a.h.splice(d, 1);
+                  break
+                } V(a)
+          }
+        })(Z);
+        e.gws_wizbind = function(a) {
+          return {
+            trigger: function(c) {
+              var d = a.o(c.type);
+              d || (N(a, c.type), d = a.o(c.type));
+              var b = c.target || c.srcElement;
+              d && d.call(b.ownerDocument.documentElement, c)
+            },
+            bind: function(c) {
+              Y(a, c)
+            }
+          }
+        }(Z);
+      }).call(this);
+      (function() {
+        function b(c) {
+          var a;
+          a: {
+            for (a = c.target; a && a !== document.documentElement; a = a.parentElement)
+              if ("A" === a.tagName && "1" === a.getAttribute("data-jsarwt")) break a;a = null
+          }
+          a && window.jsarwt(a, null, c);
+          return !0
+        };
+        window.document.documentElement.addEventListener("mousedown", b, !0);
+        window.document.documentElement.addEventListener("touchstart", b, !0);
+      }).call(this);
+    </script>
+    <script nonce="pfR4/6+DRKngr5NoGlIStA==">
+      (function() {
+        google.xjs = {
+          ck: 'xjs.s.a-zYKq2RZBQ.L.W.O',
+          cs: 'ACT90oFjyXt7wKq98Zpv-Nx3FBC6lzzgOA',
+          excm: []
+        };
+      })();
+    </script>
+    <script nonce="pfR4/6+DRKngr5NoGlIStA==">
+      (function() {
+        google.kEXPI = '0,1371403,2632107,158439,4745,35180,10350,22742,1830,4138,705,12518,33853,20778,3523,6547,6397,28860,3848,28997,14778,15966,19567,5149,6668,101296,8595,9701,1652,13230,3665,24673,4573,17783,9561,2663,1785,7664,1541,1342,937,2858,3811,5471,5490,480,1767,871,1828,986,2912,864,65,879,1838,7307,435,92,3098,274,2944,704,2596,2256,2804,185,781,119,43,166,108,1022,426,3667,1672,493,69,51,318,1277,124,1859,646,793,117,261,153,869,1349,500,40,41,234,5470321,1873,3229,5996329,10280463,20552258,3534,25,1705,2107,875933';
+      })();
+
+      function _DumpException(e) {
+        throw e;
+      }
+
+      function _F_installCss(c) {}
+      (function() {
+        window.google.xjsu = '/xjs/_/js/k\x3dxjs.s.en_GB.IElKxfvQlx0.O/am\x3dAlQexTbAAAB-QQAAAAAAAIAABN5bAAAIj4QkgA4AAEAQAAAgEEZAEAAAAMBH_AbA-RtAGKAJFwAAAAAAAIAAR4IMFUgUBIAAAAAAAGI1ZTUyZyAQAAAC/d\x3d1/ed\x3d1/dg\x3d2/esmo\x3d1/rs\x3dACT90oEvFjfcv-HBwX2HUO9l2miAuanaYA/m\x3djsa,dbm,hsm,d';
+      })();
+    </script>
+    <script defer="" src="/static/games/minesweeper/m=jsa,dbm,hsm,d" nonce="pfR4/6+DRKngr5NoGlIStA=="></script>
+    <script nonce="pfR4/6+DRKngr5NoGlIStA==">
+      (function() {
+        window.rwt = function() {
+          return !0
+        };
+      }).call(this);
+      (function() {
+        var a = this || self;
+
+        function d(c) {
+          var b;
+          a: {
+            if (b = a.navigator)
+              if (b = b.userAgent) break a;b = ""
+          }
+          return -1 != b.indexOf(c)
+        };
+
+        function h() {
+          return d("Safari") && !(k() || d("Coast") || d("Opera") || d("Edge") || d("Edg/") || d("OPR") || d("Firefox") || d("FxiOS") || d("Silk") || d("Android"))
+        }
+
+        function k() {
+          return (d("Chrome") || d("CriOS")) && !d("Edge") || d("Silk")
+        };
+        var m = function(c) {
+          return String(c).replace(/\-([a-z])/g, function(b, e) {
+            return e.toUpperCase()
+          })
+        };
+        var n = d("Trident") || d("MSIE");
+        !d("Android") || k();
+        k();
+        h();
+        var p = !n && !h();
+        window.jsarwt = function(c, b, e) {
+          if (!b)
+            if (p && c.dataset) b = c.dataset;
+            else {
+              b = {};
+              for (var l = c.attributes, f = 0; f < l.length; ++f) {
+                var g = l[f];
+                if (0 == g.name.lastIndexOf("data-", 0)) {
+                  var q = m(g.name.substr(5));
+                  b[q] = g.value
+                }
+              }
+            } if (!("jrwt" in b))
+            if (window.rwt(c, "", "", "", b.cd || "", b.usg || "", "", b.ved || "", Number(b.au) || null, b.psig || "", e), p && c.dataset) c.dataset.jrwt = "1";
+            else {
+              if (/-[a-z]/.test("jrwt")) throw Error("a");
+              c.setAttribute.call(c, "data-" + "jrwt".replace(/([A-Z])/g, "-$1").toLowerCase(), "1")
+            } return !1
+        };
+      }).call(this);
+      (function() {
+        window.google.erd = {
+          jsr: 1,
+          bv: 1538,
+          sd: true,
+          de: true
+        };
+      })();
+      (function() {
+        var sdo = false;
+        var mei = 10;
+        var f = this || self;
+        var g, h, k = null !== (g = f.mei) && void 0 !== g ? g : 1,
+          l = null !== (h = f.sdo) && void 0 !== h ? h : !0,
+          p = 0,
+          q, r = google.erd,
+          u = r.jsr;
+        google.ml = function(a, b, d, m, c) {
+          c = void 0 === c ? 2 : c;
+          b && (q = a && a.message);
+          if (google.dl) return google.dl(a, c, d), null;
+          if (0 > u) {
+            window.console && console.error(a, d);
+            if (-2 === u) throw a;
+            b = !1
+          } else b = !a || !a.message || "Error loading script" === a.message || p >= k && !m ? !1 : !0;
+          if (!b) return null;
+          p++;
+          d = d || {};
+          var e = c;
+          c = encodeURIComponent;
+          b = "/gen_204?atyp=i&ei=" + c(google.kEI);
+          google.kEXPI && (b += "&jexpid=" + c(google.kEXPI));
+          b += "&srcpg=" + c(google.sn) + "&jsr=" + c(r.jsr) + "&bver=" + c(r.bv) + ("&jsel=" + e);
+          e = a.lineNumber;
+          void 0 !== e && (b += "&line=" + e);
+          var n = a.fileName;
+          n && (b += "&script=" + c(n), e && n === window.location.href && (e = document.documentElement.outerHTML.split("\n")[e], b += "&cad=" + c(e ? e.substring(0, 300) : "No script found.")));
+          for (var t in d) b += "&", b += c(t), b += "=", b += c(d[t]);
+          b = b + "&emsg=" + c(a.name + ": " + a.message);
+          b = b + "&jsst=" + c(a.stack || "N/A");
+          12288 <= b.length && (b = b.substr(0, 12288));
+          a = b;
+          m || google.log(0, "", a);
+          return a
+        };
+        window.onerror = function(a, b, d, m, c) {
+          q !== a && (a = c instanceof Error ? c : Error(a), void 0 === d || "lineNumber" in a || (a.lineNumber = d), void 0 === b || "fileName" in a || (a.fileName = b), google.ml(a, !1, void 0, !1, "SyntaxError" === a.name || "SyntaxError" === a.message.substring(0, 11) ? 2 : 0));
+          q = null;
+          l && p >= k && (window.onerror = null)
+        };
+      })();
+    </script>
+    <style>
+      body {
+        margin: 0;
+        height: 100%
+      }
+
+      body>div {
+        height: 100%
+      }
+
+      html {
+        -webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+        height: 100%
+      }
+
+      trivia-game {
+        display: block;
+        height: 100%
+      }
+
+      .fp-i .SzDvzc {
+        display: none
+      }
+
+      .fp-f {
+        bottom: 0;
+        height: auto;
+        left: 0;
+        position: fixed !important;
+        right: 0;
+        top: 0;
+        width: auto;
+        z-index: 127
+      }
+
+      .fp-h:not(.fp-nh):not(.goog-modalpopup-bg):not(.goog-modalpopup) {
+        display: none !important
+      }
+
+      .fp-zh.fp-h:not(.fp-nh):not(.goog-modalpopup-bg):not(.goog-modalpopup) {
+        display: block !important;
+        height: 0;
+        overflow: hidden;
+        transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0)
+      }
+
+      .fp-i .fp-c {
+        display: block;
+        min-height: 100vh
+      }
+
+      li.fp-c {
+        list-style: none
+      }
+
+      .fp-w {
+        box-sizing: border-box;
+        left: 0;
+        margin-left: auto;
+        margin-right: auto;
+        max-width: 1217px;
+        right: 0
+      }
+    </style>
+  </head>
+  <body jsmodel="hspDDf" jsaction="YUC7He:.CLIENT;IVKTfe:.CLIENT;KsNBn:.CLIENT;sbTXNb:.CLIENT;xjhTIf:.CLIENT;O2vyse:.CLIENT;Ez7VMc:.CLIENT;qqf0n:.CLIENT;me3ike:.CLIENT;IrNywb:.CLIENT;Z94jBf:.CLIENT;A8708b:.CLIENT;YcfJ:.CLIENT;VM8bg:.CLIENT;hWT9Jb:.CLIENT;WCulWe:.CLIENT;NTJodf:.CLIENT;szjOR:.CLIENT;PY1zjf:.CLIENT;wnJTPd:.CLIENT;JL9QDc:.CLIENT;kWlxhc:.CLIENT;qGMTIf:.CLIENT;aeBrn:.CLIENT">
+    <style>
+      @media only screen and (max-width:350px),
+      only screen and (orientation:landscape) and (max-height:350px) {}
+
+      @media only screen and (max-width:290px),
+      only screen and (orientation:landscape) and (max-height:290px) {}
+
+      @media only screen and (max-width:330px),
+      only screen and (orientation:landscape) and (max-height:330px) {}
+
+      @media only screen and (max-width:215px),
+      only screen and (orientation:landscape) and (max-height:215px) {}
+
+      @keyframes dig_crossfade {
+        0% {
+          opacity: 1
+        }
+
+        40% {
+          opacity: 1
+        }
+
+        50% {
+          opacity: 0
+        }
+
+        90% {
+          opacity: 0
+        }
+
+        100% {
+          opacity: 1
+        }
+      }
+
+      @keyframes flag_crossfade {
+        0% {
+          opacity: 0
+        }
+
+        40% {
+          opacity: 0
+        }
+
+        50% {
+          opacity: 1
+        }
+
+        90% {
+          opacity: 1
+        }
+
+        100% {
+          opacity: 0
+        }
+      }
+    </style>
+    <link href="/static/games/minesweeper/css" rel="stylesheet" type="text/css" nonce="pfR4/6+DRKngr5NoGlIStA==">
+    <div jscontroller="c20dae" class="onDwW Frj9fc" jsdata="foSC6e;_;Bic4Dk" jsaction="mMf61e:HcXHkc;rcuQ6b:npT2md" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQo5gCCAE" style="width: 540px; height: 480px;">
+      <style>
+        .onDwW {
+          width: 600px;
+          height: calc(450px + 60px)
+        }
+
+        .ecwpfc {
+          width: 600px;
+          height: 450px
+        }
+
+        #NWJp1d {
+          position: relative;
+          width: 600px;
+          height: 60px;
+          background-color: #4a752c;
+          -webkit-user-select: none
+        }
+
+        .ybzjtc {
+          position: relative;
+          top: 11px;
+          width: 38px
+        }
+
+        #KU0OAc {
+          position: absolute;
+          left: 16px;
+          height: 60px;
+          width: calc(100% - 40px)
+        }
+
+        #b11qzc {
+          position: absolute;
+          height: 60px;
+          width: 100%
+        }
+
+        #EYPL8e {
+          position: absolute;
+          right: 16px;
+          height: 60px;
+          width: 35%
+        }
+
+        #gW3fkb {
+          position: relative;
+          height: 60px;
+          width: 35%;
+          margin: auto
+        }
+
+        .JfmvR {
+          font-family: Roboto, Arial, sans-serif;
+          height: 60px;
+          position: relative;
+          display: inline-block
+        }
+
+        .JfmvR g-dropdown-menu {
+          font-family: Roboto, Arial, sans-serif;
+          font-size: 15px;
+          font-weight: bold;
+          color: #303030;
+          background-color: white;
+          line-height: 30px;
+          border-radius: 5px;
+          top: 15px
+        }
+
+        .JfmvR g-menu {
+          background-color: white
+        }
+
+        .tgTlrc {
+          cursor: pointer;
+          -webkit-transition: opacity 0.25s
+        }
+
+        .tgTlrc .fHwb5b {
+          border-color: #303030 transparent;
+          border-style: solid;
+          border-width: 4px 4px 0 4px;
+          display: inline-block;
+          height: 0;
+          margin: 13px 8px 10px 3px;
+          vertical-align: top;
+          width: 0
+        }
+
+        .tgTlrc g-dropdown-menu-button-caption {
+          margin: 0 3px 0 6px
+        }
+
+        .KAQ14c {
+          font-family: Roboto, Arial, sans-serif;
+          color: white;
+          width: 20%;
+          font-size: 20px;
+          padding-left: 3px;
+          height: 20px;
+          position: relative;
+          top: 0px;
+          display: inline-block;
+          -webkit-user-select: none
+        }
+
+        .oO5WXb {
+          position: absolute;
+          top: 15px
+        }
+
+        .c1V3Fb {
+          position: absolute;
+          top: 17px
+        }
+
+        #z2QZbb {
+          width: 30px;
+          z-index: 1000;
+          cursor: pointer
+        }
+
+        #eqeexb {
+          width: 25px;
+          right: 8px;
+          z-index: 1001;
+          cursor: pointer
+        }
+
+        .D7zUgf {
+          right: 15px;
+          top: 44px
+        }
+
+        .D7zUgf:focus {
+          outline: none
+        }
+
+        #z2QZbb {
+          right: 70px
+        }
+
+        .Frj9fc #z2QZbb {
+          right: 43px
+        }
+
+        .Frj9fc .D7zUgf {
+          right: -14px
+        }
+
+        #Qwh28e {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          background-color: #000;
+          background-color: rgba(0, 0, 0, 0.7);
+          transition: opacity 0.3s
+        }
+
+        #lfStke {
+          position: relative;
+          top: 50%;
+          transform: translateY(-50%)
+        }
+
+        #jTAfu {
+          background: #4dc1f9 url(//www.google.com/logos/fnbx/minesweeper/lose_screen.png) center bottom no-repeat;
+          width: 300px;
+          height: 225px;
+          margin: auto;
+          border-radius: 8px;
+          text-align: center;
+          background-size: contain;
+          -webkit-user-select: none
+        }
+
+        .jOOBub {
+          display: inline-block;
+          margin-top: 25px;
+          margin-left: 36px;
+          margin-right: 36px;
+          text-align: center
+        }
+
+        .Uobaif {
+          font: 400 28px Roboto, Arial, sans-serif;
+          color: white
+        }
+
+        .Yn6qJc {
+          width: 60px;
+          height: auto
+        }
+
+        .HhuoRb {
+          background: #4a752c;
+          width: 300px;
+          height: 64px;
+          margin: 12px auto;
+          border-radius: 8px;
+          border: none;
+          color: #fff;
+          font-size: 20px;
+          text-align: center;
+          -webkit-user-select: none;
+          cursor: pointer
+        }
+
+        .HhuoRb img {
+          vertical-align: middle;
+          margin: 0 16px 2px 0;
+          width: 30px;
+          height: 30px
+        }
+
+        .HhuoRb h2 {
+          font: 400 20px Roboto, Arial, sans-serif;
+          color: white;
+          padding: 0;
+          margin: 0;
+          margin-top: 20px;
+          display: inline-block
+        }
+
+        #fznyGe {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 100%;
+          height: 100%;
+          background-color: #578a34;
+          z-index: 1003
+        }
+
+        #rgF5re {
+          position: absolute;
+          left: 0;
+          top: 0;
+          width: 540px;
+          height: 480px;
+          z-index: 999;
+          transition: opacity 200ms;
+          pointer-events: none
+        }
+
+        .HvRS9b {
+          width: 120px;
+          height: 120px;
+          background-size: 100px auto;
+          background-repeat: no-repeat;
+          background-position: center;
+          background-color: #000;
+          background-color: rgba(0, 0, 0, 0.6);
+          border-radius: 16px;
+          position: absolute;
+          top: 40%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+          display: block;
+          -webkit-user-select: none
+        }
+
+        #vBF7Ae {
+          background-image: url(//www.google.com/logos/fnbx/minesweeper/tutorial_desktop_dig.png);
+          animation: dig_crossfade 6s infinite
+        }
+
+        #Qh8bJb {
+          background-image: url(//www.google.com/logos/fnbx/minesweeper/tutorial_desktop_flag.png);
+          animation: flag_crossfade 6s infinite
+        }
+      </style>
+      <div jsname="P0FCKc" id="NWJp1d" style="width: 540px; height: 60px;">
+        <div id="b11qzc">
+          <div id="gW3fkb">
+            <img jsname="UtbLEf" class="ybzjtc" src="/static/games/minesweeper/flag_icon.png" id="Cty6pd">
+            <div jsname="MUaQvf" class="KAQ14c" id="ObTwq">40</div>
+            <img jsname="tjD5kf" class="ybzjtc" src="/static/games/minesweeper/clock_icon.png" id="Xs1lme">
+            <div jsname="ajb2Y" class="KAQ14c" id="wzU6Qb">000</div>
+          </div>
+        </div>
+        <div id="KU0OAc">
+          <div class="JfmvR">
+            <g-dropdown-menu jsname="apZBxd" class="tgTlrc" jscontroller="pFsdhd" jsdata="xJGXK;_;Bic4Do" jsshadow="" jsaction="rcuQ6b:npT2md;mMf61e:GKlhgf;YraOve:cCpuJc;kNOP9c:bzkPEc;hmb6Ye:oyYkKb;KyPa0e:G8Ofmd;wjOG7e:rWoVB;ZvRO4b:L76sMb;LyWNEf:L76sMb">
+              <style>
+                g-dropdown-menu {
+                  display: inline-block;
+                  position: relative
+                }
+
+                .Jb0Zif g-dropdown-menu {
+                  vertical-align: middle
+                }
+
+                .e7RZX {
+                  background-color: #202124
+                }
+              </style>
+              <g-popup jsname="zpo2ue" jscontroller="DPreE" jsaction="A05xBd:IYtByb;EOZ57e:WFrRFb;" jsdata="mVjAjf;_;Bic4Ds" id="ow7" __is_owner="true">
+                <style>
+                  .EwsJzb {
+                    display: block
+                  }
+
+                  .rIbAWc {
+                    cursor: pointer;
+                    display: inline-block
+                  }
+
+                  .B8Kd8d {
+                    position: absolute
+                  }
+
+                  .sAKBe {
+                    border-radius: 8px;
+                    box-shadow: 1px 1px 15px 0px #171717
+                  }
+                </style>
+                <div jsname="oYxtQd" class="rIbAWc" aria-expanded="false" aria-haspopup="true" jsslot="" role="button" tabindex="0" jsaction="WFrRFb;keydown:uYT2Vb">
+                  <g-dropdown-menu-button-caption jscontroller="EbPKJf" data-ddph="" jsaction="rcuQ6b:npT2md">
+                    <span jsname="vs0Yb">Medium</span>
+                  </g-dropdown-menu-button-caption>
+                  <span class="fHwb5b"></span>
+                </div>
+                <div jsname="V68bde" class="EwsJzb sAKBe B8Kd8d" style="display:none;z-index:1" jsowner="ow7">
+                  <g-menu jsname="iXXGtd" class="e7RZX gLSAk rShyOb" jscontroller="WlNQGd" role="menu" jsaction="focus:h06R8;PSl28c;keydown:uYT2Vb;mouseenter:WOQqYb;mouseleave:Tx5Rb;mouseover:IgJl9c;rcuQ6b:npT2md" tabindex="-1">
+                    <style>
+                      .gLSAk {
+                        border: none;
+                        display: block;
+                        outline: none;
+                      }
+
+                      .rShyOb {
+                        white-space: nowrap
+                      }
+                    </style>
+                    <style>
+                      .gLSAk {
+                        border-radius: 8px
+                      }
+                    </style>
+                    <style>
+                      .gLSAk {
+                        padding: 5px 0
+                      }
+                    </style>
+                    <g-menu-item jsname="NNJLud" data-difficulty="EASY" jscontroller="CnSW2d" class="ErsxPb ohSfHb" role="menuitemradio" tabindex="0" jsaction="rcuQ6b:npT2md" data-short-label="" jsdata="zPXzie;_;Bic4Dw" aria-checked="false">
+                      <style>
+                        .ErsxPb {
+                          display: block;
+                          position: relative
+                        }
+
+                        .znKVS {
+                          padding: 0 16px;
+                          vertical-align: middle
+                        }
+
+                        .znKVS.tnhqA {
+                          padding: 0
+                        }
+
+                        .tnhqA>* {
+                          padding: 0 16px
+                        }
+
+                        .ohSfHb .znKVS {
+                          padding-left: 28px
+                        }
+
+                        .ErsxPb:hover {
+                          cursor: pointer
+                        }
+
+                        .ErsxPb,
+                        .fbKdEb:hover {
+                          cursor: default
+                        }
+
+                        .dPaec,
+                        g-menu-item[disabled] {
+                          pointer-events: none;
+                          cursor: default
+                        }
+
+                        .dPaec {
+                          border-top: 1px solid;
+                          height: 0;
+                          margin: 5px 0
+                        }
+                      </style>
+                      <style>
+                        .znKVS {
+                          line-height: 23px
+                        }
+
+                        .fbKdEb {
+                          background-image: url(//ssl.gstatic.com/ui/v1/menu/checkmark2-light.png);
+                          background-repeat: no-repeat;
+                          background-position: left center;
+                        }
+
+                        .gvybPb,
+                        .ErsxPb:active {
+                          background-color: rgba(255, 255, 255, 0.1)
+                        }
+
+                        .dPaec,
+                        g-menu-item[disabled] {
+                          color: #cdcdcd !important
+                        }
+
+                        .dPaec {
+                          border-top-color: #3c4043
+                        }
+                      </style>
+                      <div jsname="ibnC6b" class="znKVS OSrXXb">Easy</div>
+                    </g-menu-item>
+                    <g-menu-item jsname="NNJLud" data-difficulty="MEDIUM" jscontroller="CnSW2d" class="ErsxPb ohSfHb fbKdEb" aria-checked="true" role="menuitemradio" tabindex="-1" jsaction="rcuQ6b:npT2md" data-short-label="" jsdata="zPXzie;_;Bic4Dw">
+                      <div jsname="ibnC6b" class="znKVS OSrXXb">Medium</div>
+                    </g-menu-item>
+                    <g-menu-item jsname="NNJLud" data-difficulty="HARD" jscontroller="CnSW2d" class="ErsxPb ohSfHb" role="menuitemradio" tabindex="-1" jsaction="rcuQ6b:npT2md" data-short-label="" jsdata="zPXzie;_;Bic4Dw" aria-checked="false">
+                      <div jsname="ibnC6b" class="znKVS OSrXXb">Hard</div>
+                    </g-menu-item>
+                  </g-menu>
+                </div>
+              </g-popup>
+            </g-dropdown-menu>
+          </div>
+        </div>
+        <div id="EYPL8e">
+          <img jsname="N7ntOd" class="oO5WXb" src="/static/games/minesweeper/volume_up_white_24dp.png" id="z2QZbb" jsaction="DGXxE">
+          <csf-share jsname="vccDab" class="D7zUgf aKptLe" style="z-index:1000" jsshadow="">
+            <style>
+              .aKptLe {
+                position: absolute;
+                display: block
+              }
+
+              .UfSy3c {
+                margin-top: -26px;
+                cursor: pointer
+              }
+            </style>
+            <style>
+              .UfSy3c {
+                float: right;
+                margin-right: 14px;
+                padding: 8px 10px;
+                transform: translateY(-8px)
+              }
+
+              .Zk3Vv {
+                color: #fff
+              }
+
+              .bIQbX {
+                color: #000
+              }
+
+              .IH9Dqe {
+                color: #868b90
+              }
+            </style>
+            <div class="UfSy3c" jscontroller="Wct42" data-ld="1" role="button" tabindex="0" aria-label="Share" jsdata="B34zmc;_;Bic4D0" jsaction="KjsqPd;yoKyEf:CLN7sd;nVW9lb:HR5wBe" data-hveid="5" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQuPICCAU">
+              <style>
+                .wb5ZZc {
+                  display: none
+                }
+              </style>
+              <span class="Zk3Vv z1asCe Fp7My">
+                <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                  <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"></path>
+                </svg>
+              </span>
+              <div jsname="Sx9Kwc" jscontroller="uLYJpc" jsaction="SJu0Rc:SlAvWb">
+                <style>
+                  .BjWz4c {
+                    color: #9aa0a6;
+                    font-family: arial, sans-serif;
+                    font-size: 12px;
+                    font-weight: 400;
+                    line-height: 16px
+                  }
+
+                  .cB4NFc {
+                    padding-top: 16px
+                  }
+
+                  .wok5vf {
+                    padding: 24px
+                  }
+
+                  .v0rrvd {
+                    padding-bottom: 16px
+                  }
+
+                  .GUHazd {
+                    padding-bottom: 12px
+                  }
+
+                  .OdBhM {
+                    padding-top: 8px
+                  }
+
+                  .bvSTKc {
+                    padding: 8px
+                  }
+
+                  .aNrSe {
+                    color: #bdc1c6;
+                    font-size: 20px;
+                    font-weight: 600;
+                    line-height: 24px
+                  }
+
+                  .aNrSe.bgB4Dc {
+                    padding-bottom: 0
+                  }
+
+                  .lZC9wd {
+                    height: 24px;
+                    width: 24px;
+                    position: absolute;
+                    right: 16px;
+                    top: 8px;
+                    cursor: pointer
+                  }
+
+                  .E1kGSe {
+                    background-color: #202124;
+                    border-radius: 2px;
+                    box-shadow: 0px 5px 26px 0px rgba(0, 0, 0, 0.5), 0px 20px 28px 0px rgba(0, 0, 0, 0.5);
+                    cursor: default;
+                    width: 220px;
+                    z-index: 1002
+                  }
+
+                  @media (forced-colors:active) {
+                    .E1kGSe {
+                      border: 1px solid #202124
+                    }
+
+                    .lZC9wd {
+                      border: 1px solid #202124
+                    }
+                  }
+                </style>
+                <g-dialog jsname="Sx9Kwc" jscontroller="VEbNoe" data-id="_MAIaYq3FKNWq4t4PnseUiA01" jsaction="jxvro:Imgh9b" jsdata="gctHtc;_;Bic4D4" jsshadow="" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQy4IECAY">
+                  <style>
+                    .TUOsUe {
+                      text-align: left
+                    }
+
+                    .lxG8Hd.aID8W {
+                      background-color: rgba(0, 0, 0, 0.6);
+                      opacity: 1;
+                      visibility: inherit
+                    }
+
+                    .qW28Ef.aID8W {
+                      background-color: #000;
+                      opacity: 0.4;
+                      visibility: inherit
+                    }
+
+                    .m114nf.aID8W {
+                      background-color: #202124;
+                      opacity: 0.7;
+                      visibility: inherit
+                    }
+
+                    .xq162b.aID8W {
+                      background-color: #000;
+                      opacity: 0.8;
+                      visibility: inherit
+                    }
+
+                    .Xz5tfb.aID8W {
+                      background-color: #303134;
+                      opacity: 0.85;
+                      visibility: inherit
+                    }
+
+                    .Kg0gUe.aID8W {
+                      background-color: #202124;
+                      opacity: 0.6;
+                      visibility: inherit
+                    }
+
+                    .t7xA6.aID8W {
+                      -webkit-filter: none
+                    }
+
+                    .NJfJb.aID8W {
+                      opacity: 1
+                    }
+
+                    .bErdLd.aID8W {
+                      opacity: 1;
+                      visibility: inherit
+                    }
+
+                    .bErdLd.hFCnyd {
+                      cursor: pointer
+                    }
+
+                    .bErdLd.hFCnyd .NJfJb {
+                      cursor: default
+                    }
+
+                    .t7xA6 {
+                      position: fixed;
+                      z-index: 9997;
+                      right: 0;
+                      bottom: -200px;
+                      top: 0;
+                      left: 0;
+                      -webkit-transition: opacity 0.25s;
+                      opacity: 0;
+                      visibility: hidden
+                    }
+
+                    .NJfJb {
+                      border-radius: 8px;
+                      border-radius: 8px;
+                      display: inline-block;
+                      z-index: 9999;
+                      background-color: #202124;
+                      opacity: 0;
+                      white-space: normal;
+                      overflow: hidden;
+                      box-shadow: 0px 5px 26px 0px rgba(0, 0, 0, 0.5), 0px 20px 28px 0px rgba(0, 0, 0, 0.5)
+                    }
+
+                    .NJfJb.o1VDwe {
+                      background-color: transparent;
+                      box-shadow: none
+                    }
+
+                    .NJfJb.Sr5CLc {
+                      position: relative;
+                      vertical-align: middle
+                    }
+
+                    .NJfJb.ZbLCRc {
+                      position: absolute
+                    }
+
+                    .NJfJb.mr5vfb {
+                      border: 1px solid #212327;
+                      box-shadow: 0 2px 4px #212327;
+                      box-shadow: 0 2px 4px #212327
+                    }
+
+                    .bErdLd {
+                      position: fixed;
+                      right: 0;
+                      bottom: 0;
+                      top: 0;
+                      left: 0;
+                      z-index: 9998;
+                      vertical-align: middle;
+                      visibility: hidden;
+                      white-space: nowrap;
+                      max-height: 100%;
+                      max-width: 100%;
+                      overflow-x: hidden;
+                      overflow-y: auto
+                    }
+
+                    .bErdLd.wwYr3 {
+                      text-align: center
+                    }
+
+                    .bErdLd::after {
+                      content: '';
+                      display: inline-block;
+                      height: 100%;
+                      vertical-align: middle
+                    }
+
+                    .bErdLd {
+                      -webkit-tap-highlight-color: rgba(0, 0, 0, 0.0)
+                    }
+
+                    .ls8Qne {
+                      height: 0;
+                      opacity: 0;
+                      position: absolute;
+                      width: 0
+                    }
+
+                    .OxAxec {
+                      visibility: hidden
+                    }
+
+                    .QVCmK {
+                      overflow: hidden
+                    }
+                  </style>
+                  <div jsname="XKSfm" id="_MAIaYq3FKNWq4t4PnseUiA01" jsaction="dBhwS:TvD9Pc;mLt3mc">
+                    <div jsname="bF1uUb" class="t7xA6 lxG8Hd"></div>
+                    <div class="bErdLd hFCnyd wwYr3">
+                      <div class="ls8Qne" aria-hidden="true" role="button" tabindex="0" jsaction="focus:sT2f3e"></div>
+                      <span jsslot="">
+                        <div class="NJfJb TUOsUe Sr5CLc E1kGSe wok5vf cB4NFc" aria-label="Share" role="dialog">
+                          <span jsname="tqp7ud" class="lZC9wd bvSTKc z1asCe wuXmqc" aria-label="Close" role="button" tabindex="0" jsaction="trigger.dBhwS" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQzIIECAg">
+                            <svg focusable="false" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                              <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+                            </svg>
+                          </span>
+                          <div jsname="OGvssd" class="aNrSe v0rrvd">Share</div>
+                          <div jsname="Sy6N1c" class="BjWz4c OdBhM GUHazd"></div>
+                          <div jsname="b0t70b" jscontroller="HPGtmd">
+                            <style>
+                              .wHYlTd {
+                                font-family: arial, sans-serif;
+                                font-size: 14px;
+                                line-height: 22px
+                              }
+
+                              .xTWltf {
+                                margin-right: 24px
+                              }
+
+                              .eJtrMc {
+                                padding-bottom: 8px;
+                                padding-top: 8px
+                              }
+
+                              .Wt5Tfe {
+                                padding-left: 0px;
+                                padding-right: 0px
+                              }
+
+                              .Q7PwXb {
+                                text-decoration: none
+                              }
+
+                              .bQkCTc {
+                                display: inline-block;
+                                vertical-align: bottom
+                              }
+
+                              .DQc04b.DQc04b {
+                                line-height: 24px
+                              }
+
+                              .DQc04b {
+                                display: block;
+                                color: #bdc1c6;
+                                cursor: pointer;
+                                font-weight: normal
+                              }
+
+                              .tW0dvd {
+                                color: #bdc1c6
+                              }
+                            </style>
+                            <a jsname="RgELLe" class="DQc04b wHYlTd eJtrMc Wt5Tfe" href="#" role="link" tabindex="0" jsaction="rT2OA">
+                              <div class="bQkCTc xTWltf">
+                                <style>
+                                  .fTE6nf {
+                                    height: 24px;
+                                    width: 24px;
+                                    vertical-align: middle
+                                  }
+                                </style>
+                                <img class="fTE6nf" src="https://www.gstatic.com/kpui/social/fb_32x32.png" alt="">
+                              </div>Facebook
+                            </a>
+                            <a jsname="P8lkFb" class="DQc04b wHYlTd eJtrMc Wt5Tfe" href="#" role="link" tabindex="0" jsaction="re2RZb">
+                              <div class="bQkCTc xTWltf">
+                                <img class="fTE6nf" src="https://www.gstatic.com/kpui/social/twitter_32x32.png" alt="">
+                              </div>Twitter
+                            </a>
+                            <a jsname="bVp1N" class="DQc04b wHYlTd Q7PwXb eJtrMc Wt5Tfe" href="#" role="link" tabindex="0" jsaction="NmUBTc">
+                              <div class="bQkCTc xTWltf">
+                                <img class="fTE6nf" src="/images/icons/material/system/1x/email_grey600_24dp.png" alt="">
+                              </div>
+                              <span class="tW0dvd">Email</span>
+                            </a>
+                            <div jsname="GIN7Bd" jscontroller="n7qy6d">
+                              <style>
+                                .OhScic {
+                                  margin: 0px
+                                }
+
+                                .zUdppc {
+                                  padding-bottom: 4px
+                                }
+
+                                .ApHyTb {
+                                  font-family: arial, sans-serif;
+                                  font-size: 12px;
+                                  line-height: 16px
+                                }
+
+                                .OSrXXb {
+                                  overflow: hidden;
+                                  text-overflow: ellipsis
+                                }
+
+                                .cHaqb {
+                                  overflow: hidden;
+                                  text-overflow: ellipsis;
+                                  white-space: nowrap
+                                }
+
+                                .HYsXi {
+                                  cursor: pointer
+                                }
+
+                                input.qKoqyc {
+                                  color: #bdc1c6;
+                                  font-size: 16px;
+                                  line-height: 18px;
+                                  width: 100%;
+                                  cursor: pointer
+                                }
+
+                                .HmofF {
+                                  border-bottom: 1px solid #3c4043;
+                                  white-space: nowrap
+                                }
+
+                                a.OEwtze,
+                                a.OEwtze:visited {
+                                  color: #bdc1c6;
+                                  font-size: 16px;
+                                  line-height: 26px
+                                }
+
+                                .qKoqyc {
+                                  color: #bdc1c6;
+                                  font-size: 16px;
+                                  line-height: 18px;
+                                  cursor: pointer
+                                }
+
+                                .Cnzagc {
+                                  opacity: 0;
+                                  position: absolute
+                                }
+                              </style>
+                              <div jsname="rTZwQe">
+                                <div jsname="uu7Hed">
+                                  <div class="HYsXi ApHyTb OdBhM zUdppc" role="button" tabindex="0" jsaction="ScPJh">Click to copy link</div>
+                                </div>
+                                <div jsname="axr9cd">
+                                  <div class="ApHyTb OdBhM zUdppc">Share link</div>
+                                </div>
+                              </div>
+                              <div jsname="pAZ6Ed" class="ApHyTb OdBhM zUdppc" aria-live="polite" style="display:none">Link copied</div>
+                              <div class="HmofF OSrXXb">
+                                <div jsaction="aiBUrb">
+                                  <g-text-field jsname="zgnjS" class="OhScic rysuG LXtP0 Pqkn2e K56Jue" jscontroller="LiBxPe" jsshadow="" jsaction="rcuQ6b:npT2md">
+                                    <style>
+                                      .Pqkn2e {
+                                        font-family: arial, sans-serif;
+                                        font-size: 16px;
+                                        line-height: 22px
+                                      }
+                                    </style>
+                                    <style>
+                                      .LXtP0 .BMGGYb {
+                                        top: 4px
+                                      }
+
+                                      .OkbWJb.LXtP0 .BMGGYb {
+                                        top: 10px
+                                      }
+                                    </style>
+                                    <style>
+                                      .TkZZsf {
+                                        padding-bottom: 4px;
+                                        padding-top: 4px
+                                      }
+
+                                      .rysuG {
+                                        display: block;
+                                        position: relative;
+                                        margin: 0 3px;
+                                        vertical-align: middle
+                                      }
+
+                                      .ZXb90b {
+                                        background: transparent;
+                                        border: none;
+                                        box-shadow: none;
+                                        color: #bdc1c6;
+                                        font-size: 16px;
+                                        width: 100%
+                                      }
+
+                                      .UwzZQb .ZXb90b,
+                                      .UwzZQb .BMGGYb {
+                                        font-size: 14px
+                                      }
+
+                                      .ZXb90b:focus {
+                                        outline: none
+                                      }
+
+                                      .HOKz3d:not(.A8x8Pb) .kp85vc,
+                                      .UNtZ8:not(.A8x8Pb) .kp85vc {
+                                        border-color: #ff9296
+                                      }
+
+                                      .K56Jue.A8x8Pb .kp85vc {
+                                        border-bottom-style: dashed
+                                      }
+
+                                      .kp85vc {
+                                        display: table;
+                                        width: 100%
+                                      }
+                                    </style>
+                                    <style>
+                                      .xqPsfb {
+                                        background-color: #6283ff;
+                                        bottom: 0;
+                                        height: 2px;
+                                        left: 45%;
+                                        margin-top: -2px;
+                                        pointer-events: none;
+                                        position: relative;
+                                        -webkit-transition-duration: 0.2s;
+                                        -webkit-transition-timing-function: cubic-bezier(.4, 0, .2, 1);
+                                        visibility: hidden;
+                                        width: 10px
+                                      }
+
+                                      .RKbDve .xqPsfb {
+                                        left: 0;
+                                        visibility: inherit;
+                                        width: 100%
+                                      }
+
+                                      .HOKz3d .xqPsfb,
+                                      .UNtZ8 .xqPsfb {
+                                        background-color: #ff9296
+                                      }
+                                    </style>
+                                    <style>
+                                      .K56Jue .kp85vc {
+                                        border-bottom: 1px solid #5f6368;
+                                        border-radius: 0
+                                      }
+                                    </style>
+                                    <div class="kp85vc">
+                                      <div>
+                                        <input class="ZXb90b OhScic Wt5Tfe TkZZsf qKoqyc" jsaction="focus:daRB0b;blur:kDTLMd" aria-label="Share link" readonly="" type="url">
+                                      </div>
+                                    </div>
+                                    <div jsname="NowJzb" class="xqPsfb"></div>
+                                  </g-text-field>
+                                </div>
+                              </div>
+                              <div jsname="tQ9n1c" class="Cnzagc" aria-hidden="true"></div>
+                            </div>
+                          </div>
+                        </div>
+                      </span>
+                      <div class="ls8Qne" aria-hidden="true" role="button" tabindex="0" jsaction="focus:tuePCd"></div>
+                    </div>
+                  </div>
+                </g-dialog>
+              </div>
+              <div jsname="PHQQPc" style="display:none" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQqfkDCAo">
+                <a jsname="NlZIeb" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQrPkDCAs"></a>
+                <a jsname="Qoiwbb" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQrvkDCAw"></a>
+                <a jsname="IyZ18e" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQq_kDCA0"></a>
+                <a jsname="k3Pg4" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQqvkDCA4"></a>
+              </div>
+            </div>
+          </csf-share>
+        </div>
+      </div>
+      <canvas jsname="UzWXSb" class="ecwpfc" width="540" height="420" style="width: 540px; height: 420px;"></canvas>
+      <div jsname="Yfvsbd" style="opacity:0;visibility:hidden" id="Qwh28e" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQ1MYDCA8">
+        <div id="lfStke">
+          <div jsname="Rs1rF" id="jTAfu">
+            <div class="jOOBub">
+              <img class="Yn6qJc" src="/static/games/minesweeper/clock_icon.png">
+              <div jsname="LOtDEe" class="Uobaif" id="Uobaif">–––</div>
+            </div>
+            <div class="jOOBub">
+              <img class="Yn6qJc" src="/static/games/minesweeper/trophy_icon.png">
+              <div jsname="Vp6PHf" class="Uobaif" id="XCCut">–––</div>
+            </div>
+          </div>
+          <div jsname="NSjDf" class="HhuoRb" jsaction="JrrOHc" data-ved="0ahUKEwitnazflZ32AhVVldgFHZ4jBdEQ08YDCBA">
+            <img src="/static/games/minesweeper/refresh_white_24dp.png">
+            <h2 jsname="AWieJ">Play again</h2>
+          </div>
+        </div>
+      </div>
+      <div jsname="IoE5Ec" id="rgF5re">
+        <div class="HvRS9b" id="vBF7Ae"></div>
+        <div class="HvRS9b" id="Qh8bJb"></div>
+      </div>
+      <div jsname="y7GBZ" id="fznyGe" style="visibility: hidden;"></div>
+    </div>
+    <script nonce="pfR4/6+DRKngr5NoGlIStA==">
+      (function() {
+        google.jl = {
+          attn: false,
+          blt: 'none',
+          chnk: 0,
+          dw: false,
+          dwu: true,
+          emtn: 0,
+          end: 0,
+          ine: false,
+          injs: 'none',
+          injt: 0,
+          lls: 'viewport',
+          pdt: 0,
+          rep: 0,
+          snet: true,
+          strt: 0,
+          ubm: false,
+          uwp: true
+        };
+      })();
+      (function() {
+        var pmc = '{\x22aa\x22:{},\x22abd\x22:{\x22abd\x22:false,\x22deb\x22:false,\x22det\x22:false},\x22async\x22:{},\x22attn\x22:{},\x22bgd\x22:{\x22ac\x22:true,\x22as\x22:true,\x22at\x22:0,\x22ea\x22:true,\x22ed\x22:0,\x22ei\x22:true,\x22el\x22:true,\x22ep\x22:true,\x22er\x22:true,\x22et\x22:0,\x22eu\x22:false,\x22wl\x22:false},\x22cdos\x22:{\x22cdobsel\x22:false},\x22cr\x22:{\x22qir\x22:false,\x22rctj\x22:true,\x22ref\x22:false,\x22uff\x22:false},\x22csi\x22:{},\x22d\x22:{},\x22dpf\x22:{},\x22dvl\x22:{\x22cookie_secure\x22:true,\x22cookie_timeout\x22:21600,\x22driver_ui_type\x22:2,\x22jsc\x22:\x22[null,null,null,30000,null,null,null,2,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,[\\\x2286400000\\\x22,\\\x22604800000\\\x22,2],null,null,21600000,null,null,1,null,null,null,null,null,1]\x22,\x22mnr_crd\x22:\x221\x22,\x22msg_err\x22:\x22Location unavailable\x22,\x22msg_gps\x22:\x22Using GPS\x22,\x22msg_unk\x22:\x22Unknown\x22,\x22msg_upd\x22:\x22Update location\x22,\x22msg_use\x22:\x22Use precise location\x22,\x22use_local_storage_fallback\x22:false},\x22foot\x22:{},\x22gf\x22:{\x22pid\x22:196,\x22si\x22:true},\x22hsm\x22:{},\x22jsa\x22:{\x22csi\x22:true,\x22csir\x22:100},\x22kyn\x22:{},\x22lli\x22:{},\x22mu\x22:{\x22murl\x22:\x22https://adservice.google.com/adsid/google/ui\x22},\x22pHXghd\x22:{},\x22sb_wiz\x22:{\x22onf\x22:\x22EAE\x22,\x22scq\x22:\x22\x22,\x22stok\x22:\x22RpIy20WQDGQDnnry9Sdtb_L938c\x22,\x22ueh\x22:\x22df1d5f46_716b6917_10b8fbf3_3996b137_5956ad92\x22},\x22sf\x22:{},\x22sonic\x22:{},\x22spch\x22:{\x22ae\x22:\x22Please check your microphone. \\u003Ca href\x3d\\\x22https://support.google.com/chrome/?p\x3dui_voice_search\\\x22 target\x3d\\\x22_blank\\\x22\\u003ELearn more\\u003C/a\\u003E\x22,\x22hl\x22:\x22en-SG\x22,\x22im\x22:\x22Click \\u003Cb\\u003EAllow\\u003C/b\\u003E to start voice search\x22,\x22iw\x22:\x22Waiting...\x22,\x22lm\x22:\x22Listening...\x22,\x22lu\x22:\x22%1$s voice search not available\x22,\x22mb\x22:false,\x22ne\x22:\x22No Internet connection\x22,\x22nt\x22:\x22Didn\x27t get that. \\u003Cspan\\u003ETry again\\u003C/span\\u003E\x22,\x22nv\x22:\x22Please check your microphone and audio levels. \\u003Ca href\x3d\\\x22https://support.google.com/chrome/?p\x3dui_voice_search\\\x22 target\x3d\\\x22_blank\\\x22\\u003ELearn more\\u003C/a\\u003E\x22,\x22pe\x22:\x22Voice search has been turned off. \\u003Ca href\x3d\\\x22https://support.google.com/chrome/?p\x3dui_voice_search\\\x22 target\x3d\\\x22_blank\\\x22\\u003EDetails\\u003C/a\\u003E\x22,\x22rm\x22:\x22Speak now\x22},\x22tl\x22:{\x22rvkey\x22:\x22AIzaSyC_9Rt88UMjzgg5pIVArnfuIVkJx4zCdTY\x22}}';
+        google.pmc = JSON.parse(pmc);
+      })();
+      (function() {
+        var r = ['sb_wiz', 'aa', 'abd', 'async', 'bgd', 'dvl', 'foot', 'kyn', 'lli', 'mu', 'pHXghd', 'sf', 'sonic', 'spch', 'tl'];
+        google.plm(r);
+      })();
+      (function() {
+        var m = ['Bic4Dk', '[1]', 'Bic4Do', '[2,0,0,0,0,0,0,0,0]', 'Bic4Ds', '[4,1,null,null,0,0,0,1,0,0,0,0]', 'Bic4Dw', '[\x22\x22,2,0,\x22\x22,\x22\x22]', 'Bic4D0', '[[\x22https://www.google.com/search?si\\u003dANhW_Np2qf8CujyyTXwS8102-C0TGNWxHh7v8_XW85VCjnYbODz5jNYxFlQWGnQUdugh_jM-ya54\\u0026hl\\u003den-SG\\u0026kgs\\u003d25a08fed36b36341\\u0026shndl\\u003d21\\u0026source\\u003dsh/x/fbx/1\\u0026entrypoint\\u003dsh/x/fbx\x22,null,null,\x22\x22],[null,null,null,null,1]]', 'Bic4D4', '[1,null,null,1,0,0,0,null,0]'];
+        var a = m;
+        window.W_jd = window.W_jd || {};
+        for (var b = 0; b < a.length; b += 2) window.W_jd[a[b]] = JSON.parse(a[b + 1]);
+      })();
+      (function() {
+        window.WIZ_global_data = {
+          "LVIXXb": "1",
+          "Yllh3e": "%.@.1645871664664237,98080085,3506774942]",
+          "GWsdKe": "en-SG",
+          "Im6cmf": "/wizrpcui/_/WizRpcUi",
+          "w2btAe": "%.@.\"105897030905373098029\",\"105897030905373098029\",\"0\",null,null,null,1]",
+          "SNlM0e": "AD7QlO4RfmH28ooJZp_sC-k7wdPI:1645871664699",
+          "eptZe": "/wizrpcui/_/WizRpcUi/",
+          "QrtxK": "0",
+          "zChJod": "%.@.]",
+          "S06Grb": "105897030905373098029"
+        };
+        window.IJ_values = [true, true, true, true, false, false, false, "#8ab4f8", 36, 24, 28, 6, "none", true, "1px 1px 15px 0px #171717", false, "rgba(255,255,255,.54)", "rgba(255,255,255,.26)", "#000", "rgba(0,0,0,.3)", true, "none", "#424548", true, true, true, true, "1px 1px 15px 0px #171717", true, true, false, false, false, false, false, false, "#3c4043", 10, false, true, false, "#609beb", "#8ab4f8", false, false, "#202124", "#e8eaed", false, "#202124", "0px 5px 26px 0px rgba(0,0,0,0.5), 0px 20px 28px 0px rgba(0,0,0,0.5)", "#4285f4", false, false, false, "#8ab4f8", false, true, false, false, "#fff", "#4487f6", "#08101e", "#48a1ff", "#a4c2ff", "#219540", "#41b85f", "#4eb66e", "#ff7d70", "#ff897e", "#000", "#1aa863", "#212327", "#050505", "#0a0a0a", "#111", "#9aa0a6", "#8a8a8a", "#bdc1c6", "#dddee1", "#dedede", "#000", "#8a4a00", "#824300", "#b85100", "#3c4043", "#e8eaed", "#e8eaed", "#3c4043", 14, "#e8eaed", 40, "#e8eaed", false, "#8a8a8a", "#ddd", "#ff7a8e", "#bdc1c6", "arial,sans-serif-medium,sans-serif", "arial,sans-serif", "#bdc1c6", "#292e36", "#bdc1c6", "#868b90", "#48a1ff", false, false, false, false, false, false, true, false, false, false, "1px 1px 15px 0px #171717", false, false, "#3c4043", "rgba(255,255,255,.26)", "#9aa0a6", "rgba(255,255,255,.87)", "rgba(204,204,204,.15)", "rgba(204,204,204,.25)", "rgba(102,102,102,.2)", "rgba(102,102,102,.4)", "rgba(255,255,255,.12)", "#3c4043", "#fff", "rgba(0,0,0,.3)", "#000", "rgba(255,255,255,.87)", "#000", "Roboto,RobotoDraft,Helvetica,Arial,sans-serif", "14px", "500", "500", "pointer", "0 1px 1px rgba(0,0,0,.16)", true, "#000", "1px 1px 15px 0px #171717", "#dadce0", 200, true, false, true, false, false, true, true, false, true, 14, "#202124", "#303134", false, "1px solid #3c4043", "none", "arial,sans-serif-medium,sans-serif", "Google Sans,arial,sans-serif-medium,sans-serif", "#3c4043", "1px solid #3c4043", "1px solid #5f6368", "rgba(255,255,255,0.1)", "#3c4043", "#202124", "#8ab4f8", "#3c4043", "#bdc1c6", "#9aa0a6", false, true, true, false, true, false, false, false, false, false, false, false, true, false, false, true, false, false, false, false, false, true, false, false, "8px", "#3c4043", false, true, true, "%.@.\"105897030905373098029\",\"105897030905373098029\",\"0\",null,null,null,1]", "0", "%.@.null,1,1,null,[null,757,1440]]", "pfR4/6+DRKngr5NoGlIStA\u003d\u003d", "%.@.\"#424548\"]", "%.@.0]", "%.@.0]", "%.@.\"0px 5px 26px 0px rgba(0,0,0,0.5),0px 20px 28px 0px rgba(0,0,0,0.5)\",\"#202124\"]", "%.@.1,null,null,null,null,null,0.3,null,12,null,null,null,null,null,\"#dddee1\",\"#9aa0a6\",null,\"#bdc1c6\",null,null,null,null,null,null,\"#1a73e8\",\"#fabb05\",\"#fff\",\"#1a73e8\",\"#d1d1d1\",\"#fff\"]", "%.@.\"#ebeced\",\"#303134\",\"#dadce0\",\"#fff\",\"#3c4043\",\"#dadce0\",\"#dadce0\",\"#bdc1c6\",\"#fff\",\"#3c4043\",\"#202124\",\"#dadce0\",\"#ea4335\",\"#34a853\",\"#202124\",\"#fff\",\"#fff\"]", "%.@.[],0,null,1,1]", "en-SG", "%.@.\"13px\",\"16px\",\"11px\",13,16,11,\"8px\",8,20]", "en_SG", "%.@.\"10px\",10,\"16px\",16,\"18px\"]", "%.@.\"14px\",14]", "%.@.40,32,14]", "%.@.\"Roboto-Bold,HelveticaNeue-Bold,HelveticaNeue,sans-serif-bold,Arial,sans-serif\"]", "%.@.\"1px 1px 15px 0px #171717\"]", "%.@.0,\"14px\",\"500\",\"500\",\"0 1px 1px rgba(0,0,0,.16)\",\"pointer\",\"#fff\",\"rgba(255,255,255,.26)\",\"#9aa0a6\",\"rgba(255,255,255,.87)\",\"rgba(204,204,204,.15)\",\"rgba(204,204,204,.25)\",\"rgba(102,102,102,.2)\",\"rgba(102,102,102,.4)\",\"#1aa863\",\"#4487f6\",\"#a4c2ff\",\"#ff7d70\",\"#8a4a00\",\"#111\",\"#050505\",\"#dedede\",\"#4f861f\",\"rgba(255,255,255,.12)\",null,\"#000\",\"rgba(0,0,0,.3)\",\"#000\",\"rgba(255,255,255,.87)\",\"#000\",null,1]", "%.@.\"20px\",\"500\",\"400\",\"13px\",\"15px\",\"15px\",\"Roboto,RobotoDraft,Helvetica,Arial,sans-serif\",\"24px\",\"400\",\"32px\",\"24px\"]", false, "", "%.@.null,null,null,null,\"20px\",\"20px\",\"18px\",\"40px\",\"36px\",\"32px\",null,null,null,null,null,null,\"#202124\",null,null,null,\"#202124\",null,null,null,\"rgba(138,180,248,0.24)\",null,\"rgba(138,180,248,0.24)\",null,null,\"16px\",\"12px\",\"8px\",\"4px\",\"#202124\",\"rgba(138,180,248,0.24)\",\"#d2e3fc\",\"transparent\",\"#8ab4f8\",\"#5f6368\",\"999rem\",\"8px\",\"#d2e3fc\",\"transparent\",\"#dadce0\",\"#5f6368\",\"#d2e3fc\",\"transparent\",\"#8ab4f8\",\"#5f6368\",\"999rem\",\"Google Sans,arial,sans-serif-medium,sans-serif\",\"20px\",\"14px\",\"500\",\"#3c4043\",\"#e8eaed\",\"#202124\",\"#5f6368\",\"#dadce0\",\"4px\"]", "%.@.\"#bdc1c6\",\"#bdc1c6\",\"#8ab4f8\",null,\"#9aa0a6\",\"#8ab4f8\",\"#c58af9\",null,null,\"#202124\",\"#8ab4f8\",\"#202124\",\"#394457\",\"#d2e3fc\",\"#303134\",\"#bdc1c6\",\"#fff\",\"#3c4043\",\"#202124\",\"#fff\",\"#202124\",\"#fff\",\"#81c995\",\"#f28b82\",\"#fdd663\",\"#3c4043\",\"#202124\",\"rgba(0,0,0,0.6)\",\"#bdc1c6\",\"#3c4043\",\"#8ab4f8\",\"rgba(0,0,0,0.03)\",\"#8ab4f8\",\"#9aa0a6\"]", "%.@.null,\"none\",null,\"0px 1px 3px hsla(0,0%,9%,0.24)\",null,\"0px 2px 6px hsla(0,0%,9%,0.32)\",null,\"0px 4px 12px hsla(0,0%,9%,0.9)\",null,null,\"1px solid #5f6368\",\"none\",\"none\",\"none\"]", "%.@.\"Google Sans,arial,sans-serif\",\"Google Sans,arial,sans-serif-medium,sans-serif\",\"arial,sans-serif\",\"arial,sans-serif-medium,sans-serif\",\"arial,sans-serif-light,sans-serif\"]", "%.@.\"16px\",\"12px\",\"0px\",\"8px\",\"4px\",\"2px\",\"20px\",\"24px\"]", "%.@.\"#8ab4f8\",\"#8ab4f8\"]", "%.@.null,null,null,null,null,null,null,\"12px\",\"8px\",\"4px\",\"16px\",\"2px\",\"999rem\",\"0px\"]", "%.@.\"700\",\"400\",\"underline\",\"none\",\"capitalize\",\"none\",\"uppercase\",\"none\",\"500\",\"lowercase\",\"italic\",\"-1px\",\"0.3px\"]", "%.@.\"20px\",\"26px\",\"400\",\"Google Sans,arial,sans-serif\",null,\"arial,sans-serif\",\"14px\",\"400\",\"22px\",null,\"16px\",\"24px\",\"400\",\"Google Sans,arial,sans-serif\",null,\"Google Sans,arial,sans-serif\",\"60px\",\"48px\",\"-1px\",null,\"400\",\"Google Sans,arial,sans-serif\",\"36px\",\"400\",\"48px\",null,\"Google Sans,arial,sans-serif\",\"36px\",\"28px\",null,\"400\",null,\"arial,sans-serif\",\"24px\",\"18px\",null,\"400\",\"arial,sans-serif\",\"16px\",\"12px\",null,\"400\",\"arial,sans-serif\",\"22px\",\"16px\",null,\"400\",\"arial,sans-serif\",\"26px\",\"20px\",null,\"400\",\"Google Sans,arial,sans-serif\",\"20px\",\"16px\",null,\"400\",\"arial,sans-serif\",\"18px\",\"14px\",null,\"400\",\"Google Sans,arial,sans-serif\",\"32px\",\"24px\",null,\"500\",\"14px\",\"Google Sans,arial,sans-serif-medium,sans-serif\",\"20px\"]", "%.@.\"rgba(32,33,36,0)\"]", "%.@.4]", "%.@.\"14px\",14,\"16px\",16,\"0\",0,\"none\",652,\"1px solid #3c4043\",\"normal\",\"normal\",\"#9aa0a6\",\"12px\",\"1.34\",\"1px solid #3c4043\",\"none\",\"0\",\"none\",\"none\",\"none\",\"none\",\"6px\"]", "%.@.\"16px\"]", "%.@.\"rgba(0,0,0,0.0)\",\"rgba(0,0,0,0.54)\",\"rgba(0,0,0,0.8)\",\"rgba(248, 249, 250, 0.85)\",\"#202124\",\"#212327\",\"rgba(218, 220, 224, 0.0)\",\"rgba(218, 220, 224, 0.7)\",\"#dadce0\",\"#303134\",\"#000\",\"#1a73e8\",\"#dadce0\",\"#fff\",\"#fff\"]", "%.@.\"#dddee1\",\"#868b90\",\"#bdc1c6\",\"#bcc0c3\",\"#000\",\"rgba(0,0,0,.7)\",28,24,26,20,16,-2,0,-4,2,0,0,24,20,20,14,12]", "%.@.\"20px\",20,\"14px\",14,\"#e8eaed\"]", "arifhamed2002@gmail.com", true, "105897030905373098029", "%.@.1]"];
+      })();
+      (function() {
+        google.llio = true;
+        google.llirm = '400px';
+        google.ldi = {};
+        google.pim = {};
+      })();
+      window.jsl = window.jsl || {};
+      window.jsl.dh = function(a, b, f) {
+        try {
+          var g = document.getElementById(a);
+          if (g) g.innerHTML = b, f && f();
+          else {
+            var c = {
+              id: a,
+              script: String(!!f),
+              milestone: String(google.jslm || 0)
+            };
+            google.jsla && (c.async = google.jsla);
+            var h = a.indexOf("_"),
+              d = 0 < h ? a.substring(0, h) : "",
+              k = document.createElement("div");
+            k.innerHTML = b;
+            var e = k.children[0];
+            if (e && (c.tag = e.tagName, c["class"] = String(e.className || null), c.name = String(e.getAttribute("jsname")), d)) {
+              a = [];
+              var l = document.querySelectorAll('[id^="' + d + '_"]');
+              for (b = 0; b < l.length; ++b) a.push(l[b].id);
+              c.ids = a.join(",")
+            }
+            google.ml(Error(d ? "Missing ID with prefix " + d : "Missing ID"), !1, c)
+          }
+        } catch (m) {
+          google.ml(m, !0, {
+            "jsl.dh": !0
+          })
+        }
+      };
+      (function() {
+        var x = true;
+        google.jslm = x ? 2 : 1;
+      })();
+      google.x(null, function() {
+        (function() {
+          (function() {
+            google.csct = {};
+            google.csct.ps = 'AOvVaw0uJgd2VETwmCT3OUpxvmEf\x26ust\x3d1645958064688135';
+          })();
+        })();
+        (function() {
+          (function() {
+            google.csct.rw = true;
+          })();
+        })();
+        (function() {
+          (function() {
+            google.csct.rl = true;
+          })();
+        })();
+        (function() {
+          window.jsl = window.jsl || {};
+          window.jsl.dh = window.jsl.dh || function(i, c, d) {
+            try {
+              var e = document.getElementById(i);
+              if (e) {
+                e.innerHTML = c;
+                if (d) {
+                  d();
+                }
+              } else {
+                if (window.jsl.el) {
+                  window.jsl.el(new Error('Missing ID.'), {
+                    'id': i
+                  });
+                }
+              }
+            } catch (e) {
+              if (window.jsl.el) {
+                window.jsl.el(new Error('jsl.dh'));
+              }
+            }
+          };
+        })();
+        (function() {
+          window.jsl.dh('_MAIaYq3FKNWq4t4PnseUiA01', '\x3cdiv jsname\x3d\x22bF1uUb\x22 class\x3d\x22t7xA6 lxG8Hd\x22\x3e\x3c/div\x3e\x3cdiv class\x3d\x22bErdLd hFCnyd wwYr3\x22\x3e\x3cdiv class\x3d\x22ls8Qne\x22 aria-hidden\x3d\x22true\x22 role\x3d\x22button\x22 tabindex\x3d\x220\x22 jsaction\x3d\x22focus:sT2f3e\x22\x3e\x3c/div\x3e\x3cspan jsslot\x3d\x22\x22\x3e\x3cdiv class\x3d\x22NJfJb TUOsUe Sr5CLc E1kGSe wok5vf cB4NFc\x22 aria-label\x3d\x22Share\x22 role\x3d\x22dialog\x22\x3e\x3cspan jsname\x3d\x22tqp7ud\x22 class\x3d\x22lZC9wd bvSTKc z1asCe wuXmqc\x22 aria-label\x3d\x22Close\x22 role\x3d\x22button\x22 tabindex\x3d\x220\x22 jsaction\x3d\x22trigger.dBhwS\x22 data-ved\x3d\x220ahUKEwitnazflZ32AhVVldgFHZ4jBdEQzIIECAg\x22\x3e\x3csvg focusable\x3d\x22false\x22 xmlns\x3d\x22http://www.w3.org/2000/svg\x22 viewBox\x3d\x220 0 24 24\x22\x3e\x3cpath d\x3d\x22M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z\x22\x3e\x3c/path\x3e\x3c/svg\x3e\x3c/span\x3e\x3cdiv jsname\x3d\x22OGvssd\x22 class\x3d\x22aNrSe v0rrvd\x22\x3eShare\x3c/div\x3e\x3cdiv jsname\x3d\x22Sy6N1c\x22 class\x3d\x22BjWz4c OdBhM GUHazd\x22\x3e\x3c/div\x3e\x3cdiv jsname\x3d\x22b0t70b\x22 jscontroller\x3d\x22HPGtmd\x22\x3e\x3cstyle\x3e.wHYlTd{font-family:arial,sans-serif;font-size:14px;line-height:22px}.xTWltf{margin-right:24px}.eJtrMc{padding-bottom:8px;padding-top:8px}.Wt5Tfe{padding-left:0px;padding-right:0px}.Q7PwXb{text-decoration:none}.bQkCTc{display:inline-block;vertical-align:bottom}.DQc04b.DQc04b{line-height:24px}.DQc04b{display:block;color:#bdc1c6;cursor:pointer;font-weight:normal}.tW0dvd{color:#bdc1c6}\x3c/style\x3e\x3ca jsname\x3d\x22RgELLe\x22 class\x3d\x22DQc04b wHYlTd eJtrMc Wt5Tfe\x22 href\x3d\x22#\x22 role\x3d\x22link\x22 tabindex\x3d\x220\x22 jsaction\x3d\x22rT2OA\x22\x3e\x3cdiv class\x3d\x22bQkCTc xTWltf\x22\x3e\x3cstyle\x3e.fTE6nf{height:24px;width:24px;vertical-align:middle}\x3c/style\x3e\x3cimg class\x3d\x22fTE6nf\x22 src\x3d\x22https://www.gstatic.com/kpui/social/fb_32x32.png\x22 alt\x3d\x22\x22\x3e\x3c/div\x3eFacebook\x3c/a\x3e\x3ca jsname\x3d\x22P8lkFb\x22 class\x3d\x22DQc04b wHYlTd eJtrMc Wt5Tfe\x22 href\x3d\x22#\x22 role\x3d\x22link\x22 tabindex\x3d\x220\x22 jsaction\x3d\x22re2RZb\x22\x3e\x3cdiv class\x3d\x22bQkCTc xTWltf\x22\x3e\x3cimg class\x3d\x22fTE6nf\x22 src\x3d\x22https://www.gstatic.com/kpui/social/twitter_32x32.png\x22 alt\x3d\x22\x22\x3e\x3c/div\x3eTwitter\x3c/a\x3e\x3ca jsname\x3d\x22bVp1N\x22 class\x3d\x22DQc04b wHYlTd Q7PwXb eJtrMc Wt5Tfe\x22 href\x3d\x22#\x22 role\x3d\x22link\x22 tabindex\x3d\x220\x22 jsaction\x3d\x22NmUBTc\x22\x3e\x3cdiv class\x3d\x22bQkCTc xTWltf\x22\x3e\x3cimg class\x3d\x22fTE6nf\x22 src\x3d\x22/images/icons/material/system/1x/email_grey600_24dp.png\x22 alt\x3d\x22\x22\x3e\x3c/div\x3e\x3cspan class\x3d\x22tW0dvd\x22\x3eEmail\x3c/span\x3e\x3c/a\x3e\x3cdiv jsname\x3d\x22GIN7Bd\x22 jscontroller\x3d\x22n7qy6d\x22\x3e\x3cstyle\x3e.OhScic{margin:0px}.zUdppc{padding-bottom:4px}.ApHyTb{font-family:arial,sans-serif;font-size:12px;line-height:16px}.OSrXXb{overflow:hidden;text-overflow:ellipsis}.cHaqb{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.HYsXi{cursor:pointer}input.qKoqyc{color:#bdc1c6;font-size:16px;line-height:18px;width:100%;cursor:pointer}.HmofF{border-bottom:1px solid #3c4043;white-space:nowrap}a.OEwtze,a.OEwtze:visited{color:#bdc1c6;font-size:16px;line-height:26px}.qKoqyc{color:#bdc1c6;font-size:16px;line-height:18px;cursor:pointer}.Cnzagc{opacity:0;position:absolute}\x3c/style\x3e\x3cdiv jsname\x3d\x22rTZwQe\x22\x3e\x3cdiv jsname\x3d\x22uu7Hed\x22\x3e\x3cdiv class\x3d\x22HYsXi ApHyTb OdBhM zUdppc\x22 role\x3d\x22button\x22 tabindex\x3d\x220\x22 jsaction\x3d\x22ScPJh\x22\x3eClick to copy link\x3c/div\x3e\x3c/div\x3e\x3cdiv jsname\x3d\x22axr9cd\x22\x3e\x3cdiv class\x3d\x22ApHyTb OdBhM zUdppc\x22\x3eShare link\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv jsname\x3d\x22pAZ6Ed\x22 class\x3d\x22ApHyTb OdBhM zUdppc\x22 aria-live\x3d\x22polite\x22 style\x3d\x22display:none\x22\x3eLink copied\x3c/div\x3e\x3cdiv class\x3d\x22HmofF OSrXXb\x22\x3e\x3cdiv jsaction\x3d\x22aiBUrb\x22\x3e\x3cg-text-field jsname\x3d\x22zgnjS\x22 class\x3d\x22OhScic rysuG LXtP0 Pqkn2e K56Jue\x22 jscontroller\x3d\x22LiBxPe\x22 jsshadow\x3d\x22\x22 jsaction\x3d\x22rcuQ6b:npT2md\x22\x3e\x3cstyle\x3e.Pqkn2e{font-family:arial,sans-serif;font-size:16px;line-height:22px}\x3c/style\x3e\x3cstyle\x3e.LXtP0 .BMGGYb{top:4px}.OkbWJb.LXtP0 .BMGGYb{top:10px}\x3c/style\x3e\x3cstyle\x3e.TkZZsf{padding-bottom:4px;padding-top:4px}.rysuG{display:block;position:relative;margin:0 3px;vertical-align:middle}.ZXb90b{background:transparent;border:none;box-shadow:none;color:#bdc1c6;font-size:16px;width:100%}.UwzZQb .ZXb90b,.UwzZQb .BMGGYb{font-size:14px}.ZXb90b:focus{outline:none}.HOKz3d:not(.A8x8Pb) .kp85vc,.UNtZ8:not(.A8x8Pb) .kp85vc{border-color:#ff9296}.K56Jue.A8x8Pb .kp85vc{border-bottom-style:dashed}.kp85vc{display:table;width:100%}\x3c/style\x3e\x3cstyle\x3e.xqPsfb{background-color:#6283ff;bottom:0;height:2px;left:45%;margin-top:-2px;pointer-events:none;position:relative;-webkit-transition-duration:0.2s;-webkit-transition-timing-function:cubic-bezier(.4,0,.2,1);visibility:hidden;width:10px}.RKbDve .xqPsfb{left:0;visibility:inherit;width:100%}.HOKz3d .xqPsfb,.UNtZ8 .xqPsfb{background-color:#ff9296}\x3c/style\x3e\x3cstyle\x3e.K56Jue .kp85vc{border-bottom:1px solid #5f6368;border-radius:0}\x3c/style\x3e\x3cdiv class\x3d\x22kp85vc\x22\x3e\x3cdiv\x3e\x3cinput class\x3d\x22ZXb90b OhScic Wt5Tfe TkZZsf qKoqyc\x22 jsaction\x3d\x22focus:daRB0b;blur:kDTLMd\x22 aria-label\x3d\x22Share link\x22 readonly\x3d\x22\x22 type\x3d\x22url\x22\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv jsname\x3d\x22NowJzb\x22 class\x3d\x22xqPsfb\x22\x3e\x3c/div\x3e\x3c/g-text-field\x3e\x3c/div\x3e\x3c/div\x3e\x3cdiv jsname\x3d\x22tQ9n1c\x22 class\x3d\x22Cnzagc\x22 aria-hidden\x3d\x22true\x22\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/div\x3e\x3c/span\x3e\x3cdiv class\x3d\x22ls8Qne\x22 aria-hidden\x3d\x22true\x22 role\x3d\x22button\x22 tabindex\x3d\x220\x22 jsaction\x3d\x22focus:tuePCd\x22\x3e\x3c/div\x3e\x3c/div\x3e');
+        })();
+        (function() {
+          google.drty && google.drty(undefined, true);
+        })();
+      });
+      google.drty && google.drty(undefined, true);
+    </script>
+    <script src="/static/games/minesweeper/m=EbPKJf,Wq6lxf,aLUfP,c20dae,lazG7b,mI3LFb,pFsdhd,pHXghd" nonce="pfR4/6+DRKngr5NoGlIStA==" async=""></script>
+    <script src="/static/games/minesweeper/m=WlNQGd,aa,abd,async,bgd,dvl,foot,kyn,lli,mu,sb_wiz,sf,sonic,spch,tl" nonce="pfR4/6+DRKngr5NoGlIStA==" async=""></script>
+    <script src="/static/games/minesweeper/m=LiBxPe" nonce="pfR4/6+DRKngr5NoGlIStA==" async=""></script>
+    <script src="/static/games/minesweeper/m=sy56,syd1,x4FYXe,syjq,sykm,sykn,Qj0suc,sy184,sy185,uLYJpc,sykr,kHVSUb,sy181,n7qy6d,kQvlef,sy53,sy54,Ck63tb,JXS8fb,sya8,sycn,syco,syrq,syfl,syfk,syfj,syug,syuh,sycb,syev,syfm,sy182,sy183,Wct42" nonce="pfR4/6+DRKngr5NoGlIStA==" async=""></script>
+    <script src="/static/games/minesweeper/m=EbPKJf,Wq6lxf,aLUfP,c20dae,lazG7b,mI3LFb,pFsdhd,pHXghd?xjs=s1" nonce="pfR4/6+DRKngr5NoGlIStA==" async=""></script>
+  </body>
+</html>

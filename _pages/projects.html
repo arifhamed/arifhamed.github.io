@@ -1,0 +1,22 @@
+---
+title: "Projects"
+layout: default
+permalink: /projects
+redirect_from: /projects/
+---
+
+{% capture projects-md %}
+{% include projects-inc.md %}
+{% endcapture %}
+{{ projects-md | markdownify }}
+
+{% for post in site.posts %}
+  {% if post.url contains 'projects' %}
+    
+    {{ post.excerpt }}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
+
+  {% endif %}
+{% endfor %}
+
+{% include comments.html %}

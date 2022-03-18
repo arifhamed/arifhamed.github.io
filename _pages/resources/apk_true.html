@@ -1,0 +1,25 @@
+---
+title: "This is not a morally legal page"
+permalink: /resources/apk_true
+layout: default
+---
+
+{% capture apk-md %}
+{% include resources-apk-inc.md %}
+{% endcapture %}
+{{ apk-md | markdownify }}
+
+<div class="container px-4">
+    <div class="row row-cols-3 gx-5 gy-5">
+        {% for post in site.posts %}
+        {% if post.url contains '/apk' %}
+            
+            <a class="p-3 col btn btn-dark" href="{{ site.baseurl }}{{ post.url }}">
+                <!-- {{ post.title }} -->
+                <img class="rounded mx-auto d-block" src="/static/images{{ post.url }}-icon.png" style="max-width: 100%; max-height: 100%;">
+                <span class="rounded mx-auto d-block">{{ post.title }}</span>
+            </a>
+        {% endif %}
+        {% endfor %}
+    </div>
+</div>

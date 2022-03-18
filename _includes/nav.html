@@ -1,0 +1,67 @@
+<nav class="navbar navbar-expand-lg navbar-dark" style="background-color:#333 !important;">
+  <div class="container-fluid">
+    <!-- HAMBURGER -->
+    <button class="navbar-toggler w-100" style="margin-right:5px !important;" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <!-- HOME -->
+        <li class="nav-item">
+          <a class="nav-link disable-selection {% if page.url == '/' %} active {% endif %}" aria-current="page" href="/">home</a>
+        </li>
+        <!-- ABOUT -->
+        <li class="nav-item">
+          <a class="nav-link disable-selection {% if page.url == '/about' %} active {% endif %}" href="/about">about</a>
+        </li>
+        <!-- PROJECTS -->
+        <li class="nav-item">
+          <a class="nav-link disable-selection {% if page.url == '/projects' %} active {% endif %}" href="/projects">projects</a>
+        </li>
+        <!-- BLOGS -->
+        <li class="nav-item dropdown">
+          <a class="nav-link disable-selection {% if page.url contains '/blogs' %} active {% endif %} dropdown-toggle" id="navbarGuides" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            blogs
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarGuides">
+            <li><a class="dropdown-item disable-selection {% if page.url == '/blogs/itp-poly' %} active-dropdown {% endif %}" href="/blogs/itp-poly">internship (poly)</a></li>
+          </ul>
+        </li>
+        <!-- GUIDES -->
+        <li class="nav-item dropdown">
+          <a class="nav-link disable-selection {% if page.url contains '/guides' %} active {% endif %} dropdown-toggle" id="navbarGuides" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            guides
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarGuides">
+            <li><a class="dropdown-item disable-selection {% if page.url == '/guides/markdown' %} active-dropdown {% endif %}" href="/guides/markdown">markdown</a></li>
+            <li><a class="dropdown-item disable-selection {% if page.url == '/guides/android-debug-bridge' %} active-dropdown {% endif %}" href="/guides/android-debug-bridge">adb</a></li>
+            <li><a class="dropdown-item disable-selection {% if page.url == '/guides/automation-with-python' %} active-dropdown {% endif %}" href="/guides/automation-with-python">automation</a></li>
+            <li><a class="dropdown-item disable-selection {% if page.url == '/guides/screen-recording' %} active-dropdown {% endif %}" href="/guides/screen-recording">screen-rec</a></li>
+            <li><a class="dropdown-item disable-selection {% if page.url == '/guides/webdevtips' %} active-dropdown {% endif %}" href="/guides/webdevtips">webdev</a></li>
+          </ul>
+        </li>
+        <!-- RESOURCES -->
+        <li class="nav-item dropdown">
+          <a class="nav-link disable-selection {% if page.url contains '/resources' %} active {% endif %} dropdown-toggle" id="navbarGuides" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            resources
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarGuides">
+            <li><a class="dropdown-item disable-selection {% if page.url == '/resources/apk' %} active-dropdown {% endif %}" href="/resources/apk">apk</a></li>
+            <li><a class="dropdown-item disable-selection {% if page.url == '/resources/torrent' %} active-dropdown {% endif %}" href="/resources/torrent">torrent</a></li>
+          </ul>
+        </li>
+        <!-- GAMES -->
+        <li class="nav-item dropdown">
+          <a class="nav-link disable-selection {% if page.url contains '/games' %} active {% endif %} dropdown-toggle" id="navbarGames" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            games
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarGames">
+            <li><a class="dropdown-item disable-selection" href="/games/wordle">wordle</a></li>
+            <li><a class="dropdown-item disable-selection" href="/games/sudoku">sudoku</a></li>
+            <li><a class="dropdown-item disable-selection" href="/games/minesweeper">minesweeper</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>

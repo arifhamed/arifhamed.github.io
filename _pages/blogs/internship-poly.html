@@ -1,0 +1,34 @@
+---
+title: "ITP Polytechnic"
+permalink: /blogs/internship-poly
+redirect_from: 
+ - /blogs/internship-poly/
+ - /blogs/itp-poly
+ - /blogs/itp-poly/
+ - /internship-poly
+ - /internship-poly/
+ - /ITP-poly
+ - /itp-poly
+ - /ITP-poly/
+ - /itp-poly/
+layout: default
+---
+
+{% capture itp-poly-md %}
+{% include blogs-itp-poly-inc.md %}
+{% endcapture %}
+{{ itp-poly-md | markdownify }}
+
+<div class="container">
+    <div class="row row-cols-5">
+        {% for post in site.posts reversed %}
+            {% if post.url contains 'internship-poly' %}
+                
+                <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B" }}</a>
+                
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+{% include comments.html %}
