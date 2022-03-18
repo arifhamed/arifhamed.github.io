@@ -38,8 +38,18 @@ secret: "/resources/apk_true"
             <a class="col btn btn-dark" href="{{ site.baseurl }}{{ post.url }}" style="padding: 5px;">
                 <!-- {{ post.title }} -->
                 <!-- d-block -->
-                <img class="mx-auto d-block icon" src="/static/images{{ post.url }}-icon.png" style="max-width: 100%; max-height: 100%;">
-                <span class="mx-auto d-block">{{ post.title }}</span>
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <img class="mx-auto d-block icon" src="/static/images{{ post.url }}-icon.png" style="max-width: 100%; max-height: 100%;">
+                        </div>
+                        <div class="col">
+                            <span class="mx-auto d-block">{{ post.title }}</span>
+                        </div>
+                    </div>
+                </div>
+                
+                
             </a>
         {% endunless %}
         {% endif %}
