@@ -30,7 +30,7 @@ secret: "/resources/apk_true"
 {{ apk-md | markdownify }}
 
 <div class="container">
-    <div class="row row-cols-3">
+    <div class="row row-cols-3 gap-3">
         {% for post in site.posts %}
         {% if post.url contains '/apk' %}
             
