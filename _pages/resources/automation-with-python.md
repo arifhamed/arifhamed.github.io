@@ -1,10 +1,10 @@
 ---
 title: "Automation with Python"
-permalink: /guides/automation-with-python
+permalink: /resources/automation-with-python
 redirect_from:
- - /guides/automation-with-python/
- - /guides/automation
- - /guides/automation/
+ - /resources/automation-with-python/
+ - /resources/automation
+ - /resources/automation/
 layout: default
 ---
 # Automation Scripts with Python 
