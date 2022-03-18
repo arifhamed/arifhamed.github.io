@@ -30,19 +30,16 @@ secret: "/resources/apk_true"
 {{ apk-md | markdownify }}
 
 
-<div class="container">
+<!-- <div class="container">
     <div class="row row-cols-3">
         {% for post in site.posts %}
         {% if post.url contains '/apk' %}
             
             {% unless post.piracy or post.nsfw %}
             <a class="col btn btn-dark" href="{{ site.baseurl }}{{ post.url }}" style="padding: 5px;">
-                <!-- {{ post.title }} -->
-                <!-- d-block -->
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <!-- <img class="ml-auto" src="/static/images{{ post.url }}-icon.png" style="max-width: 100%; max-height: 100%;"> -->
                             <div class="android-icon" style="background-image:url('/static/images{{ post.url }}-icon.png');"></div>
                         </div>
                         <div class="col">
@@ -57,4 +54,24 @@ secret: "/resources/apk_true"
         {% endif %}
         {% endfor %}
     </div>
+</div> -->
+
+<div class="row">
+    {% for post in site.posts %}
+    {% if post.url contains '/apk' %}
+    {% unless post.piracy or post.nsfw %}
+    <div class="col-sm-4">
+        <div class="card">
+            <div class="card-body">
+                <img class="card-img" src="/static/images{{ post.url }}-icon.png" alt="{{ post.title }} icon">
+                <!-- <h5 class="card-title">{{ post.title }}</h5> -->
+                <div class="card-img-overlay">
+                    <h5 class="card-title">{{ post.title }}</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endunless %}
+    {% endif %}
+    {% endfor %}
 </div>
