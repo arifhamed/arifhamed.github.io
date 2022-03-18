@@ -45,11 +45,10 @@ layout: default
     <div class="col-sm-4">
         <div class="card">
             <div class="card-body">
-                <img class="card-img" src="/static/images{{ post.url }}-icon.png" alt="{{ post.title }} icon">
+                <a href="{{site.baseurl}}{{post.url}}"></a><img class="card-img" src="/static/images{{ post.url }}-icon.png" alt="{{ post.title }} icon"></a>
                 <!-- <h5 class="card-title">{{ post.title }}</h5> -->
-                <div class="card-img-overlay">
-                    <h5 class="card-title">{{ post.title }}</h5>
-                </div>
+                <h5 class="card-title">{{ post.title }}</h5>
+                
             </div>
         </div>
     </div>
