@@ -29,6 +29,15 @@ secret: "/resources/apk_true"
 {% endcapture %}
 {{ apk-md | markdownify }}
 
+<style>
+    .android-icon{
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 200px;
+        height: 200px;
+    }
+</style>
+
 <div class="container">
     <div class="row row-cols-3">
         {% for post in site.posts %}
@@ -41,7 +50,8 @@ secret: "/resources/apk_true"
                 <div class="container">
                     <div class="row">
                         <div class="col">
-                            <img class="ml-auto" src="/static/images{{ post.url }}-icon.png" style="max-width: 100%; max-height: 100%;">
+                            <!-- <img class="ml-auto" src="/static/images{{ post.url }}-icon.png" style="max-width: 100%; max-height: 100%;"> -->
+                            <div class="android-icon" style="background-image:url('/static/images{{ post.url }}-icon.png');"></div>
                         </div>
                         <div class="col">
                             <span class="mr-auto">{{ post.title }}</span>
