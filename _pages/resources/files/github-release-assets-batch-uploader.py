@@ -55,9 +55,12 @@ for f in files:
 
 # display total time taken (excluding input)
 timeEnd = time()
-print("Time taken: "+str(round(timeEnd - timeStart, 4))+" seconds.")
+print("\nTime taken: "+str(round(timeEnd - timeStart, 4))+" seconds.")
 
 # most of the time i would be doing other stuff, so I like to use this library to notify me
 toaster = ToastNotifier()
 toaster.show_toast("Finished uploading","Check scripts and files")
 
+'''
+[2022-03-19_0928] 4132.7944 seconds
+'''

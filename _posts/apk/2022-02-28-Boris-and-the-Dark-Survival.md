@@ -17,5 +17,5 @@ I only found out about this game not so long ago, when I was web crawling for cl
 This is a game where you basically survive. Somehow, I was intrigued at how players in Steam decided to give this game the `casual` tag, so it appears that this game won't be all the horror all the time, so it uses Bendy as a factor of survival, or at least, a factor of non-survival. If you really like the Bendy franchise, you should really try out this game!
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.jds.batds_1.13.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.jds.batds_1.13.apk</b> (102 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.jds.batds_1.13.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.jds.batds_1.13.apk</b> (103 MB)</a>
 </div>
