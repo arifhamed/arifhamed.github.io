@@ -2,6 +2,7 @@
 import os
 import subprocess
 import sys
+from time import time
 
 # win10toast is optional.
 try:
@@ -21,12 +22,14 @@ print(
     '    - releases/<tag>/<assets>  \n'
 )
 
-
 # list existing releases with gh
 print("Current Releases listed below\n"+os.popen("gh release list").read())
 
 # get tag from user
 tagName = input("Enter tag name: ")
+
+# for improvement purposes, record time
+timeStart = time()
 
 # use cmd to view existing files
 existing = os.popen("gh release view "+tagName).read()
@@ -40,6 +43,7 @@ if not(tagName in existing):
 files = [f for f in os.listdir('releases/'+tagName) if os.path.isfile(os.path.join('releases/'+tagName, f))]
 
 # output and upload. uses existing string to see if file exists
+print()
 for f in files:
     #print("Checking if "+f+" exists... ", end="")
     if f in existing:
@@ -49,6 +53,11 @@ for f in files:
         print("UPLOADING : "+f)
         subprocess.call('gh release upload '+tagName+' releases/'+tagName+'/'+f, shell=True)
 
+# display total time taken (excluding input)
+timeEnd = time()
+print("Time taken: "+str(round(timeEnd - timeStart, 4))+" seconds.")
+
 # most of the time i would be doing other stuff, so I like to use this library to notify me
 toaster = ToastNotifier()
 toaster.show_toast("Finished uploading","Check scripts and files")
+

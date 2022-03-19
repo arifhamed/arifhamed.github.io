@@ -29,33 +29,6 @@ secret: "/resources/apk_true"
 {% endcapture %}
 {{ apk-md | markdownify }}
 
-
-<!-- <div class="container">
-    <div class="row row-cols-3">
-        {% for post in site.posts %}
-        {% if post.url contains '/apk' %}
-            
-            {% unless post.piracy or post.nsfw %}
-            <a class="col btn btn-dark" href="{{ site.baseurl }}{{ post.url }}" style="padding: 5px;">
-                <div class="container">
-                    <div class="row">
-                        <div class="col">
-                            <div class="android-icon" style="background-image:url('/static/images{{ post.url }}-icon.png');"></div>
-                        </div>
-                        <div class="col">
-                            <span class="android-caption">{{ post.title }}</span>
-                        </div>
-                    </div>
-                </div>
-                
-                
-            </a>
-        {% endunless %}
-        {% endif %}
-        {% endfor %}
-    </div>
-</div> -->
-
 <div class="row">
     {% for post in site.posts %}
     {% if post.url contains '/apk' %}

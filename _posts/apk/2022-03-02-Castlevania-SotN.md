@@ -3,16 +3,17 @@ title: ""
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
-play-link: 
-tags:
-published: false
+play-link: https://play.google.com/store/apps/details?id=jp.konami.epjCastlevania2
+app-link: https://apps.apple.com/us/app/castlevania-sotn/id1435456830
+steam-link: https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
+tags: castlevania rpg metroidvania retro nes
 piracy: true
 ---
 
-> _"" - <a href="" target="_blank"></a>_
+> _"Everyone has Uno dipshit, it came free with your ******* Morning Star" - <a href="https://www.youtube.com/watch?v=gcRTzxQzClk" target="_blank">Dracula</a>_
 
-personal synopsis soon <!--more-->
+This is a Castlevania game. It is literally a genre. I don't have much to say, besides playing the first few moments that I realized this was where a legendary meme was birthed.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b></b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.konami.epjCastlevania2_1.0.1.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.konami.epjCastlevania2_1.0.1.xapk</b> (227 MB)</a>
 </div>

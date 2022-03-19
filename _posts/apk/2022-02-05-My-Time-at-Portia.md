@@ -14,11 +14,11 @@ piracy: true
 
 > _"Discover your inner builder in the open world of Portia! A top hit 3D simulation RPG on PC has now arrived on mobile! Inherit your Pa's workshop, craft and build your way to compete for top builder in town! As you explore and discover hidden relics, restore the glory of human civilization on this post-apocalyptic land. As you grow into a seasoned builder, bond with NPCs and townsfolk to build a circle of friends and romance!" - <a href="https://play.google.com/store/apps/details?id=com.pathea.mtap" target="_blank">Play Store</a>_
 
-I like this game. Released not too long ago, you're character escapes city life for a life of adventure and building, kinda like Stardew Valley but more building than farming. <!--more-->
+I like this game. Released not too long ago, you're character escapes city life for a life of adventure and building, kinda like Stardew Valley but more building than farming. <!--more-->So far, I have played up until I had to build a bridge, and I still can't get over how big and extensive this game is. There is so much that I can't even describe it, and it is also a good game too.
 
-This is a **huge** game, the APK itself is **1.13 GB**, making it the biggest file so far. This a port(ia, lol geddit?) of its PC counterpart, and looking at the genres below, it sure has a _hard time_ on _lower spec phones_. To be frank, i never played as far as beyond getting the building license, but looking at the controls and the previews from retail, it seems like a game that I would quite enjoy. 
+This is a **huge** game, the APK itself is **1.13 GB**, making it the biggest file so far. This a port(ia, lol geddit?) of its PC counterpart, and looking at the genres below, it sure has a _hard time_ on _lower spec phones_, though it works just barely above acceptable for my phone running on PowerVR architecture (highly doubt Mali would run above 10 fps)
 
-_Scan for this file is currently on-going.._
+LATEST UPDATE: I have decided to upload the common APKS file instead, as not only was it significantly easier for me to scan it with VirusTotal, but the XAPK installer can also install APKS apparently.
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.pathea.mtap_1.0.11232.apks")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.pathea.mtap_1.0.11232.apks</b> (1.13 GB)</a>
