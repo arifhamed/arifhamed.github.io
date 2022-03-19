@@ -13,7 +13,7 @@ secret: "/resources/apk"
 <div class="row">
     {% for post in site.posts %}
     {% if post.url contains '/apk' %}
-    <div class="col-sm-4">
+    <div class="col-sm-3">
         <div class="card">
             <div class="card-body">
                 <a href="{{site.baseurl}}{{post.url}}"><img class="card-img" src="/static/images{{ post.url }}-icon.png" alt="{{ post.title }} icon"></a>
