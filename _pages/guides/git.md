@@ -15,7 +15,7 @@ What is required for this:
 * <a href="https://git-scm.com/downloads" target="_blank">Git</a> installed to your computer
 * A repository you own (requires GitHub account). If you don't have one, you can create one <a href="https://github.com/new" target="_blank">here</a>
 
-<br><hr><br>
+<hr>
 
 Now this is how git version control works (or at least to my own interpretation):
 1. Copy from remote to local ([git clone](#git-clone))
@@ -30,7 +30,7 @@ This can happen on any local repo that links to the same remote repo, but what i
 1. Read for any changes (can run anytime) (git status)
 1. Sync it (git pull)
 
-<br><hr><br>
+<hr>
 
 ## git clone 
 To start of, let's use a repository that you own. In this demo, I will be using an old repo, <a href="https://github.com/arifhamed/files-000" target="_blank">https://github.com/arifhamed/files-000</a>. Now, in your terminal, it's best to change your current working directory to one where files would move frequently, like Downloads or Documents.
@@ -60,7 +60,7 @@ D:\Repos\files-000>
 ```
 Now you have copied from the **remote** repository to your storage, in which that one is called the **local** repository. Git is where you can manage changes between **local & remote**, usually changes from local will update the remote. 
 
-<br><hr><br>
+<hr>
 
 ## git add, git rm
 `git add` will not update your remote repository so fast, but it will just record your change. I am a simple man, and so is this command too, for after making a lot of changes to your files, you can just put in the following command:
@@ -82,7 +82,7 @@ The `.` there represents everything, basically. In here, I used `git status` to 
 
 Now, your edit/addition/removal is recorded!
 
-<br><hr><br>
+<hr>
 
 ## git commit 
 Commit is basically putting all the changes into the envelope, but not sending it yet. `git commit` will put all your changes into a commit. You can have multiple commits at a time.
@@ -106,7 +106,7 @@ Every commit requires a message to come with it, as shown above, after the comma
 
  Now, you can push it!
 
- <br><hr><br>
+ <hr>
 
  ## git push
  _&lt;more details will come later&gt;_
