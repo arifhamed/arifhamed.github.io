@@ -64,8 +64,13 @@
 	  
 		<section id="main_content" class="inner">
 
-			<a class="btn btn-dark w-100" style="background-color:#333;" href="/apk">back to all posts</a>
+			{% if page.piracy or page.nsfw %}
+			<a class="btn btn-dark w-100" style="background-color:#333;" href="/resources/在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典">back to all posts</a>
+			{% else %}
+			<a class="btn btn-dark w-100" style="background-color:#333;" href="/resources/apk">back to all posts</a>
+			{% endif %}
 			
+
 			<h1>{{ page.title }}</h1>
 			
 			<video muted autoplay loop onclick="this.paused ? this.play() : this.pause();">
