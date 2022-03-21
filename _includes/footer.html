@@ -1,20 +1,22 @@
 <div id="footer_wrap" class="outer" style="background-color:#333 !important;">
     <footer class="inner">
-    {% if site.github.is_project_page %}
-    <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-    {% endif %}
-    <p>Published with <a href="https://pages.github.com">GitHub Pages</a><a href="https://arifhamed.github.io{{ page.secret }}">.</a></p>
-    
-    <div class="dropdown">
-        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-            Language
-        </button>
-        <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-            <li><a class="dropdown-item" href="https://arifhamed-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp">English</a></li>
-            <li><a class="dropdown-item" href="https://arifhamed-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ms&_x_tr_hl=en&_x_tr_pto=wapp">Melayu</a></li>
-            <li><a class="dropdown-item" href="https://arifhamed-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=en&_x_tr_pto=wapp">中文</a></li>
-        </ul>
-      </div>
+        {% if site.github.is_project_page %}
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a><a href="https://arifhamed.github.io{{ page.secret }}">.</a>
+            <div class="dropdown float-right">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
+                    Language
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <li><a class="dropdown-item" href="https://arifhamed-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp">English</a></li>
+                    <li><a class="dropdown-item" href="https://arifhamed-github-io.translate.goog/?_x_tr_sl=auto&_x_tr_tl=ms&_x_tr_hl=en&_x_tr_pto=wapp">Melayu</a></li>
+                    <li><a class="dropdown-item" href="https://arifhamed-github-io.translate.goog/?_x_tr_sl=en&_x_tr_tl=zh-CN&_x_tr_hl=en&_x_tr_pto=wapp">中文</a></li>
+                </ul>
+            </div>
+        </p>
+        
+        
     </footer>
 </div>
 
