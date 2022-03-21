@@ -5,7 +5,9 @@ permalink: /guides/screen-recording
 redirect_from:
  - /guides/screen-recording/
 ---
-# Screen Recording <span style="font-size:70%">on Android</span>
+# Optimized Screen Recording <span style="font-size:70%">on Android</span>
+
+_&lt;note for arif: state how android 11 or so already gives screen recording but it kinda sucks because it uses the same gpu or whatever&gt;_
 
 A lot of commands here actually relates to the [Android Debug Bridge](https://arifhamed.github.io/guides/adb), and a few pieces of software that I will explicitly state that is needed.
 
@@ -15,6 +17,7 @@ A lot of commands here actually relates to the [Android Debug Bridge](https://ar
 * <a href="https://github.com/rom1v/sndcpy/releases/tag/v1.1" target="_blank">sndcpy</a> by <a href="https://github.com/rom1v" target="_blank">rom1v</a>
 * Your Android phone
 * A USB cable to connect your phone to your computer
+* Xbox Game Bar (usually comes with Windows 10 nowadays)
 
 _&lt;more details will come soon&gt;_
 

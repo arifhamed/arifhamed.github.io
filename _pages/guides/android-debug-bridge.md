@@ -4,6 +4,8 @@ permalink: /guides/android-debug-bridge
 redirect_from:
  - /guides/adb
  - /guides/adb/
+ - /adb
+ - /adb/
 layout: default
 ---
 
