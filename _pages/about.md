@@ -18,7 +18,15 @@ yeah i basically do different things in this website i think is fun.
 
 <!-- {% include comments.html %} -->
 
-<script src="/static/js/utterances/client.js" repo="arifhamed/arifhamed.github.io" issue-term="url" theme="photon-dark" crossorigin="anonymous" async></script>
+<script src="https://arifhamed.github.io/static/js/utterances/client.js" 
+        integrity="sha512-vFiutM5gVzsv88XA7RCMEgfoRIwYcwoPbsCkn/4n/olgZVXfbffizZnOODO/FEmteKnfcK5FOw8F7cz3NxwT2A=="
+        crossorigin="anonymous"
+        repo="arifhamed/arifhamed.github.io"
+        issue-term="url"
+        theme="photon-dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
 <br>
