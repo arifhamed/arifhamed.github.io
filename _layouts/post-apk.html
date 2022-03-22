@@ -49,11 +49,7 @@
 	  
 		<section id="main_content" class="inner">
 
-			{% if page.piracy or page.nsfw %}
-			<a class="btn btn-dark w-100" style="background-color:#333;" href="/resources/在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典">back to all posts</a>
-			{% else %}
-			<a class="btn btn-dark w-100" style="background-color:#333;" href="/resources/apk">back to all posts</a>
-			{% endif %}
+			<a class="btn btn-dark w-100" style="background-color:#333;" onclick="history.back()">back to all posts</a>
 			
 
 			<h1>{{ page.title }}</h1>
