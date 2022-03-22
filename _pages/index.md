@@ -11,7 +11,7 @@ layout: default
 <link rel="stylesheet" type="text/css" href="https://arifhamed.github.io/static/css/site.css"> -->
 
 
-# arif hamed's guides and blogs <br><span style="font-size:60%;">my casual digital abode</span>
+# arif hamed's guides, blogs & resources <br><span style="font-size:60%;">my casual digital abode</span>
 
 here for my resume? go to my [`about` page](https://arifhamed.github.io/about).
 
