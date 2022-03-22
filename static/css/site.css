@@ -90,17 +90,12 @@ margin: 1em 0;
 }
 
 .timestamp {
-    color: #f2f2f2;
+    color: #333;
     text-shadow: 
-        1px 0 #999,
-        1px 1px #999,
-        0 1px #999,
-        -1px 1px #999,
-        -1px 0 #999,
-        -1px -1px #999,
-        0 -1px #999,
-        1px -1px #999
-
+        1px 1px #f00,
+        2px 2px #00f,
+        3px 3px #0f0
+                
     ;
 }
 
