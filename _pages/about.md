@@ -40,4 +40,4 @@ yeah i basically do different things in this website i think is fun.
 <br>
 <br>
 
-<span id="#1"><sup>[1]</sup> as of <span class="date">2022-03-13</span></span>
+<span id="1"><sup>[1]</sup> as of <span class="date">2022-03-13</span></span>
