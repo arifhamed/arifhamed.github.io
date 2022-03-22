@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "OpenMicrowave"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title

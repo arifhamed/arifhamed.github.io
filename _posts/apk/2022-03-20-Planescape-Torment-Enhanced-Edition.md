@@ -1,18 +1,18 @@
 ---
-title: ""
+title: "Planescape Torment: Enhanced Edition"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
-play-link: 
-tags:
-published: false
+play-link: https://play.google.com/store/apps/details?id=com.beamdog.pstee
+steam-link: https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/
+tags: rpg
 piracy: true
 ---
 
-> _"" - <a href="" target="_blank"></a>_
+> _"What can change the nature of a man?" - <a href="https://planescape.com/" target="_blank">Planescape Official Website</a>_
 
-personal synopsis soon <!--more-->
+To be frank, i never really played this game, like, at all. So idk just google this game or something.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b></b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.beamdog.pstee_3.1.3.0.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.beamdog.pstee_3.1.3.0.xapk</b> (1.41 GB)</a>
 </div>

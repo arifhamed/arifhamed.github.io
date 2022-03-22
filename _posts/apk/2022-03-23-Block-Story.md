@@ -1,14 +1,17 @@
 ---
-title: ""
+title: "Block Story"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
-play-link: 
-tags:
+play-link: https://play.google.com/store/apps/details?id=com.mindblocks.blocks
+app-link: https://apps.apple.com/us/app/block-story-premium/id517812925
+steam-link: https://store.steampowered.com/app/270110/Block_Story/
+tags: rpg action action-rpg adventure action-adventure open-world procedural dragon
+piracy: true
 published: false
 ---
 
-> _"" - <a href="" target="_blank"></a>_
+> _"There isn’t much better than a wide open game world in which you have essentially no limits and can alter the very landscape in which you play – that is, unless you add dragons, of course…" - <a href="https://store.steampowered.com/app/270110/Block_Story/" target="_blank">Steam</a>_
 
 personal synopsis soon <!--more-->
 
