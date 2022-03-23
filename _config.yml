@@ -10,3 +10,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-redirect-from
   - jekyll-multiple-languages-plugin
+  - jekyll-category-post-navigation
