@@ -1,5 +1,5 @@
 ---
-title: "ITP: "
+title: "Poly Internship: "
 layout: post-itp
 permalink: /blogs/internship-poly/:year/:month/:day
 published: false
