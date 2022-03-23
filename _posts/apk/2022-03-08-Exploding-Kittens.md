@@ -16,3 +16,4 @@ Not much to say about this game, besides the fact that i regret recording the fi
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.explodingkittens.projectbombsquad_5.2.5.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.explodingkittens.projectbombsquad_5.2.5.apk</b> (42 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

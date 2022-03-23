@@ -17,3 +17,4 @@ This game does not need my words, either the community or its own self speaks fo
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.rockstargames.gtasa_2.00.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.rockstargames.gtasa_2.00.xapk</b> (1.78 GB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

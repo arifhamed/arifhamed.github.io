@@ -19,3 +19,4 @@ Note that <a href="https://www.virustotal.com/gui/file/210124cd4dc1d802ed5b99647
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("jp.konami.epjCastlevania2_1.0.1.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.konami.epjCastlevania2_1.0.1.xapk</b> (227 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

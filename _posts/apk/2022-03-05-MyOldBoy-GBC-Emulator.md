@@ -15,3 +15,4 @@ This game does not need my words, either the community or its own self speaks fo
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.fastemulator.gbc_1.5.1.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.fastemulator.gbc_1.5.1.apk</b> (417 KB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

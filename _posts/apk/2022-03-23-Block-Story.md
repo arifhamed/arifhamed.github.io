@@ -16,7 +16,7 @@ If you can describe a childhood game that is also a Minecraft clone, this is one
 
 Ironically, the thing that turned me off after a while of playing this game is its graphics. Its so jarring to see high-def npc models next to low-res blocks and items. Also, the redstone in bedrock and java mc is just better compared to whatever this one has.
 
-Although, it has some points that make it stand out, such as dragons, different dragons, many different npcs, hell, aether, goblins, mjolnir swords, elevators, jetpacks, a goddamn wooden car, your own pet dragon, and much more!
+Although, it has some points that make it stand out, such as dragons, different dragons, many different npcs, hell, aether, goblins, mjolnir swords, elevators, jetpacks, a goddamn wooden car, your own pet dragon, and quite a lot more!
 
 Just like most companies (and by valid reason), a lot of the basic features are locked behind a paywall or a premium currency. Hence, I was able to find a working copy of a cracked premium Block Story with unlimited gems (and no, I also do not know why the premium apk with unlimited gems is smaller than the normal premium apk)
 
@@ -24,3 +24,4 @@ Just like most companies (and by valid reason), a lot of the basic features are 
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0.apk</b> (89.6 MB)</a><br>
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0_unlimited_gems.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0_unlimited_gems.apk</b> (77.2 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

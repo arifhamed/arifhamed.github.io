@@ -23,3 +23,4 @@ Note that <a href="https://www.virustotal.com/gui/file/e7aa6ab03beed2029bbc1a9a3
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.xd.tothemoon_3.7.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.xd.tothemoon_3.7.xapk</b> (274 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

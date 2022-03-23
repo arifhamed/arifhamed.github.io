@@ -19,3 +19,4 @@ Note that <a href="https://www.virustotal.com/gui/file/27c055270daadd397e6f6dd1b
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.tomorrowcorporation.humanresourcemachine_1.0.5.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.tomorrowcorporation.humanresourcemachine_1.0.5.apk</b> (98.5 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

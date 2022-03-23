@@ -21,3 +21,4 @@ Note that <a href="https://www.virustotal.com/gui/file/d9bf4a4d49c42466338a6a5e0
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.jds.batds_1.13.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.jds.batds_1.13.apk</b> (103 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

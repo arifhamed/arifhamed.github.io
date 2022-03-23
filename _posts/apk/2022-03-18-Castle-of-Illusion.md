@@ -17,3 +17,4 @@ This was one of those games that your older sibling would let you watch them pla
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.disney.castleofillusion_goo_1.4.4.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.disney.castleofillusion_goo_1.4.4.xapk</b> (513 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

@@ -17,3 +17,4 @@ This is one of those games that i thought i would never play but playing it for 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.OskarStalberg.Townscaper_1.01.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.OskarStalberg.Townscaper_1.01.apk</b> (29.9 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

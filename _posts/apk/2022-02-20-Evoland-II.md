@@ -26,3 +26,4 @@ Note that <a href="https://www.virustotal.com/gui/file/9c5b559ad5db36882fad51875
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.evoland2_2.0.2.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.evoland2_2.0.2.apk</b> (494 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

@@ -23,6 +23,7 @@ LATEST UPDATE: I have decided to upload the common APKS file instead, as not onl
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.pathea.mtap_1.0.11232.apks")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.pathea.mtap_1.0.11232.apks</b> (1.13 GB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>
 
 Also, i got some more gameplay below.
 <video onclick="this.paused ? this.play() : this.pause();"><source src="/static/webm/resources/apk/My-Time-at-Portia-mines.webm" type="video/webm"></source></video>

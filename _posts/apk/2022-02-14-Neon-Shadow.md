@@ -37,3 +37,4 @@ Shoutouts to <a href="https://neon-shadow.en.uptodown.com/android" target="_blan
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.crescentmoongames.neonshadow_1.38.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.crescentmoongames.neonshadow_1.38.apk</b> (16.9 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

@@ -25,3 +25,4 @@ Note that <a href="https://www.virustotal.com/gui/file/013336bce9401c91e0a64f0d0
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.clickteam.freddyfazbearspizzeriasimulator_1.0.4.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.clickteam.freddyfazbearspizzeriasimulator_1.0.4.apk</b> (148 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

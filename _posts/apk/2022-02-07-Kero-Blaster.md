@@ -23,3 +23,4 @@ Note that <a href="https://www.virustotal.com/gui/file/9738cb9647b11a304185a2cd8
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("jp.studiopixel.keroblaster_1.6.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.studiopixel.keroblaster_1.6.0.apk</b> (5.23 MB)</a>
 </div>
+<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>
