@@ -75,7 +75,7 @@
                 <a class="next btn btn-dark" style="background-color:#333;" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
               {% endif %}
             {% else %}
-              {% if page.next.next contains 'internship-poly' %}
+              {% if page.next.url contains 'internship-poly' %}
                 <a class="prev btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
                 <a class="next btn btn-dark" style="background-color:#333;" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
               {% endif %}
