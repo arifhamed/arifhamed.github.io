@@ -67,24 +67,25 @@
         
         <div class="container">
           <div class="PageNavigation row row-cols-auto">
-            {% if page.previous.url contains 'internship-poly' and page.next.url contains 'internship-poly' %}
-              {% if page.previous.url contains 'internship-poly' %}
-                <a class="prev btn btn-dark" style="background-color:#333;" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+            {% for post in site.categories.internship-poly %}
+              {% if page.previous.url contains 'internship-poly' and page.next.url contains 'internship-poly' %}
+                {% if page.previous.url contains 'internship-poly' %}
+                  <a class="prev btn btn-dark" style="background-color:#333;" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+                {% endif %}
+                {% if page.next.url contains 'internship-poly' %}
+                  <a class="next btn btn-dark" style="background-color:#333;" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+                {% endif %}
+              {% else %}
+                {% if page.next.url contains 'internship-poly' %}
+                  <a class="prev btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
+                  <a class="next btn btn-dark" style="background-color:#333;" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+                {% endif %}
+                {% if page.previous.url contains 'internship-poly' %}
+                  <a class="prev btn btn-dark" style="background-color:#333;" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+                  <a class="next btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
+                {% endif %}
               {% endif %}
-              {% if page.next.url contains 'internship-poly' %}
-                <a class="next btn btn-dark" style="background-color:#333;" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-              {% endif %}
-            {% else %}
-              {% if page.next.url contains 'internship-poly' %}
-                <a class="prev btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
-                <a class="next btn btn-dark" style="background-color:#333;" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
-              {% endif %}
-              {% if page.previous.url contains 'internship-poly' %}
-                <a class="prev btn btn-dark" style="background-color:#333;" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
-                <a class="next btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
-              {% endif %}
-            {% endif %}
-
+            {% endfor %}
           </div>
         </div>
         <div class="w-100" style="text-align:center;">
