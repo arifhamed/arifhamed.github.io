@@ -23,4 +23,3 @@ This APk apparently has some DLC or smtg inside, allegedly <br>
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.deadcells.mobile_2.4.14.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.deadcells.mobile_2.4.14.apk</b> (1.09 GB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

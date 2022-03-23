@@ -23,4 +23,3 @@ Side note: for some reason, when I ran this on my <a href="/about-devices" targe
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.BadlandPublishing.HUE_1.7.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.BadlandPublishing.HUE_1.7.apk</b> (135 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

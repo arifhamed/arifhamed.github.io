@@ -17,4 +17,3 @@ Drill Down is basically something like Mindustry, or Factor.io. It works, not mu
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("de.dakror.quarry_120-full.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>de.dakror.quarry_120-full.apk</b> (10.9 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

@@ -30,11 +30,10 @@ Neon Shadow was bought by some company called GameClub Inc. aka E.A. Mini. This 
 
 <i class="fas fa-exclamation-triangle"></i>: One very important thing to do after installing is to go Neon Shadow's Google Play page, tap on the <i class="fa fa-ellipsis-v" aria-hidden="true"></i>, and de-check "Enable auto-update". I let my phone that game automatically once and it came back to the smooth brain GameClub version of the game where it forces me to get a GameClub subscription. <span style="font-size:60%;">to be fair, it does give a free 30-day trial</span> <span style="color:orange;">Disclaimer</span>: if it says that `"Download failed because you may not have purchased this app"`, then you pretty much can't play it. I was able to play it recently when I was signed in to my long-time email, but when I'm using a different alias email on a different phone, it showed that message. 
 
-[2022-Feb-18] Here's a tip to get limitless 30-day trials, just use <a href="https://www.guerrillamail.com/">Guerilla Mail</a>, in fact, here is some <a href="/static/images/1750-8205-30130.jpg" target="_blank">proof</a> from me, heheheheheheheheh. suckers.
+<span class="timestamp">[2022-Feb-18]</span> Here's a tip to get limitless 30-day trials, just use <a href="https://www.guerrillamail.com/">Guerilla Mail</a>, in fact, here is some <a href="/static/images/1750-8205-30130.jpg" target="_blank">proof</a> from me, heheheheheheheheh. suckers.
 
 Shoutouts to <a href="https://neon-shadow.en.uptodown.com/android" target="_blank">UpToDown</a> for having somewhat similar vision to our websites, I got my APK from them. The 1.38 version is the last version before GameClub dumped their load into the later versions
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.crescentmoongames.neonshadow_1.38.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.crescentmoongames.neonshadow_1.38.apk</b> (16.9 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

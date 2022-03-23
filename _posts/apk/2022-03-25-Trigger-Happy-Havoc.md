@@ -23,7 +23,6 @@ Due to the limitation of my "file server", i could only upload a max of 2 GB, so
     <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part1.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part1.rar</b> (1.95 GB)</a><br>
     <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part2.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part2.rar</b> (823 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>
 <br>
 <br>
 <br>

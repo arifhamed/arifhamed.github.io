@@ -19,4 +19,3 @@ Other than that, it was actually quite fun to play! Good game, good game.
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.EtherGaming.PocketRoguesUltimate_1.34.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.EtherGaming.PocketRoguesUltimate_1.34.apk</b> (98.8 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

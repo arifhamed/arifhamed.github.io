@@ -33,7 +33,7 @@ secret: "https://arifhamed.github.io/resources/在他里面，我们借着耶稣
     {% for post in site.posts %}
     {% if post.url contains '/apk' %}
     {% unless post.piracy or post.nsfw %}
-    <div class="col-sm-3">
+    <div class="col-sm-3" title="{{ post.title }}">
         <div class="card">
             <div class="card-body">
                 <a href="{{site.baseurl}}{{post.url}}"><img class="card-img" src="/static/images{{ post.url }}-icon.png" alt="{{ post.title }} icon"></a>

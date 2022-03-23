@@ -24,4 +24,3 @@ Just like most companies (and by valid reason), a lot of the basic features are 
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0.apk</b> (89.6 MB)</a><br>
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0_unlimited_gems.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0_unlimited_gems.apk</b> (77.2 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

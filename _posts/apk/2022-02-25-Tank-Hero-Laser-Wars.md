@@ -17,4 +17,3 @@ This game I enjoyed its weapons a lot, especially the Tesla one, and it also has
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.clapfootgames.laserwars_1.1.2.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.clapfootgames.laserwars_1.1.2.apk</b> (23.5 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

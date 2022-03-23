@@ -18,4 +18,3 @@ This is another game that I saw my sister play while I watched on her comp, when
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.bossastudios.twadroid_1.0.4.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.bossastudios.twadroid_1.0.4.apk</b> (140 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

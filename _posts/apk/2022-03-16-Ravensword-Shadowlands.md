@@ -17,4 +17,3 @@ I wanted to play this game for a long time ago, now i got to. Seems pretty fun, 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.crescentmoongames.ravensword2_21.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.crescentmoongames.ravensword2_21.xapk</b> (527 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

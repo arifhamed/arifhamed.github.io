@@ -19,4 +19,3 @@ Note that <a href="https://www.virustotal.com/gui/file/ab4582ce6f6aceffc1ceeb327
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.younghorses.octodad_1.0.27.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.younghorses.octodad_1.0.27.apk</b> (399 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

@@ -12,7 +12,7 @@ redirect_from: /projects/
 
 {% for post in site.posts %}
   {% if post.url contains 'projects' %}
-    <div onclick='window.open("{{ site.baseurl }}{{ post.url }}", "_self");' style="margin-bottom: 2rem; border-color: #333; border-style: solid;">
+    <div class="project" onclick='window.open("{{ site.baseurl }}{{ post.url }}", "_self");'>
       {{ post.excerpt }}
       <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
     </div>

@@ -21,9 +21,7 @@ Now, according to the [Blockheads official forum](https://theblockheads.net/2018
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.noodlecake.blockheads_1.7.6.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.noodlecake.blockheads_1.7.6.apk</b> (95.1 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.noodlecake.blockheads_1.7.5.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.noodlecake.blockheads_1.7.5.apk</b> (94 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>

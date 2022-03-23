@@ -22,4 +22,3 @@ People complain about the controls of this game on mobile, like, dude, <span sty
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.noodlecake.gettingoverit_1.9.4.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.noodlecake.gettingoverit_1.9.4.apk</b> (129 MB)</a>
 </div>
-<span onclick="javascript:this.innerHTML = '';" style="color:#0005;" class="text-center">click here for SHA256</span>
