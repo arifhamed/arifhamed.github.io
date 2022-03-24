@@ -95,14 +95,17 @@
             {% endfor %}
 
             {% if previous_post and next_post %}
-            <a class="prev btn btn-dark" style="background-color:#333;" href="{{previous_post.url}}">&laquo; {{previous_post.title}}</a>
-            <a class="next btn btn-dark" style="background-color:#333;" href="{{next_post.url}}">{{next_post.title}} &raquo;</a>
-            {% elsif previous_post.url %}
-            <a class="prev btn btn-dark" style="background-color:#333;" href="{{previous_post.url}}">&laquo; {{previous_post.title}}</a>
-            <a class="next btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
+              <a class="prev btn btn-dark" style="background-color:#333;" href="{{previous_post.url}}">&laquo; {{previous_post.title}}</a>
+              <a class="next btn btn-dark" style="background-color:#333;" href="{{next_post.url}}">{{next_post.title}} &raquo;</a>
             {% else %}
-            <a class="prev btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
-            <a class="next btn btn-dark" style="background-color:#333;" href="{{next_post.url}}">{{next_post.title}} &raquo;</a>
+              {% if previous_post %}
+              <a class="prev btn btn-dark" style="background-color:#333;" href="{{previous_post.url}}">&laquo; {{previous_post.title}}</a>
+              <a class="next btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
+              {% endif %}
+              {% if next_post %}
+              <a class="prev btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
+              <a class="next btn btn-dark" style="background-color:#333;" href="{{next_post.url}}">{{next_post.title}} &raquo;</a>
+              {% endif %}
             {% endif %}
 
             
