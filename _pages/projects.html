@@ -14,7 +14,7 @@ redirect_from: /projects/
   {% if post.url contains 'projects' %}
     <div class="project">
       {{ post.excerpt }}
-      <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
+      <a class="w-100 text-center" href="{{ site.baseurl }}{{ post.url }}">Read more...</a>
     </div>
   {% endif %}
 {% endfor %}
