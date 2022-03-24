@@ -18,7 +18,7 @@ However, Python has some pretty useful uses in handling files, and as a data hoa
 This page is just simply some scripts that I use to automate some stuff. Each script should have plenty of comments inside to explain what it does. Like the other guides, this page is more for my own reference.
 <hr>
 
-## GitHub Release Assets Batch **Uploader**
+## GitHub Release Assets Batch **Uploader** &#8482;
 ``` py
 {% include_relative files/github-release-assets-batch-uploader.py %}
 ```
