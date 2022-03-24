@@ -1,7 +1,7 @@
 ---
 title: "Project: Resurface"
 permalink: /projects/resurface
-layout: default
+layout: post-project
 excerpt_separator: <!--more-->
 ---
 <h1 class="text-center">Resurface</h1>

@@ -1,7 +1,7 @@
 ---
 title: "Project: ABC Supermarket"
 permalink: /projects/abcsuper
-layout: default
+layout: post-project
 excerpt_separator: <!--more-->
 ---
 <h1 class="text-center">ABC Supermarket</h1>

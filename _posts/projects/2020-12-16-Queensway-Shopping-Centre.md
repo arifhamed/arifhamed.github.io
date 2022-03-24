@@ -1,7 +1,7 @@
 ---
 title: "Project: Queensway Shopping Centre"
 permalink: /projects/qws
-layout: default
+layout: post-project
 excerpt_separator: <!--more-->
 ---
 <h1 class="text-center">Queensway Shopping Centre</h1>
