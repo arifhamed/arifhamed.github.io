@@ -33,9 +33,10 @@
     <link rel="stylesheet" type="text/css" href="/static/css/site.css">
     <!-- <script>function loadText() {var x = document.getElementById("load-text");if (x.style.display === "none") {x.style.display = "block";} else {x.style.display = "none";}}</script> -->
     <script>
+      const decipher = salt => {const textToChars = text => text.split('').map(c => c.charCodeAt(0));const applySaltToChar = code => textToChars(salt).reduce((a,b) => a ^ b, code);return encoded => encoded.match(/.{1,2}/g).map(hex => parseInt(hex, 16)).map(applySaltToChar).map(charCode => String.fromCharCode(charCode)).join('');}
       function unlock(){
         var p = document.getElementById('password-input').value;
-        if (p === "!00billionX"){
+        if (p === decipher('arifhamed.github.io')("5b4a4a1813161613151422")){
           document.getElementById("truth").style.display = "block";
         } else {
           document.getElementById("truth").style.display = "none";
@@ -89,9 +90,6 @@
               <a class="next btn btn-dark" style="background-color:#333;" href="{{next_post.url}}">{{next_post.title}} &raquo;</a>
               {% endif %}
             {% endif %}
-
-            
-            {{site.baseurl}}
           </div>
         </div>
         <div class="w-100" style="text-align:center;">

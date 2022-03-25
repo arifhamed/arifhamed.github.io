@@ -12,5 +12,5 @@ published: false
 
 {% include comments.html %}
 
-<span class="disable-selection" onclick="loadText()" style="color:#0001;">nothing deep happened today</span>
-<span class="disable-selection" id="load-text" style="display:block;"></span>
+<span class="disable-selection" onclick="loadText()" style="color:#0001;display:none;">nothing deep happened today</span>
+<span class="disable-selection" id="truth" style="display:block;"></span>
