@@ -45,7 +45,7 @@ The above is CSS you can put into your site.css that can apply to all pages (as 
 
 ### Place PDFs in website (with and without Bootstrap)
 &lt;will be updated soon(ish)&gt;
-
+still currently finding the best way as of <span class="timestamp">25 March 2022</span>
 
 
 {% include comments.html %}

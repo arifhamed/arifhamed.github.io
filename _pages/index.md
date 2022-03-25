@@ -23,4 +23,6 @@ got time to kill on your android phone? download some apks from my [`apk` resour
 
 maybe you wanna stick to the current trend? play my own copy of [`wordle`](https://arifhamed.github.io/games/wordle).
 
-think this homepage could be better? same.
+think this homepage could be better? same. in fact, you can just leave comments almost anywhere in this website, you just need a github account.
+
+{% include comments.html %}

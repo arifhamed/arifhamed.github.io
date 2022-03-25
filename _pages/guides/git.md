@@ -109,4 +109,25 @@ Every commit requires a message to come with it, as shown above, after the comma
  <hr>
 
  ## git push
+ With your commit, it is important to push it so that you can update your remote repository. 
+
+ ``` console
+D:\Repos\files-000>git push -u origin head
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 312 bytes | 156.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/arifhamed/files-000
+   57e8612..1c5c92d  head -> main
+branch 'main' set up to track 'origin/main'.
+
+D:\Repos\files-000>
+ ```
+
+ Now if you check your remote repository, it would show the latest commit pushed, as shown below in the screenshot:
+
+ <img src="/static/images/git-pushed.jpg" class="w-100">
+
  _&lt;more details will come later&gt;_

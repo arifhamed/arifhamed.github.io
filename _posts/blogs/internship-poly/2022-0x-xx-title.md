@@ -12,46 +12,5 @@ published: false
 
 {% include comments.html %}
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-<span class="disable-selection" onclick="loadText()" style="color:#0005;">nothing deep happened today</span>
+<span class="disable-selection" onclick="loadText()" style="color:#0001;">nothing deep happened today</span>
 <span class="disable-selection" id="load-text" style="display:block;"></span>
