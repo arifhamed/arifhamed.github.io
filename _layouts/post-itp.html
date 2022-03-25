@@ -31,7 +31,17 @@
     <script src="/static/js/bootstrap/bootstrap.min.js"></script>
 
     <link rel="stylesheet" type="text/css" href="/static/css/site.css">
-    <script>function loadText() {var x = document.getElementById("load-text");if (x.style.display === "none") {x.style.display = "block";} else {x.style.display = "none";}}</script>
+    <!-- <script>function loadText() {var x = document.getElementById("load-text");if (x.style.display === "none") {x.style.display = "block";} else {x.style.display = "none";}}</script> -->
+    <script>
+      function unlock(){
+        var p = document.getElementById('password-input').value;
+        if (p === "!00billionX"){
+          document.getElementById("truth").style.display = "block";
+        } else {
+          document.getElementById("truth").style.display = "none";
+        }
+      }
+    </script>
     {% seo %}
   </head>
 
@@ -81,7 +91,7 @@
             {% endif %}
 
             
-            
+            {{site.baseurl}}
           </div>
         </div>
         <div class="w-100" style="text-align:center;">
