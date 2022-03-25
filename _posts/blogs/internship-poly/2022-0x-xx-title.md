@@ -12,5 +12,7 @@ published: false
 
 {% include comments.html %}
 
+<input id="password-input" type="text" class="form-control w-100 text-center" onkeyup="unlock()">
+
 <span class="disable-selection" onclick="loadText()" style="color:#0001;display:none;">nothing deep happened today</span>
 <span class="disable-selection" id="truth" style="display:block;"></span>
