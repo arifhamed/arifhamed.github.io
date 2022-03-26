@@ -4,9 +4,11 @@ permalink: /projects/abcsuper
 layout: post-project
 excerpt_separator: <!--more-->
 ---
-<h1 class="text-center">ABC Supermarket</h1>
 
-#### **Disclaimer**: there has been no screenshots of this project
+<h1 class="text-center">e-Commerce site</h1>
+<h3 class="text-center">ABC Supermarket</h3>
+
+##### **Disclaimer**: there has been no screenshots of this project
 
 The ABC Supermarket is a **full-stack website** created with Node.js <!--more-->_&lt;more details will come in the future&gt;_
 

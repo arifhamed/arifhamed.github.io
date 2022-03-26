@@ -14,10 +14,6 @@
         <li class="nav-item">
           <a class="nav-link disable-selection {% if page.url == '/about' %} active {% endif %}" href="/about">about</a>
         </li>
-        <!-- PROJECTS -->
-        <li class="nav-item">
-          <a class="nav-link disable-selection {% if page.url == '/projects' %} active {% endif %}" href="/projects">projects</a>
-        </li>
         <!-- BLOGS -->
         <li class="nav-item dropdown">
           <a class="nav-link disable-selection {% if page.url contains '/blogs' %} active {% endif %} dropdown-toggle" id="navbarGuides" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -47,6 +43,7 @@
             resources
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarGuides">
+            <li><a class="dropdown-item disable-selection" href="/resources/projects">projects</a></li>
             <li><a class="dropdown-item disable-selection" href="/resources/automation-with-python">automation</a></li>
             <li><a class="dropdown-item disable-selection" href="/resources/apk">apk</a></li>
             <li><a class="dropdown-item disable-selection" href="/resources/torrent">torrent</a></li>

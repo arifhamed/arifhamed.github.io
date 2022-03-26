@@ -4,9 +4,11 @@ permalink: /projects/qws
 layout: post-project
 excerpt_separator: <!--more-->
 ---
-<h1 class="text-center">Queensway Shopping Centre</h1>
 
-#### **Disclaimer**: there has been no screenshots of this project
+<h1 class="text-center">e-Commerce site</h1>
+<h3 class="text-center">Queensway Shopping Centre</h3>
+
+##### **Disclaimer**: there has been no screenshots of this project
 
 The new Queensway Shopping Centre website is a **revamp** of its existing site. Using a **web development** library from Python called **Flask**, we were able to grasp the basics of creating a **full-stack website** <!--more-->_&lt;more details will come in the future&gt;_
 

@@ -104,12 +104,12 @@ D:\Repos\files-000>
 
 Every commit requires a message to come with it, as shown above, after the command and option `-m`, i left a string there, `"edit for the blog"`. Now, I have one commit, and also shown in `git status`, there is nothing new for me to commit, as all the edits, additions & removals (with `git add` & `git rm`). 
 
- Now, you can push it!
+Now, you can push it!
 
- <hr>
+<hr>
 
- ## git push
- With your commit, it is important to push it so that you can update your remote repository. 
+## git push
+With your commit, it is important to push it so that you can update your remote repository. 
 
  ``` console
 D:\Repos\files-000>git push -u origin head

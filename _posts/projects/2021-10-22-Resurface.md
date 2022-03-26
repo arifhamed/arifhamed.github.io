@@ -4,10 +4,11 @@ permalink: /projects/resurface
 layout: post-project
 excerpt_separator: <!--more-->
 ---
-<h1 class="text-center">Resurface</h1>
-<h3 class="text-center">Thrive beyond the surface</h3>
 
-#### **Disclaimer**: this post is still WIP, there are screenshots available soon
+<h1 class="text-center">Community & Events forum (discontinued)</h1>
+<h3 class="text-center">Resurface: Thrive beyond the surface</h3>
+
+##### **Disclaimer**: this post is still WIP, there are screenshots available soon
 
 The Resurface is a **full-stack website**, built with front-end and back-end views, created with ASP.NET Core <!--more-->_&lt;more details will come in the future&gt;_
 

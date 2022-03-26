@@ -20,7 +20,7 @@ Currently taking **NYP**'s course for a <a href="https://www.nyp.edu.sg/schools/
 
 
 For the rest:<br>
-yeah i basically do different things in this website i think is fun.
+i basically do different things in this website i think is fun.
 
 {% include comments.html %}
 
