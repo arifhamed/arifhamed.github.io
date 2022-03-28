@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="https://arifhamed.github.io/static/js/font-awesome.js" integrity="sha512-Mizub3M5oexqKMz/zqTjVpAMAQN/URWJVT6FnZGrMTDJRRfexw/K6KoKzDWGzF53rtHw47KHMbGRqcgcEYEnhQ==" crossorigin="anonymous"></script>
+    
+    <link rel="apple-touch-icon" sizes="57x57" href="/static/icon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/static/icon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/static/icon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/static/icon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/static/icon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/static/icon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/static/icon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/static/icon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/static/icon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/static/icon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/static/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/static/icon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/static/icon/favicon-16x16.png">
+    <link rel="manifest" href="/static/icon/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/static/icon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <link rel="stylesheet" href="/static/css/bootstrap/bootstrap.min.css">
+    <script src="/static/js/bootstrap/jquery.min.js"></script>
+    <script src="/static/js/bootstrap/bootstrap.min.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="/static/css/site.css">
+    <script src="/static/js/site.js"></script>
+
+    {% seo %}
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    {% include header.html %}
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer" style="flex: 1;">
+	  
+      <section id="main_content" class="inner">
+
+
+        <a class="btn btn-dark w-100" style="background-color:#333;" href="/blogs/internship-poly#itp-poly-days">back to all posts</a>
+        
+        <div class="container">
+          <div class="PageNavigation row row-cols-auto">
+            {% assign cat = page.categories[0] %}
+            {% assign cat_list = site.categories[cat] %}
+            {% for post in cat_list %}
+              {% if post.url == page.url %}
+                {% assign pOffset = forloop.index0 | minus: 1 %}
+                {% assign nOffset = pOffset | plus: 2 %}
+                {% if forloop.first == false %}
+                  {% assign next_post = cat_list[pOffset] %}
+                {% endif %}
+                {% if forloop.last == false %}
+                  {% assign previous_post = cat_list[nOffset] %}
+                {% endif %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+
+            {% if previous_post and next_post %}
+              <a class="prev btn btn-dark" style="background-color:#333;" href="{{previous_post.url}}">&laquo; {{previous_post.title}}</a>
+              <a class="next btn btn-dark" style="background-color:#333;" href="{{next_post.url}}">{{next_post.title}} &raquo;</a>
+            {% else %}
+              {% if previous_post %}
+              <a class="prev btn btn-dark" style="background-color:#333;" href="{{previous_post.url}}">&laquo; {{previous_post.title}}</a>
+              <a class="next btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
+              {% endif %}
+              {% if next_post %}
+              <a class="prev btn disabled" style="color:#F2F2F2;background-color:#F2F2F2;" aria-disabled="true">&nbsp;</a>
+              <a class="next btn btn-dark" style="background-color:#333;" href="{{next_post.url}}">{{next_post.title}} &raquo;</a>
+              {% endif %}
+            {% endif %}
+          </div>
+        </div>
+        <div class="w-100" style="text-align:center;">
+          Date: {{ page.date | date: "%-d %B %Y" }}
+        </div>
+
+        <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+
+        <span class="disable-selection" id="truth" style="display:none;">
+            {{ content }}
+        </span>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    {% include footer.html %}
+
+  </body>
+</html>
