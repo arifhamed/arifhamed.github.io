@@ -10,6 +10,9 @@ The issue list for this project is exclusively for bug reports and feature reque
 - [GitHub Pages](https://pages.github.com)
 - [Jekyll](https://jekyllrb.com/)
 - [SRI Hash Generator](https://www.srihash.org/)
+- [JS Compress](https://jscompress.com/)
+- [JS Beautifier](https://beautifier.io/)
+- [Bytesize](https://www.javainuse.com/bytesize)
 
 ## License
 

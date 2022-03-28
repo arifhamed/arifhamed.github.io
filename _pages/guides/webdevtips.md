@@ -47,5 +47,12 @@ The above is CSS you can put into your site.css that can apply to all pages (as 
 &lt;will be updated soon(ish)&gt;
 still currently finding the best way as of <span class="timestamp">25 March 2022</span>
 
+### General script and css tips
+In every website, javascript and css will always be present, whether you like it or not. When a website loads a javascript file or a css file, it will take longer if either files are large. So here's just a small list of online tools that would help you:
+- [JS Compress](https://jscompress.com/)
+- [JS Beautifier](https://beautifier.io/)
+- [Bytesize](https://www.javainuse.com/bytesize)
+
+of course, I may update this part soon with more script importing tips or whatnot.
 
 {% include comments.html %}

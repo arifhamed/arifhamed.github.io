@@ -14,5 +14,4 @@ published: false
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
-<span class="disable-selection" onclick="loadText()" style="color:#0001;display:none;">nothing deep happened today</span>
 <span class="disable-selection" id="truth" style="display:block;"></span>
