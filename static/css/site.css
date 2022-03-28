@@ -1,3 +1,7 @@
+#main_content {
+    padding-top: 15px!important;
+}
+
 .disable-selection {
     -moz-user-select: none;
     -webkit-user-select: none;

@@ -13,9 +13,9 @@ layout: default
 
 # arif hamed's guides, blogs & resources <br><span style="font-size:60%;">my casual digital abode</span>
 
-here for my resume? go to my [`about` page](https://arifhamed.github.io/about).
+wanna see my resume? go to my [`about` page](https://arifhamed.github.io/about).
 
-wanna see some projects i did? go to my [`projects` page](https://arifhamed.github.io/projects).
+here to look at some projects i did? go to my [`projects` page](https://arifhamed.github.io/projects).
 
 looking for some tips or guidance in certain IT topics? check out all my guides from the nav.
 
@@ -27,3 +27,6 @@ think this homepage could be better? same. in fact, you can just leave comments 
 
 
 {% include comments.html %}
+
+
+i am someone who just can't sit still, so i got a lot of ideas that i want to do, and i record them down [here](https://arifhamed.github.io/todo).

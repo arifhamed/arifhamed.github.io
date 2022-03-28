@@ -16,7 +16,7 @@ Currently taking **NYP**'s course for a <a href="https://www.nyp.edu.sg/schools/
 
 <!-- <embed src="/static/PDF/resume_internship_2.pdf" style="min-height:100vh;min-width:100%;"> -->
 
-<iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Farifhamed.github.io%2Fstatic%2FPDF%2Fresume_internship_2.pdf" frameborder="no" style="width:100%;height:100vh"></iframe>
+<iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Farifhamed.github.io%2Fstatic%2FPDF%2Fresume_internship_2.pdf" frameborder="no" style="max-width:100%;max-height:1138px"></iframe>
 
 
 For the rest:<br>
