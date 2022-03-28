@@ -24,7 +24,7 @@ function unlock(){
   var p = document.getElementById('password-input').value;
   if (p === decipher('arifhamed.github.io')("5b4a4a1813161613151422")){
     document.getElementById("truth").style.display = "block";
-    document.getElementById("truth").innerHTML = "bruh"; //debug
+    document.getElementById("truth").innerHTML = decipher("arifhamed.github.io")("7046091908130a0e440d13141e150d54150a1f1452581d15151d161f5419151758565825091f161c58534655091908130a0e4470"); 
   } else {
     document.getElementById("truth").style.display = "none";
   }
