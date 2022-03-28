@@ -1,5 +1,5 @@
 ---
-title: selfishness
+title: devotion
 layout: post-devotion
 categories: devotion
 permalink: /blogs/devotions/:year/:month/:day
@@ -19,7 +19,7 @@ these are all that i realised are in sync with this selfishness
 - overspending (trivial, but relevant)
 - my "worry" over someone else whom i know closely
 
-it is that last one where i decided to take a step back and look at myself, because i did not want to affect them in any way, for i truly care for them, very, very much.
+it is that last one where i decided to take a step back and look at myself, because i did not want to affect them in any way, for i truly care for them, very, very much. or do i?
 
 as i took a step back, i saw myself more. this time, i didn't compartmentalize myself and thought it was just one problem in one area. when a house floods, all the rooms are filled.
 
@@ -27,7 +27,7 @@ i realised that, maybe, i have let go of God's love. i realised that, maybe, i w
 
 i was just empty, and i don't want to be anymore.
 
-perhaps later tonight, i want to experience Him for myself once again. 
+perhaps later tonight, or soon, i want to experience Him for myself once again, and get filled again. i was looking to the wrong sources for love and care, and now i truly understand.
 
 ```
 help me to love with open arms like You do.
