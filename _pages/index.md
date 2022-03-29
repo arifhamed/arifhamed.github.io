@@ -2,9 +2,6 @@
 title: "Arif Hamed"
 layout: default
 permalink: /
-redirect_from:
- - /index
- - /index/
 ---
 
 <!-- <link rel="stylesheet" href="https://arifhamed.github.io/static/css/bootstrap.min.css">
