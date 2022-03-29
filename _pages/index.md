@@ -1,7 +1,10 @@
 ---
 title: "Arif Hamed"
-permalink: /
 layout: default
+permalink: /
+redirect_from:
+ - /index
+ - /index/
 ---
 
 <!-- <link rel="stylesheet" href="https://arifhamed.github.io/static/css/bootstrap.min.css">
@@ -29,4 +32,4 @@ think this homepage could be better? same. in fact, you can just leave comments 
 {% include comments.html %}
 
 
-i am someone who just can't sit still, so i got a lot of ideas that i want to do, and i record them down [here](https://arifhamed.github.io/todo).
+i am someone who just can't sit still and remember something for long, so i got a lot of ideas that i want to do, and i record them down [here](https://arifhamed.github.io/todo).

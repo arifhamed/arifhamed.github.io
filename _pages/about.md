@@ -1,10 +1,8 @@
 ---
 title: "About me"
-permalink: /about
 layout: default
+permalink: /about
 ---
-
-# IMPORTANT: This page is in testing, so it may look mutated at some areas of this page
 
 # About me
 A youth developer that currently<sup><a href="#1">[1]</a></sup> focuses on **full-stack** and on **mobile application development**.<br>
@@ -16,7 +14,7 @@ Currently taking **NYP**'s course for a <a href="https://www.nyp.edu.sg/schools/
 
 <!-- <embed src="/static/PDF/resume_internship_2.pdf" style="min-height:100vh;min-width:100%;"> -->
 
-<iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Farifhamed.github.io%2Fstatic%2FPDF%2Fresume_internship_2.pdf" frameborder="no" style="position: relative; min-width: 100%; height: 500px; margin: 0 auto;"></iframe>
+<iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Farifhamed.github.io%2Fstatic%2FPDF%2Fresume_internship_2.pdf" frameborder="no" style="position: relative; min-width: 100%; height: 800px; margin: 0 auto;"></iframe>
 
 
 For the rest:<br>
@@ -33,7 +31,7 @@ socials:<br>
         <a class="col btn btn-dark" style="background-color:#333;" href="https://instagram.com/arifstocrat" target="_blank"><i class="fab fa-instagram"></i></a>
         <a class="col btn btn-dark" style="background-color:#333;" href="https://www.quora.com/profile/Muhammad-Arif-Bin-Hamed" target="_blank"><i class="fab fa-quora"></i></a>
         <a class="col btn btn-dark" style="background-color:#333;" href="https://www.reddit.com/user/arifstotle300" target="_blank"><i class="fab fa-reddit"></i></a>
-        <a class="col btn btn-dark" style="background-color:#333;" href="https://stackoverflow.com/users/8790222/morph-ballhttps://stackoverflow.com/users/8790222/morph-ball" target="_blank"><i class="fab fa-stack-overflow"></i></a>
+        <a class="col btn btn-dark" style="background-color:#333;" href="https://stackoverflow.com/users/8790222/morph-ball" target="_blank"><i class="fab fa-stack-overflow"></i></a>
         <a class="col btn btn-dark" style="background-color:#333;" href="https://steamcommunity.com/id/arifstocrat/" target="_blank"><i class="fab fa-steam"></i></a>
         <a class="col btn btn-dark" style="background-color:#333;" href="https://arifhamed.tumblr.com/" target="_blank"><i class="fab fa-tumblr"></i></a>
         <a class="col btn btn-dark" style="background-color:#333;" href="https://www.twitch.tv/arifstocrat" target="_blank"><i class="fab fa-twitch"></i></a>
