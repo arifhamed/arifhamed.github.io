@@ -30,7 +30,7 @@ secret: "https://arifhamed.github.io/resources/apk?key=在他里面，我们借�
 {{ apk-md | markdownify }}
 
 {% if post.url contains '在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典' %}
-<h1>bruh</h1>
+<h1>{{post.url}}</h1>
 {% endif %}
 
 <div class="row">
