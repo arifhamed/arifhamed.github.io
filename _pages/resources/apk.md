@@ -29,10 +29,10 @@ secret: "https://arifhamed.github.io/resources/apk?key=在他里面，我们借�
 {% endcapture %}
 {{ apk-md | markdownify }}
 
-{% if post.url contains '在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典' %}
-<h1>{{post.url}}</h1>
+{% if page.url contains '在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典' %}
+<h1>{{page.url}}</h1>
 {% endif %}
-<h2>{{post.url}}</h2>
+<h2>{{page.url}}</h2>
 
 <div class="row">
     {% for post in site.posts %}
