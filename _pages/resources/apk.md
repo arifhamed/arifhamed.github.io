@@ -21,7 +21,8 @@ redirect_from:
 - /resources/APKS
 - /resources/APKS/
 layout: default
-secret: "https://arifhamed.github.io/resources/apk?key=在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典"
+# secret: "https://arifhamed.github.io/resources/apk?key=在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典"
+secret: javascript:var slist=document.getElementsByClassName("col-sm-3");for(let a of slist)a.setAttribute("style","display:inline;");
 ---
 
 {% capture apk-md %}
@@ -37,8 +38,7 @@ secret: "https://arifhamed.github.io/resources/apk?key=在他里面，我们借�
 <div class="row">
     {% for post in site.posts %}
     {% if post.url contains '/apk' %}
-    {% unless post.piracy or post.nsfw %}
-    <div class="col-sm-3" title="{{ post.title }}">
+    <div class="col-sm-3" title="{{ post.title }}" style="{% if post.piracy or post.nsfw %} display:none; {% endif %}">
         <div class="card">
             <div class="card-body">
                 <a href="{{site.baseurl}}{{post.url}}"><img class="card-img" src="/static/images{{ post.url }}-icon.png" alt="{{ post.title }} icon"></a>
@@ -47,7 +47,6 @@ secret: "https://arifhamed.github.io/resources/apk?key=在他里面，我们借�
             </div>
         </div>
     </div>
-    {% endunless %}
     {% endif %}
     {% endfor %}
 </div>
