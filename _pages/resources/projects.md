@@ -8,10 +8,16 @@ redirect_from:
  - /projects/
 ---
 
-{% capture projects-md %}
+<!-- {% capture projects-md %}
 {% include projects-inc.md %}
 {% endcapture %}
-{{ projects-md | markdownify }}
+{{ projects-md | markdownify }} -->
+
+# Projects <span style="font-size:70%">by Arif Hamed</span>
+
+I have a list of projects below that I have started and participated in. The first few are projects that originate from school.
+
+**THIS PAGE IS STILL WIP**
 
 {% for post in site.posts %}
   {% if post.url contains 'projects' %}
