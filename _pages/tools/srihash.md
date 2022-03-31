@@ -16,11 +16,11 @@ redirect_from:
             <h1>SRI Hash Generator</h1>
             <label for="url">Enter the URL of the resource you wish to use:</label>
             <form id="sri-form" action="#">
-                <input id="url" name="url" type="url" value="" placeholder="Resource URL" required="" autofocus="" spellcheck="false">
+                <input id="url" class="form-control" name="url" type="url" value="" placeholder="Resource URL" required="" autofocus="" spellcheck="false">
                 <select id="sriHash" type="select">
-                <option value="sha256">SHA-256</option>
-                <option value="sha384" selected="">SHA-384</option>
-                <option value="sha512">SHA-512</option>
+                    <option value="sha256">SHA-256</option>
+                    <option value="sha384" selected="">SHA-384</option>
+                    <option value="sha512">SHA-512</option>
                 </select>
                 <input id="sriSubmit" type="submit" value="Hash!">
             </form>

@@ -7,13 +7,40 @@ redirect_from:
 ---
 
 # thy to-do list
-* integrate the particles.js website to this website
-* sharpen projects page and its child pages
-* copy some of the tools from the [readme.md](https://github.com/arifhamed/arifhamed.github.io/blob/main/README.md) to this site and put it in a new nav tab called `tools`, and move torrent to `tools` too.
-* create a **retro face filter** with spark ar studio
+* [YUYI] test forgotten anne apk (record gameplay too)
+* [YUYI] add in, like, games by the same publishers in each game page.
+* [YUYI] find apk for <span ondblclick="this.innerHTML = 'witch trainer'">2022-04-08</span>
+* [NUYI] find and create apk entries for the following
+    * portalize (demo and unlocked level)
+    * fran bow (all chapters)
+    * little misfortune (tout it as the demo version)
+    * corpse party: blood drive
+    * steins gate (demo and unlocked story (?))
+    * crying suns
+    * graveyard keeper
+    * don't starve pe
+    * scribblenauts unlimited
+    * icey
+    * ticket to earth
+    * out there: ohm edition
+    * rogue hearts
+    * marsus: survival on mars
+    * simpleplanes
+    * radiation island
+    * heroes and castles 2 - strategy action rpg
+    * brothers: a tale of two sons
+    * fps maker 3d
+    * little inferno
+    * the sandbox (demo and currency crack)
+    * monument valley 1 & 2 
+        * just get 1, already have 2 in file server
+* [NUYI] integrate the particles.js website to this website
+* [NUNI] sharpen projects page and its child pages
+* [NUNI] copy some of the tools from the [readme.md](https://github.com/arifhamed/arifhamed.github.io/blob/main/README.md) to this site and put it in a new nav tab called `tools`, and move torrent to `tools` too.
+* [NUNI] create a **retro face filter** with spark ar studio
     * get inspiration from system shock or the matrix
 * with previous to-do, create a **ping-pong face filter**
     * requires two people
-* albus app for android
+* [NUNI] albus app for android
     * just unzips and reads image archives.
     * include encryption
