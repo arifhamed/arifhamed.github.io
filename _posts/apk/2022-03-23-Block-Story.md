@@ -3,11 +3,10 @@ title: "Block Story"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
-play-link: https://play.google.com/store/apps/details?id=com.mindblocks.blocks
-app-link: https://apps.apple.com/us/app/block-story-premium/id517812925
+play-link: https://play.google.com/store/apps/details?id=com.mindblocks.blocks_light
+app-link: https://apps.apple.com/us/app/block-story-free/id536926804
 steam-link: https://store.steampowered.com/app/270110/Block_Story/
 tags: rpg action action-rpg adventure action-adventure open-world procedural dragon
-piracy: true
 ---
 
 > _"There isn’t much better than a wide open game world in which you have essentially no limits and can alter the very landscape in which you play – that is, unless you add dragons, of course…" - <a href="https://store.steampowered.com/app/270110/Block_Story/" target="_blank">Steam</a>_
@@ -18,9 +17,12 @@ Ironically, the thing that turned me off after a while of playing this game is i
 
 Although, it has some points that make it stand out, such as dragons, different dragons, many different npcs, hell, aether, goblins, mjolnir swords, elevators, jetpacks, a goddamn wooden car, your own pet dragon, and quite a lot more!
 
-Just like most companies (and by valid reason), a lot of the basic features are locked behind a paywall or a premium currency. Hence, I was able to find a working copy of a cracked premium Block Story with unlimited gems (and no, I also do not know why the premium apk with unlimited gems is smaller than the normal premium apk)
+<span ondblclick="document.getElementById('paid').style.display='inline'">Here is the demo Block Story, which is somewhat.. minimal. Many features are cut off, as compared to the full version.</span>
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0.apk</b> (89.6 MB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0_unlimited_gems.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0_unlimited_gems.apk</b> (77.2 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_light_13.1.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_light_13.1.0.apk</b> (89.7 MB)</a><br>
+    <div id="paid" style="display:none;">
+        <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0.apk</b> (89.6 MB)</a><br>
+        <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0_unlimited_gems.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0_unlimited_gems.apk</b> (77.2 MB)</a>
+    </div>
 </div>

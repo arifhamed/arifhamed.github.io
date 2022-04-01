@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 # thy to-do list
+* [YUYI] continue demoing from survivalcraft
 * [YUYI] test forgotten anne apk (record gameplay too)
 * [YUYI] add in, like, games by the same publishers in each game page.
 * [YUYI] find apk for <span ondblclick="this.innerHTML = 'witch trainer'">2022-04-08</span>
