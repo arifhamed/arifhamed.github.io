@@ -15,7 +15,7 @@ piracy: true
 
 Now when you describe your game like that, you know it is out to _literally kill you_ <!--more-->
 
-I literally do not have much of a personal synopsis for this game, it is simply _what it is_. To be frank, I never invested so much time into this game, particularly because I don't want to **jump off a building** or **repeatedly fall into a kitchen knife** and **a hot glue gun**. I really respect _**Foddy**_ for this masterpiece though, for he's also the same person who created <a href="http://www.foddy.net/2010/10/qwop/" target="_blank">QWOP</a> in 2010 <span style="font-size:70%">(and of course, just likke Wordle i'm gonna copy that into this site as well)</span>. 
+I literally do not have much of a personal synopsis for this game, it is simply _what it is_. To be frank, I never invested so much time into this game, particularly because I don't want to **jump off a building** or **repeatedly fall into a kitchen knife** or **rectally infuse a hot glue gun**. I really respect _**Bennett Foddy**_ for this masterpiece though, for he's also the same person who created <a href="http://www.foddy.net/2010/10/qwop/" target="_blank">QWOP</a> in 2010 <span style="font-size:70%">(and of course, just likke Wordle i'm gonna copy that into this site as well)</span>. 
 
 People complain about the controls of this game on mobile, like, dude, <span style="font-size:150%;">that's the point</span>, imbeciles.
 
