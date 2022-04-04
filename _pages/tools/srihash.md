@@ -19,8 +19,8 @@ redirect_from:
                 <input id="url" class="form-control" name="url" type="url" value="" placeholder="Resource URL" required="" autofocus="" spellcheck="false">
                 <select id="sriHash" type="select">
                     <option value="sha256">SHA-256</option>
-                    <option value="sha384" selected="">SHA-384</option>
-                    <option value="sha512">SHA-512</option>
+                    <option value="sha384">SHA-384</option>
+                    <option value="sha512" selected="">SHA-512</option>
                 </select>
                 <input id="sriSubmit" type="submit" value="Hash!">
             </form>
