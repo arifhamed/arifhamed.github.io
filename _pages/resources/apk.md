@@ -62,6 +62,17 @@ Here are a few things to take note about the APKs here
 
 <!-- 1. **Personal disclaimer**: * I do not condone piracy, <span style="font-size:170%">but</span>, I also do not condone putting **paywalls** and **paid subscription** behind software that is or was free, or paid to begin with, and limiting **freedom** &amp; **opinion** of customers. <a href="https://upload.wikimedia.org/wikipedia/commons/d/d7/The.Pirate.Bay.Cartoon-small.png" target="_blank">stay woke</a> -->
 
+<span ondblclick="document.getElementById('unobtainium').style.display='block'">I have a list of APKs that I just can't seem to possess at all, anywhere online.</span>
+
+<pre id="unobtainium" style="display:none;">
+- Megatroid
+    - Every APK found online besides Play Store either does not work or it is littered with viruses
+- Bladed Fury
+    - Every APK of bladed fury isn't functional for some reason
+- Portalize
+    - Nah. Almost everything is polluted as heck.
+</pre>
+
 <br>
 <br>
 <br>

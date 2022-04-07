@@ -12,9 +12,9 @@ redirect_from:
 * [YUYI] find apk for <span ondblclick="this.innerHTML = 'witch trainer'">2022-04-08</span>
 * [NUYI] find and create apk entries for the following
     * <del>portalize (demo and unlocked level)</del> postponed, surface level sites do not satisfy
-    * <del>fran bow (all chapters)</del> postponed, surface level sites do not satisfy
-    * <del>little misfortune (tout it as the demo version)</del> postponed, surface level sites do not satisfy
-    * little misfortune demo 
+    * <del>fran bow (all chapters)</del>
+    * <del>little misfortune (tout it as the demo version)</del>
+    * <s>little misfortune demo </s>
     * corpse party: blood drive
     * steins gate (demo and unlocked story (?))
     * crying suns
@@ -35,6 +35,7 @@ redirect_from:
     * the sandbox (demo and currency crack)
     * monument valley 1 & 2 
         * just get 1, already have 2 in file server
+    * extralife
 * [NUYI] integrate the particles.js website to this website
 * [NUNI] continue demoing from survivalcraft
 * [NUNI] sharpen projects page and its child pages
