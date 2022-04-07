@@ -70,8 +70,14 @@ Here are a few things to take note about the APKs here
 - Bladed Fury
     - Every APK of bladed fury isn't functional for some reason
 - Portalize
-    - Nah. Almost everything is polluted as heck.
+    - Nah. Almost all apks i have encountered are polluted as heck, just like Megatroid
 </pre>
+
+<!-- <span ondblclick="document.getElementById('banned').style.display='block'" style="font-size:60%;">there's also some that I never want to install on any phone</span>
+
+<pre id="banned" style="display:non;">
+
+</pre> -->
 
 <br>
 <br>
