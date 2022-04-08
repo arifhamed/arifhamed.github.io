@@ -5,5 +5,5 @@ layout: default
 ---
 
 ``` html
-<span ondblclick="this.innerHTML=''">&lt;REDACTED: &gt;</span>
+<span ondblclick="this.innerHTML=''">&lt;<b>REDACTED</b>: &gt;</span>
 ```

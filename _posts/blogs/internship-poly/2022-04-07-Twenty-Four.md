@@ -12,7 +12,3 @@ What a nice day. Today i found that the parmesan chicken bread in four leaves wa
 
 
 {% include comments.html %}
-
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
-
-<span class="disable-selection" id="truth" style="display:block;"></span>
