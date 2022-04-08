@@ -18,6 +18,7 @@ redirect_from:
     * corpse party: blood drive
     * steins gate (demo and unlocked story (?))
     * crying suns
+    * bladed fury
     * graveyard keeper
     * don't starve pe
     * scribblenauts unlimited
@@ -26,7 +27,7 @@ redirect_from:
     * out there: ohm edition
     * rogue hearts
     * marsus: survival on mars
-    * simpleplanes
+    * <del>simpleplanes</del> haven't upload yet
     * radiation island
     * heroes and castles 2 - strategy action rpg
     * brothers: a tale of two sons
@@ -35,7 +36,9 @@ redirect_from:
     * the sandbox (demo and currency crack)
     * monument valley 1 & 2 
         * just get 1, already have 2 in file server
-    * extralife
+    * nier reincarnation
+    * 
+* Any more in the list can be found as apk themselves in the downloads of the seagate drive
 * [NUYI] integrate the particles.js website to this website
 * [NUNI] continue demoing from survivalcraft
 * [NUNI] sharpen projects page and its child pages
