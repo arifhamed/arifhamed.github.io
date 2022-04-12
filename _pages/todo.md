@@ -37,6 +37,24 @@ redirect_from:
     * monument valley 1 & 2 
         * just get 1, already have 2 in file server
     * nier reincarnation
+    * bad north: jotunn edition
+    * world of goo
+    * death road to canada
+    * dungeon of the endless: apogee
+    * titan quest legendary
+    * pascals wager
+    * rush rally 2
+    * poly bridge 1 & 2
+    * gta chinatown wars
+    * kingdom
+    * door kickers action squad
+    * republique full
+* replace with xapk or apks
+    * dead cells
+    * the school white day
+* remove the following files from releases
+    * republique
+    * steins gate
     * 
 * Any more in the list can be found as apk themselves in the downloads of the seagate drive
 * [NUYI] integrate the particles.js website to this website
