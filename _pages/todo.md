@@ -48,7 +48,14 @@ redirect_from:
     * gta chinatown wars
     * kingdom
     * door kickers action squad
-    * republique full
+    * republique (full crack)
+    * all JRPG horror games
+        * witch's house
+        * mad father
+        * ao oni
+        * ib
+        * yume nikki (original & 3d)
+        * blank dream
 * replace with xapk or apks
     * dead cells
     * the school white day
