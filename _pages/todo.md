@@ -15,8 +15,6 @@ redirect_from:
     * <del>fran bow (all chapters)</del>
     * <del>little misfortune (tout it as the demo version)</del>
     * <s>little misfortune demo </s>
-    * corpse party: blood drive
-    * steins gate (demo and unlocked story (?))
     * crying suns
     * bladed fury
     * graveyard keeper
@@ -49,6 +47,8 @@ redirect_from:
     * kingdom
     * door kickers action squad
     * republique (full crack)
+    * corpse party: blood drive
+    * steins gate (demo and unlocked story (?))
     * all JRPG horror games
         * witch's house
         * mad father
