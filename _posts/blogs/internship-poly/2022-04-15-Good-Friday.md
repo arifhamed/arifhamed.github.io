@@ -1,5 +1,5 @@
 ---
-title: "Poly Internship: "
+title: "Good Friday"
 layout: post-itp
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
