@@ -15,9 +15,8 @@ redirect_from:
     * <del>fran bow (all chapters)</del>
     * <del>little misfortune (tout it as the demo version)</del>
     * <s>little misfortune demo </s>
-    * crying suns
-    * bladed fury
-    * graveyard keeper
+    * <s>crying suns</s>
+    * <s>graveyard keeper</s>
     * don't starve pe
     * scribblenauts unlimited
     * icey
@@ -25,7 +24,7 @@ redirect_from:
     * out there: ohm edition
     * rogue hearts
     * marsus: survival on mars
-    * <del>simpleplanes</del> haven't upload yet
+    * <del>simpleplanes</del> 
     * radiation island
     * heroes and castles 2 - strategy action rpg
     * brothers: a tale of two sons
@@ -47,6 +46,7 @@ redirect_from:
     * kingdom
     * door kickers action squad
     * republique (full crack)
+    * bladed fury
     * corpse party: blood drive
     * steins gate (demo and unlocked story (?))
     * all JRPG horror games
