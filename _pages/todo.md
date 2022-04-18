@@ -17,8 +17,8 @@ redirect_from:
     * <s>little misfortune demo </s>
     * <s>crying suns</s>
     * <s>graveyard keeper</s>
-    * don't starve pe
-    * scribblenauts unlimited
+    * <s>don't starve pe</s>
+    * <s>scribblenauts unlimited</s>
     * icey
     * ticket to earth
     * out there: ohm edition
@@ -43,8 +43,12 @@ redirect_from:
     * rush rally 2
     * poly bridge 1 & 2
     * gta chinatown wars
-    * kingdom
+    * kingdom two crowns (link it with previous kingdom)
     * door kickers action squad
+    * the world ends with you
+    * sector strike (money mod)
+    * spongebob: battle for bikini bottom
+
     * republique (full crack)
     * bladed fury
     * corpse party: blood drive
@@ -55,6 +59,10 @@ redirect_from:
         * ao oni
         * ib
         * yume nikki (original & 3d)
+        * misao
+        * omori?
+        * crooked man
+        * paranoiac
         * blank dream
 * replace with xapk or apks
     * dead cells
