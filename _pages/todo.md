@@ -7,18 +7,9 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] upload all from apk-ascends
 * [YUYI] continue blog review, write from _only one_
 * [YUYI] add in, like, games by the same publishers in each game page.
 * [NUYI] find and create apk entries for the following
-    * kingdom two crowns (link it with previous kingdom)
-    * a town uncovered (latest, patreon only)
-    * escapist 1
-    * demos/freebies (the clean ones, direct from play store)
-        * only one
-        * tailed demon slayer
-        * 1941 frozen front
-        * vector 1 & 2
     * witchs house (from qooapp)
     * icey
     * ticket to earth

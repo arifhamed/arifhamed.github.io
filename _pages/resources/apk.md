@@ -68,7 +68,8 @@ Here are a few things to take note about the APKs here
 - Megatroid
     - Every APK found online besides Play Store either does not work or it is littered with viruses
 - Bladed Fury
-    - Every APK of bladed fury isn't functional for some reason
+    - <s>Every APK of bladed fury isn't functional for some reason</s>
+    - Seems like it's dependant on online, or at least for the apk that i got currently. testing and scouting may still undergo
 - Portalize
     - Nah. Almost all apks i have encountered are polluted as heck, just like Megatroid
 - Morphite

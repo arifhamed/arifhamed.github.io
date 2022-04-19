@@ -1,5 +1,5 @@
 ---
-title: "Drastic DS Emulator"
+title: "DraStic DS Emulator"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
