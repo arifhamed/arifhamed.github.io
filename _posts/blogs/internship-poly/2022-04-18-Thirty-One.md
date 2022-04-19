@@ -8,6 +8,11 @@ categories: internship-poly
 
 <span class="timestamp">[07:28]</span> <sup><a href='#1'>[1]</a></sup>
 
+<span class="timestamp">[17:??]</span> I'm writing this from tomorrow because i was probably focused on other personal stuff, but i also forgot to add on the [what i did today](#what-i-did-today)
+
+### What i did today
+* Sent a request for leave for 27 April due to NS appointment
+* Check units for <span ondblclick="this.innerHTML='Daniel Teo & Associates Pte Ltd'"><**REDACTED**></span> from 2018 to 2022. I just downloaded the sheet and used the Excel formulas to just get the sum for each of the years. 
 
 {% include comments.html %}
 

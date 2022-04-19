@@ -97,7 +97,7 @@ So let's get straight to it. here it is.
     <div class="col-sm-3" title="{{ post.title }}" style="{% if post.piracy or post.nsfw %} display:none; {% endif %}">
         <div class="card">
             <div class="card-body">
-                <a href="{{site.baseurl}}{{post.url}}"><img class="card-img" src="/static/images{{ post.url }}-icon.png" alt="{{ post.title }} icon"></a>
+                <a href="{{site.baseurl}}{{post.url}}"><img class="card-img" src="/static/images{{ post.url }}-icon.webp" alt="{{ post.title }} icon"></a>
                 <!-- <h5 class="card-title">{{ post.title }}</h5> -->
                 <h5 class="card-title text-center">{{ post.title }}</h5>
             </div>

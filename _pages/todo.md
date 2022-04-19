@@ -7,24 +7,24 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] test forgotten anne apk (record gameplay too)
+* [YUYI] upload all from apk-ascends
+* [YUYI] continue blog review, write from _only one_
 * [YUYI] add in, like, games by the same publishers in each game page.
-* [YUYI] find apk for <span ondblclick="this.innerHTML = 'witch trainer'">2022-04-08</span>
 * [NUYI] find and create apk entries for the following
-    * <del>portalize (demo and unlocked level)</del> postponed, surface level sites do not satisfy
-    * <del>fran bow (all chapters)</del>
-    * <del>little misfortune (tout it as the demo version)</del>
-    * <s>little misfortune demo </s>
-    * <s>crying suns</s>
-    * <s>graveyard keeper</s>
-    * <s>don't starve pe</s>
-    * <s>scribblenauts unlimited</s>
+    * kingdom two crowns (link it with previous kingdom)
+    * a town uncovered (latest, patreon only)
+    * escapist 1
+    * demos/freebies (the clean ones, direct from play store)
+        * only one
+        * tailed demon slayer
+        * 1941 frozen front
+        * vector 1 & 2
+    * witchs house (from qooapp)
     * icey
     * ticket to earth
     * out there: ohm edition
     * rogue hearts
     * marsus: survival on mars
-    * <del>simpleplanes</del> 
     * radiation island
     * heroes and castles 2 - strategy action rpg
     * brothers: a tale of two sons
@@ -43,11 +43,12 @@ redirect_from:
     * rush rally 2
     * poly bridge 1 & 2
     * gta chinatown wars
-    * kingdom two crowns (link it with previous kingdom)
     * door kickers action squad
     * the world ends with you
     * sector strike (money mod)
     * spongebob: battle for bikini bottom
+    * space rpg 4
+    * danganronpa v3 (just released very recently)
 
     * republique (full crack)
     * bladed fury
@@ -67,10 +68,7 @@ redirect_from:
 * replace with xapk or apks
     * dead cells
     * the school white day
-* remove the following files from releases
-    * republique
-    * steins gate
-    * 
+    * human fall flat
 * Any more in the list can be found as apk themselves in the downloads of the seagate drive
 * [NUYI] integrate the particles.js website to this website
 * [NUNI] continue demoing from survivalcraft
