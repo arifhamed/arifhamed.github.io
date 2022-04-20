@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Adorable Home"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.hyperbeard.adorablehome
-app-link: https://apps.apple.com/us/app/adorable-home/id1486637414
+ios-link: https://apps.apple.com/us/app/adorable-home/id1486637414
 tags: casual relaxing lgbtq 
 ---
 

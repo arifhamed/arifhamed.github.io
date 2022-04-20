@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=jp.konami.epjCastlevania2
-app-link: https://apps.apple.com/us/app/castlevania-sotn/id1435456830
+ios-link: https://apps.apple.com/us/app/castlevania-sotn/id1435456830
 steam-link: https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
 tags: castlevania rpg metroidvania retro nes
 piracy: true

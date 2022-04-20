@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.disney.castleofillusion_goo
-app-link: https://apps.apple.com/us/app/castle-of-illusion/id646489967
+ios-link: https://apps.apple.com/us/app/castle-of-illusion/id646489967
 steam-link: https://store.steampowered.com/app/227600/Castle_of_Illusion/
 tags: rpg disney platformer 
 piracy: true

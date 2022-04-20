@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 06a9f8c0-86c4-48bd-aecb-3abbc49f6e80
 play-link: https://play.google.com/store/apps/details?id=com.and.games505.humanfallflat
-app-link: https://apps.apple.com/us/app/human-fall-flat/id1438091392
+ios-link: https://apps.apple.com/us/app/human-fall-flat/id1438091392
 steam-link: https://store.steampowered.com/app/477160/Human_Fall_Flat/
 switch-link: https://www.nintendo.com/store/products/human-fall-flat-switch/
 tags: funny physics exploration platform multiplayer parkour comedy puzzle 3d 

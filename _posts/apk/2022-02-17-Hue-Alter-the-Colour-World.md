@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 0748c564-c26f-44b3-aaed-a96ec44f0f9a
 play-link: https://play.google.com/store/apps/details?id=com.BadlandPublishing.HUE
-app-link: https://apps.apple.com/sg/app/hue-a-valley-of-colors/id1495663583
+ios-link: https://apps.apple.com/sg/app/hue-a-valley-of-colors/id1495663583
 steam-link: https://store.steampowered.com/app/383270/Hue/
 switch-link: https://www.nintendo.com/store/products/hue-switch/
 tags: platform puzzle narrative narration colour 2d adventure casual relaxing

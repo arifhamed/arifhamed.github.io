@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] continue blog review, write from _only one_
+* [YUYI] continue blog review, write from _my friend pedro_
 * [YUYI] add in, like, games by the same publishers in each game page.
 * [NUYI] find and create apk entries for the following
     * witchs house (from qooapp)
@@ -24,7 +24,6 @@ redirect_from:
     * the sandbox (demo and currency crack)
     * monument valley 1 & 2 
         * just get 1, already have 2 in file server
-    * nier reincarnation
     * bad north: jotunn edition
     * world of goo
     * death road to canada
@@ -39,7 +38,7 @@ redirect_from:
     * sector strike (money mod)
     * spongebob: battle for bikini bottom
     * space rpg 4
-    * danganronpa v3 (just released very recently)
+    * danganronpa v3 (just released very recently, may need to wait a while)
 
     * republique (full crack)
     * bladed fury

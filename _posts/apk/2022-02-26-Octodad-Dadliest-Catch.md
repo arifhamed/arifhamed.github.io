@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.younghorses.octodad
-app-link: https://apps.apple.com/us/app/octodad-dadliest-catch/id1017367213
+ios-link: https://apps.apple.com/us/app/octodad-dadliest-catch/id1017367213
 steam-link: https://store.steampowered.com/app/224480/Octodad_Dadliest_Catch/
 tags: comedy funny physics stealth difficult adventure challenging narrative puzzle platform
 piracy: true

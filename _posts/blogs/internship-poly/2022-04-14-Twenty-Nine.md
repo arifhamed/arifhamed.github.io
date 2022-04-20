@@ -4,7 +4,7 @@ layout: post-itp
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
 ---
-# 29th day of internship
+# 29th day of internship. Halfway done WOOHOOOO
 
 <span class="timestamp">[16:05]</span> <sup><a href="#1">[1]</a></sup> Thank God it's Good Friday week, i can just write down the e-Logs & reflection now.
 

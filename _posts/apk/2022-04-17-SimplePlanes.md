@@ -4,7 +4,7 @@ layout: post-apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.jundroo.SimplePlanes
 steam-link: https://store.steampowered.com/app/397340/SimplePlanes/
-app-link: https://apps.apple.com/us/app/simpleplanes/id823869162
+ios-link: https://apps.apple.com/us/app/simpleplanes/id823869162
 tags: construction flying 
 piracy: true
 ---

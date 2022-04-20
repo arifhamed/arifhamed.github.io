@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.explodingkittens.projectbombsquad
-app-link: https://apps.apple.com/us/app/exploding-kittens/id1040227414
+ios-link: https://apps.apple.com/us/app/exploding-kittens/id1040227414
 tags: card cards card-game cats cat kitten explosion
 piracy: true
 ---

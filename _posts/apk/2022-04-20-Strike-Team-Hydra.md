@@ -4,7 +4,7 @@ layout: post-apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.WaveLightGames.StrikeTeamHydra
 steam-link: https://store.steampowered.com/app/716050/Strike_Team_Hydra/
-app-link: https://apps.apple.com/us/app/strike-team-hydra/id1262093285
+ios-link: https://apps.apple.com/us/app/strike-team-hydra/id1262093285
 tags: turn-based rpg 
 piracy: true
 ---

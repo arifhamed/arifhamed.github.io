@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=nz.co.codepoint.minimetro
-app-link: https://apps.apple.com/us/app/mini-metro/id837860959
+ios-link: https://apps.apple.com/us/app/mini-metro/id837860959
 steam-link: https://store.steampowered.com/app/287980/Mini_Metro/
 tags: management
 piracy: true

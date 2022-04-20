@@ -5,7 +5,7 @@ permalink: /resources/apk/:title
 play-link: 
 tags:
 published: false
-secret: javascript:document.getElementById('truth').setAttribute('style','display:block;');
+secret: javascript:document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
 ---
 
 > _"" - <a href="" target="_blank"></a>_

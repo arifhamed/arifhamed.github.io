@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.scottgames.sisterlocation
 steam-link: https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
-app-link: https://apps.apple.com/us/app/five-nights-at-freddys-sl/id1189781891
+ios-link: https://apps.apple.com/us/app/five-nights-at-freddys-sl/id1189781891
 tags: horror
 piracy: true
 ---

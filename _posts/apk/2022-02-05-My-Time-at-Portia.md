@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 45f822d4-c90e-4847-bfbe-e63e63288097
 play-link: https://play.google.com/store/apps/details?id=com.pathea.mtap
-app-link: https://apps.apple.com/us/app/my-time-at-portia/id1555184523
+ios-link: https://apps.apple.com/us/app/my-time-at-portia/id1555184523
 steam-link: https://store.steampowered.com/app/666140/My_Time_At_Portia/
 switch-link: https://www.nintendo.com/store/products/my-time-at-portia-switch/
 tags: rpg 3d exploration life-sim open-world farming indie sandbox construction crafting building adventure action

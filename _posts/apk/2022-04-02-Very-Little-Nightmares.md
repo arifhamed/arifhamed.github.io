@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=eu.bandainamcoent.verylittlenightmares
-app-link: https://apps.apple.com/us/app/very-little-nightmares/id1435140819
+ios-link: https://apps.apple.com/us/app/very-little-nightmares/id1435140819
 tags: puzzle vertical horror
 piracy: true
 ---

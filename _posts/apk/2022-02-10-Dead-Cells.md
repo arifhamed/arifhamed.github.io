@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: f6050cb0-6fa0-4684-ae17-347110f8e6c0
 play-link: https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile
-app-link: https://apps.apple.com/us/app/dead-cells/id1389752090
+ios-link: https://apps.apple.com/us/app/dead-cells/id1389752090
 steam-link: https://store.steampowered.com/app/588650/Dead_Cells/
 switch-link: https://www.nintendo.com/store/products/dead-cells-switch/
 tags: roguelike metroidvania platform action pixel exploration procedural 

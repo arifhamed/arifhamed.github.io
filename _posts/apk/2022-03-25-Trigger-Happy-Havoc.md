@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DR1
-app-link: https://apps.apple.com/us/app/danganronpa-trigger-happy-hav/id1502232038
+ios-link: https://apps.apple.com/us/app/danganronpa-trigger-happy-hav/id1502232038
 steam-link: https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
 tags: mystery visual-novel detective anime horror
 piracy: true

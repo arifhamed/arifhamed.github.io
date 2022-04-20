@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.OskarStalberg.Townscaper
-app-link: https://apps.apple.com/us/app/townscaper/id1549531491
+ios-link: https://apps.apple.com/us/app/townscaper/id1549531491
 steam-link: https://store.steampowered.com/app/1291340/Townscaper/
 tags: building relaxing sandbox casual indie zen
 piracy: true

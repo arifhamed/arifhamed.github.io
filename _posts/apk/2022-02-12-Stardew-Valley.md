@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: ba4add58-215a-4733-9c06-5d176986040e
 play-link: https://play.google.com/store/apps/details?id=com.chucklefish.stardewvalley
-app-link: https://apps.apple.com/us/app/stardew-valley/id1406710800
+ios-link: https://apps.apple.com/us/app/stardew-valley/id1406710800
 steam-link: https://store.steampowered.com/app/413150/Stardew_Valley/
 switch-link: https://www.nintendo.com/store/products/stardew-valley-switch/
 tags: farming simulation crafting rpg relaxing casual open-ended pixel agriculture 

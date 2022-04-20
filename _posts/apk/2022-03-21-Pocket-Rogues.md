@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.EtherGaming.PocketRogues
-app-link: https://apps.apple.com/us/app/pocket-rogues/id1330488406
+ios-link: https://apps.apple.com/us/app/pocket-rogues/id1330488406
 steam-link: https://store.steampowered.com/app/946610/Pocket_Rogues/
 tags: rpg roguelike action blood
 ---

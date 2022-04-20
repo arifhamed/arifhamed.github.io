@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.MOBGames.PoppyMobileChap1
-app-link: https://apps.apple.com/us/app/poppy-playtime-chapter-1/id1610947489
+ios-link: https://apps.apple.com/us/app/poppy-playtime-chapter-1/id1610947489
 tags: horror first-person fps slasher thriller survival-horror
 piracy: true
 ---

@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.oddworld.Stranger
 steam-link: https://store.steampowered.com/app/15750/Oddworld_Strangers_Wrath_HD/
-app-link: https://apps.apple.com/us/app/oddworld-strangers-wrath/id923555295
+ios-link: https://apps.apple.com/us/app/oddworld-strangers-wrath/id923555295
 tags: first-person fps 3d open-world shooter oddworld
 piracy: true
 ---

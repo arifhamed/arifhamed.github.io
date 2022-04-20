@@ -4,10 +4,10 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.hitcents.forgottonanne
-app-link: https://apps.apple.com/sg/app/forgotton-anne/id1457216934
+ios-link: https://apps.apple.com/sg/app/forgotton-anne/id1457216934
 steam-link: https://store.steampowered.com/app/542050/Forgotton_Anne/
 tags: anime rpg visual-novel
-secret: javascript:document.getElementById('truth').setAttribute('style','display:block;');
+secret: javascript:document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
 ---
 
 > _"Imagine a place where all that is lost and forgotten goes; old toys, letters, socks. The Forgotten Lands is a magical world inhabited by Forgotlings; living mislaid objects longing to be remembered." - <a href="https://play.google.com/store/apps/details?id=com.hitcents.forgottonanne" target="_blank">Play Store</a>_

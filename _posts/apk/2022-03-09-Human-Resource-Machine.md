@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.tomorrowcorporation.humanresourcemachine
-app-link: https://apps.apple.com/au/app/human-resource-machine/id1005098334
+ios-link: https://apps.apple.com/au/app/human-resource-machine/id1005098334
 steam-link: https://store.steampowered.com/app/375820/Human_Resource_Machine/
 tags: coding apocalyptic goo office
 piracy: true

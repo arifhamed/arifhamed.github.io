@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 279a7dab-3d50-4313-8f43-9fc0ff902c28
 play-link: https://play.google.com/store/apps/details?id=com.mojang.minecraftpe
-app-link: https://apps.apple.com/us/app/minecraft/id479516143
+ios-link: https://apps.apple.com/us/app/minecraft/id479516143
 switch-link: https://www.nintendo.com/store/products/minecraft-switch/
 tags: crafting action adventure exploration casual multiplayer singleplayer sandbox 3d survival indie
 piracy: true

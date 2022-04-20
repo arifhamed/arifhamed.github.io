@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=air.com.RustyLake.RustyLakeHotel
-app-link: https://apps.apple.com/us/app/rusty-lake-hotel/id1059911569
+ios-link: https://apps.apple.com/us/app/rusty-lake-hotel/id1059911569
 steam-link: https://store.steampowered.com/app/435120/Rusty_Lake_Hotel/
 itch-link: https://rustylake.itch.io/rustylakehotel
 tags: mystery horror gore puzzle box detective point-and-click

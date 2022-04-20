@@ -4,9 +4,9 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft
-app-link: https://apps.apple.com/us/app/survivalcraft/id622613679
+ios-link: https://apps.apple.com/us/app/survivalcraft/id622613679
 tags: survival minecraft mine crafting rpg open-world fps first-person third-person
-secret: javascript:document.getElementById('truth').setAttribute('style','display:block;');
+secret: javascript:document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
 ---
 
 > _"You are marooned on the shores of an infinite blocky world. Explore, mine resources, craft tools and weapons, make traps and grow plants. Tailor clothes and hunt animals for food and resources. Build a shelter to survive cold nights and share your worlds online. Ride horses, camels or donkeys and herd cattle to protect them from predators. Blast your way through the rock with explosives. Build complex electric devices. Possibilities are infinite in this long-running sandbox survival and construction game series." - <a href="https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft" target="_blank">Play Store</a>_

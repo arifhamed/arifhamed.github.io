@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.crescentmoongames.ravensword2
-app-link: https://apps.apple.com/us/app/ravensword-shadowlands/id566839331
+ios-link: https://apps.apple.com/us/app/ravensword-shadowlands/id566839331
 steam-link: https://store.steampowered.com/app/253410/Ravensword_Shadowlands/
 tags: rpg open-world adventure action
 piracy: true

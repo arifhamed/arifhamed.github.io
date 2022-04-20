@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: bdef7b4a-e361-46ce-819e-7e9c903ee424
-app-link: https://apps.apple.com/us/app/the-blockheads/id519596406
+ios-link: https://apps.apple.com/us/app/the-blockheads/id519596406
 tags: sandbox survival crafting 2d minecraft procedural minimalist retro 
 ---
 

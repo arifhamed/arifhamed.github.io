@@ -4,7 +4,7 @@ layout: post-apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.playdigious.cultist
 steam-link: https://store.steampowered.com/app/718670/Cultist_Simulator/    
-app-link: https://apps.apple.com/us/app/cultist-simulator/id1439886655
+ios-link: https://apps.apple.com/us/app/cultist-simulator/id1439886655
 tags: management
 piracy: true
 ---

@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 2844705b-3a91-4459-b25b-7b9ef8b28073
 play-link: https://play.google.com/store/apps/details?id=com.crescentmoongames.neonshadow
-app-link: https://apps.apple.com/us/app/neon-shadow-gameclub/id730030512
+ios-link: https://apps.apple.com/us/app/neon-shadow-gameclub/id730030512
 steam-link: https://store.steampowered.com/app/296890/Neon_Shadow/
 tags: shooter fps first-person action neon doom futuristic sci-fi
 ---

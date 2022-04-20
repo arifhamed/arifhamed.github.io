@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: b788ca01-899c-4a23-aff2-aa40737549b3
 play-link: https://play.google.com/store/apps/details?id=jp.studiopixel.keroblaster
-app-link: https://apps.apple.com/us/app/kero-blaster/id867598817
+ios-link: https://apps.apple.com/us/app/kero-blaster/id867598817
 steam-link: https://store.steampowered.com/app/292500/Kero_Blaster/
 switch-link: https://www.nintendo.com/store/products/kero-blaster-switch/
 tags: scroller 2d shoot-em-up satire retro pixel platform action adventure rpg frog cat

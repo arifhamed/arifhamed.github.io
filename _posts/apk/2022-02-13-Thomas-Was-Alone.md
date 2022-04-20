@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 322d6a8a-8757-4b85-b9df-6adf6bc49e77
-app-link: https://apps.apple.com/us/app/thomas-was-alone/id849095637
+ios-link: https://apps.apple.com/us/app/thomas-was-alone/id849095637
 steam-link: https://store.steampowered.com/app/220780/Thomas_Was_Alone/
 switch-link: https://www.nintendo.com/store/products/thomas-was-alone-switch/
 tags: platform narration puzzle minimalist story abstract narrative 2d 

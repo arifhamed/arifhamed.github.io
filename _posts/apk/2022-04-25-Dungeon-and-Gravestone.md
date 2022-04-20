@@ -1,17 +1,18 @@
 ---
-title: ""
+title: "Dungeon and Gravestone"
 layout: post-apk
 permalink: /resources/apk/:title
-play-link: 
-tags:
-published: false
+play-link: https://play.google.com/store/apps/details?id=com.wlkzinc.dandg
+steam-link: https://store.steampowered.com/app/1579100/Dungeon_and_Gravestone/
+ios-link: https://apps.apple.com/us/app/dungeon-and-gravestone/id1606709286
+tags: rpg
 piracy: true
 ---
 
-> _"" - <a href="" target="_blank"></a>_
+> _"Collect food, complete quests and even fish for your life! Engage in fierce boss battles! Life in the dungeon sure is risky but it's super fun too! A mysterious world where not only dungeons but even towns change their appearance." - <a href="https://store.steampowered.com/app/1579100/Dungeon_and_Gravestone/" target="_blank">Steam</a>_
 
-personal synopsis soon 
+To be honest, this was one that i found while passively scouring the apk sites. It really stood out because of how the graphics are like.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b></b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.wlkzinc.dandg_1.0.2.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.wlkzinc.dandg_1.0.2.apk</b> (103 MB)</a>
 </div>

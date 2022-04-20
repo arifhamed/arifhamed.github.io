@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.jds.batds
-app-link: https://apps.apple.com/us/app/boris-and-the-dark-survival/id1497319834
+ios-link: https://apps.apple.com/us/app/boris-and-the-dark-survival/id1497319834
 steam-link: https://store.steampowered.com/app/1236990/Boris_and_the_Dark_Survival/
 tags: action adventure strategy indie casual horror
 piracy: true

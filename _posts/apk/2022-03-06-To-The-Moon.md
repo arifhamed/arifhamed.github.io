@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.xd.tothemoon
-app-link: https://apps.apple.com/us/app/to-the-moon/id1159700098
+ios-link: https://apps.apple.com/us/app/to-the-moon/id1159700098
 steam-link: https://store.steampowered.com/app/206440/To_the_Moon/
 tags: rpg rpg-maker adventure indie story-rich puzzle emotional great-soundtrack
 piracy: true

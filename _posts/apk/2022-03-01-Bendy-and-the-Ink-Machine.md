@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.jds.batim
 steam-link: https://store.steampowered.com/app/622650/Bendy_and_the_Ink_Machine/
-app-link: https://apps.apple.com/us/app/bendy-and-the-ink-machine/id1437669537
+ios-link: https://apps.apple.com/us/app/bendy-and-the-ink-machine/id1437669537
 tags: indie puzzle action survival horror survival-horror fighting adventure strategy
 piracy: true
 ---

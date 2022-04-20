@@ -4,7 +4,7 @@ layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.mangoprotocol.psychotic.agatha
-app-link: https://apps.apple.com/us/app/agatha-knife/id1439443248
+ios-link: https://apps.apple.com/us/app/agatha-knife/id1439443248
 steam-link: https://store.steampowered.com/app/618950/Agatha_Knife/
 tags: rpg
 piracy: true

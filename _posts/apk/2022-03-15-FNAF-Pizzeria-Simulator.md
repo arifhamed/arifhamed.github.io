@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.clickteam.freddyfazbearspizzeriasimulator
 steam-link: https://store.steampowered.com/app/738060/Freddy_Fazbears_Pizzeria_Simulator/
-app-link: https://apps.apple.com/us/app/fnaf-6-pizzeria-simulator/id1455781522
+ios-link: https://apps.apple.com/us/app/fnaf-6-pizzeria-simulator/id1455781522
 tags: horror
 piracy: true
 ---

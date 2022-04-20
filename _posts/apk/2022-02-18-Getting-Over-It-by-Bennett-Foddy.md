@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 27fba95c-bc86-42df-96e7-3728ba00088f
 play-link: https://play.google.com/store/apps/details?id=com.noodlecake.gettingoverit
-app-link: https://apps.apple.com/us/app/getting-over-it/id1319618742
+ios-link: https://apps.apple.com/us/app/getting-over-it/id1319618742
 steam-link: https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/
 tags: psychological horror difficult physics philosophical singleplayer abstract humor platform funny narrative narration 
 piracy: true
