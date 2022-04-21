@@ -71,3 +71,10 @@ redirect_from:
 * [NUNI] albus app for android
     * just unzips and reads image archives.
     * include encryption
+* [NUNI] consider the following:
+    * child of light
+    * axiom verge
+    * celeste
+    * helltaker
+    * 
+    
