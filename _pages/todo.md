@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] continue blog review, write from _my friend pedro_
+* [YUYI] continue blog review, write from _dont starve pe_
 * [YUYI] add in, like, games by the same publishers in each game page.
 * [NUYI] find and create apk entries for the following
     * witchs house (from qooapp)
