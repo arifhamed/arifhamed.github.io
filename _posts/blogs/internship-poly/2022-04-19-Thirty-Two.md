@@ -4,7 +4,7 @@ layout: post-itp
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
 ---
-# 32 day of internship
+# 32nd day of internship
 
 <span class="timestamp">[15:52]</span> so refering to yesterday's post, yeah just added more to that. may as well start doing it for [today](#what-i-did-today) too.
 
