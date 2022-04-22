@@ -25,17 +25,17 @@ maybe you wanna stick to the current trend? play my own copy of [`wordle`](https
 
 think this homepage could be better? same. in fact, you can just leave comments almost anywhere in this website, you just need a github account.
 
+<span id="time">i can't get the latest update to this website smh</span>
+
 <script>
     getLatestCommitDate();
     async function getLatestCommitDate() {
         const response = await fetch("https://api.github.com/repos/arifhamed/arifhamed.github.io/commits");
         const all = await response.json();
         const latest_date = all[0]['commit']['author']['date']+" (GMT+8)";
-        document.getElementById('demo').innerHTML = "this website was last updated in "+latest_date;
+        document.getElementById('time').innerHTML = "this website was last updated in "+latest_date;
     }
 </script>
-
-<span id="time">i can't get the latest update to this website smh</span>
 
 
 {% include comments.html %}

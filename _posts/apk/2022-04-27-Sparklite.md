@@ -10,7 +10,7 @@ tags: rpg top-down shooter
 
 > _"Gear up for Adventure and battle foes in top-down action using an arsenal of gadgets, guns, and gear. Explore dangerous corners of the procedurally generated world, take down titans of the mining industry, and harness the power Sparklite!" - <a href="https://play.google.com/store/apps/details?id=com.playdigious.sparklite" target="_blank">Play Store</a>_
 
-It seems to be a pretty interesting game. The artstyle, the gameplay, among other things this game is actually quite well cut. 
+<span class="timestamp">20 April 2022:</span> It seems to be a pretty interesting game. The artstyle, the gameplay, among other things this game is actually quite well cut. 
 
 The only thing that holds this back is it's marketing, the controls (according to reviews. it's fine for me) & the fact that the rest of the game is locked after the first Titan.
 

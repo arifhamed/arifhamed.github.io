@@ -1,17 +1,19 @@
 ---
-title: ""
+title: "The Escapists 2: Pocket Breakout"
 layout: post-apk
 permalink: /resources/apk/:title
-play-link: 
-tags:
+play-link: https://play.google.com/store/apps/details?id=com.team17.escapists2
+steam-link: https://store.steampowered.com/app/641990/The_Escapists_2/
+ios-link: https://apps.apple.com/us/app/escapists-2-pocket-breakout/id1356167732
+tags: strategy
 published: false
 piracy: true
 ---
 
-> _"" - <a href="" target="_blank"></a>_
+> _"Craft, Steal, Brawl and Escape! It’s time to bust out of the toughest prisons in the world as you return to the life of an inmate in The Escapists 2, now with multiplayer! Have you got what it takes to escape?" - <a href="https://store.steampowered.com/app/641990/The_Escapists_2/" target="_blank">Steam</a>_
 
-personal synopsis soon 
+<span class="timestamp">22 April 2022:</span> just look at [the first game page](https://arifhamed.github.io/resources/apk/The-Escapists-2-Pocket-Breakout).
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b></b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.team17.escapists2_1.10.681181-pdalife-mod-menu.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.team17.escapists2_1.10.681181-pdalife-mod-menu.xapk</b> (377 MB)</a>
 </div>

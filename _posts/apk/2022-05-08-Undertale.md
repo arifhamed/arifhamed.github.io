@@ -10,7 +10,7 @@ secret: javascript:document.getElementById('truth').setAttribute('style','text-d
 
 > _"Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters. Now you must find your way out... or stay trapped forever." - <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank">Steam</a>_
 
-Now imagine my surprise to find a mobile version of this game that exists.
+<span class="timestamp">21 April 2022:</span> Now imagine my surprise to find a mobile version of this game that exists.
 
 While scavenging for APKs in a certain website, i came across Undertale. After finding out that perhaps people actually thought of porting the game from PC to Android (unofficially), i did a quick google search and found <a href="https://www.moddb.com/mods/undertale-mobile-mod" target="_blank">this</a>. All the details should be in the ModDB site, but just in case anyway, i've copied the guide here too.
 

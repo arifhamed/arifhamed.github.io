@@ -12,7 +12,7 @@ piracy: true
 > _"Northgard is a strategy game based on Norse mythology in which you control a clan of Vikings vying for the control of a mysterious newfound continent.
 " - <a href="https://store.steampowered.com/app/466560/Northgard/" target="_blank">Steam</a>_
 
-Just like a lot of the games here, i just got this because of the design and the artstyle, and probably a bit of the gameplay.
+<span class="timestamp">20 April 2022:</span> Just like a lot of the games here, i just got this because of the design and the artstyle, and probably a bit of the gameplay.
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.northgard_1.7.4.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.northgard_1.7.4.apk</b> (722 MB)</a>

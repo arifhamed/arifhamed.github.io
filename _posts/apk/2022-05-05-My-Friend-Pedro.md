@@ -11,7 +11,7 @@ secret: javascript:document.getElementById('truth').setAttribute('style','text-d
 
 > _"They kidnapped his wife and kids and left him for dead. But it's going to take more than that to split this banana's family. Help your friend Pedro serve some ice cold revenge, with a sprinkle of bullets on top!" - <a href="https://play.google.com/store/apps/details?id=com.devolverdigital.myfriendpedro" target="_blank">Play Store</a>_
 
-This was one of those games that appears on thos "Top 10 Android games" or something. 
+<span class="timestamp">21 April 2022:</span> This was one of those games that appears on thos "Top 10 Android games" or something. 
 
 Other than that, this is actually a pretty fun game. You basically just go through guns-a-blazin', all to save your friend, Pedro.
 

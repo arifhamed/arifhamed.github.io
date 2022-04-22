@@ -10,7 +10,7 @@ secret: javascript:document.getElementById('truth').setAttribute('style','text-d
 
 > _"Welcome to Tailed Demon Slayer. Join our hero's adventure in Bestia, a once happy and peaceful little town turned dark. Undead bosses are now crowding the streets under King Richie's iron fist. But this will end now! Stock up on epic hero powers to start the battle of the century today!" - <a href="https://play.google.com/store/apps/details?id=com.cookapps.taileddemonslayer" target="_blank">Play Store</a>_
 
-<span class="timestamp">[20-Apr-2022]</span> This game has appeared quite frequently in advertisements weeks ago, and honestly it did catch my eye for a few reasons:
+<span class="timestamp">20 April 2022:</span> This game has appeared quite frequently in advertisements weeks ago, and honestly it did catch my eye for a few reasons:
 1. There is the basic satisfying action that comes with an action game
 1. It is vertical
 1. It can be played AFK, basically creating the illusion of multi-tasking. 
