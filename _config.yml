@@ -3,6 +3,7 @@ include: ['_pages', '_redirect']
 description: > # this means to ignore newlines until "baseurl:"
     this is my website. thanks for visiting.
     this is where i do some things sometimes.
+title: arifhamed.com
 url: ""
 plugins:
   - jekyll-gist
