@@ -8,8 +8,8 @@ layout: default
 For all reviews and my current judgements, I decided to make things simpler for myself and list what are my devices right here.
 ### PC
 * ~~Acer... i can't recall the model, but it was the worst~~
-* Lenovo ThinkPad X250 ([specs](https://arifhamed.github.io/static/PDF/ThinkPad_X250_Spec.PDF))
-* Lenovo Yoga C640-13IML ([specs](https://arifhamed.github.io/static/PDF/Yoga_C640_13IML_Spec.PDF))
+* Lenovo ThinkPad X250 ([specs](https://arifhamed.com/static/PDF/ThinkPad_X250_Spec.PDF))
+* Lenovo Yoga C640-13IML ([specs](https://arifhamed.com/static/PDF/Yoga_C640_13IML_Spec.PDF))
 
 ### Android
 * ~~one or two samsung phones that I have lost throughout, what humbling times...~~

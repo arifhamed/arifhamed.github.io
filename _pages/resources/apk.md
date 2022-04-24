@@ -21,7 +21,7 @@ redirect_from:
 - /resources/APKS
 - /resources/APKS/
 layout: default
-# secret: "https://arifhamed.github.io/resources/apk?key=在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典"
+# secret: "https://arifhamed.com/resources/apk?key=在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典"
 secret: javascript:var slist=document.getElementsByClassName('col-sm-3');for(let a of slist)a.setAttribute('style','display:inline;');
 ---
 

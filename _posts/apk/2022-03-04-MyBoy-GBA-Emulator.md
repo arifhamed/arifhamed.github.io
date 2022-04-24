@@ -9,7 +9,7 @@ tags: emulator retro
 
 > _"My Boy! is a super fast and full-featured emulator to run GameBoy Advance games on the broadest range of Android devices, from very low-end phones to modern tablets. It emulates nearly all aspects of the real hardware correctly." - <a href="https://play.google.com/store/apps/details?id=com.fastemulator.gbafree" target="_blank">Play Store</a>_
 
-I had this emulator for a long while, and had pretty good memories of the Minish Cap & Metroid Fusion on it. Besides making up for my childhood, I got nothing else to say about it besides recognizing this as one of, if not, the best Gameboy Advanced emulator. For the original Gameboy emulator, here is the [MyOldBoy](https://arifhamed.github.io/resources/apk/MyOldBoy-GBA-Emulator).
+I had this emulator for a long while, and had pretty good memories of the Minish Cap & Metroid Fusion on it. Besides making up for my childhood, I got nothing else to say about it besides recognizing this as one of, if not, the best Gameboy Advanced emulator. For the original Gameboy emulator, here is the [MyOldBoy](https://arifhamed.com/resources/apk/MyOldBoy-GBA-Emulator).
 
 <span ondblclick="document.getElementById('paid').style.display='inline'">The following file is the Lite version.</span>
 

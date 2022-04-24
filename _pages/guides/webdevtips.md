@@ -25,7 +25,7 @@ body {
     flex-direction: column;
 }
 ```
-The above is CSS you can put into your site.css that can apply to all pages (as I also have done <a href="https://arifhamed.github.io/static/css/site.css" target="_blank">here</a>), and the below is an example of what to do in your layouts html files. The effect will, of course, be visible in _vertically smaller pages_. In the example below though, all i did to change to the layout is add in the style attribute to the _main_content_wrap_ division. 
+The above is CSS you can put into your site.css that can apply to all pages (as I also have done <a href="https://arifhamed.com/static/css/site.css" target="_blank">here</a>), and the below is an example of what to do in your layouts html files. The effect will, of course, be visible in _vertically smaller pages_. In the example below though, all i did to change to the layout is add in the style attribute to the _main_content_wrap_ division. 
 ``` html
 <div id="header_wrap" class="outer">
     <!-- HEADER CONTENT -->

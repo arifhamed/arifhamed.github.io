@@ -14,7 +14,7 @@ piracy: true
 
 Ahh, this would be referred to as a classic after many years, because somehow, it already has the classic vibe from it! This game takes a unique spin on the horror genre while also bringing up an old conspiracy related to Walt Disney and his competitors. 
 
-I believe this game is popular enough so that I don't have to re-explain this game, and just like [Boris & the Dark Survival](https://arifhamed.github.io/resources/apk/Boris-and-the-Dark-Survival), this was a port to Android (and iOS) that was executed well.
+I believe this game is popular enough so that I don't have to re-explain this game, and just like [Boris & the Dark Survival](https://arifhamed.com/resources/apk/Boris-and-the-Dark-Survival), this was a port to Android (and iOS) that was executed well.
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.jds.batim_1.0.829.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.jds.batim_1.0.829.xapk</b> (487 MB)</a>

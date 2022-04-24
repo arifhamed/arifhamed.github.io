@@ -27,7 +27,7 @@ This mod requires you to own the v1.08 release on either Windows, Mac or Linux. 
 
 A Windows PC is also required.
 
-1. Download the <a href="https://arifhamed.github.io/static/archives/Undertale_Mobile_Mod_2.0.0.zip" target="_blank">mod zip</a> (last updated as of <span class="timestamp">09-Dec-2019</span>).
+1. Download the <a href="https://arifhamed.com/static/archives/Undertale_Mobile_Mod_2.0.0.zip" target="_blank">mod zip</a> (last updated as of <span class="timestamp">09-Dec-2019</span>).
 1. **SKIP THIS STEP IF YOU OWN THE STEAM v1.08 RELEASE**: Run DeltaPatcherLite.exe and drag and drop your data.win/.ios/.unx into the 'original file' box. (If you're using the Windows 10 Store, <span onclick="this.innerHTML='magnet:?xt=urn:btih:767CA0969B52378CF7FF12880AC3952EC280FD5E&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Undertale%20%5BL%5D%20%5BENG%5D%20(2015)%20(1.08)%20%5BGOG%5D'">GOG,</span> or Windows Collector's Edition version of the game drag and drop the "Windows Collector's Edition" .xdelta file into the 'XDelta Patch' box. Otherwise use the .xdelta patch which corresponds to your version of the game.) Click 'Apply patch' - this will give you the v1.08 Steam release version of the game.
 1. Drag and drop the Steam data.win into the 'Original file' box, then drag and drop the Steam to Mobile Mod .xdelta patch into the 'XDelta Patch' box. Click 'Apply patch', this will give you the patched version of the game with the mobile mod installed.
 1. Rename data.win to game.ios, or game.droid if you're installing on an Android device.

@@ -12,7 +12,7 @@ piracy: true
 
 > _"Jabberwock Island—You and your classmates were ready for fun in the sun until Monokuma returned to restart his murderous game! Trapped in a kill-or-be-killed situation, your only hope rests in solving the island’s mysteries." - <a href="https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/" target="_blank">Steam</a>_
 
-ctrl+c, ctrl+v review from [THH](https://arifhamed.github.io/resources/apk/Trigger-Happy-Havoc). According to the fans, Danganronpa kinda goes downhill, from what i read anyway, I could be wrong though. For all i know, this game still has good content, and many people love the characters in this game too. Seems pretty fine. <span style="font-size:20%;color:#0002;">chiaki is best girl</span>
+ctrl+c, ctrl+v review from [THH](https://arifhamed.com/resources/apk/Trigger-Happy-Havoc). According to the fans, Danganronpa kinda goes downhill, from what i read anyway, I could be wrong though. For all i know, this game still has good content, and many people love the characters in this game too. Seems pretty fine. <span style="font-size:20%;color:#0002;">chiaki is best girl</span>
 
 ytbers Game Grumps are also playing this game and still recording it (as of <span class="timestamp">24 March 2022</span>), though I'm one of those people who would wait until their uploading of the entire gameplay was played through. Seems promising imo.
 

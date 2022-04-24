@@ -9,7 +9,7 @@ redirect_from:
 
 _&lt;note for arif: state how android 11 or so already gives screen recording but it kinda sucks because it uses the same gpu or whatever&gt;_
 
-A lot of commands here actually relates to the [Android Debug Bridge](https://arifhamed.github.io/guides/adb), and a few pieces of software that I will explicitly state that is needed.
+A lot of commands here actually relates to the [Android Debug Bridge](https://arifhamed.com/guides/adb), and a few pieces of software that I will explicitly state that is needed.
 
 ### Here are some programs that you need to start recording your Android phone's audio and screen:
 * <a href="https://developer.android.com/studio/releases/platform-tools" target="_blank">Android SDK Platform Tools</a>
