@@ -7,13 +7,15 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] continue blog review, write from _taffytales_
+* [YUYI] change the back button on each apk post
+* [YUYI] modify index page to hide this todo page
+* [YUYI] after uploading latest, continue the blog
+    * from the witch's house
 * [YUYI] add in, like, games by the same publishers in each game page.
 * [NUYI] find and create apk entries for the following
-    * witchs house (from qooapp)
-    * icey
-    * ticket to earth
-    * out there: ohm edition
+    * <s>witchs house (from qooapp)</s>
+    * <s>ticket to earth</s>
+    * <s>out there: ohm edition</s>
     * battlevoid: sector siege
     * battlevoid: harbinger
     * rogue hearts
@@ -40,12 +42,19 @@ redirect_from:
     * sector strike (money mod)
     * spongebob: battle for bikini bottom
     * space rpg 4
+    * el hijo
+    * dungeon maker
+    * fnaf security breach
+    * titan glory
+    * the gardens between
     * danganronpa v3 (just released very recently, may need to wait a while)
-
+<br>
+<br>
     * republique (full crack)
     * bladed fury
     * corpse party: blood drive
     * steins gate (demo and unlocked story (?))
+    * icey
     * all JRPG horror games
         * witch's house
         * mad father
@@ -61,6 +70,7 @@ redirect_from:
     * dead cells
     * the school white day
     * human fall flat
+* consider combining mtap apks with antisplit x
 * Any more in the list can be found as apk themselves in the downloads of the seagate drive
 * [NUYI] integrate the particles.js website to this website
 * [NUNI] continue demoing from survivalcraft
@@ -78,5 +88,11 @@ redirect_from:
     * axiom verge
     * celeste
     * helltaker
-    * 
+    * american mcgee's alice
+    * alice: madness returns
+    * crosscode 
+    * contrast
+    * subnautica (maybe not, but)
+
+
     
