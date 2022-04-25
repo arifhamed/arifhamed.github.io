@@ -16,11 +16,10 @@ redirect_from:
     * <s>witchs house (from qooapp)</s>
     * <s>ticket to earth</s>
     * <s>out there: ohm edition</s>
-    * battlevoid: sector siege
-    * battlevoid: harbinger
-    * rogue hearts
-    * marsus: survival on mars
-    * radiation island
+    * <s>battlevoid: sector siege</s>
+    * <s>battlevoid: harbinger</s>
+    * <s>rogue hearts</s>
+    * <s>marsus: survival on mars</s>
     * heroes and castles 2 - strategy action rpg
     * brothers: a tale of two sons
     * fps maker 3d
@@ -47,6 +46,8 @@ redirect_from:
     * fnaf security breach
     * titan glory
     * the gardens between
+    * radiation island
+    * [attack on titan](https://apkaward.com/attack-on-titan)
     * danganronpa v3 (just released very recently, may need to wait a while)
 <br>
 <br>
