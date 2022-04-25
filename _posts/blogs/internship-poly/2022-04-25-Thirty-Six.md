@@ -8,7 +8,7 @@ categories: internship-poly
 
 <span class="timestamp">[11:14]</span> A day isn't great by itself, rather, it should be a longer time period that a person should be happy about or smtg idk lmao <sup><a href="#1">[1]</a></sup>. Also, starting [tomorrow](https://arifhamed.com/blogs/internship-poly/2022/04/26), groups visits to houses can now be allowed from 5 to **10** people <sup><a href="#2">[2]</a></sup>.
 
-<span class="timestamp">[17:54]</span> In retrospect, today was actually really fast. didn't do shit today. also, yesterday was the day i actually bought [arifhamed.com](arifhamed.com) dns from Google. good price imo, ngl.
+<span class="timestamp">[17:54]</span> In retrospect, today was actually really fast. didn't do shit today, besides probably had 4 micronaps, and continued my APK scouting. also, yesterday was the day i actually bought [arifhamed.com](arifhamed.com) dns from Google. good price imo, ngl.
 
 
 {% include comments.html %}
