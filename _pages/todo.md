@@ -20,7 +20,6 @@ redirect_from:
     * <s>battlevoid: harbinger</s>
     * <s>rogue hearts</s>
     * <s>marsus: survival on mars</s>
-    * heroes and castles 2 - strategy action rpg
     * brothers: a tale of two sons
     * fps maker 3d
     * little inferno
@@ -48,6 +47,7 @@ redirect_from:
     * the gardens between
     * radiation island
     * [attack on titan](https://apkaward.com/attack-on-titan)
+    * heroes and castles 2 - strategy action rpg
     * danganronpa v3 (just released very recently, may need to wait a while)
 <br>
 <br>

@@ -5,7 +5,7 @@ permalink: /resources/apk/:title
 play-link: 
 tags:
 published: false
-nsfw: true
+piracy: true
 ---
 
 > _"" - <a href="" target="_blank"></a>_

@@ -6,7 +6,6 @@ play-link: https://play.google.com/store/apps/details?id=com.team17.escapists2
 steam-link: https://store.steampowered.com/app/641990/The_Escapists_2/
 ios-link: https://apps.apple.com/us/app/escapists-2-pocket-breakout/id1356167732
 tags: strategy
-published: false
 piracy: true
 ---
 
