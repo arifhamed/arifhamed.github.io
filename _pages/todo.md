@@ -21,7 +21,7 @@ redirect_from:
     * <s>rogue hearts</s>
     * <s>marsus: survival on mars</s>
     * <s>brothers: a tale of two sons</s>
-    * fps maker 3d
+    * <s>fps maker 3d & game creator</s>
     * little inferno
     * the sandbox (demo and currency crack)
     * monument valley 1 & 2 
