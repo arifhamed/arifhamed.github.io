@@ -48,7 +48,11 @@ redirect_from:
     * radiation island
     * [attack on titan](https://apkaward.com/attack-on-titan)
     * heroes and castles 2 - strategy action rpg
-    * danganronpa v3 (just released very recently, may need to wait a while)
+    * <a href="https://apkaward.com/aerial-knights-never-yield" target="_blank">https://apkaward.com/aerial-knights-never-yield</a>
+    * <a href="https://apkaward.com/the-house-of-da-vinci-mod" target="_blank">https://apkaward.com/the-house-of-da-vinci-mod</a>
+    * <a href="https://apkaward.com/return-to-castle-wolfenstein-hd" target="_blank">https://apkaward.com/return-to-castle-wolfenstein-hd</a>
+    * <a href="https://apkaward.com/star-traders-frontiers" target="_blank">https://apkaward.com/star-traders-frontiers</a>
+    * <s>danganronpa v3 (just released very recently, may need to wait a while)</s>
 <br>
 <br>
     * republique (full crack)
