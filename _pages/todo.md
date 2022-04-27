@@ -20,7 +20,7 @@ redirect_from:
     * <s>battlevoid: harbinger</s>
     * <s>rogue hearts</s>
     * <s>marsus: survival on mars</s>
-    * brothers: a tale of two sons
+    * <s>brothers: a tale of two sons</s>
     * fps maker 3d
     * little inferno
     * the sandbox (demo and currency crack)
