@@ -19,9 +19,6 @@ Now about what happened to this game. This was once in the Play Store, and the g
 Now, according to the [Blockheads official forum](https://theblockheads.net/2018/03/15/1.7-out-now.html), the Noodlecake Studios (probably either the publisher or developer of Blockheads) still host it [here](https://noodlecake.com/wp-content/uploads/2021/02/theblockheads1.7.6.apk). However, for some damn reason, 1.7.6 doesn't start up on my current phone, but it does run on my API 27 phone, so I uploaded 1.7.5 version instead. The APKs were sourced <a href="https://the-blockheads.en.uptodown.com/android" target="_blank">here</a>
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.noodlecake.blockheads_1.7.6.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.noodlecake.blockheads_1.7.6.apk</b> (95.1 MB)</a>
-</div>
-
-<div class="text-center">
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.noodlecake.blockheads_1.7.6.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.noodlecake.blockheads_1.7.6.apk</b> (95.1 MB)</a><br>
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.noodlecake.blockheads_1.7.5.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.noodlecake.blockheads_1.7.5.apk</b> (94 MB)</a>
 </div>

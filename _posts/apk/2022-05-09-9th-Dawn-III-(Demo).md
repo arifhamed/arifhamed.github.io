@@ -1,5 +1,5 @@
 ---
-title: "9th Dawn III"
+title: "9th Dawn III (Demo)"
 layout: post-apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.valorware.ninthdawniiifreedemo

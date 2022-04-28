@@ -6,7 +6,7 @@ categories: internship-poly
 ---
 # 39th day of internship
 
-<span class="timestamp">[17:18]</span> Um, well. nothing new today hahaha. 
+<span class="timestamp">[17:18]</span> Um, well. nothing new today :|. 
 
 
 {% include comments.html %}

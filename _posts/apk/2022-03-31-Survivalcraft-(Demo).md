@@ -1,5 +1,5 @@
 ---
-title: "Survivalcraft"
+title: "Survivalcraft (Demo)"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title

@@ -23,7 +23,3 @@ Also just occured to me that this blog, like, really is like an online diary. Do
 
 
 {% include comments.html %}
-
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
-
-<span class="disable-selection" id="truth" style="display:block;"></span>

@@ -1,5 +1,5 @@
 ---
-title: "Terraria"
+title: "Terraria (Demo)"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
@@ -9,6 +9,7 @@ ios-link: https://apps.apple.com/us/app/terraria/id640364616
 steam-link: https://store.steampowered.com/app/105600/Terraria/
 switch-link: https://www.nintendo.com/store/products/terraria-switch/
 tags: crafting adventure action procedural construction sandbox 2d retro pixel exploration cross-platform survival indie
+secret: javascript:document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
 ---
 
 > _"Dig, Fight, Build! The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!" - <a href="https://terraria.org/" target="_blank">Official Terraria site</a>_
@@ -20,8 +21,6 @@ I don't even need to explain this game, it can just explain in itself, and a who
 > In fact, that first time I have ever played Terraria was actually from an APK. I wanted more of the game after realising I could not combine the _Anklet_, the _Aglet_ & the _Spectre Boots_. After that, I decided to buy the game. That (along with the PC version and several other games) was one of the **best video game purchases I have ever made**. - _Arif_
 
 Shoutouts to <a href="https://www.drstudios.co.uk/" target="_blank">DR Studios</a> for doing such a great job porting 1.3 content to mobile, and also 1.4 content so much faster than the console version. I really aspire to be like them one day, more than just creating this sketchy website. 
-
-As stated, I personally bought this game (both on Steam & Play Store), which explains the existence of my gameplay. I only uploaded this <span ondblclick="document.getElementById('paid').style.display = 'inline'">demo version</span>.
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.Terraria_1.4.0.5.2.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.Terraria_1.4.0.5.2.apk</b> (163 MB)</a><br>

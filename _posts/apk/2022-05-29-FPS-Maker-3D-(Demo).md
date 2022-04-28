@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "FPS Maker 3D (Demo)"
 layout: post-apk
 permalink: /resources/apk/:title
 play-link: 
 tags:
 published: false
-piracy: true
+secret: javascript:document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
 ---
 
 > _"" - <a href="" target="_blank"></a>_

@@ -18,6 +18,6 @@ Other than that, this is actually a pretty fun game. You basically just go throu
 One of my favourite things about this game is, ironically, the trailers that come with this game. You can find a few on <a href="https://store.steampowered.com/app/557340/My_Friend_Pedro/" target="_blank">Steam</a>, pretty cool animations, smh i love it more than the game lolll
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.devolverdigital.myfriendpedro_1.11.apks")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.devolverdigital.myfriendpedro_1.11.apks</b> (79.2 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.devolverdigital.myfriendpedro_1.11.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.devolverdigital.myfriendpedro_1.11.apk</b> (79.2 MB)</a><br>
     <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.devolverdigital.myfriendpedro_1.11-full.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.devolverdigital.myfriendpedro_1.11-full.apk</b> (91.6 MB)</a>
 </div>
