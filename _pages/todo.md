@@ -24,9 +24,9 @@ redirect_from:
     * <s>fps maker 3d</s>
     * <s>game creator</s>
     * <s>little inferno</s>
-    * the sandbox (demo and currency crack)
-    * monument valley 1 & 2 
-        * just get 1, already have 2 in file server
+    * <s>the sandbox (original and currency crack)</s>
+    * <s>the sandbox evolution (original and currency crack)</s>
+    * <s>monument valley 1 & 2 </s>
     * bad north: jotunn edition
     * world of goo
     * death road to canada
@@ -35,7 +35,14 @@ redirect_from:
     * pascals wager
     * rush rally 2
     * poly bridge 1 & 2
-    * gta chinatown wars
+    * all by rockstar games
+        * sa
+        * vice city
+        * liberty city stories
+        * chinatown wars
+        * iii
+        * bully
+        * max payne
     * door kickers action squad
     * the world ends with you
     * sector strike (money mod)
