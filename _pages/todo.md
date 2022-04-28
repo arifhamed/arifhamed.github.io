@@ -21,8 +21,9 @@ redirect_from:
     * <s>rogue hearts</s>
     * <s>marsus: survival on mars</s>
     * <s>brothers: a tale of two sons</s>
-    * <s>fps maker 3d & game creator</s>
-    * little inferno
+    * <s>fps maker 3d</s>
+    * <s>game creator</s>
+    * <s>little inferno</s>
     * the sandbox (demo and currency crack)
     * monument valley 1 & 2 
         * just get 1, already have 2 in file server
@@ -98,6 +99,11 @@ redirect_from:
     * crosscode 
     * contrast
     * subnautica (maybe not, but)
-
+    * a lot of the horror games
+        * water womb world
+        * loving flesh
+        * i was so hungry
+        * 
+    * metroid dread
 
     
