@@ -46,7 +46,8 @@ redirect_from:
     * <a href="https://apkaward.com/the-house-of-da-vinci-mod" target="_blank">https://apkaward.com/the-house-of-da-vinci-mod</a>
     * <a href="https://apkaward.com/return-to-castle-wolfenstein-hd" target="_blank">https://apkaward.com/return-to-castle-wolfenstein-hd</a>
     * <a href="https://apkaward.com/star-traders-frontiers" target="_blank">https://apkaward.com/star-traders-frontiers</a>
-    * <s>danganronpa v3 (just released very recently, may need to wait a while)</s>
+    * bard's tale
+    * the galaxy: survivor
 <br>
 <br>
     * republique (full crack)
