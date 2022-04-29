@@ -25,4 +25,4 @@ LATEST UPDATE: I have decided to upload the common APKS file instead, as not onl
 </div>
 
 Also, i got some more gameplay below. Click to play, got sound too.
-<video onclick="this.paused ? this.play() : this.pause();"><source src="/static/webm/resources/apk/My-Time-at-Portia-mines.webm" type="video/webm"></source></video>
+<video controls onclick="this.paused ? this.play() : this.pause();"><source src="/static/webm/resources/apk/My-Time-at-Portia-mines.webm" type="video/webm"></source></video>

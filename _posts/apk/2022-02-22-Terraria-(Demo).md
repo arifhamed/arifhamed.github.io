@@ -28,4 +28,4 @@ Shoutouts to <a href="https://www.drstudios.co.uk/" target="_blank">DR Studios</
 </div>
 
 Also, i got some more gameplay below.
-<video onclick="this.paused ? this.play() : this.pause();"><source src="/static/webm/resources/apk/Terraria-alt.webm" type="video/webm"></source></video>
+<video controls onclick="this.paused ? this.play() : this.pause();"><source src="/static/webm/resources/apk/Terraria-alt.webm" type="video/webm"></source></video>
