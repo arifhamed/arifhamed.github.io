@@ -13,7 +13,7 @@ categories: internship-poly
 <span class="timestamp">[17:56]</span> Before leaving, I have found that I am back into the APK-collector gig.
 
 ### What i did new today
-* Ping CCTV DVR from any server for <span ondblclick="this.innerHTML='Top Plasterceil Pte Ltd'">&lt;<b>REDACTED</b>: customer name&gt;</span>.
+* Ping CCTV DVR from any server for <span class="disable-selection" ondblclick="this.innerHTML='Top Plasterceil Pte Ltd'">&lt;<b>REDACTED</b>: customer name&gt;</span>.
     * Log in to server computer with TeamViewer, details has been saved to the IT Support TeamViewer account (which means I didn't need to ask or manually find it in the IT info)
     * Refering to IT info anyway, log in using any available account that is logged into the PC already.
     * Open `cmd` or `powershell`

@@ -60,6 +60,28 @@
                 {% break %}
               {% endif %}
             {% endfor %}
+            
+            <script>
+              document.addEventListener('keydown', function(event) {
+                //const key = event.key; // "ArrowRight", "ArrowLeft", "ArrowUp", or "ArrowDown"
+                switch (event.key) {
+                case "ArrowLeft":
+                    // Left pressed
+                    window.open("{{previous_post.url}}","_self")
+                    break;
+                case "ArrowRight":
+                    // Right pressed
+                    window.open("{{next_post.url}}","_self")
+                    break;
+                case "ArrowUp":
+                    // Up pressed
+                    break;
+                case "ArrowDown":
+                    // Down pressed
+                    break;
+                }
+              });
+            </script>
 
             {% if previous_post and next_post %}
               <a class="prev btn btn-dark" style="background-color:#333;" href="{{previous_post.url}}">&laquo; {{previous_post.title}}</a>

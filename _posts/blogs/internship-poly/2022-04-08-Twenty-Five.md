@@ -24,7 +24,7 @@ Create and send to team group chat WhatsApp report consisting of:
 Checked service reports of the previous day:
  - Done by checking time recorded accurately
     - If there is something wrong, I will check directly with the assignee
- - Rename and save reports to <span ondblclick="this.innerHTML='Infospace'"><REDACTED: company name></span> Storage
+ - Rename and save reports to <span class="disable-selection" ondblclick="this.innerHTML='Infospace'"><REDACTED: company name></span> Storage
 
 ---
 
@@ -35,25 +35,25 @@ Task hours: 3
 To create a Monthly ACME Monaco Offsite Backup Check, the following is the sequence that I have done:
 
 1. Make a new email.
-    * From: <span ondblclick="this.innerHTML='ia@infospace.com.sg'">&lt;<b>REDACTED</b>: company intern email&gt;</span>
-    * To: <span ondblclick="this.innerHTML='alan@infospace.com.sg'">&lt;<b>REDACTED</b>: company supervisor email&gt;</span>
-        * The 'To' field is set to the supervisor because you need to get their approval first, after that you can switch it out with <span ondblclick="this.innerHTML='shirley.lee@acmemonaco.com'">&lt;<b>REDACTED</b>: a customer email&gt;</span>
+    * From: <span class="disable-selection" ondblclick="this.innerHTML='ia@infospace.com.sg'">&lt;<b>REDACTED</b>: company intern email&gt;</span>
+    * To: <span class="disable-selection" ondblclick="this.innerHTML='alan@infospace.com.sg'">&lt;<b>REDACTED</b>: company supervisor email&gt;</span>
+        * The 'To' field is set to the supervisor because you need to get their approval first, after that you can switch it out with <span class="disable-selection" ondblclick="this.innerHTML='shirley.lee@acmemonaco.com'">&lt;<b>REDACTED</b>: a customer email&gt;</span>
     * Subject: "Data Offsite Backup check as of [DD MMM YYYY]
 1. Obtain screenshots of both local & offsite backup via NAS
-    1. Open file explorer, go to <span ondblclick="this.innerHTML='C:\\Users\\User\\Dropbox\\InfoSpace Common\\Customers\\ACME Monaco'">&lt;<b>REDACTED</b>: reference file location&gt;</span>, and then open the <span ondblclick="this.innerHTML='ACME Monaco IT info.xlsx'">&lt;<b>REDACTED</b>: reference file name&gt;</span>
-    1. Go to the “Server and Network Info.” tab, and under the “NAS'' section, you will see the login information for the NAS <span ondblclick="this.innerHTML='AMANAS'">&lt;<b>REDACTED</b>: customer NAS&gt;</span>, as well as NAS <span ondblclick="this.innerHTML='AMANAOFFSITE'">&lt;<b>REDACTED</b>: customer NAS&gt;</span>
-    1. For now, click on the synology quickconnect link for <span ondblclick="this.innerHTML='AMANAS'">&lt;<b>REDACTED</b>: customer NAS&gt;</span>, which is <span ondblclick="this.innerHTML='https://quickconnect.to/acmemonaco'">&lt;<b>REDACTED</b>: customer quickconnect url&gt;</span>, then login with the credentials that are written in the guide.
+    1. Open file explorer, go to <span class="disable-selection" ondblclick="this.innerHTML='C:\\Users\\User\\Dropbox\\InfoSpace Common\\Customers\\ACME Monaco'">&lt;<b>REDACTED</b>: reference file location&gt;</span>, and then open the <span class="disable-selection" ondblclick="this.innerHTML='ACME Monaco IT info.xlsx'">&lt;<b>REDACTED</b>: reference file name&gt;</span>
+    1. Go to the “Server and Network Info.” tab, and under the “NAS'' section, you will see the login information for the NAS <span class="disable-selection" ondblclick="this.innerHTML='AMANAS'">&lt;<b>REDACTED</b>: customer NAS&gt;</span>, as well as NAS <span class="disable-selection" ondblclick="this.innerHTML='AMANAOFFSITE'">&lt;<b>REDACTED</b>: customer NAS&gt;</span>
+    1. For now, click on the synology quickconnect link for <span class="disable-selection" ondblclick="this.innerHTML='AMANAS'">&lt;<b>REDACTED</b>: customer NAS&gt;</span>, which is <span class="disable-selection" ondblclick="this.innerHTML='https://quickconnect.to/acmemonaco'">&lt;<b>REDACTED</b>: customer quickconnect url&gt;</span>, then login with the credentials that are written in the guide.
     1. Once logged in, navigate to the "Main Menu", the icon in the top left, and then click on "Hyper Backup", as shown in the guide.
     1. Once in, screenshot the first one. 
 1. After you have pasted the screenshot in the email, you will need to do the steps for the following image.
-    1. Using the information found in step 3c, go to <span ondblclick="this.innerHTML='https://quickconnect.to/acmemonacooffsite'">&lt;<b>REDACTED</b>: other customer NAS&gt;</span>, and as of writing this, the credentials are the same as the one above.
-    1. After getting in, head to "File Station" which is located on the desktop, and then right click on the <span ondblclick="this.innerHTML='AMANAS_1.hbk'">&lt;<b>REDACTED</b>: customer NAS file&gt;</span>, and click "Open Backup Explorer".
+    1. Using the information found in step 3c, go to <span class="disable-selection" ondblclick="this.innerHTML='https://quickconnect.to/acmemonacooffsite'">&lt;<b>REDACTED</b>: other customer NAS&gt;</span>, and as of writing this, the credentials are the same as the one above.
+    1. After getting in, head to "File Station" which is located on the desktop, and then right click on the <span class="disable-selection" ondblclick="this.innerHTML='AMANAS_1.hbk'">&lt;<b>REDACTED</b>: customer NAS file&gt;</span>, and click "Open Backup Explorer".
     1. As stated in the guide, you should include the timeline at the bottom of the window when taking the screenshot
-    1. Paste it to the email, send to supervisor for approval before sending it to <span ondblclick="this.innerHTML='Shirley'">&lt;REDACTED&gt;</span>
+    1. Paste it to the email, send to supervisor for approval before sending it to <span class="disable-selection" ondblclick="this.innerHTML='Shirley'">&lt;REDACTED&gt;</span>
 
 ---
 
-Task name: Ping CCTV DVR from any server for <span ondblclick="this.innerHTML='Top Plasterceil Pte Ltd'">&lt;<b>REDACTED</b>: customer name&gt;</span>.
+Task name: Ping CCTV DVR from any server for <span class="disable-selection" ondblclick="this.innerHTML='Top Plasterceil Pte Ltd'">&lt;<b>REDACTED</b>: customer name&gt;</span>.
 
 Task hours: 0.5
 
@@ -88,10 +88,10 @@ Next up in my itinerary of concerns is whether or not Good Friday is a valid hol
 ---
 ---
 
-<span class="timestamp">[16:50]</span> ...and submitted.. It always feels good to do that at the end of every week. My gosh this internship is like RP divided by 7 HAHA and damn, what an inside joke for singaporeans. I wonder if people in rp needs to write a reflection everyday even in internship. Oh lord, my meticulousness will kill me like that. Now I <span ondblclick="this.innerHTML='can finally buy that nice chicken cheese bread'"><**REDACTED**></span>.
+<span class="timestamp">[16:50]</span> ...and submitted.. It always feels good to do that at the end of every week. My gosh this internship is like RP divided by 7 HAHA and damn, what an inside joke for singaporeans. I wonder if people in rp needs to write a reflection everyday even in internship. Oh lord, my meticulousness will kill me like that. Now I <span class="disable-selection" ondblclick="this.innerHTML='can finally buy that nice chicken cheese bread'"><**REDACTED**></span>.
 
 {% include comments.html %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
-<span class="disable-selection" id="truth" style="display:none;">Once again, prayer meeting back at HCC! Promenade to HCC is pretty close, ngl. Still though, Good Friday is next week, so God help me and the cast & crew. It is already here! ohohohoho<br><br>Now on more solemn news, I have this friend. I really care for them a lot, and they have been in and out of this state of missingness and depression, and then coming back to us as if nothing happened. Unlike my care, I had zero clue what was happening to them. I dare not provide more details upon this post but it is up to those who are accountable with them to keep on praying for them. Our leader revealed that, perhaps, their behaviour is linked to something about accountability, which somwhat relates to the next subject.<br><br> Something else that I decided to partake in is that me and a good friend (different one) made a purity pact yesterday night, and so far, I am quite successful, even though throughout the hours here on my own, my own mind has been trying cut down my resolve. Today was quite tormenting, especially since the last 2 days I have been alone in this office.<br><br>With everything, though, my God still stands. Every day at 9am, I get to spend some time making a prayer for the day, and no doubt that is what kept both my sanity and purity intact. This is going to be a treacherous journey, as mentioned in 2 Thessalonians 2: 9-12, but there will be hope.<br><br><span ondblclick="this.innerHTML='there will be hope, jeanette. do not let your feelings overtake you'">there will be hope</span></span>
+<span class="disable-selection" id="truth" style="display:none;">Once again, prayer meeting back at HCC! Promenade to HCC is pretty close, ngl. Still though, Good Friday is next week, so God help me and the cast & crew. It is already here! ohohohoho<br><br>Now on more solemn news, I have this friend. I really care for them a lot, and they have been in and out of this state of missingness and depression, and then coming back to us as if nothing happened. Unlike my care, I had zero clue what was happening to them. I dare not provide more details upon this post but it is up to those who are accountable with them to keep on praying for them. Our leader revealed that, perhaps, their behaviour is linked to something about accountability, which somwhat relates to the next subject.<br><br> Something else that I decided to partake in is that me and a good friend (different one) made a purity pact yesterday night, and so far, I am quite successful, even though throughout the hours here on my own, my own mind has been trying cut down my resolve. Today was quite tormenting, especially since the last 2 days I have been alone in this office.<br><br>With everything, though, my God still stands. Every day at 9am, I get to spend some time making a prayer for the day, and no doubt that is what kept both my sanity and purity intact. This is going to be a treacherous journey, as mentioned in 2 Thessalonians 2: 9-12, but there will be hope.<br><br><span class="disable-selection" ondblclick="this.innerHTML='there will be hope, jeanette. do not let your feelings overtake you'">there will be hope</span></span>

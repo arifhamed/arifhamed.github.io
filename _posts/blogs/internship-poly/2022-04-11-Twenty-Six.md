@@ -4,7 +4,7 @@ layout: post-itp
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
 ---
-#  day of internship
+# 26th day of internship
 
 <span class="timestamp">[10:13]</span> <sup><a href="#1">[1]</a></sup>
 
