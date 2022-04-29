@@ -13,5 +13,5 @@ piracy: true
 personal synopsis soon 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ninetailgames.roguehearts.paid_1.6.7-mod-menu.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ninetailgames.roguehearts.paid_1.6.7-mod-menu.apk</b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ninetailgames.roguehearts.paid_1.6.7-mod-menu.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ninetailgames.roguehearts.paid_1.6.7-mod-menu.apk</b> (166 MB)</a>
 </div>

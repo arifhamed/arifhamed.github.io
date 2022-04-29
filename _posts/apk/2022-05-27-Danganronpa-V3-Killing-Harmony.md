@@ -20,6 +20,7 @@ Other than that, this is a great day to find out that someone took the opportuni
 <span class="timestamp">27 April 2022:</span> lmaooo apkaward.com, amongst other vendors, already found out the way to create a singular apk like mine. Mine's better though, because apkaward put in that "APKAWARD.COM" toast that no one likes. Also, apkaward's copy of DRV3 is <a href="https://www.virustotal.com/gui/file/4cc375108d8d67d56492b77b5c66edfd8920b6d1d80d8ba7293724bebd09e0cf" target="_blank">littered with adware</a>, like jeez, it's like if vegas was in file. That's right, i threw some shade right there. 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DRV3_1.0.2.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DRV3_1.0.2.apk</b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DRV3_1.0.2.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DRV3_1.0.2.apk</b> (76.3 MB)</a>
 </div>
+Data will download itself. Perhaps i may update here with the data, but it's large.
 <span class="text-center w-100" onclick="this.innerHTML='SHA256: ee5be897c0a11e6b30e7328877de223e39dca5074303518c6207d3dd9f893a3e'">Click for SHA256</span>

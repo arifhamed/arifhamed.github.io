@@ -8,6 +8,7 @@ ios-link: https://apps.apple.com/us/app/thomas-was-alone/id849095637
 steam-link: https://store.steampowered.com/app/220780/Thomas_Was_Alone/
 switch-link: https://www.nintendo.com/store/products/thomas-was-alone-switch/
 tags: platform narration puzzle minimalist story abstract narrative 2d 
+piracy: true
 ---
 
 > _"Meet Thomas, a curious rectangle, and help him unravel the mysteries of his existence in a wonderfully strange world. Experience 100 levels of award-winning platform gameplay and take part in an emotional story narrated by Danny Wallace." - <a href="https://apps.apple.com/us/app/thomas-was-alone/id849095637" target="_blank">App Store</a>_

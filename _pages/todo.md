@@ -10,23 +10,9 @@ redirect_from:
 * [YUYI] change the back button on each apk post
 * [YUYI] modify index page to hide this todo page
 * [YUYI] after uploading latest, continue the blog
-    * from the witch's house
+    * from [VA11](https://arifhamed.com/resources/apk/VA11_HallA_Cyberpunk_Bartender_Action)
 * [YUYI] add in, like, games by the same publishers in each game page.
 * [NUYI] find and create apk entries for the following
-    * <s>witchs house (from qooapp)</s>
-    * <s>ticket to earth</s>
-    * <s>out there: ohm edition</s>
-    * <s>battlevoid: sector siege</s>
-    * <s>battlevoid: harbinger</s>
-    * <s>rogue hearts</s>
-    * <s>marsus: survival on mars</s>
-    * <s>brothers: a tale of two sons</s>
-    * <s>fps maker 3d</s>
-    * <s>game creator</s>
-    * <s>little inferno</s>
-    * <s>the sandbox (original and currency crack)</s>
-    * <s>the sandbox evolution (original and currency crack)</s>
-    * <s>monument valley 1 & 2 </s>
     * bad north: jotunn edition
     * world of goo
     * death road to canada

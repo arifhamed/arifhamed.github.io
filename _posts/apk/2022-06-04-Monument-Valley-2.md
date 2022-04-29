@@ -13,6 +13,5 @@ piracy: true
 personal synopsis soon 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley_2.7.16-unlocked-all-levels.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley_2.7.16-unlocked-all-levels.xapk</b> ()</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley_2.7.16-unlocked-dlc.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley_2.7.16-unlocked-dlc.xapk</b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley2_2.0.6.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley2_2.0.6.xapk</b> (242 MB)</a>
 </div>

@@ -13,5 +13,5 @@ piracy: true
 personal synopsis soon 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("VA11_HallA_Cyberpunk_Bartender_Action_1.0.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>VA11_HallA_Cyberpunk_Bartender_Action_1.0.0.apk</b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("VA11_HallA_Cyberpunk_Bartender_Action_1.0.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>VA11_HallA_Cyberpunk_Bartender_Action_1.0.0.apk</b> (208 MB)</a>
 </div>
