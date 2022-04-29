@@ -23,15 +23,15 @@ layout: default
     <div class="row row-cols-5">
         {% for post in site.categories.internship-poly reversed %}
             {% if post.title == "Good Friday" %}
-                <a class="col btn btn-outline-dark disabled" href="#" aria-disabled="true">Good Friday</a>
+                <a class="col btn btn-outline-dark" href="#" aria-disabled="true">Good Friday</a>
             {% elsif post.title == "NS Appointment" %}
-                <a class="col btn btn-outline-dark disabled" href="#" aria-disabled="true">NS Appt.</a>
+                <a class="col btn btn-outline-dark" href="#" aria-disabled="true">NS Appt.</a>
             {% elsif post.title == "Labour Day" %}
-                <a class="col btn btn-outline-dark disabled" href="#" aria-disabled="true">Labour Day</a>
+                <a class="col btn btn-outline-dark" href="#" aria-disabled="true">Labour Day</a>
             {% elsif post.title == "Hari Raya Puasa" %}
-                <a class="col btn btn-outline-dark disabled" href="#" aria-disabled="true">H.R. Puasa</a>
+                <a class="col btn btn-outline-dark" href="#" aria-disabled="true">H.R. Puasa</a>
             {% elsif post.title == "Vesak Day" %}
-                <a class="col btn btn-outline-dark disabled" href="#" aria-disabled="true">Vesak Day</a>        
+                <a class="col btn btn-outline-dark" href="#" aria-disabled="true">Vesak Day</a>        
             {% else %}
                 <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B" }}</a>
             {% endif %}

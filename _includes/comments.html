@@ -620,7 +620,7 @@
 	HTML for displaying the actual comment section.
 	It has a state for oth when the article has comments and when it does not. -->
 {% endcomment %}
-<h4 class="post-subtitle">Comments</h4>
+<!-- <h4 class="post-subtitle">Comments</h4> -->
 <div id="load-comments" class="comments">
 	<button id="load-comment-button" class="comment-button" onclick="initialCommentLoad()">Load Comments</button>
 </div>
@@ -636,7 +636,7 @@
 	<h4 class="post-subtitle">Add a Comment</h4>
 	<div class="comments">
 		<div class="comment-info-text">
-			<p>Note that I may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically.</p>
+			<!-- <p>Note that I may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically.</p> -->
 			{% if site.google_forms_comments.google_app_script %}
 			<p id="comment-submit-error"></p>
 			{% endif %}
@@ -680,11 +680,11 @@
 .comment-item {
 	position: relative;
 	padding: 0.5em 2.5em;
-	background: white;
+	background: #f2f2f2;
 	font-family: "Source Sans Pro", sans-serif;
 	width: 95%;
 	margin: 1em auto;
-	box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 0px 2px 2px rgb(0 0 0 / 20%);
 	border-radius: 8px;
 }
 
@@ -717,6 +717,10 @@
 	text-decoration: none;
 	font-size: 1em;
 	font-weight: 700;
+}
+
+.post-subtitle {
+	text-align: center;
 }
 
 {% if comment_replies_enabled %}
@@ -796,8 +800,8 @@
 .comment-button {
 	border: 0;
 	border-radius: 8px;
-	background: #9ccc65;
-	color: #fff;
+	background: #333;
+	color: #f2f2f2;
 	font-family: "Source Sans Pro", sans-serif;
 	font-weight: bold;
 	font-size: 0.9em;
@@ -810,7 +814,7 @@
 }
 
 #comment-submit {
-	width: auto;
+	width: 100%;
 	min-width: 25%;
 	position: relative;
 }
@@ -827,7 +831,7 @@
     bottom: 0;
     margin: auto;
     border: 4px solid transparent;
-    border-top-color: #ffffff;
+    border-top-color: #f2f2f2;
     border-radius: 50%;
     -webkit-animation: button-loading-spinner 1s ease infinite;
     animation: button-loading-spinner 1s ease infinite;
@@ -864,11 +868,12 @@
 
 #comment-name,
 #comment-comment {
-	width: 50%;
+	width: 100%;
 	padding: 10px;
 	border: 0;
 	border-radius: 8px;
-	background: #f7f7f7;
+	box-shadow: 0px 0px 2px 2px rgb(0 0 0 / 10%);
+	background: #f2f2f2;
 	font-family: "Source Sans Pro", sans-serif;
 }
 
