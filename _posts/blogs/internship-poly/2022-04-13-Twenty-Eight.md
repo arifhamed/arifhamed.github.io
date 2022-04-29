@@ -13,7 +13,7 @@ categories: internship-poly
     * Dell Keyboard & Mouse set, x2
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

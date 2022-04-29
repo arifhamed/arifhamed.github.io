@@ -9,7 +9,7 @@ categories: internship-poly
 <span class="timestamp">[17:18]</span> Um, well. nothing new today 
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

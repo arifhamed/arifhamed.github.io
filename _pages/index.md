@@ -21,7 +21,9 @@ looking for some tips or guidance in certain IT topics? check out all my guides 
 
 got time to kill on your android phone? download some apks from my [`apk` resource page](https://arifhamed.com/resources/apk).
 
-maybe you wanna stick to the current trend? play my own copy of [`wordle`](https://arifhamed.com/games/wordle).
+got an iphone instead? sponsor me a paid apple developer account cuz apple is an authoritarian company (still ethically better than nestle)
+
+<s>maybe you wanna stick to the current trend? play my own copy of [`wordle`](https://arifhamed.com/games/wordle).</s> i think it's out of trend by now
 
 think this homepage could be better? same. in fact, you can just leave comments almost anywhere in this website, you just need a github account.
 
@@ -38,7 +40,7 @@ think this homepage could be better? same. in fact, you can just leave comments 
 </script>
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 
 i am someone who just can't sit still and remember something for long, so i got a lot of ideas that i want to do, and i record them down [here](https://arifhamed.com/todo).

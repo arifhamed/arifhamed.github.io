@@ -16,7 +16,7 @@ categories: internship-poly
 * Create small list of customer NAS that has at less than or equal to 10% of space left, sent it after sending daily report on whatsapp.
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

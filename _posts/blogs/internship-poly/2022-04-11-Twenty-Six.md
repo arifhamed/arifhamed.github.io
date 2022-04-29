@@ -24,7 +24,7 @@ TTSG-NAS1 - TTSG-NAS1 (Tomoe) - 7%
 
  -->
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

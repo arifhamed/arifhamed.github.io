@@ -14,7 +14,7 @@ categories: internship-poly
 * Sent a request for leave for 27 April due to NS appointment
 * Check units for <span class="disable-selection" ondblclick="this.innerHTML='Daniel Teo & Associates Pte Ltd'"><**REDACTED**></span> from 2018 to 2022. I just downloaded the sheet and used the Excel formulas to just get the sum for each of the years. 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

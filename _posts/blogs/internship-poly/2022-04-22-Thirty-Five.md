@@ -80,7 +80,7 @@ On an unrelated note, if anyone has any SSDs that you want to donate or sell at 
 
 <span class="timestamp">[17:41]</span> <sup><a href="#2">[2]</a></sup> 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

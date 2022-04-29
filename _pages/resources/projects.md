@@ -30,4 +30,4 @@ I have a list of projects below that I have started and participated in. The fir
   {% endif %}
 {% endfor %}
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

@@ -55,4 +55,4 @@ In every website, javascript and css will always be present, whether you like it
 
 of course, I may update this part soon with more script importing tips or whatnot.
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

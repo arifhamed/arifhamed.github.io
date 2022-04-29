@@ -12,7 +12,7 @@ categories: internship-poly
 
 i need <span class="disable-selection" ondblclick="this.innerHTML='God'">humans & their interaction</span>.
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

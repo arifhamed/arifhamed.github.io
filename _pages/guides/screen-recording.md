@@ -21,4 +21,4 @@ A lot of commands here actually relates to the [Android Debug Bridge](https://ar
 
 _&lt;more details will come soon&gt;_
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

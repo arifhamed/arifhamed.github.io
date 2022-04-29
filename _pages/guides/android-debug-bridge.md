@@ -165,4 +165,4 @@ C:\Users\morph\Downloads>
 ```
 Right after `adb` and before `<any command>`, you must state which device to do the action. For example, doing `shell` like shown above in this page will be like this: `adb -s 192.168.50.154:5555 shell pm path com.rarlab.rar`. Note that it is no different for wirelessly connected devices as well.
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

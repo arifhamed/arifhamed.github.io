@@ -12,3 +12,6 @@ plugins:
   - jekyll-redirect-from
   - jekyll-multiple-languages-plugin
   - jekyll-category-post-navigation
+comment-post: https://docs.google.com/forms/d/e/1FAIpQLSeJJ5CGX171i8bg9T0FnR0ngW-AJ55VkOG4HtICBLsnkUVzkQ
+comment-read: https://docs.google.com/spreadsheets/d/15dwbltXqr3tluVzFOAl7tI2ovLmY78QGrTaY8gPDHz8
+comment-post-fields: [ entry.1022120595, entry.1922377979, entry.468014524 ]

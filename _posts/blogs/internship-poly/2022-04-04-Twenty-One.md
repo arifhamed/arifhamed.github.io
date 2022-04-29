@@ -41,7 +41,7 @@ I'm quite glad that at least, at the very hardcore least, that the UiPath RPA wa
             * You can refer to emails made in the past by me.
     
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

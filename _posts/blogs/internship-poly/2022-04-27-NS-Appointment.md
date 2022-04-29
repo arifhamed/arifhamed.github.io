@@ -12,7 +12,7 @@ categories: internship-poly
 
 <span class="timestamp">[17:26]</span> Damn, things got interesting for me in CMPB <sup><a href="#1">[1]</a></sup>
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

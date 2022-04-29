@@ -18,4 +18,4 @@ categories: internship-poly
 
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

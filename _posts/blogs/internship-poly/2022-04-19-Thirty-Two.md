@@ -14,7 +14,7 @@ categories: internship-poly
 * Checked last 50 adhoc units for <span class="disable-selection" ondblclick="this.innerHTML='Hikari Automation Systems Pte Ltd'"><**REDACTED**></span>, and found two irregularities, which i have reported to task-giver.
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

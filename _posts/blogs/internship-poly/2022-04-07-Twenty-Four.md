@@ -11,4 +11,4 @@ categories: internship-poly
 What a nice day. Today i found that the parmesan chicken bread in four leaves was actually pretty nice. Other than that, i focused on totally farming APKs.
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

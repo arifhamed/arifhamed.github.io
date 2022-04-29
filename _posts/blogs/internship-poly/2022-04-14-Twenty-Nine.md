@@ -77,7 +77,7 @@ Thank you for reading, and God bless.
 
 <span class="timestamp">[16:58]</span> <sup><a href="#2">[2]</a></sup> intern if you see that this internship blog ended at 27 May, then perhaps i'm lucky enough.
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

@@ -38,7 +38,7 @@ socials:<br>
     </div>
 </div>
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <br>
 <br>

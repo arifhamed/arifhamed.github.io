@@ -9,7 +9,7 @@ categories: internship-poly
 <span class="timestamp">[17:15]</span> meh <sup><a href="#1">[1]</a></sup>. If you have a condition that you brought up to your IS, then there will be days like this.
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 

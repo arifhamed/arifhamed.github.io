@@ -133,4 +133,4 @@ If you want to take a deeper dive into GitHub Pages, visit
 For more information about Jekyll, the underlying technology that GitHub pages
 uses, visit [jekyllrb.com](https://jekyllrb.com/).
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

@@ -22,4 +22,4 @@ Also just occured to me that this blog, like, really is like an online diary. Do
     * 1 Dell keyboard & mouse set
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

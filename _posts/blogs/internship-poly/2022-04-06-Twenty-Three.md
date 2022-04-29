@@ -21,4 +21,4 @@ categories: internship-poly
         * Learnt that the port does not work with ping, ie 192.168.50.154:5555 won't work
 
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

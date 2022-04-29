@@ -42,4 +42,4 @@ i made this before finding out about `gh release download <tag>`
 {% include_relative files/ffmpeg-batch-converter.py %}
 ```
 
-{% include comments.html %}
+{% include comments.html url=page.url %}

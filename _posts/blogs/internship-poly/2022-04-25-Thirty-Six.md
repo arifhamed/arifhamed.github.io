@@ -12,7 +12,7 @@ categories: internship-poly
 
 <span class="timestamp">[26-Apr-2022-21:09]</span> <sup id="#3">[3]</sup> Correction, gov just removed the limit entirely.
 
-{% include comments.html %}
+{% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
