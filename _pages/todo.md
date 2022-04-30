@@ -10,8 +10,8 @@ redirect_from:
 * [YUYI] create gameplay for all which is lacking:
     * myboy
     * myoldboy
-    * to the moon
-    * townscaper
+    * <s>to the moon</s>
+    * <s>townscaper</s>
     * exploding kittens
     * ravensword
     * castle of illusion
