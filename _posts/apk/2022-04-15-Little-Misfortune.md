@@ -6,7 +6,7 @@ play-link: https://play.google.com/store/apps/details?id=com.KillmondayGames.Lit
 steam-link: https://store.steampowered.com/app/714120/Little_Misfortune/
 ios-link: https://apps.apple.com/us/app/little-misfortune/id1483030972?l=en
 tags: psychological-horror horror point-and-click
-secret: javascript:document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
+secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
 ---
 
 > _"Misfortune Ramirez Hernandez, an imaginative 8-year-old, seeks the prize of Eternal Happiness, as a gift to her Mommy. Led by her new friend, Mr. Voice, they venture into the woods, where mysteries are unraveled and a little bit of bad luck unfolds." - <a href="https://play.google.com/store/apps/details?id=com.KillmondayGames.LittleMisfortuneDemo" target="_blank">Play Store</a>_

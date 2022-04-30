@@ -6,7 +6,7 @@ play-link: https://play.google.com/store/apps/details?id=com.devolverdigital.myf
 steam-link: https://store.steampowered.com/app/557340/My_Friend_Pedro/
 ios-link: https://apps.apple.com/us/app/my-friend-pedro/id1549573204
 tags: action time
-secret: javascript:document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
+secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
 ---
 
 > _"They kidnapped his wife and kids and left him for dead. But it's going to take more than that to split this banana's family. Help your friend Pedro serve some ice cold revenge, with a sprinkle of bullets on top!" - <a href="https://play.google.com/store/apps/details?id=com.devolverdigital.myfriendpedro" target="_blank">Play Store</a>_

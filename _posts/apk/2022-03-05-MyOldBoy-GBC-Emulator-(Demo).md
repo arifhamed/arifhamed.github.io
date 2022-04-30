@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.fastemulator.gbcfree
 tags: emulator retro 2d
-secret: javascript:document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
+secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
 ---
 
 > _"My OldBoy! is a full-featured and super-fast emulator to run Game Boy and Game Boy Color games on the broadest range of Android devices, from very low-end phones to modern tablets. It emulates accurately almost every aspect of the real hardware." - <a href="https://play.google.com/store/apps/details?id=com.fastemulator.gbcfree" target="_blank">Play Store</a>_

@@ -42,5 +42,4 @@ think this homepage could be better? same. in fact, you can just leave comments 
 
 {% include comments.html url=page.url %}
 
-
-i am someone who just can't sit still and remember something for long, so i got a lot of ideas that i want to do, and i record them down [here](https://arifhamed.com/todo).
+<span style="font-size:70%;">[my to-do list](https://arifhamed.com/todo).</span>

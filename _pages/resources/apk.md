@@ -22,7 +22,7 @@ redirect_from:
 - /resources/APKS/
 layout: default
 # secret: "https://arifhamed.com/resources/apk?key=在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典"
-secret: javascript:var slist=document.getElementsByClassName('col-sm-3');for(let a of slist)a.setAttribute('style','display:inline;');
+secret: var slist=document.getElementsByClassName('col-sm-3');for(let a of slist)a.setAttribute('style','display:inline;');
 ---
 
 # APKs Downloads
@@ -93,7 +93,7 @@ Here are a few things to take note about the APKs here
 So let's get straight to it. here it is.
 
 
-<div class="row">
+<div class="row" id="apk-gallery">
     {% for post in site.posts %}
     {% if post.url contains '/apk' %}
     <div class="col-sm-3" title="{{ post.title }}" style="{% if post.piracy or post.nsfw %} display:none; {% endif %}">

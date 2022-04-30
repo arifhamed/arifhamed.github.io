@@ -5,7 +5,7 @@
         {% endif %}
         <p>
             {% if page.secret %}
-                <a href="{{ page.secret }}" style="cursor: default; text-decoration: none;">&copy;</a>
+                <a onclick="{{ page.secret }}" style="cursor: default; text-decoration: none; color: inherit;">&copy;</a>
             {% else %}
                 &copy;
             {% endif %} 2022 by Arif Hamed

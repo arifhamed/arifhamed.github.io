@@ -10,7 +10,7 @@ tags: castlevania rpg metroidvania retro nes
 piracy: true
 ---
 
-> _"Everyone has Uno dipshit, it came free with your ******* Morning Star" - <a href="https://www.youtube.com/watch?v=gcRTzxQzClk" target="_blank">Dracula</a>_
+> _"Everyone has Uno, dipshit, it came free with your ******* Morning Star" - <a href="https://www.youtube.com/watch?v=gcRTzxQzClk" target="_blank">Dracula</a>_
 
 This is a Castlevania game. It is literally a genre. I don't have much to say, besides playing the first few moments that I realized this was where a legendary meme was birthed.
 

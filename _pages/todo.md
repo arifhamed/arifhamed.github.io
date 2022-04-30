@@ -7,7 +7,28 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] change the back button on each apk post
+* [YUYI] create gameplay for all which is lacking:
+    * myboy
+    * myoldboy
+    * to the moon
+    * townscaper
+    * exploding kittens
+    * ravensword
+    * castle of illusion
+    * openmw
+    * planescape
+    * pocket rogues 
+    * 9th dawns
+    * block story
+    * dgrp 1,2,3
+    * rusty lake hotel
+    * cytus
+    * poppy pt
+    * adorable home
+    * vanced
+    * drastic
+    * then on from there
+* there is some existing gameplay in SHLAHO
 * [YUYI] modify index page to hide this todo page
 * [YUYI] after uploading latest, continue the blog
     * from [VA11](https://arifhamed.com/resources/apk/VA11_HallA_Cyberpunk_Bartender_Action)
