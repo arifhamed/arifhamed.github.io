@@ -31,7 +31,7 @@ redirect_from:
 * there is some existing gameplay in SHLAHO
 * [YUYI] modify index page to hide this todo page
 * [YUYI] after uploading latest, continue the blog
-    * from [VA11](https://arifhamed.com/resources/apk/VA11_HallA_Cyberpunk_Bartender_Action)
+    * from ticke to earth
 * [YUYI] add in, like, games by the same publishers in each game page.
 * [NUYI] find and create apk entries for the following
     * bad north: jotunn edition
@@ -69,6 +69,8 @@ redirect_from:
     * <a href="https://apkaward.com/star-traders-frontiers" target="_blank">https://apkaward.com/star-traders-frontiers</a>
     * bard's tale
     * the galaxy: survivor
+    * #DRIVE
+    * only one ultimate power, all chars unlocked
 <br>
 <br>
     * republique (full crack)
