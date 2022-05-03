@@ -70,7 +70,10 @@ redirect_from:
     * bard's tale
     * the galaxy: survivor
     * #DRIVE
+    * limbo
     * only one ultimate power, all chars unlocked
+    * thief simulator (in ssd)
+    * love is... (in ssd)
 <br>
 <br>
     * republique (full crack)
@@ -122,5 +125,6 @@ redirect_from:
         * i was so hungry
         * 
     * metroid dread
+    * iconoclasts
 
     

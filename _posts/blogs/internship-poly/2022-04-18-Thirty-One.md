@@ -15,7 +15,7 @@ categories: internship-poly
 * Check units for <span class="disable-selection" ondblclick="this.innerHTML='Daniel Teo & Associates Pte Ltd'"><**REDACTED**></span> from 2018 to 2022. I just downloaded the sheet and used the Excel formulas to just get the sum for each of the years. 
 
 {% include comments.html url=page.url %}
-
+<br><br>
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id='1'>[1]</sup> whilst taking a shower earlier, my mind teetered between which route of life i am gonna take. during the long weekend, the community of the church has helped so much in reminding how valuable this community is. so now between the church and my flesh i have to choose. my soul still suffers but not as much as last week. now i have to ask myself this: where is God in the picture?</span>

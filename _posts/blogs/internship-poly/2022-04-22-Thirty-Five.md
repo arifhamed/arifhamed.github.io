@@ -81,7 +81,7 @@ On an unrelated note, if anyone has any SSDs that you want to donate or sell at 
 <span class="timestamp">[17:41]</span> <sup><a href="#2">[2]</a></sup> 
 
 {% include comments.html url=page.url %}
-
+<br><br>
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> i'm not coming to pm today, and i don't think i'm coming to oikos tomorrow. bsdfuogbsdfoupgbsopuboaufgoa;dfuibga[f'obngi[oafubgouiadfbgao yeah im not okay. its so funny, i have many malicious thoughts against humanity but i don't have the power to do so.<br><br><sup id="2">[2]</sup> i don't want to go later. if i go, i'll come by, look at people, fail at trying to understand them, spew all kinds of bullshit to make it look like i fit in. i feel like i'm someone who i'm not supposed to be. i don't want the people around me to conform to me because of my flaws or be inconvenienced. i think they are better off without me. because i love my brothers & sisters in Christ, i want to leave them to make them happier<br><br>...<br><br>...<br><br>...but i don't want to leave. if i leave, i know that it would make them sad. what the actual fuck. how to win in this situation. GOD <span style="font-size:150%;">HOW</span> <SPAN STYLE="FONT-SIZE:200%">HOW TO FIGHT THROUGH MY OWN LIES</SPAN><br><br>i'm splitting apart</span>

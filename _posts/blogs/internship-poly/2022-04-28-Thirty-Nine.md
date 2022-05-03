@@ -10,7 +10,7 @@ categories: internship-poly
 
 
 {% include comments.html url=page.url %}
-
+<br><br>
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
 <span class="disable-selection" id="truth" style="display:block;"></span>

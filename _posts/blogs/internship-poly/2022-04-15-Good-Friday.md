@@ -17,7 +17,7 @@ If you're malay and had whatever period has puasa or haji, then you're good (lik
 Embrace each day that you're blessed with an approved off-day or public holiday!
 
 {% include comments.html url=page.url %}
-
+<br><br>
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
 <span class="disable-selection" id="truth" style="display:block;"></span>

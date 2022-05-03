@@ -12,6 +12,7 @@
       "date"     : "{{ post.date }}"
 
     }
-    {% endif %}{% unless forloop.last %},{% endunless %}
+    {% endif %}
+    {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

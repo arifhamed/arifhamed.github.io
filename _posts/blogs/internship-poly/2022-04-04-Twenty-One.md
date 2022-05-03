@@ -42,7 +42,7 @@ I'm quite glad that at least, at the very hardcore least, that the UiPath RPA wa
     
 
 {% include comments.html url=page.url %}
-
+<br><br>
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
 <span class="disable-selection" id="truth" style="display:none;">Damn, a lot happened during the weekend, that I really should have like a live blog for my own life instead. i may add more details in the future<!--br><br>Now on a lighter note, there's this girl, all the way back from secondary school, and out of nowhere she decided to communicate with me. So, and <span class="disable-selection" ondblclick="this.innerHTML='Roy'">my accountable friend</span> knows this well (because damn we got similar problems to a tea), this girl has some red flags that I won't get too much into.--> </span>
