@@ -1,0 +1,17 @@
+---
+---
+[
+  {% for post in site.posts %}
+    {% if post.url contains "/resources/apk" %}
+    {
+
+      "title"    : "{{ post.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ post.url }}",
+      "category" : "{{ post.category }}",
+      "tags"     : "{{ post.tags | join: ', ' }}",
+      "date"     : "{{ post.date }}"
+
+    }
+    {% endif %}{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

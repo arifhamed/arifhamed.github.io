@@ -31,7 +31,7 @@ redirect_from:
 * there is some existing gameplay in SHLAHO
 * [YUYI] modify index page to hide this todo page
 * [YUYI] after uploading latest, continue the blog
-    * from ticke to earth
+    * from out there ohm edition
 * [YUYI] add in, like, games by the same publishers in each game page.
 * [NUYI] find and create apk entries for the following
     * bad north: jotunn edition
