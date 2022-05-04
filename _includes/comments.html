@@ -622,18 +622,18 @@
 {% endcomment %}
 <!-- <h4 class="post-subtitle">Comments</h4> -->
 <div id="load-comments" class="comments">
-	<button id="load-comment-button" class="comment-button" onclick="initialCommentLoad()">Load Comments</button>
+	<button id="load-comment-button" class="comment-button" onclick="initialCommentLoad()">load comments</button>
 </div>
 <div id="comments-and-input">
 	<div id="comment-section" class="comments">
 		<p id="num-comments-displayed"></p>
-		<button id="load-more-comments" class="comment-button" onclick="loadMoreComments(true)" type="button">Load Older Comments</button>
+		<button id="load-more-comments" class="comment-button" onclick="loadMoreComments(true)" type="button">load older comments</button>
 		<div id="no-comments" class="comment-info-text">
-			<p>There are currently no comments on this article, be the first to add one below</p>
+			<p>there are currently no comments on this article, be the first to add one below</p>
 		</div>
 		<div id="comment-container"></div>
 	</div>
-	<h4 class="post-subtitle">Add a Comment</h4>
+	<h4 class="post-subtitle">add a comment</h4>
 	<div class="comments">
 		<div class="comment-info-text">
 			<!-- <p>Note that I may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically.</p> -->
@@ -655,7 +655,7 @@
 						{% endif %}
 					</li>
 					<li><textarea id="comment-comment" name="comment" placeholder="Comment" required=""></textarea></li>
-					<li><button id="comment-submit" type="submit" class="comment-button">Post</button></li>
+					<li><button id="comment-submit" type="submit" class="comment-button">post</button></li>
 				</ul>
 				{% if recaptcha_enabled %}
 				<p id="comment-recaptcha-disclaimer">This site is protected by reCAPTCHA and the Google
@@ -681,7 +681,7 @@
 	position: relative;
 	padding: 0.5em 2.5em;
 	background: #f2f2f2;
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 	width: 95%;
 	margin: 1em auto;
 	box-shadow: 0px 0px 2px 2px rgb(0 0 0 / 20%);
@@ -778,7 +778,7 @@
 	margin-left: 1em;
 	margin-right: 1em;
 	width: 95%;
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 
 .comments-form ul {
@@ -799,13 +799,10 @@
 
 .comment-button {
 	border: 0;
-	border-radius: 8px;
+	border-radius: .25rem;
 	background: #333;
 	color: #f2f2f2;
-	font-family: "Source Sans Pro", sans-serif;
-	font-weight: bold;
 	font-size: 0.9em;
-	text-transform: uppercase;
 	margin-bottom: 20px;
 	outline-style: none;
 	padding: 10px 20px;
@@ -874,38 +871,38 @@
 	border-radius: 8px;
 	box-shadow: 0px 0px 2px 2px rgb(0 0 0 / 10%);
 	background: #f2f2f2;
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 
 #comment-name::-webkit-input-placeholder,
 #comment-comment::-webkit-input-placeholder {
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 
 #comment-name::-moz-placeholder,
 #comment-comment::-moz-placeholder {
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 
 #comment-name:-ms-input-placeholder,
 #comment-comment:-ms-input-placeholder {
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 
 #comment-name::-ms-input-placeholder,
 #comment-comment::-ms-input-placeholder {
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 
 #comment-name::placeholder,
 #comment-comment::placeholder {
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 
 #comment-name:focus,
 #comment-comment:focus {
 	background: #fff;
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 
 #comment-comment {
@@ -930,7 +927,7 @@ https://developers.google.com/recaptcha/docs/faq#id-like-to-hide-the-recaptcha-b
 	text-align: justify;
     text-align-last: center;
     font-size: .7em;
-	font-family: "Source Sans Pro", sans-serif;
+	/* font-family: "Source Sans Pro", sans-serif; */
 }
 {% endif %}
 
