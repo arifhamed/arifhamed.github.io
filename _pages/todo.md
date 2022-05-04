@@ -20,7 +20,7 @@ redirect_from:
     * pocket rogues 
     * 9th dawns
     * block story
-    * dgrp 1,2,3
+    * dgrp 1,2
     * rusty lake hotel
     * cytus
     * poppy pt
@@ -74,6 +74,9 @@ redirect_from:
     * only one ultimate power, all chars unlocked
     * thief simulator (in ssd)
     * love is... (in ssd)
+    * [arcane golf](https://play.google.com/store/apps/details?id=com.clickteam.arcanegolf)
+    * one night at flumpty's 1,2 & 3
+    * [bendy in nightmare run](https://play.google.com/store/apps/details?id=com.jds.binr)
 <br>
 <br>
     * republique (full crack)
