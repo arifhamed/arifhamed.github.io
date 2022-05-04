@@ -13,7 +13,7 @@ categories: internship-poly
 <span class="timestamp">[26-Apr-2022-21:09]</span> <sup id="#3">[3]</sup> Correction, gov just removed the limit entirely.
 
 {% include comments.html url=page.url %}
-<br><br>
+
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> God's love won me again, and oh how I missed it! Yesterday during altar call, I saw everyone wanting for more. Matthew 7:7. On hindsight, I think I should've went too, but even on the gallery I saw people being with other people, and caring for them. As I looked, I realized that perhaps maybe this world isn't full of cold-hearted people after all, let alone this community. This is a community where I can truly be myself. i can feel His love. <br><br><sup id="2">[2]</sup> OH YES LORD!! Don't get me wrong, <span class="disable-selection" ondblclick="this.innerHTML='Elliot'"><**REDACTED**></span>'s house and family are nice and all, but going home after hg is pain. The other houses are signifantly better to traverse home. Now, I get to see the entire cell group again AS ONE 🥳. </span>

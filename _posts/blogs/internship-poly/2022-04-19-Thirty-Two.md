@@ -15,7 +15,7 @@ categories: internship-poly
 
 
 {% include comments.html url=page.url %}
-<br><br>
+
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
 <span class="disable-selection" id="truth" style="display:none;">dear lord, i hope <span class="disable-selection" ondblclick="this.innerHTML='still redacted'"><**REDACTED**></span> is alright enough for <span class="disable-selection" ondblclick="this.innerHTML='still redacted'"><**REDACTED**></span>. i barely saw them on <span class="disable-selection" ondblclick="this.innerHTML='easter'"><**REDACTED**></span>, i miss seeing them ngl. to make matters worst, the location is just horrible for me. lord give me patience and strength.<br><br><span id="bruh" style="display:none;">However, REDACTED, i believe that my REDACTED have changed (again...), and i don't know why but i think I know who <span class="disable-selection" ondblclick="this.innerHTML='REDACTED'"><**REDACTED**></span> is REDACTED. let's talk again soon, man</span><span ondblclick="this.style.display='none';document.getElementById('bruh').style.display='block'">████████ ████ █ ███████ ████ ██ ██████ ████ ███████ ███████████ ███ █ █████ ████ ███ ███ █ █████ █ ████ ███ █████ ████████████████████████████████████████████████████████████ ██ █████ █████ ████ █████ █████ ███</span></span>
