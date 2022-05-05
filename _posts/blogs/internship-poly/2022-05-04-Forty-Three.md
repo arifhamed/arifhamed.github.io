@@ -12,7 +12,7 @@ categories: internship-poly
 
 <span class="timestamp">[17:09]</span> hahaha <sup><a href="#1">[1]</a></sup> gotta ask the SIM about that report and poster, like what on unicron is that.
 
-very unrelated but fun fact: on instagram, after unsyncing your IG account and FB account on Meta accounts, not only can you freely name yourself but also give yourself custom genders. Like, i literally identify myself as an attack helicopter, and I hope that there will be an instagram update that made it so that the gender shows on your profile, like the pronouns. I wish that one day, custom pronouns will be thing so that people can call me kempeitai.
+very unrelated but fun fact: on instagram, after unsyncing your IG account and FB account on Meta accounts, not only can you freely name yourself but also give yourself custom genders. Like, i literally identify myself as an _attack helicopter_, and I hope that there will be an instagram update that made it so that the gender shows on your profile, like the pronouns. I wish that one day, custom pronouns will be thing so that people can call me kempeitai.
 
 ### What I did today
 * A Monthly <span class="disable-selection" ondblclick="this.innerHTML='ACME Monaco'">&lt;<b>REDACTED</b>: customer name&gt;</span> Offsite Backup Check.
