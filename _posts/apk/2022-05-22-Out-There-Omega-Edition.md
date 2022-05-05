@@ -2,15 +2,16 @@
 title: "Out There: Ω Edition"
 layout: post-apk
 permalink: /resources/apk/:title
-play-link: 
-tags:
-published: false
+play-link: https://play.google.com/store/apps/details?id=com.miclos.google.games.outthere
+steam-link: https://store.steampowered.com/app/334420/Out_There__Edition/
+ios-link: https://apps.apple.com/us/app/out-there-%CF%89-edition/id799471892
+tags: exploration survival space rpg roguelite
 piracy: true
 ---
 
-> _"" - <a href="" target="_blank"></a>_
+> _"Out There is an award-winning space exploration game blending roguelike, resource management and interactive fiction." - <a href="https://store.steampowered.com/app/334420/Out_There__Edition/" target="_blank">Steam</a>_
 
-personal synopsis soon 
+<span class="timestamp">05 May 2022:</span> This game is kinda like FTL, yet the gameplay is very unique. Honestly, this game has a lot to take in but it's quite fun once you get used to it!
 
 Many Resources mod: To get 1000 units of resources, you need to divide this resource in the ship’s inventory and click on the “+” or “-” button.
 
