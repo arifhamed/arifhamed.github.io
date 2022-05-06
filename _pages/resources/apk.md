@@ -22,8 +22,23 @@ redirect_from:
 - /resources/APKS/
 layout: default
 # secret: "https://arifhamed.com/resources/apk?key=在他里面，我们借着耶稣的宝血得着救赎，我们的过犯得着赦免，是照着他丰富的恩典"
-secret: var slist=document.getElementsByClassName('col-sm-3');for(let a of slist)a.setAttribute('style','display:inline;');
+secret: javascript:togglePiracy();
 ---
+
+<script>
+    var paidlist=document.getElementsByClassName('piracy');
+    //var paidflag=false;
+    function togglePiracy(){
+        for(let a of paidlist){
+            //a.setAttribute('style','display:inline;')
+            if (a.style.display == "none"){
+                a.style.display = "inline"
+            } else {
+                a.style.display = "none"
+            }
+        };
+    }
+</script>
 
 # APKs Downloads
 Here are a few things to take note about the APKs here
@@ -85,7 +100,7 @@ So let's get straight to it. here it is.
 <div class="row" id="apk-gallery">
     {% for post in site.posts %}
     {% if post.url contains '/apk' %}
-    <div class="col-sm-3" title="{{ post.title }}" style="{% if post.piracy or post.nsfw %} display:none; {% endif %}">
+    <div class="col-sm-3 {% if post.piracy or post.nsfw %} piracy {% endif %}" title="{{ post.title }}" style="{% if post.piracy or post.nsfw %} display:none; {% endif %}">
         <div class="card">
             <div class="card-body">
                 <a href="{{site.baseurl}}{{post.url}}"><img class="card-img" src="/static/images{{ post.url }}-icon.webp" alt="{{ post.title }} icon"></a>
