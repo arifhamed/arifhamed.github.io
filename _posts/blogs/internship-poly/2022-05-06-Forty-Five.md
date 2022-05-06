@@ -68,6 +68,16 @@ To create a Monthly ACME Monaco Offsite Backup Check, the following is the seque
     1. Paste it to the email, send to supervisor for approval before sending it to <span class="disable-selection" ondblclick="this.innerHTML='Shirley'">&lt;<b>REDACTED</b>&gt;</span>
 
 ---
+
+Task name: Delivery of laptop part(s)
+
+Task hours: 0.5
+
+Delivery from Suntec Tower 4 back to office in Tower 1.
+Delivery consists of:
+ * SEAGATE HDD EXP 1TB STKM1000400
+
+---
 ---
 
 aight, the reflection is here, like the wifi.
@@ -79,7 +89,7 @@ This week's reflection shall be brief, as due to the presence of Labour Day & Ha
 
 The break was well needed, as I took the time to unmask myself at home and let go of many things that holds me back as a person, living comfortably in my communities. 
 
-Not much related to my internship occured this week, besides my realization that I have done my ACME Montly report without prompt. As the 3rd quarter of my internship is done, I shall continue to write my emotions and feelings everyday, so that it will not interfere with my work here in this company.
+Not much related to my internship occured this week, besides my realization that I have done my <span class="disable-selection" ondblclick="this.innerHTML='ACME Monthly report'"><**REDACTED**></span> without prompt. As the 3rd quarter of my internship is done, I shall continue to write my emotions and feelings everyday, so that it will not interfere with my work here in this company.
 
 It has occured to me that perhaps my reflection skills are also not optimal as of late. At the very least my predecessor intern has told me that this part of internship is not super optimal, and perhaps this reflection is also skimmed through fast. If the latter is false however, please take a look at my reflection that I have written last week. As I have said, everyone deserves to experience everything! 
 
@@ -91,4 +101,4 @@ It has occured to me that perhaps my reflection skills are also not optimal as o
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
-<span class="disable-selection" id="truth" style="display:block;"></span>
+<span class="disable-selection" id="truth" style="display:none;">What an interesting day today. A Friday with no prayer meeting. This is likely due to sync with the Day of Conquest on Monday (2 May), or it could very much be related to the rest of the Church doing MIP doing.<br><br>i mean, yeah. Look, i want to write down these thoughts. I do not expect you to respond. All i ask is to have a listening ear.</span>
