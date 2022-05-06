@@ -10,7 +10,7 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 
 > _"" - <a href="" target="_blank"></a>_
 
-personal synopsis soon 
+<span class="timestamp">00 May 2022:</span> 
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.pixowl.tsb2_1.7.3.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.pixowl.tsb2_1.7.3.apk</b> (89 MB)</a><br>

@@ -10,7 +10,7 @@ piracy: true
 
 > _"" - <a href="" target="_blank"></a>_
 
-personal synopsis soon 
+<span class="timestamp">05 May 2022:</span> 
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-Adreno.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-Adreno.xapk</b> (713 MB)</a><br>
