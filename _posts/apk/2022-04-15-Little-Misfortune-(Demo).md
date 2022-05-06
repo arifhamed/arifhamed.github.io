@@ -1,5 +1,5 @@
 ---
-title: "Little Misfortune"
+title: "Little Misfortune (Demo)"
 layout: post-apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.KillmondayGames.LittleMisfortuneDemo

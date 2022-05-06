@@ -20,7 +20,7 @@ Neon Shadow, a <span style="font-size:120%;">_Cyberpunk 3D First Person Shooter_
     `
 </script>
 
-<span ondblclick="this.innerHTML = rant">I got a rant about this game, though. double click this sentence.</a>
+<span class="disable-selection" ondblclick="this.innerHTML = rant">I got a rant about this game, though. double click this sentence.</a>
 
 Shoutouts to <a href="https://neon-shadow.en.uptodown.com/android" target="_blank">UpToDown</a> for having somewhat similar vision to our websites, I got my APK from them. The 1.38 version is the last version before GameClub dumped their load into the later versions
 
