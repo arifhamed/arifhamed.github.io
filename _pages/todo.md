@@ -10,24 +10,51 @@ redirect_from:
 * [YUYI] create gameplay for all which is lacking:
     * myboy
     * myoldboy
-    * <s>to the moon</s>
-    * <s>townscaper</s>
     * exploding kittens
-    * ravensword
+    * ravensword shadowlands
     * castle of illusion
     * openmw
-    * planescape
-    * pocket rogues 
-    * 9th dawns
+    * planescape torment ee
+    * pocket rogues
+    * 9th dawn 1,2,3
     * block story
-    * dgrp 1,2
+    * danganronpa 1,2
     * rusty lake hotel
-    * cytus
-    * poppy pt
+    * cytus ii
+    * poppy playtime
     * adorable home
-    * vanced
-    * drastic
-    * then on from there
+    * vanced (just put a 1s video of the vanced logo)
+    * drastic ds emu
+    * fran bow 
+    * little misfortune
+    * dead space
+    * simpleplanes
+    * scribblenauts unlimited
+    * cultist simulator
+    * strike team hydra
+    * only one
+    * fnaf hw
+    * fnaf ucd
+    * plug & play
+    * dungeon & gravestones
+    * northgard
+    * sparklite
+    * galaxy genome
+    * tailed demon slayer
+    * 1941 frozen front
+    * vector 1&2
+    * battle of polytopia
+    * my friend pedro
+    * AM2R
+    * bridge constructor portal 
+    * undertale
+    * don't starve pe
+    * kingdom 1&2
+    * crying suns
+    * graveyard keeper
+    * far lone sails (1s still of some art)
+    * brothers (1s still of some art)
+    * 
 * there is some existing gameplay in SHLAHO
 * [YUYI] modify index page to hide this todo page
 * [YUYI] after uploading latest, continue the blog
@@ -129,5 +156,5 @@ redirect_from:
         * 
     * metroid dread
     * iconoclasts
-
+    * carrion
     

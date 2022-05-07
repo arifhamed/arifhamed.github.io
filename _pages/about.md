@@ -2,6 +2,7 @@
 title: "About me"
 layout: default
 permalink: /about
+redirect_to: /maintenance
 ---
 
 # About me
