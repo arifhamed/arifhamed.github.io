@@ -2,6 +2,7 @@
 title: Markdown Live Preview
 layout: default
 permalink: /resources/markdown-live-preview
+redirect_to: /maintenance 
 redirect_from:
  - /resources/markdown-live-preview/
 ---

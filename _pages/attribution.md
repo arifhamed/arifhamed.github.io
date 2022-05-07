@@ -2,6 +2,7 @@
 title: "No one is self-made"
 permalink: /attribution
 layout: default
+redirect_to: /maintenance 
 ---
 
 # No one is self-made

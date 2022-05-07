@@ -2,6 +2,7 @@
 title: "Projects"
 layout: default
 permalink: /resources/projects
+redirect_to: /maintenance 
 redirect_from:
  - /resources/projects/
  - /projects 

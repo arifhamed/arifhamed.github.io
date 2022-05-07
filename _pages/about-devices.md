@@ -2,6 +2,7 @@
 title: "About: Devices"
 permalink: /about-devices
 layout: default
+redirect_to: /maintenance 
 ---
 
 # About my stuff
