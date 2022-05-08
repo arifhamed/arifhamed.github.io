@@ -1,6 +1,6 @@
 ---
 title: "Poly Internship: Twenty Two"
-layout: post-itp
+layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
 ---
