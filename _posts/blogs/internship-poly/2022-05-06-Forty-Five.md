@@ -1,10 +1,10 @@
 ---
-title: "Poly Internship: 55"
+title: "Poly Internship: 45"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
 ---
-# 55th day of internship
+# 45th day of internship
 
 <span class="timestamp">[16:19]</span> Aight, time to get this d-d-d-down the road! I am so glad that my predecessor intern is a very relatable human being hahaha, and you better be too! &gt;:) anyway, short week good week.
 
