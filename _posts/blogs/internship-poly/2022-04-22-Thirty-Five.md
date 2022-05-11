@@ -26,7 +26,7 @@ Create and send to team group chat WhatsApp report consisting of:
 Checked service reports of the previous day:
  - Done by checking time recorded accurately
     - If there is something wrong, I will check directly with the assignee
- - Rename and save reports to <span class="disable-selection" ondblclick="this.innerHTML='Infospace'"><**REDACTED**></span> Storage
+ - Rename and save reports to <span class="disable-selection" ondblclick="this.innerHTML='Infospace'">&lt;<b>REDACTED</b>&gt;</span> Storage
 
 --- 
 
@@ -34,7 +34,7 @@ Task name: (ADHOC) Check unit sum of a customer
 
 Task hours: 0.5
 
-Check units for <span class="disable-selection" ondblclick="this.innerHTML='Daniel Teo & Associates Pte Ltd'"><**REDACTED**></span> units from 2018 to 2022. Sent sum of units of each year to Finance.
+Check units for <span class="disable-selection" ondblclick="this.innerHTML='Daniel Teo & Associates Pte Ltd'">&lt;<b>REDACTED</b>&gt;</span> units from 2018 to 2022. Sent sum of units of each year to Finance.
 
 ---
 
@@ -42,7 +42,7 @@ Task name: (ADHOC) Check service reports for a customer
 
 Task hours: 0.5
 
-Check service reports of the last 50 adhoc units for <span class="disable-selection" ondblclick="this.innerHTML='Hikari Automation Systems Pte Ltd'"><**REDACTED**></span>. Found 2 irregularities, which I have sent details of to Finance.
+Check service reports of the last 50 adhoc units for <span class="disable-selection" ondblclick="this.innerHTML='Hikari Automation Systems Pte Ltd'">&lt;<b>REDACTED</b>&gt;</span>. Found 2 irregularities, which I have sent details of to Finance.
 
 ---
 
@@ -65,7 +65,7 @@ geez, not much this week
 
 I will choose to not be verbose in this reflection, though I do not appear to have much of an option. I have a lot to write down, almost none related to internship, almost all related to my current mental health. 
 
-All that I can allow myself to explain of my current situation is that my basic perception of humans in general has been deteriorating. I do not wish to reveal much of this to NYP or <span class="disable-selection" ondblclick="this.innerHTML='Infospace'"><**REDACTED**></span>, as I believe that the only people can truly help me are of the Church. However, be assured that this has not affected my work at all.
+All that I can allow myself to explain of my current situation is that my basic perception of humans in general has been deteriorating. I do not wish to reveal much of this to NYP or <span class="disable-selection" ondblclick="this.innerHTML='Infospace'">&lt;<b>REDACTED</b>&gt;</span>, as I believe that the only people can truly help me are of the Church. However, be assured that this has not affected my work at all.
 
 So far, everything that has happened this week has been quite trivial, yet I cannot say that it is devoid of change. Outlook on my work PC has stopped working twice per day, and (temporarily) got it working on both days. 
 

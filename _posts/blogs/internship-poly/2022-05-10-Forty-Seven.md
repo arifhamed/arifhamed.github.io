@@ -10,16 +10,16 @@ categories: internship-poly
 
 Not only that, Outlook was just being an absolute jerk and wouldn't run for 3 minutes without it crashing, until just now since the backup track was able to run and I was finally able to send that damn whatsapp report, later than usual. 
 
-My insides were/are still in turmoil because I keep on worrying about the onsite visit later to <span class='disable-selection' ondbclick="this.innerHTML='Eximdis (new customer)'"><**REDACTED**></span>. At the very least, there is <span class='disable-selection' ondbclick="this.innerHTML='Jae'"><**REDACTED**></span> there to accompany me, they seem to be a nice person. 
+My insides were/are still in turmoil because I keep on worrying about the onsite visit later to <span class='disable-selection' ondblclick="this.innerHTML='Eximdis (new customer)'">&lt;<b>REDACTED</b>&gt;</span>. At the very least, there is <span class='disable-selection' ondblclick="this.innerHTML='Jae'">&lt;<b>REDACTED</b>&gt;</span> there to accompany me, they seem to be a nice person. 
 
-On that last one though, at least that that's something that I can put on as a daily task. Perhaps it would be like my first week when I went to <span class='disable-selection' ondbclick="this.innerHTML='TAK Products & Services'"><**REDACTED**></span>, except that it is just today, and I don't have to go to Yew Tee by 8am, and there is someone in this company to guide me. Sigficantly better outlook, i must say. <sup><a href="#1">[1]</a></sup>
+On that last one though, at least that that's something that I can put on as a daily task. Perhaps it would be like my first week when I went to <span class='disable-selection' ondblclick="this.innerHTML='TAK Products & Services'">&lt;<b>REDACTED</b>&gt;</span>, except that it is just today, and I don't have to go to Yew Tee by 8am, and there is someone in this company to guide me. Sigficantly better outlook, i must say. <sup><a href="#1">[1]</a></sup>
 
 <span class="timestamp">[22:36]</span> So as it turns out, pretty chill. It was just walking distance from Ubi MRT, and the office was pretty neat. I learned this pretty handy tool called the wire tracker. More details below on that. All the trip was about was just changing some stuff so that the new company would be able to settle in. Also, going onsite will give a higher chance of going home earlier, ended work an hour earlier 🤩
 
-It seems my digestive system also finished slaying the dragon that is also that damn spicy yesterday.
+It seems my digestive system also finished slaying the spice demon that i ate yesterday.
 
 ### What i did today
-* <span class='disable-selection' ondbclick="this.innerHTML='Eximdis'"><**REDACTED**></span> onsite
+* <span class='disable-selection' ondblclick="this.innerHTML='Eximdis'">&lt;<b>REDACTED</b>&gt;</span> onsite
     * Learn what a wire tracker is and how it works. This is my interpretation: 
         * Consists of two parts, the signaller and the receiver. Connect any network cable (either RJ11 or RJ45) and the signaller will send a signal through the cable when turned on. 
         * Test the receiver. If it makes a beep boop sound when the tip is near and turned on, than that means the connection for that wire is working. It is otherwise if the receiver just makes static when turned on.
@@ -28,8 +28,59 @@ It seems my digestive system also finished slaying the dragon that is also that 
     * Install TP-Link Access Points.
     * Reorganize server room.
 
+<br><br><br><br>
 
-honestly, most of the work that I didn't include was done by <span class='disable-selection' ondbclick="this.innerHTML='Jae'"><**REDACTED**></span> 
+honestly, most of the work that I didn't include was done by <span class='disable-selection' ondblclick="this.innerHTML='Jae'">&lt;<b>REDACTED</b>&gt;</span>. Here's an excerpt of the SR that was made for that trip:
+
+<pre>
+
+Quick brief by <span class='disable-selection' ondblclick="this.innerHTML='Zelia'">&lt;<b>REDACTED</b>&gt;</span> to Warehouse & L1
+- linked up the copier, AP, and LAN cables
+
+Server Racks
+- Arif and <span class='disable-selection' ondblclick="this.innerHTML='Jae'">&lt;<b>REDACTED</b>&gt;</span> remove old cables from server rack
+- Move the Starhub network equipments to server rack
+- Get the login ID for starhub deco and password from <span class='disable-selection' ondblclick="this.innerHTML='Zelia'">&lt;<b>REDACTED</b>&gt;</span>
+- Connect all IT equipments to Server Rack PDU.
+- Power up all network devices test connection successfully.
+- Arif assist trace the network cable data point at Copier, mezzanine floor & L1 
+- Required 1 Power Cords for the network switch. ( temporary unplug the monitor power cord and plug into network switch )
+- Both network switch power up successfully.
+
+- assigned copier IP address <span class='disable-selection' ondblclick="this.innerHTML='192.168.8.3'">&lt;<b>REDACTED</b>&gt;</span>
+- test print successfully
+
+- configure & setup Deco x20 ( 2 units )
+- from the TPLINK apps added 2 Deco x20
+- connections established 
+- test speed ok
+- Connect 1 deco at mezzanine floor 
+- Connect another 1 deco at Copier data point
+- try roaming office area, wifi connections stable.
+
+- Lan cable connect from wall data point to Deco ports, from Deco ports connect to Copier
+*If wifi connections unstable , can relocate the DECO AP.
+
+
+- Reset the Linksys router
+- set <span class='disable-selection' ondblclick="this.innerHTML='192.168.8.4'">&lt;<b>REDACTED</b>&gt;</span>
+- disabled dhcp
+- set wifi ssid & password
+- test wifi connections at Warehouse , connections established successfully.
+
+- assigned IP to CCTV <span class='disable-selection' ondblclick="this.innerHTML='192.168.8.5'">&lt;<b>REDACTED</b>&gt;</span>
+- ping to <span class='disable-selection' ondblclick="this.innerHTML='192.168.8.5'">&lt;<b>REDACTED</b>&gt;</span> successfully.
+
+*take 1 LAN cable connect from Network switch to CCTV
+*take 1 power cord connect to network switch
+
+---------------------
+Service By : <span class='disable-selection' ondblclick="this.innerHTML='Jae'">&lt;<b>REDACTED</b>&gt;</span>
+Unit Used : 2.5
+
+</pre>
+<br><br><br><br>
+
 
 {% include comments.html url=page.url %}
 

@@ -1,13 +1,19 @@
 ---
-title: "Web Dev Tips"
+title: "Webdev Tips"
 layout: default
-permalink: /guides/webdevtips
+permalink: /guides/webdev-tips
 redirect_from:
+ = /guides/webdev-tips/
+ - /guides/webdevtips
  - /guides/webdevtips/
  - /guides/webdev
  - /guides/webdev/
  - /webdev
  - /webdev/
+ - /webdevtips
+ - /webdevtips/
+ - /webdev-tips
+ - /webdev-tips/
 ---
 # Web Development Tips
 I have worked with quite a lot of websites, undoubtedly this one too (obviously), and I have learnt quite a lot that I will share, not only for everyone but also for me if i ever take a long break from I.T. and forget everything (just like every guide here). Tips are still incoming, slowly though.

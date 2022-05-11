@@ -24,7 +24,7 @@ Create and send to team group chat WhatsApp report consisting of:
 Checked service reports of the previous day:
  - Done by checking time recorded accurately
     - If there is something wrong, I will check directly with the assignee
- - Rename and save reports to <span class="disable-selection" ondblclick="this.innerHTML='Infospace'"><**REDACTED**></span> Storage
+ - Rename and save reports to <span class="disable-selection" ondblclick="this.innerHTML='Infospace'">&lt;<b>REDACTED</b>&gt;</span> Storage
 
 --- 
 
@@ -89,7 +89,7 @@ This week's reflection shall be brief, as due to the presence of Labour Day & Ha
 
 The break was well needed, as I took the time to unmask myself at home and let go of many things that holds me back as a person, living comfortably in my communities. 
 
-Not much related to my internship occured this week, besides my realization that I have done my <span class="disable-selection" ondblclick="this.innerHTML='ACME Monthly report'"><**REDACTED**></span> without prompt. As the 3rd quarter of my internship is done, I shall continue to write my emotions and feelings everyday, so that it will not interfere with my work here in this company.
+Not much related to my internship occured this week, besides my realization that I have done my <span class="disable-selection" ondblclick="this.innerHTML='ACME Monthly report'">&lt;<b>REDACTED</b>&gt;</span> without prompt. As the 3rd quarter of my internship is done, I shall continue to write my emotions and feelings everyday, so that it will not interfere with my work here in this company.
 
 It has occured to me that perhaps my reflection skills are also not optimal as of late. At the very least my predecessor intern has told me that this part of internship is not super optimal, and perhaps this reflection is also skimmed through fast. If the latter is false however, please take a look at my reflection that I have written last week. As I have said, everyone deserves to experience everything! 
 

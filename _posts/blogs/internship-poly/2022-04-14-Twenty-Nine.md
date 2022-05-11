@@ -24,7 +24,7 @@ Create and send to team group chat WhatsApp report consisting of:
 Checked service reports of the previous day:
  - Done by checking time recorded accurately
     - If there is something wrong, I will check directly with the assignee
- - Rename and save reports to <span class="disable-selection" ondblclick="this.innerHTML='Infospace'"><**REDACTED**></span> Storage
+ - Rename and save reports to <span class="disable-selection" ondblclick="this.innerHTML='Infospace'">&lt;<b>REDACTED</b>&gt;</span> Storage
 
 ---
 
@@ -32,7 +32,7 @@ Task name: Adhoc tasks
 
 Task hours: 0.5
 
-Create small list of customer NAS that has at less than or equal to 10% of space left, sent it after sending daily report on whatsapp. Information for list can be found in <span class="disable-selection" ondblclick="this.innerHTML='infospacenas03 CRM'"><**REDACTED**></span>
+Create small list of customer NAS that has at less than or equal to 10% of space left, sent it after sending daily report on whatsapp. Information for list can be found in <span class="disable-selection" ondblclick="this.innerHTML='infospacenas03 CRM'">&lt;<b>REDACTED</b>&gt;</span>
 
 ---
 
@@ -40,7 +40,7 @@ Task name: Receive delivery
 
 Task name: 0
 
-Receive delivery to office at 5pm. Delivery consists of <span class="disable-selection" ondblclick="this.innerHTML='2 sets of a Dell Keyboard & Mouse set'"><**REDACTED**></span>.
+Receive delivery to office at 5pm. Delivery consists of <span class="disable-selection" ondblclick="this.innerHTML='2 sets of a Dell Keyboard & Mouse set'">&lt;<b>REDACTED</b>&gt;</span>.
 Given the following:
 * Signature
 * Company stamp
@@ -52,7 +52,7 @@ Task name: Deliver items to customer office
 
 Task hours: 2
 
-Sent delivery of <span class="disable-selection" ondblclick="this.innerHTML='2 sets of a Dell Keyboard & Mouse set'"><**REDACTED**></span> from <span class="disable-selection" ondblclick="this.innerHTML='Infospace office'"><**REDACTED**></span> to <span class="disable-selection" ondblclick="this.innerHTML='Export Trading Group office'"><**REDACTED**></span>. Delivery items were from Receive delivery task in 13 April 2022. Transport fee from Grab will be reimbursed if receipt is provided. 
+Sent delivery of <span class="disable-selection" ondblclick="this.innerHTML='2 sets of a Dell Keyboard & Mouse set'">&lt;<b>REDACTED</b>&gt;</span> from <span class="disable-selection" ondblclick="this.innerHTML='Infospace office'">&lt;<b>REDACTED</b>&gt;</span> to <span class="disable-selection" ondblclick="this.innerHTML='Export Trading Group office'">&lt;<b>REDACTED</b>&gt;</span>. Delivery items were from Receive delivery task in 13 April 2022. Transport fee from Grab will be reimbursed if receipt is provided. 
 
 ---
 ---
@@ -62,7 +62,7 @@ Sent delivery of <span class="disable-selection" ondblclick="this.innerHTML='2 s
 ---
 ---
 
-As I begin to reflect, i realise that a lot of the psychological & mental aspect of my life are not influenced by this work that NYP and <span class="disable-selection" ondblclick="this.innerHTML='Infospace'"><**REDACTED**></span> has entrusted me with, but instead, it revolves something in my personal life, something that is irrelevant to work.
+As I begin to reflect, i realise that a lot of the psychological & mental aspect of my life are not influenced by this work that NYP and <span class="disable-selection" ondblclick="this.innerHTML='Infospace'">&lt;<b>REDACTED</b>&gt;</span> has entrusted me with, but instead, it revolves something in my personal life, something that is irrelevant to work.
 
 To be frank, this week my mind has undergone a huge torrent of torture, whether it comes from myself or _external forces_. Even as of now, I find it hard to reflect as I am still in mental burden over something, even before Good Friday. Whether be it from the silent suffering of my autism, or the overwhelming sadness that is almost losing a friendship, or even the painfully stretching concept of growing up in this modern age. I can't believe i'm starting to think of all of this now, even though by a technical sense I do still have time, I still worry over the unforeseeable future.
 

@@ -5,5 +5,5 @@ layout: default
 ---
 
 ``` html
-<span class='disable-selection' ondbclick="this.innerHTML=''"><**REDACTED**></span>
+<span class='disable-selection' ondblclick="this.innerHTML=''">&lt;<b>REDACTED</b>&gt;</span>
 ```
