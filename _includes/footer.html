@@ -4,11 +4,13 @@
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p>
+            <div style="text-align:left;">
             {% if page.secret %}
                 <a onclick="{{ page.secret }}" style="text-decoration: none; color: inherit; cursor: text;">&copy;</a>
             {% else %}
                 &copy;
-            {% endif %} 2022 by Arif Hamed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/dmca">DMCA</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/contact">Contact</a>
+            {% endif %} 2022 by Arif Hamed</div>
+            <div style="text-align:right;"><a href="/dmca">DMCA</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/contact">Contact</a></div>
         </p>
         
         <!-- NOTE FOR ARIF: add in language change dropdown -->

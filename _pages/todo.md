@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] create DMCA
 * [YUYI] create gameplay for all which is lacking:
     * myboy
     * myoldboy
