@@ -59,7 +59,8 @@ redirect_from:
 * [YUYI] modify index page to hide this todo page
 * [YUYI] after uploading latest, continue the blog
     * from out there ohm edition
-* [YUYI] add in, like, games by the same publishers in each game page.
+* [YUYI] add in search for APK, and for ITP
+* [YUYI] create github cli page for guides
 * [NUYI] find and create apk entries for the following
     * bad north: jotunn edition
     * world of goo

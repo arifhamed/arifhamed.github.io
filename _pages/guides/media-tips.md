@@ -21,7 +21,6 @@ I have worked with quite a lot of images, videos & audio, and I have learnt quit
 ---
 
 ### Batch convert image types using ImageMagick
-
 ImageMagick is a ImageMagick is a free and open-source cross-platform software suite for displaying, creating, converting, modifying, and editing raster images. I use it whenever I want to convert images offline. You can download it <a href="https://imagemagick.org/script/download.php" target="_blank">here</a>.
 
 Say for example, I want to convert a lot of .WEBP that I downloaded from the internet, but as it seems, its actually gifs. Through the command prompt, I can use ImageMagick to create new .gif from reading the .webp, basically making a duplicate to your liking. The code is as showed below: 
@@ -32,4 +31,5 @@ magick mogrify -format gif *.webp
 
 ---
 
-### Downloading an blob video using FFMPEG
+### Downloading n blob video using FFMPEG
+coming soon

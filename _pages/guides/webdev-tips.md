@@ -53,6 +53,24 @@ The above is CSS you can put into your site.css that can apply to all pages (as 
 &lt;will be updated soon(ish)&gt;
 still currently finding the best way as of <span class="timestamp">25 March 2022</span>
 
+### Footer text: align left **&** right
+You can look at many websites that has a small footer, including this one, that the text in the footer are split, left & right. There are many ways to do this, but I found a neat way to do this, without using too much knowledge of html & css.
+
+``` html
+<div id="footer_wrap" class="outer">
+    <footer class="inner" style="text-align: center">
+        <p style="float: left;">
+            © 2022 by Arif Hamed
+        </p>
+        <p style="float: right;">
+            <a href="/dmca">DMCA</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/contact">Contact</a>
+        </p>
+        <div style="clear: both"></div>
+    </footer>
+</div>
+```
+The outer div's class, `outer`, and the footer's class, `inner`, are <span style="font-size:70%;">(probably)</span> parts of Jekyll's SCSS that comes with the free theme templates. One of the values for inner is `max-width`, which is why my text doesn't appear on the absolute left & right down there. The text are obviously in seperate paragraph elements, but then there is the div with the `"clear: both"` style. That element _clears_ the floated blocks: that'll fix the footer.
+
 ### General script and css tips
 In every website, javascript and css will always be present, whether you like it or not. When a website loads a javascript file or a css file, it will take longer if either files are large. So here's just a small list of online tools that would help you:
 - [JS Compress](https://jscompress.com/)

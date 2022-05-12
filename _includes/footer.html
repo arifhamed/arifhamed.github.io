@@ -1,18 +1,19 @@
 <div id="footer_wrap" class="outer" style="background-color:#333 !important;">
     <footer class="inner" style="text-align: center">
-        {% if site.github.is_project_page %}
+        <!-- {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p>
+        {% endif %} -->
+        <p style="float: left;">
             {% if page.secret %}
                 <a onclick="{{ page.secret }}" style="text-decoration: none; color: inherit; cursor: text;">&copy;</a>
             {% else %}
                 &copy;
-            {% endif %} 2022 by Arif Hamed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/dmca">DMCA</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/contact">Contact</a>
+            {% endif %} 2022 by Arif Hamed
         </p>
-    
-            <!-- NOTE FOR ARIF: add in language change dropdown -->
-    
+        <p style="float: right;">
+            <a href="/dmca">DMCA</a> - <a href="/privacy-policy">Privacy Policy</a> - <a href="/contact">Contact</a>
+        </p>
+        <div style="clear: both"></div>
         
         <!-- NOTE FOR ARIF: add in language change dropdown -->
         <!-- <div class="dropup">
