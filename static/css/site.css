@@ -196,3 +196,7 @@ body {
 footer a:hover {
     color: #888;
 }
+
+#back-to-top:hover {
+    background: #444;
+}

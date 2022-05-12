@@ -20,6 +20,7 @@ I have worked with quite a lot of websites, undoubtedly this one too (obviously)
 
 <br>
 <br>
+<hr>
 
 
 ### Forcing the footer to the foot (without it pasted to the screen)
@@ -47,11 +48,18 @@ The above is CSS you can put into your site.css that can apply to all pages (as 
     <!-- FOOTER CONTENT -->
 </div>
 ```
+
+<br>
+<br>
 <hr>
 
 ### Place PDFs in website (with and without Bootstrap)
 &lt;will be updated soon(ish)&gt;
 still currently finding the best way as of <span class="timestamp">25 March 2022</span>
+
+<br>
+<br>
+<hr>
 
 ### Footer text: align left **&** right
 You can look at many websites that has a small footer, including this one, that the text in the footer are split, left & right. There are many ways to do this, but I found a neat way to do this, without using too much knowledge of html & css.
@@ -71,6 +79,10 @@ You can look at many websites that has a small footer, including this one, that 
 ```
 The outer div's class, `outer`, and the footer's class, `inner`, are <span style="font-size:70%;">(probably)</span> parts of Jekyll's SCSS that comes with the free theme templates. One of the values for inner is `max-width`, which is why my text doesn't appear on the absolute left & right down there. The text are obviously in seperate paragraph elements, but then there is the div with the `"clear: both"` style. That element _clears_ the floated blocks: that'll fix the footer.
 
+<br>
+<br>
+<hr>
+
 ### General script and css tips
 In every website, javascript and css will always be present, whether you like it or not. When a website loads a javascript file or a css file, it will take longer if either files are large. So here's just a small list of online tools that would help you:
 - [JS Compress](https://jscompress.com/)
@@ -78,5 +90,9 @@ In every website, javascript and css will always be present, whether you like it
 - [Bytesize](https://www.javainuse.com/bytesize)
 
 of course, I may update this part soon with more script importing tips or whatnot.
+
+<br>
+<br>
+<hr>
 
 {% include comments.html url=page.url %}
