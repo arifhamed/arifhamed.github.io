@@ -18,5 +18,5 @@ Minecraft, a staple of gaming, and the childhood memory of many people around th
 The greatest memory I have of Minecraft has to have
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mojang.minecraftpe_1.18.20.27.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mojang.minecraftpe_1.18.20.27.apk</b> (140 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mojang.minecraftpe_1.18.20.27.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.mojang.minecraftpe_1.18.20.27.apk</b> (140 MB)</a>
 </div>

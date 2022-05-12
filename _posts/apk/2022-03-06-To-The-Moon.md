@@ -21,5 +21,5 @@ Also, please listen to `Everything's Alright` by Laura Shigihara once your playe
 Note that <a href="https://www.virustotal.com/gui/file/e7aa6ab03beed2029bbc1a9a3db4d8739d575aa3ecec0aa80fafa12a43b77b6b" target="_blank">VirusTotal</a> gave the inner APK a false-positive (_A.gray.plugingame.d_)
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.xd.tothemoon_3.7.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.xd.tothemoon_3.7.xapk</b> (274 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.xd.tothemoon_3.7.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.xd.tothemoon_3.7.xapk</b> (274 MB)</a>
 </div>

@@ -16,5 +16,5 @@ piracy: true
 looks like stardew valley but more dead people, and about less foraging, i think.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.tinybuild.graveyardkeeper_1.129.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.tinybuild.graveyardkeeper_1.129.xapk</b> (206 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.tinybuild.graveyardkeeper_1.129.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.tinybuild.graveyardkeeper_1.129.xapk</b> (206 MB)</a>
 </div>

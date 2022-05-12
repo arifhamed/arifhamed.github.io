@@ -14,5 +14,5 @@ piracy: true
 <span class="timestamp">22 April 2022:</span> Well the description i have above kinda describes it well. It is basically _FTL meets Foundation and Dune_. The one thing that really captured my attention of this game is that it has really nice graphics, a good pixelated aesthetic & 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.altshift.cryingsuns_2.2.5.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.altshift.cryingsuns_2.2.5.xapk</b> (389 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.altshift.cryingsuns_2.2.5.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.altshift.cryingsuns_2.2.5.xapk</b> (389 MB)</a>
 </div>

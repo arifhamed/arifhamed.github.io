@@ -15,5 +15,5 @@ tags: roguelike platform 2d procedural multiplayer adventure
 Next up here is a game done by Aquaria's **Derek Yu**. According to the itch.io website, the android game is based off the Humble Bundle version, and many people liked it. <!--more-->However, once again, technology changes, and so does the **aspect ratio of phones**. Like Aquaria, the input is not as shown on screen, but unlike Aquaria, the screen will not be stretched, but rather it **letterboxes to the center** . That kind of behaviour is what I aim for in Aquaria by editing it, hence whatever is inside the Spelunky APK could solve it (maybe, maybe not).
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.spelunky.spelunky_1.1.7.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.spelunky.spelunky_1.1.7.apk</b> (13.5 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.spelunky.spelunky_1.1.7.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.spelunky.spelunky_1.1.7.apk</b> (13.5 MB)</a>
 </div>

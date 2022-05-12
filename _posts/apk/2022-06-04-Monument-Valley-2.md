@@ -13,5 +13,5 @@ piracy: true
 <span class="timestamp">08 May 2022:</span> I have not played this game much, but for all I know, it holds out as much as it predecessor, [Monument Valley](https://arifhamed.com/resources/apk/Monument-Valley). Plus, they support trees which is pretty nice! Not a lot of game publishers or developers would go out their way to use their game to promote world peace or combating global warming.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley2_2.0.6.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley2_2.0.6.xapk</b> (242 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley2_2.0.6.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley2_2.0.6.xapk</b> (242 MB)</a>
 </div>

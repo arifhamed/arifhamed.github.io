@@ -17,5 +17,5 @@ This is a Castlevania game. It is literally a genre. I don't have much to say, b
 Note that <a href="https://www.virustotal.com/gui/file/210124cd4dc1d802ed5b99647d9dce6707ff4709ecb0d024dc11c5259c68845b" target="_blank">VirusTotal</a> gave the inner APK a false positive (_A.gray.Nebula.a_).
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.konami.epjCastlevania2_1.0.1.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.konami.epjCastlevania2_1.0.1.xapk</b> (227 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.konami.epjCastlevania2_1.0.1.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>jp.konami.epjCastlevania2_1.0.1.xapk</b> (227 MB)</a>
 </div>

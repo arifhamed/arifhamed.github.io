@@ -19,9 +19,9 @@ RAR & 7z, the cornerstones of data archival. I don't want to bore you (and me) w
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" href="https://play.google.com/store/apps/details?id=com.rarlab.rar" target="_blank" style="text-decoration: none; background-color: #333;">RAR Google Play (recommended, latest update)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.rarlab.rar_6.10.build104.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.rarlab.rar_6.10.build104.apk</b> (3.32 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.rarlab.rar_6.10.build104.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.rarlab.rar_6.10.build104.apk</b> (3.32 MB)</a><br>
     <a class="btn btn-dark btn-block w-100" href="https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver" target="_blank" style="text-decoration: none; background-color: #333;">7z Google Play (recommended, latest update)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("coming soon")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>coming soon.apk</b> ( MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("ru.zdevs.zarchiver_1.0.4.apk")' style="text-decoration: none; background-color: #333;"> Download <b>ru.zdevs.zarchiver_1.0.4.apk</b> (4.56 MB)</a><br>
 </div>
 
 <hr>
@@ -33,7 +33,7 @@ I use this on multiple phones to check what kind of mobile GPU each phone has. F
 <**for arif: include some screenshots here**>
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.dama.hardwareinfo_4.2.6.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.dama.hardwareinfo_4.2.6.apk</b> (5.98 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.dama.hardwareinfo_4.2.6.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.dama.hardwareinfo_4.2.6.apk</b> (5.98 MB)</a>
 </div>
 
 <hr>
@@ -44,7 +44,7 @@ This is more than the usual package installer that every Android phone comes wit
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" href="https://play.google.com/store/apps/details?id=io.apkmody.sai" target="_blank" style="text-decoration: none; background-color: #333;"> Google Play (recommended, latest update)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("io.apkmody.sai_2.1.6.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>io.apkmody.sai_2.1.6.apk</b> (7.94 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("io.apkmody.sai_2.1.6.apk")' style="text-decoration: none; background-color: #333;"> Download <b>io.apkmody.sai_2.1.6.apk</b> (7.94 MB)</a>
 </div>
 
 <hr>
@@ -54,7 +54,7 @@ This is more than the usual package installer that every Android phone comes wit
 This is, perhaps, super underrated. It combines every .apks file imagineable, into one .apk file. There is a lot of configs you can set in it too, like whether or not you want to sign your output.apk or not, and other stuff. I really praise it well for certain use cases that I have encountered with. Despite how well built the UI is, it lacks from the Play Store,
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("botX.arscmerge_1.4.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>botX.arscmerge_1.4.apk</b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("botX.arscmerge_1.4.apk")' style="text-decoration: none; background-color: #333;"> Download <b>botX.arscmerge_1.4.apk</b> ()</a>
 </div>
 
 <hr>

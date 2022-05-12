@@ -15,5 +15,5 @@ piracy: true
 Now this time, they decided to switch up the design, and also change quite a bit of the concepts too. Like, quite a lot. This time I could tell a bit that the animatronics aren't just AI. I really like how you could move a bit in this game (kinda).
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.scottgames.sisterlocation_2.0.1.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.scottgames.sisterlocation_2.0.1.apk</b> (311 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.scottgames.sisterlocation_2.0.1.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.scottgames.sisterlocation_2.0.1.apk</b> (311 MB)</a>
 </div>

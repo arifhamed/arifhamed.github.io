@@ -19,6 +19,6 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 and yeah it's an example of a good timekiller mobile game.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.cookapps.taileddemonslayer_1.2.51.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.cookapps.taileddemonslayer_1.2.51.apk</b> (83 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.cookapps.taileddemonslayer_1.2.51-mod-menu.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.cookapps.taileddemonslayer_1.2.51-mod-menu.apk</b> (186 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.cookapps.taileddemonslayer_1.2.51.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.cookapps.taileddemonslayer_1.2.51.apk</b> (83 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.cookapps.taileddemonslayer_1.2.51-mod-menu.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.cookapps.taileddemonslayer_1.2.51-mod-menu.apk</b> (186 MB)</a>
 </div>

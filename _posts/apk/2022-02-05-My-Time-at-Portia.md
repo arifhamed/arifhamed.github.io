@@ -21,7 +21,7 @@ This is a **huge** game, the APK itself is **1.13 GB**, making it the biggest fi
 LATEST UPDATE: I have decided to upload the common APKS file instead, as not only was it significantly easier for me to scan it with VirusTotal, but the XAPK installer can also install APKS apparently. 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.pathea.mtap_1.0.11232.apks")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.pathea.mtap_1.0.11232.apks</b> (1.13 GB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.pathea.mtap_1.0.11232.apks")' style="text-decoration: none; background-color: #333;"> Download <b>com.pathea.mtap_1.0.11232.apks</b> (1.13 GB)</a>
 </div>
 
 Also, i got some more gameplay below. Click to play, got sound too.

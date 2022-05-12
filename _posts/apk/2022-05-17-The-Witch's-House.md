@@ -13,5 +13,5 @@ tags: horror survival-horror pixelated adventure rpg rpg-maker
 This game is actually present on Google Play, but the reviews on it really shows it out a lot. Somehow, I was able to get this from <a href="https://apps.qoo-app.com/en/app/13632" target="_blank">QooApp</a>, and unfortunately there is no English translation :'(
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.goodroid.belle_1.2.1.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.goodroid.belle_1.2.1.apk</b> (116 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.goodroid.belle_1.2.1.apk")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.goodroid.belle_1.2.1.apk</b> (116 MB)</a>
 </div>

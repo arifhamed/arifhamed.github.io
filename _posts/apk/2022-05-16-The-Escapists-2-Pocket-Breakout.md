@@ -14,5 +14,5 @@ piracy: true
 <span class="timestamp">22 April 2022:</span> just look at [the first game page](https://arifhamed.com/resources/apk/The-Escapists-2-Pocket-Breakout).
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.team17.escapists2_1.10.681181-pdalife-mod-menu.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.team17.escapists2_1.10.681181-pdalife-mod-menu.xapk</b> (377 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.team17.escapists2_1.10.681181-pdalife-mod-menu.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.team17.escapists2_1.10.681181-pdalife-mod-menu.xapk</b> (377 MB)</a>
 </div>

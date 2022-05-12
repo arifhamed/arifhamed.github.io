@@ -14,5 +14,5 @@ piracy: true
 <span class="timestamp">20 April 2022:</span> To be honest, this was one that i found while passively combing the apk sites. It really stood out because of how the graphics are like.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.wlkzinc.dandg_1.0.2.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.wlkzinc.dandg_1.0.2.apk</b> (103 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.wlkzinc.dandg_1.0.2.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.wlkzinc.dandg_1.0.2.apk</b> (103 MB)</a>
 </div>

@@ -19,5 +19,5 @@ This is a game where you basically survive. Somehow, I was intrigued at how play
 Note that <a href="https://www.virustotal.com/gui/file/d9bf4a4d49c42466338a6a5e07ba0e71ebb5d361f7d131329d1a4924f6c8eef8/details" target="_blank">VirusTotal</a> gave this a false-positive (_Android.PUA.DebugKey_), as it is cracked.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.jds.batds_1.13.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.jds.batds_1.13.apk</b> (103 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.jds.batds_1.13.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.jds.batds_1.13.apk</b> (103 MB)</a>
 </div>

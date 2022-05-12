@@ -16,5 +16,5 @@ piracy: true
 ..that's about it..
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.headupgames.bridgeconstructorportal_5.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.headupgames.bridgeconstructorportal_5.0.apk</b> (86.7 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.headupgames.bridgeconstructorportal_5.0.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.headupgames.bridgeconstructorportal_5.0.apk</b> (86.7 MB)</a>
 </div>

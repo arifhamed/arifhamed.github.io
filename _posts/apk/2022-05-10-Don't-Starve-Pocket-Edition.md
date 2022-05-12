@@ -14,5 +14,5 @@ piracy: true
 <span class="timestamp">22 April 2022:</span> This is another instant classic that reigned well in its time and its re-releases! Stemming from the PC edition, the Don't Starve series is an open world, survival game, where you gotta not starve, and also to stay away from the dark. I've not played it much but it seems pretty nice. This game is kinda like if Crashlands was designed by Tim Burton.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.kleientertainment.doNotStarvePocket_1.19.5.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.kleientertainment.doNotStarvePocket_1.19.5.apk</b> (464 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.kleientertainment.doNotStarvePocket_1.19.5.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.kleientertainment.doNotStarvePocket_1.19.5.apk</b> (464 MB)</a>
 </div>

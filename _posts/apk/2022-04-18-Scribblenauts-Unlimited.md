@@ -16,5 +16,5 @@ I actually bought this a long while ago, using those voucher-type cards that you
 Not only was this a long game but i also love it. You can basically create almost everything (except poop) and even add adjectives to them (except poop). Your chicken-headed character is basically God, and i won't be surprised if you can summon that as well.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.wb.goog.scribblenauts3_1.27.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.wb.goog.scribblenauts3_1.27.xapk</b> (485 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.wb.goog.scribblenauts3_1.27.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.wb.goog.scribblenauts3_1.27.xapk</b> (485 MB)</a>
 </div>

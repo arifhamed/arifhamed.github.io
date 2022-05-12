@@ -15,6 +15,6 @@ piracy: true
 Unlike most youtubers though, this game is best experienced by your own, in silence, using your own voice in your head.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley_2.7.16-unlocked-all-levels.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley_2.7.16-unlocked-all-levels.xapk</b> (208 MB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley_2.7.16-unlocked-dlc.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley_2.7.16-unlocked-dlc.xapk</b> (208 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley_2.7.16-unlocked-all-levels.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley_2.7.16-unlocked-all-levels.xapk</b> (208 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ustwo.monumentvalley_2.7.16-unlocked-dlc.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.ustwo.monumentvalley_2.7.16-unlocked-dlc.xapk</b> (208 MB)</a>
 </div>

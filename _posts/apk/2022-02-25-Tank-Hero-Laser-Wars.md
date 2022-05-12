@@ -17,6 +17,6 @@ This game I enjoyed its weapons a lot, especially the Tesla one, and it also has
 Now, there are quite a number of reviews for both the free and paid versions of this game, apparently there almost no difference between the two versions. Either way, unless you double click this text, i have only uploaded the free version, because as said by quite a lot of reviewers, both have ads, which is just horrible imo.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.clapfootgames.laserwarsfree_1.1.8.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.clapfootgames.laserwarsfree_1.1.8.apk</b> (22.2 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.clapfootgames.laserwars_1.1.2.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.clapfootgames.laserwars_1.1.2.apk</b> (23.5 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.clapfootgames.laserwarsfree_1.1.8.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.clapfootgames.laserwarsfree_1.1.8.apk</b> (22.2 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.clapfootgames.laserwars_1.1.2.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.clapfootgames.laserwars_1.1.2.apk</b> (23.5 MB)</a>
 </div>

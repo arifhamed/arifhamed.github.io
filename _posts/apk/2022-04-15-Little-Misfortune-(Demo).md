@@ -14,6 +14,6 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 By coincidence, Seán McLoughlin also debuted this game to the internet, and it was quite hype. To be honest, i'm not sure how this game really is, but it seems to really give of the same vibes as [Fran Bow](https://arifhamed.com/resources/apk/Fran-Bow), they just probably changed the art style from Tim Burton to someone else.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.KillmondayGames.LittleMisfortuneDemo_15.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.KillmondayGames.LittleMisfortuneDemo_15.apk</b> (90.1 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.KillmondayGames.LittleMisfortune_1.2.xapk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.KillmondayGames.LittleMisfortune_1.2.xapk</b> (1.36 GB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.KillmondayGames.LittleMisfortuneDemo_15.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.KillmondayGames.LittleMisfortuneDemo_15.apk</b> (90.1 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.KillmondayGames.LittleMisfortune_1.2.xapk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.KillmondayGames.LittleMisfortune_1.2.xapk</b> (1.36 GB)</a>
 </div>

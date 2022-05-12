@@ -15,5 +15,5 @@ piracy: true
 This was one of those games that your older sibling would let you watch them play. That happened with me, and I recall it seems fun. That's all from me, just download it and play it. iirc, there was the iconic macaron dragon.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.disney.castleofillusion_goo_1.4.4.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.disney.castleofillusion_goo_1.4.4.xapk</b> (513 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.disney.castleofillusion_goo_1.4.4.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.disney.castleofillusion_goo_1.4.4.xapk</b> (513 MB)</a>
 </div>

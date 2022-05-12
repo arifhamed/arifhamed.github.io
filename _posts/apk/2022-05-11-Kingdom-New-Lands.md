@@ -16,5 +16,5 @@ piracy: true
 You have a crown, don't drop it. Use gold to build your kingdom and get it people to work for you. Also, you basically ride on your horse the entire time, so one has to wonder if you are actually a centaur.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("nl.noio.kingdom_1.3.3.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>nl.noio.kingdom_1.3.3.apk</b> (80.4 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("nl.noio.kingdom_1.3.3.apk")' style="text-decoration: none; background-color: #333;"> Download <b>nl.noio.kingdom_1.3.3.apk</b> (80.4 MB)</a>
 </div>

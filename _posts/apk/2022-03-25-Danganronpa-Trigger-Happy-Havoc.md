@@ -18,14 +18,13 @@ i. love. this. game! and the whole franchise too. So many interesting characters
 
 For a more in-depth explanation, just watch, like, game grumps or something. I've been watching them quite a lot, and when they started the first Danganronpa playthrough, I immediately understand why there was an uproar of fandom for Danganronpa when it was released. Pretty cool game, 11/10.
 
-Due to the limitation of my "file server", i could only upload a max of 2 GB, so i split it using WinRAR. Likewise, use WinRAR or 7zip to unpack it.
+<!-- Due to the limitation of my "file server", i could only upload a max of 2 GB, so i split it using WinRAR. Likewise, use WinRAR or 7zip to unpack it. -->
 
 <div class="text-center">
-    <!-- <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part1.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part1.rar</b> (1.95 GB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part2.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part2.rar</b> (823 MB)</a><br> -->
+    <!-- <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part1.rar")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part1.rar</b> (1.95 GB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part2.rar")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part2.rar</b> (823 MB)</a><br> -->
     <a class="btn btn-dark btn-block w-100" onclick="window.open('https://wira.adem.my.id/?source=youtube&title=mpGYLg1BOI&type=xapk&download=aHR0cHM6Ly9kb3dubG9hZDEzMjQubWVkaWFmaXJlLmNvbS83MnFkamphdWlxdGcveXNpazIzeTBlcHB3NTBtL2pwLmNvLnNwaWtlX2NodW5zb2Z0LkRSMV8xLjAuMi54YXBr', '_self')" style="text-decoration: none; background-color: #333;">Download <b>jp.co.spike_chunsoft.DR1_1.0.2.xapk</b> (2.75 GB)</a> 
 </div>
-<br>
-<br>
+
 <br>
 <sup id="1">[1]</sup> Written as of <span class="timestamp">2022-03-23</span>.

@@ -21,5 +21,5 @@ Create your own religion piece by piece in this uniquely colorful and hand-craft
 I played this game for a bit, and i can see that the main character really interacts with me as the player a lot. Looks like a fine game, very unique story and setting, visuals looks aight.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mangoprotocol.psychotic.agatha_1.0.1.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mangoprotocol.psychotic.agatha_1.0.1.apk</b> (93.2 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mangoprotocol.psychotic.agatha_1.0.1.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.mangoprotocol.psychotic.agatha_1.0.1.apk</b> (93.2 MB)</a>
 </div>

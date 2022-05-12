@@ -16,6 +16,6 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 Something that's also fun about this is that it's also _free_.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("air.com.midjiwan.polytopia_2.0.69.6093.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>air.com.midjiwan.polytopia_2.0.69.6093.apk</b> (94.4 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("air.com.midjiwan.polytopia_2.1.0.6506-unlocked-all-tribes.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>air.com.midjiwan.polytopia_2.1.0.6506-unlocked-all-tribes.apk</b> (72.7 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("air.com.midjiwan.polytopia_2.0.69.6093.apk")' style="text-decoration: none; background-color: #333;"> Download <b>air.com.midjiwan.polytopia_2.0.69.6093.apk</b> (94.4 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("air.com.midjiwan.polytopia_2.1.0.6506-unlocked-all-tribes.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>air.com.midjiwan.polytopia_2.1.0.6506-unlocked-all-tribes.apk</b> (72.7 MB)</a>
 </div>

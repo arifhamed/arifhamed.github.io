@@ -17,5 +17,5 @@ Not much i have to say, just watch youtubers play this game. i think its a cool 
 Note that <a href="https://www.virustotal.com/gui/file/27c055270daadd397e6f6dd1b338350da30d3ec34a8014d23fc9b5ca85aed3a4" target="_blank">VirusTotal</a> gave this file a false-positive (_Android.PUA.DebugKey_), as it is cracked.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.tomorrowcorporation.humanresourcemachine_1.0.5.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.tomorrowcorporation.humanresourcemachine_1.0.5.apk</b> (98.5 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.tomorrowcorporation.humanresourcemachine_1.0.5.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.tomorrowcorporation.humanresourcemachine_1.0.5.apk</b> (98.5 MB)</a>
 </div>

@@ -17,5 +17,5 @@ To be frank, i've not played this game much but i remember being recommended thi
 It's basically a basic trainer for civil engineers.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("nz.co.codepoint.minimetro_2.2.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>nz.co.codepoint.minimetro_2.2.0.apk</b> (71.8 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("nz.co.codepoint.minimetro_2.2.0.apk")' style="text-decoration: none; background-color: #333;"> Download <b>nz.co.codepoint.minimetro_2.2.0.apk</b> (71.8 MB)</a>
 </div>

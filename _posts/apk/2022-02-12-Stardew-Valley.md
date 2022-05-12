@@ -19,5 +19,5 @@ This game right here, it was one that I missed out when the _hype_ was all aroun
 Note that <a href="https://www.virustotal.com/gui/file/3e1c97004914c3b926ab4f10e7ddabf53d8c52ba7f96c707d1e8702e2d022ce9" target="_blank">VirusTotal</a> gave a **false positive** (_A.gray.Nebula.a_), because this kind of file will connect to a lot of IPs, but it is completely fine.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.chucklefish.stardewvalley_1.4.5.144.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.chucklefish.stardewvalley_1.4.5.144.apk</b> (122 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.chucklefish.stardewvalley_1.4.5.144.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.chucklefish.stardewvalley_1.4.5.144.apk</b> (122 MB)</a>
 </div>

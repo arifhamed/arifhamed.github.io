@@ -18,5 +18,5 @@ I can see how people in that position can easily get into a cult. Watching a lot
 Other than that, i really love the graphics of this game. Very smooth animations, sharp textures, also the intuitiveness of the GUI. 11/10 for visual and user design.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.cultist_3.6.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.cultist_3.6.xapk</b> (277 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.cultist_3.6.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.cultist_3.6.xapk</b> (277 MB)</a>
 </div>

@@ -15,5 +15,5 @@ piracy: true
 I wanted to play this game for a long time ago, now i got to. Seems pretty fun, in the first half an hour. It is generally well-received by critics so here it is.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.crescentmoongames.ravensword2_21.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.crescentmoongames.ravensword2_21.xapk</b> (527 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.crescentmoongames.ravensword2_21.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.crescentmoongames.ravensword2_21.xapk</b> (527 MB)</a>
 </div>

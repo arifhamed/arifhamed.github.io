@@ -12,6 +12,6 @@ piracy: true
 <span class="timestamp">07 May 2022:</span> I wanted this game a while back because it looked high-def, and I was shocked to see it function pretty well on my own phone, as it was so high-def. It looks a like swell game if I continued to play it, it looks pretty well done, besides the microsoft paint inventory & crafting UI. 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.MarsusProject_1.6.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.MarsusProject_1.6.apk</b> (68.5 MB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.MarsusProject_1.6-unlimited-crafting.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.MarsusProject_1.6-unlimited-crafting.apk</b> (68.9 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.MarsusProject_1.6.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.MarsusProject_1.6.apk</b> (68.5 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.MarsusProject_1.6-unlimited-crafting.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.MarsusProject_1.6-unlimited-crafting.apk</b> (68.9 MB)</a>
 </div>

@@ -16,8 +16,8 @@ piracy: true
 Unfortunately, for us here in this sketchy bootstrap jekyll website, the PowerVR version may not be functional? For some reason the rest of the versions work on my phone (which has a PowerVR GPU), but man the graphics were all wrong.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-Adreno.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-Adreno.xapk</b> (713 MB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-Mali.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-Mali.xapk</b> (744 MB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-PowerVR.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-PowerVR.xapk</b> (745 MB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-Tegra.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-Tegra.xapk</b> (696 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-Adreno.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-Adreno.xapk</b> (713 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-Mali.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-Mali.xapk</b> (744 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-PowerVR.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-PowerVR.xapk</b> (745 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.brothers_1.0.0-Tegra.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.brothers_1.0.0-Tegra.xapk</b> (696 MB)</a><br>
 </div>

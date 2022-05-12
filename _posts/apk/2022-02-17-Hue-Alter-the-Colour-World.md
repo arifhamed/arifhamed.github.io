@@ -21,5 +21,5 @@ What really makes this game stands out <span style="color:#EE42A5;">compared</sp
 Side note: for some reason, when I ran this on my <a href="/about-devices" target="_blank" style="color:FBCC0A;">J4</a>, the **walls**, **ceilings** and **floors** didn't show up, but it appeared on my A16 as shown in the <span style="color:#94EA0B;">gameplay</span>. <span style="font-size:80%;">You can even see me pause for half a second as I was surprised to see it work for the first time, even so recording it</span>
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.BadlandPublishing.HUE_1.7.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.BadlandPublishing.HUE_1.7.apk</b> (135 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.BadlandPublishing.HUE_1.7.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.BadlandPublishing.HUE_1.7.apk</b> (135 MB)</a>
 </div>

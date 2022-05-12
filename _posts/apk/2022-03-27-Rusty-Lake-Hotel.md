@@ -16,5 +16,5 @@ piracy: true
 One thing that caught my attention about this game is its art style, and then the mystery after playing it. Before this game, i played through all the Cube Escape games by <a href="https://play.google.com/store/apps/dev?id=5341269538359321555" target="_blank">Rusty Lake</a>, or at least before <a href="https://play.google.com/store/apps/details?id=air.com.RustyLake.CubeEscapeCollection" target="_blank">Cube Escape Collection</a>, haven't played that one yet. I personally really like this escape room point-and-click game.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("air.com.RustyLake.RustyLakeHotel_3.0.9.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>air.com.RustyLake.RustyLakeHotel_3.0.9.apk</b> (37 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("air.com.RustyLake.RustyLakeHotel_3.0.9.apk")' style="text-decoration: none; background-color: #333;"> Download <b>air.com.RustyLake.RustyLakeHotel_3.0.9.apk</b> (37 MB)</a>
 </div>

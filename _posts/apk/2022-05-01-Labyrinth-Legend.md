@@ -15,5 +15,5 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 <span class="timestamp">00 May 2022:</span> 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b></b> ()</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("")' style="text-decoration: none; background-color: #333;"> Download <b></b> ()</a>
 </div>

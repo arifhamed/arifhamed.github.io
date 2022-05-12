@@ -15,5 +15,5 @@ Likely the best Nintendo DS Emulator that you can find for Android. All its feat
 Speaking about 3DS, i will only bother to get that APK once they make it paid.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.dsemu.drastic_r2.5.2.2a.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.dsemu.drastic_r2.5.2.2a.apk</b> (15.2 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.dsemu.drastic_r2.5.2.2a.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.dsemu.drastic_r2.5.2.2a.apk</b> (15.2 MB)</a>
 </div>

@@ -13,5 +13,5 @@ piracy: true
 <span class="timestamp">20 April 2022:</span> This game, like, somehow, reminds me of both FTL **&** Endless Sky. As of the time of this entry, i have not recorded the gameplay, which also means when testing the file i have not played it much besides the basic functions of the game.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.skvgames.GalaxyGenome_11.4.12.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.skvgames.GalaxyGenome_11.4.12.apk</b> (89.5 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.skvgames.GalaxyGenome_11.4.12.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.skvgames.GalaxyGenome_11.4.12.apk</b> (89.5 MB)</a>
 </div>

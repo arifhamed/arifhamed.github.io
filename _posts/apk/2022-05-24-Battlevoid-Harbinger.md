@@ -14,5 +14,5 @@ piracy: true
 <span class="timestamp">07 May 2022:</span> Ok, I am sure there differences between this and [Sector Siege](https://arifhamed.com/resources/apk/Battlevoid-Sector-Siege), and i'm not sure what it is. The aesthetic is almost the same though, and the tutorial guy is the same person, so at least both games have continuity unlike Space Quest 1-5 and from 6.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("fi.bugbyte.harbinger_2.0.7.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>fi.bugbyte.harbinger_2.0.7.apk</b> (42.8 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("fi.bugbyte.harbinger_2.0.7.apk")' style="text-decoration: none; background-color: #333;"> Download <b>fi.bugbyte.harbinger_2.0.7.apk</b> (42.8 MB)</a>
 </div>

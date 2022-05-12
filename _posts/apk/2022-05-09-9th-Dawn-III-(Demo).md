@@ -16,6 +16,6 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 tbh i have not gotten so deep into this game yet but it really does seem promising.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.valorware.ninthdawniiifreedemo_1.18.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.valorware.ninthdawniiifreedemo_1.18.apk</b> (130 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.valorware.ninthdawniii_1.60.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.valorware.ninthdawniii_1.60.apk</b> (141 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.valorware.ninthdawniiifreedemo_1.18.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.valorware.ninthdawniiifreedemo_1.18.apk</b> (130 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.valorware.ninthdawniii_1.60.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.valorware.ninthdawniii_1.60.apk</b> (141 MB)</a>
 </div>

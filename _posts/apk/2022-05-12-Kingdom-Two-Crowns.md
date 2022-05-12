@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Kingdom: Two Crowns"
 layout: post-apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.rawfury.kingdom2crowns
@@ -14,5 +14,5 @@ piracy: true
 <span class="timestamp">22 April 2022:</span> err, kinda the same as the first game, but this time its multiplayer, and there are different developers.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.rawfury.kingdom2crowns_1.1.15.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.rawfury.kingdom2crowns_1.1.15.xapk</b> (772 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.rawfury.kingdom2crowns_1.1.15.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.rawfury.kingdom2crowns_1.1.15.xapk</b> (772 MB)</a>
 </div>

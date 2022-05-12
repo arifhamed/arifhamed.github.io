@@ -19,8 +19,8 @@ Forgotton Anne is a seamless cinematic adventure with meaningful storytelling an
 The following XAPK file is of a demo, it states so in the Play Store.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.hitcents.forgottonanne_1.4.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.hitcents.forgottonanne_1.4.xapk</b> (1.12 GB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.hitcents.forgottonanne_1.4-full.xapk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.hitcents.forgottonanne_1.4-full.xapk</b> (1.1 GB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.hitcents.forgottonanne_1.4.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.hitcents.forgottonanne_1.4.xapk</b> (1.12 GB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.hitcents.forgottonanne_1.4-full.xapk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.hitcents.forgottonanne_1.4-full.xapk</b> (1.1 GB)</a>
 </div>
 
 <span id="truth" style="display:none;">This is most likely a cracked apk, however i have no evidence of it. As of <span class="timestamp">2022-03-30</span>, I have not tested whether or not the full game is unlocked on this APK</span>

@@ -15,5 +15,5 @@ piracy: true
 Either way, Risk of Rain is a roguelite, where you're basically someone on a ship that crashlanded on a planet and now you gotta fight your way somewhere. Not even survive, just blast through everything and everyone. This game caught my attention because of the charming pixelated graphics, and then it charmed me again for its pretty enticing gameplay. 10/10 fun game, btw the numbers i have here like 9/10 or 3/10 really doesn't matter, it's just comedy, because this website's a joke.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("Risk-of-Rain_1.3.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>Risk-of-Rain_1.3.0.apk</b> (32.7 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("Risk-of-Rain_1.3.0.apk")' style="text-decoration: none; background-color: #333;"> Download <b>Risk-of-Rain_1.3.0.apk</b> (32.7 MB)</a>
 </div>

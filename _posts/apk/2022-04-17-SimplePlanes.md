@@ -14,5 +14,5 @@ piracy: true
 <span class="timestamp">2022-Apr-19</span> A review would be due, eventually. looks like a good game though, it got popular.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.jundroo.SimplePlanes_1.12.128.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.jundroo.SimplePlanes_1.12.128.apk</b> (131 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.jundroo.SimplePlanes_1.12.128.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.jundroo.SimplePlanes_1.12.128.apk</b> (131 MB)</a>
 </div>

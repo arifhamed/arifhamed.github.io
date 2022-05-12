@@ -15,6 +15,6 @@ I had this emulator for a long while, and had pretty good memories of the Minish
 The following file is the Lite version.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.fastemulator.gbafree_1.8.0.1.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.fastemulator.gbafree_1.8.0.1.apk</b> (1.71 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.fastemulator.gba_1.8.0.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.fastemulator.gba_1.8.0.apk</b> (1.77 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.fastemulator.gbafree_1.8.0.1.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.fastemulator.gbafree_1.8.0.1.apk</b> (1.71 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.fastemulator.gba_1.8.0.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.fastemulator.gba_1.8.0.apk</b> (1.77 MB)</a>
 </div>

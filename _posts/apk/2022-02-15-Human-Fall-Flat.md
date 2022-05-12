@@ -17,5 +17,5 @@ piracy: true
 This game picked up speed at a constant pace about 4 years ago (gosh that's a while back), back when <a href="https://youtu.be/vKd5S5MxU-Y" target="_blank">Vanoss played it for the first time</a>, and looking at the title he liked it a lot probably.<!--more--> I was intrigued by this game, as it shows that you as the character has _control over their hands **individually (ambidexterous)**_. I found it hard to believe how a game with a **control scheme** like that would end up on mobile, and guess what, people don't like the controls for mobile! However, I for one, loves the controls, as I believe that is slightly the point of the game. It takes a while to figure it out but once you got it, playing through it in mobile would be quite a blast! 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.humanfallflat_1.9.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.humanfallflat_1.9.apk</b> (880 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.humanfallflat_1.9.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.humanfallflat_1.9.apk</b> (880 MB)</a>
 </div>

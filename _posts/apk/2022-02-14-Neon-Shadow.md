@@ -25,5 +25,5 @@ Neon Shadow, a <span style="font-size:120%;">_Cyberpunk 3D First Person Shooter_
 Shoutouts to <a href="https://neon-shadow.en.uptodown.com/android" target="_blank">UpToDown</a> for having somewhat similar vision to our websites, I got my APK from them. The 1.38 version is the last version before GameClub dumped their load into the later versions
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.crescentmoongames.neonshadow_1.38.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.crescentmoongames.neonshadow_1.38.apk</b> (16.9 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.crescentmoongames.neonshadow_1.38.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.crescentmoongames.neonshadow_1.38.apk</b> (16.9 MB)</a>
 </div>

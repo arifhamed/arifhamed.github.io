@@ -15,6 +15,6 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 However, microtransactions. That cursed word is enough to kill an entire litter of cats.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.pixowl.thesandbox.android_1.99981.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.pixowl.thesandbox.android_1.99981.apk</b> (75.2 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.pixowl.thesandbox.android_1.99981.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.pixowl.thesandbox.android_1.99981.apk</b> (75.2 MB)</a><br>
     <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.pixowl.thesandbox.android_1.99981-unlimited-mana.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none"> Download <b>com.pixowl.thesandbox.android_1.99981-unlimited-mana.apk</b> (65.3 MB)</a>
 </div>

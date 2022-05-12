@@ -14,6 +14,6 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 There's probably some differences to the previous game, just look at the play store page idk
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.candyrufusgames.survivalcraft2trial_2.2.11.3.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.candyrufusgames.survivalcraft2trial_2.2.11.3.apk</b> (24.4 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.candyrufusgames.survivalcraft2_2.3.10.1.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.candyrufusgames.survivalcraft2_2.3.10.1.apk</b> (19.5 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.candyrufusgames.survivalcraft2trial_2.2.11.3.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.candyrufusgames.survivalcraft2trial_2.2.11.3.apk</b> (24.4 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.candyrufusgames.survivalcraft2_2.3.10.1.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.candyrufusgames.survivalcraft2_2.3.10.1.apk</b> (19.5 MB)</a>
 </div>

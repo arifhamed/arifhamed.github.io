@@ -18,6 +18,6 @@ Survivalcraft brings features you love in the PC version of the most popular blo
 Yeah i kinda gave up with the reviews. I played this game a bit a long time ago and it seems cool, a good minecraft clone.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.candyrufusgames.survivalcrafttrial_1.29.54.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.candyrufusgames.survivalcrafttrial_1.29.54.0.apk</b> (17.1 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.candyrufusgames.survivalcraft_1.29.53.0.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.candyrufusgames.survivalcraft_1.29.53.0.apk</b> (19.3 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.candyrufusgames.survivalcrafttrial_1.29.54.0.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.candyrufusgames.survivalcrafttrial_1.29.54.0.apk</b> (17.1 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.candyrufusgames.survivalcraft_1.29.53.0.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.candyrufusgames.survivalcraft_1.29.53.0.apk</b> (19.3 MB)</a>
 </div>

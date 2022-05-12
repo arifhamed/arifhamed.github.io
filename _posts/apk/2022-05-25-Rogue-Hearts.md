@@ -13,5 +13,5 @@ piracy: true
 <span class="timestamp">07 May 2022:</span> I mean the description above is exactly what it is. I played it for a few minutes and it's actually pretty good. It's like if [Cookie Run Kingdom](https://arifhamed.com/resources/apk/Cookie-Run-Kingdom) was a bit more manual, except that I don't think there is like your own kingdom in Rogue Hearts. Also, just like Cookie Run Kingdom, requires you to connect to a server, which sucks absolute balls if a game shuts down.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ninetailgames.roguehearts.paid_1.6.7-mod-menu.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.ninetailgames.roguehearts.paid_1.6.7-mod-menu.apk</b> (166 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.ninetailgames.roguehearts.paid_1.6.7-mod-menu.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.ninetailgames.roguehearts.paid_1.6.7-mod-menu.apk</b> (166 MB)</a>
 </div>

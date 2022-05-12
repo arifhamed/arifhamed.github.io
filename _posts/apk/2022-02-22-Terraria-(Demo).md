@@ -23,8 +23,8 @@ I don't even need to explain this game, it can just explain in itself, and a who
 Shoutouts to <a href="https://www.drstudios.co.uk/" target="_blank">DR Studios</a> for doing such a great job porting 1.3 content to mobile, and also 1.4 content so much faster than the console version. I really aspire to be like them one day, more than just creating this sketchy website. 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.Terraria_1.4.0.5.2.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.Terraria_1.4.0.5.2.apk</b> (163 MB)</a><br>
-    <a id="paid" class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.TerrariaPaid_1.4.0.5.2.1.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.and.games505.TerrariaPaid_1.4.0.5.2.1.apk</b> (161 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.Terraria_1.4.0.5.2.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.and.games505.Terraria_1.4.0.5.2.apk</b> (163 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.and.games505.TerrariaPaid_1.4.0.5.2.1.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.and.games505.TerrariaPaid_1.4.0.5.2.1.apk</b> (161 MB)</a>
 </div>
 
 Also, i got some more gameplay below.

@@ -21,5 +21,5 @@ Now this game, that cover art, and how many times it got discounted on [Steam](h
 This APk apparently has some DLC or smtg inside, allegedly <br>
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.deadcells.mobile_2.4.14.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.deadcells.mobile_2.4.14.apk</b> (1.09 GB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.deadcells.mobile_2.4.14.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.deadcells.mobile_2.4.14.apk</b> (1.09 GB)</a>
 </div>

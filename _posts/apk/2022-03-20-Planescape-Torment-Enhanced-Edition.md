@@ -14,5 +14,5 @@ piracy: true
 To be frank, i never really played this game, like, at all. So idk just google this game or something.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.beamdog.pstee_3.1.3.0.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.beamdog.pstee_3.1.3.0.xapk</b> (1.41 GB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.beamdog.pstee_3.1.3.0.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.beamdog.pstee_3.1.3.0.xapk</b> (1.41 GB)</a>
 </div>

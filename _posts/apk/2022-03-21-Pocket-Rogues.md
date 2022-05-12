@@ -17,6 +17,6 @@ You know what's funny, when you google `pocket rogues ultimate`, Google recommen
 Other than that, it was actually quite fun to play! Good game, good game.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.EtherGaming.PocketRogues_1.34.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.EtherGaming.PocketRogues_1.34.apk</b> (98.9 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.EtherGaming.PocketRoguesUltimate_1.34.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.EtherGaming.PocketRoguesUltimate_1.34.apk</b> (98.8 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.EtherGaming.PocketRogues_1.34.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.EtherGaming.PocketRogues_1.34.apk</b> (98.9 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.EtherGaming.PocketRoguesUltimate_1.34.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.EtherGaming.PocketRoguesUltimate_1.34.apk</b> (98.8 MB)</a>
 </div>

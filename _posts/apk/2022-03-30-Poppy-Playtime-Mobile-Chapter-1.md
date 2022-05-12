@@ -14,5 +14,5 @@ piracy: true
 <span class="timestamp">[2022-Mar-30]</span> I have not gone to the chase yet but i'm just out here looking at ports of pc games to mobiles. So far though, the PC gameplay looks cool, and it has gained quite a cult following already.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.MOBGames.PoppyMobileChap1_3.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.MOBGames.PoppyMobileChap1_3.apk</b> (599 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.MOBGames.PoppyMobileChap1_3.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.MOBGames.PoppyMobileChap1_3.apk</b> (599 MB)</a>
 </div>

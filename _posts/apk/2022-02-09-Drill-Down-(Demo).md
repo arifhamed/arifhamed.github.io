@@ -15,6 +15,6 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 Drill Down is basically something like Mindustry, or Factor.io. It works, not much to say right now, I enjoyed classic Mindustry imo, Drill Down was probably inspired from it. <!--more-->I don't intend to play further than the above gameplay though, until I have that itch. Although, to be honest, I would rather be playing Mindustry instead, its a 100% free alternative to this or even Factor.io. <span style="font-size:70%">If I have my files right, this one is the paid version</span>
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("de.dakror.quarry.demo_v122-demo.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>de.dakror.quarry.demo_v122-demo.apk</b> (10.9 MB)</a><br>
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("de.dakror.quarry_v120-full.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>de.dakror.quarry_v120-full.apk</b> (10.9 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("de.dakror.quarry.demo_v122-demo.apk")' style="text-decoration: none; background-color: #333;"> Download <b>de.dakror.quarry.demo_v122-demo.apk</b> (10.9 MB)</a><br>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("de.dakror.quarry_v120-full.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>de.dakror.quarry_v120-full.apk</b> (10.9 MB)</a>
 </div>

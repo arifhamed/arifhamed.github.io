@@ -74,5 +74,5 @@ The current version of ReProvision does not support 2FA, please use an Apple ID 
 If you have followed this with no error than congrats, you now have mobile determination!
 
 <div class="text-center">
-    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.jockeholm.undertale_2.0.0.apk")' target="_blank" style="text-decoration: none; background-color: #333; display: none;"> Download <b>om.jockeholm.undertale_2.0.0.apk</b> (142 MB)</a>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.jockeholm.undertale_2.0.0.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>om.jockeholm.undertale_2.0.0.apk</b> (142 MB)</a>
 </div>

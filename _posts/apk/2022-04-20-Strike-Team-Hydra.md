@@ -14,5 +14,5 @@ piracy: true
 aight tbh, never played this game, just saw the graphics & gameplay, and it looks good. so here it is (i'm not sure if it is cracked though, so if it has license checking then adios)
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.WaveLightGames.StrikeTeamHydra_8.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.WaveLightGames.StrikeTeamHydra_8.apk</b> (32.0 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.WaveLightGames.StrikeTeamHydra_8.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.WaveLightGames.StrikeTeamHydra_8.apk</b> (32.0 MB)</a>
 </div>

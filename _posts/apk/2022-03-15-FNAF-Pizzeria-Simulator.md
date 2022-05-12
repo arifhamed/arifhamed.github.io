@@ -23,5 +23,5 @@ Honestly, this game speaks for itself, and one thing that I really enjoy about t
 Note that <a href="https://www.virustotal.com/gui/file/013336bce9401c91e0a64f0d06bb4995171eab4278323d46fd9af99be975743a" target="_blank">VirusTotal</a> gave this a false-positive (_A.gray.plugingame.d_)
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.clickteam.freddyfazbearspizzeriasimulator_1.0.4.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.clickteam.freddyfazbearspizzeriasimulator_1.0.4.apk</b> (148 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.clickteam.freddyfazbearspizzeriasimulator_1.0.4.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.clickteam.freddyfazbearspizzeriasimulator_1.0.4.apk</b> (148 MB)</a>
 </div>

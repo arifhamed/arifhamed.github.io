@@ -16,9 +16,10 @@ ctrl+c, ctrl+v review from [THH](https://arifhamed.com/resources/apk/Trigger-Hap
 
 ytbers Game Grumps are also playing this game and still recording it (as of <span class="timestamp">24 March 2022</span>), though I'm one of those people who would wait until their uploading of the entire gameplay was played through. Seems promising imo.
 
-Due to the limitation of my "file server", i could only upload a max of 2 GB, so i split it using WinRAR. Likewise, use WinRAR or 7zip to unpack it.
+<!-- Due to the limitation of my "file server", i could only upload a max of 2 GB, so i split it using WinRAR. Likewise, use WinRAR or 7zip to unpack it. -->
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR2_1.0.0.part1.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.part1.rar</b> (1.95 GB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR2_1.0.0.part2.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.part2.rar</b> (814 MB)</a>
+    <!-- <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR2_1.0.0.part1.rar")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.part1.rar</b> (1.95 GB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR2_1.0.0.part2.rar")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.part2.rar</b> (814 MB)</a><br> -->
+    <a class="btn btn-dark btn-block w-100" onclick='window.open("https://wira.adem.my.id/?source=youtube&title=FsP9ppOF2w&type=xapk&download=aHR0cHM6Ly9kb3dubG9hZDEzNDkubWVkaWFmaXJlLmNvbS8xejZzeGZ1YmZrcmcvcmZpeHQ2a2dvN2YweGZjL2pwLmNvLnNwaWtlX2NodW5zb2Z0LkRSMl8xLjAuMC54YXBr", "_self")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.xapk</b> (2.74 GB)</a>
 </div>

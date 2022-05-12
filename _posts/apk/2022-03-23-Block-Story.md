@@ -21,9 +21,9 @@ Although, it has some points that make it stand out, such as dragons, different 
 Here is the demo Block Story, which is somewhat.. minimal. Many features are cut off, as compared to the full version.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_light_13.1.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_light_13.1.0.apk</b> (89.7 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_light_13.1.0.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_light_13.1.0.apk</b> (89.7 MB)</a><br>
     <div id="truth" style="display:none;">
-        <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0.apk</b> (89.6 MB)</a><br>
-        <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0_unlimited_gems.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0_unlimited_gems.apk</b> (77.2 MB)</a>
+        <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0.apk</b> (89.6 MB)</a><br>
+        <a class="btn btn-dark btn-block w-100" onclick='apk("com.mindblocks.blocks_13.1.0_unlimited_gems.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.mindblocks.blocks_13.1.0_unlimited_gems.apk</b> (77.2 MB)</a>
     </div>
 </div>

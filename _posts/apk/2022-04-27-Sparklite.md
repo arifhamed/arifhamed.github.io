@@ -16,6 +16,6 @@ secret: document.getElementById('truth').setAttribute('style','text-decoration:n
 The only thing that holds this back is it's marketing, the controls (according to reviews. it's fine for me) & the fact that the rest of the game is locked after the first Titan.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.sparklite_1.7.83.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.sparklite_1.7.83.xapk</b> (96.9 MB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.sparklite_1.7.105-full.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.sparklite_1.7.105-full.apk</b> (93.1 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.sparklite_1.7.83.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.sparklite_1.7.83.xapk</b> (96.9 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.sparklite_1.7.105-full.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.sparklite_1.7.105-full.apk</b> (93.1 MB)</a>
 </div>

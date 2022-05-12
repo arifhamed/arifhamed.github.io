@@ -17,5 +17,5 @@ Ahh, this would be referred to as a classic after many years, because somehow, i
 I believe this game is popular enough so that I don't have to re-explain this game, and just like [Boris & the Dark Survival](https://arifhamed.com/resources/apk/Boris-and-the-Dark-Survival), this was a port to Android (and iOS) that was executed well.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.jds.batim_1.0.829.xapk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.jds.batim_1.0.829.xapk</b> (487 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.jds.batim_1.0.829.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.jds.batim_1.0.829.xapk</b> (487 MB)</a>
 </div>

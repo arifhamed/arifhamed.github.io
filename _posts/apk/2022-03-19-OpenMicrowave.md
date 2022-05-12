@@ -15,5 +15,5 @@ This is essentially a port for Morrowing on Android, and after playing for a sho
 Recently, however, it may have been hidden in the Play Store by the owner for whatever reason, which either way, here is the <a href="https://github.com/xyzz/openmw-android/releases" target="_blank">source</a>, thank goodness.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("is.xyz.omw_0.46.0-40.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>is.xyz.omw_0.46.0-40.apk</b> (46.8 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("is.xyz.omw_0.46.0-40.apk")' style="text-decoration: none; background-color: #333;"> Download <b>is.xyz.omw_0.46.0-40.apk</b> (46.8 MB)</a>
 </div>

@@ -16,5 +16,5 @@ piracy: true
 You're in prison, but you want to escape. Basically, know how to escape. Strategize, know when to use your energy, know when to be bold, outsmart the authorities, and <span style="font-size:130%;text-shadow:10px 10px 0, -10px -10px 0;">escape</span>. i'm pretty sure the next game is the same thing.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.team17.escapists_626294-modded.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.team17.escapists_626294-modded.apk</b> (80.9 MB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.team17.escapists_626294-modded.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.team17.escapists_626294-modded.apk</b> (80.9 MB)</a>
 </div>
