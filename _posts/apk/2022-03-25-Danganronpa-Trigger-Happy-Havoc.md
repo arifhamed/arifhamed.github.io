@@ -21,8 +21,9 @@ For a more in-depth explanation, just watch, like, game grumps or something. I'v
 Due to the limitation of my "file server", i could only upload a max of 2 GB, so i split it using WinRAR. Likewise, use WinRAR or 7zip to unpack it.
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part1.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part1.rar</b> (1.95 GB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part2.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part2.rar</b> (823 MB)</a>
+    <!-- <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part1.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part1.rar</b> (1.95 GB)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part2.rar")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part2.rar</b> (823 MB)</a><br> -->
+    <a class="btn btn-dark btn-block w-100" onclick="window.open('https://wira.adem.my.id/?source=youtube&title=mpGYLg1BOI&type=xapk&download=aHR0cHM6Ly9kb3dubG9hZDEzMjQubWVkaWFmaXJlLmNvbS83MnFkamphdWlxdGcveXNpazIzeTBlcHB3NTBtL2pwLmNvLnNwaWtlX2NodW5zb2Z0LkRSMV8xLjAuMi54YXBr', '_self')" style="text-decoration: none; background-color: #333;">Download <b>jp.co.spike_chunsoft.DR1_1.0.2.xapk</b> (2.75 GB)</a> 
 </div>
 <br>
 <br>

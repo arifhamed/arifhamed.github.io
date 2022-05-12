@@ -193,10 +193,6 @@ body {
     transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
-a {
-    color:#333!important;
-}
-
-a:hover {
+footer a:hover {
     color: #888;
 }

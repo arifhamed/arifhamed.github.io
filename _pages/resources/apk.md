@@ -25,7 +25,20 @@ layout: default
 secret: javascript:togglePiracy();
 ---
 
-<script>var paidlist=document.getElementsByClassName("piracy");function togglePiracy(){for(var i in paidlist)"none"==i.style.display?i.style.display="inline":i.style.display="none"}</script>
+<script>
+    var paidlist=document.getElementsByClassName('piracy');
+    //var paidflag=false;
+    function togglePiracy(){
+        for(let a of paidlist){
+            //a.setAttribute('style','display:inline;')
+            if (a.style.display == "none"){
+                a.style.display = "inline"
+            } else {
+                a.style.display = "none"
+            }
+        };
+    }
+</script>
 
 # APKs Downloads
 Here are a few things to take note about the APKs here
