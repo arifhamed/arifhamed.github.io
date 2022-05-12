@@ -10,16 +10,18 @@ Here are some tools that I used in processing the APKs I have collected and save
 
 <hr>
 
-### RAR
+### RAR & 7z
 
-RAR, a cornerstone of data archival. I don't want to bore you (and me) with the description, so here it is, alongside what I used this is for and what you can use it for.
+RAR & 7z, the cornerstones of data archival. I don't want to bore you (and me) with the description, so here it is, alongside what I used this is for and what you can use it for.
 * Decompressing files that Windows does not recognize as archive files (anything besides ZIP, like XAPK & APKS), usually for analysis of smaller files inside
 * Splitting of large files into split archives. The result of splitting a file (or a group of files, if you fancy) will lead to having multiple .part0.rar, .part01.rar, .part02.rar, and so on, it really depends on the configuration you set before splitting
     * ..and like-wise, you can use RAR to un-split it back. Just extract from one of the parts, RAR should be able to identify the others solely based off the name and the parts. Of course, errors will be thrown if the end-archive is corrupt (not all parts present and have the same name besides the suffix). 
 
 <div class="text-center">
-    <a class="btn btn-dark btn-block w-100" href="https://play.google.com/store/apps/details?id=com.rarlab.rar" target="_blank" style="text-decoration: none; background-color: #333;"> Google Play (recommended, latest update)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.rarlab.rar_6.10.build104.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.rarlab.rar_6.10.build104.apk</b> (3.32 MB)</a>
+    <a class="btn btn-dark btn-block w-100" href="https://play.google.com/store/apps/details?id=com.rarlab.rar" target="_blank" style="text-decoration: none; background-color: #333;">RAR Google Play (recommended, latest update)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("com.rarlab.rar_6.10.build104.apk")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>com.rarlab.rar_6.10.build104.apk</b> (3.32 MB)</a><br>
+    <a class="btn btn-dark btn-block w-100" href="https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver" target="_blank" style="text-decoration: none; background-color: #333;">7z Google Play (recommended, latest update)</a><br>
+    <a class="btn btn-dark btn-block w-100" onclick='apk("coming soon")' target="_blank" style="text-decoration: none; background-color: #333;"> Download <b>coming soon.apk</b> ( MB)</a><br>
 </div>
 
 <hr>
