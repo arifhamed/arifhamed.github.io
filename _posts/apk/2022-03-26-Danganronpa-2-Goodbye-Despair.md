@@ -21,5 +21,5 @@ ytbers Game Grumps are also playing this game and still recording it (as of <spa
 <div class="text-center">
     <!-- <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR2_1.0.0.part1.rar")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.part1.rar</b> (1.95 GB)</a><br>
     <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR2_1.0.0.part2.rar")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.part2.rar</b> (814 MB)</a><br> -->
-    <a class="btn btn-dark btn-block w-100" onclick='window.open("https://arifhamed.com/tools/mediafire-direct/?dl=https://www.mediafire.com/file/rfixt6kgo7f0xfc/jp.co.spike_chunsoft.DR2_1.0.0.xapk/file", "_self")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.xapk</b> (2.74 GB)</a>
+    <a class="btn btn-dark btn-block w-100" onclick='window.open("https://arifhamed.com/tools/mediafire-direct-dl?dl=https://www.mediafire.com/file/rfixt6kgo7f0xfc/jp.co.spike_chunsoft.DR2_1.0.0.xapk/file", "_self")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR2_1.0.0.xapk</b> (2.74 GB)</a>
 </div>

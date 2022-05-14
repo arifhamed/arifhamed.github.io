@@ -4,21 +4,28 @@ permalink: /tools/mediafire-direct-dl
 layout: default
 redirect_from:
  - /tools/mediafire-direct-dl/
+ - /tools/mediafire-direct
+ - /tools/mediafire-direct/
  - /tools/mediafire
  - /tools/mediafire/
+ - /mediafire-direct-dl
+ - /mediafire-direct-dl/
+ - /mediafire-direct
+ - /mediafire-direct/
  - /mediafire
  - /mediafire/
 ---
 
 
+<link rel="stylesheet" href="/static/css/mediafire1.css">
 <script src="/static/js/mediafire.js"></script>
-<link rel="stylesheet" href="/static/css/mediafire.css">
+<link rel="stylesheet" href="/static/css/mediafire2.css">
 
 
 <input type="text" id="mediafire-url" autocomplete="off" spellcheck="false" placeholder="https://www.mediafire.com/file/abcde1234567890/file" aria-live="polite">
         
 <p id="new-url" class="hide">You can use the link below on other websites for a direct download:<br>
-    <span id="mediafire-new-url"></span>
+<span id="mediafire-new-url"></span>
 </p>
 
 <p id="mediafire-dl-p"><a href="#" onclick="attemptDownloadRedirect();" id="mediafire-dl-btn" class="button green disable">Direct Download</a></p>

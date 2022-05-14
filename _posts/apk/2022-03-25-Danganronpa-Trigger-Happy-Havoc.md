@@ -23,7 +23,7 @@ For a more in-depth explanation, just watch, like, game grumps or something. I'v
 <div class="text-center">
     <!-- <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part1.rar")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part1.rar</b> (1.95 GB)</a><br>
     <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DR1_1.0.2.part2.rar")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DR1_1.0.2.part2.rar</b> (823 MB)</a><br> -->
-    <a class="btn btn-dark btn-block w-100" onclick="window.open('https://arifhamed.com/tools/mediafire-direct/?dl=http://www.mediafire.com/file/ysik23y0eppw50m/jp.co.spike_chunsoft.DR1_1.0.2.xapk/file', '_self')" style="text-decoration: none; background-color: #333;">Download <b>jp.co.spike_chunsoft.DR1_1.0.2.xapk</b> (2.75 GB)</a> 
+    <a class="btn btn-dark btn-block w-100" onclick="window.open('https://arifhamed.com/tools/mediafire-direct-dl?dl=https://www.mediafire.com/file/ysik23y0eppw50m/jp.co.spike_chunsoft.DR1_1.0.2.xapk/file', '_self')" style="text-decoration: none; background-color: #333;">Download <b>jp.co.spike_chunsoft.DR1_1.0.2.xapk</b> (2.75 GB)</a> 
 </div>
 
 <br>
