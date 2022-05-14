@@ -21,6 +21,9 @@ redirect_from:
 <script src="/static/js/mediafire.js"></script>
 <!-- <link rel="stylesheet" href="/static/css/mediafire2.css"> -->
 
+<h1>Download in progress...</h1>
+<h3>You may need to click the download button again if download doesn't start</h3>
+
 
 <input type="text" id="mediafire-url" autocomplete="off" spellcheck="false" placeholder="https://www.mediafire.com/file/abcde1234567890/file" aria-live="polite">
         
@@ -57,5 +60,5 @@ redirect_from:
 
 <p id="invalid-page" style="display:none;"><span style="color: red">Invalid page, please make sure the Mediafire download is real and hasn't been taken down.</span></p>
 </div>
-</section>
+<!-- </section> -->
 

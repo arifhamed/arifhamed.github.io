@@ -20,7 +20,7 @@ const validMediafireIdentifierDL = /^[a-zA-Z0-9]+$/m;
 const validMediafireShortDL = /^(https?:\/\/)?(www\.)?mediafire\.com\/\?[a-zA-Z0-9]+$/m;
 const validMediafireLongDL = /^(https?:\/\/)?(www\.)?mediafire\.com\/(file|view|download)\/[a-zA-Z0-9]+(\/[a-zA-Z0-9_\-\.~%]+)?(\/file)?$/m;
 const checkHTTP = /^https?:\/\//m;
-const paramDL_initialDelay = 50; // ms
+const paramDL_initialDelay = 200; // ms
 const paramDL_loadDelay = 750; // ms
 
 // Browser Detection Variables
