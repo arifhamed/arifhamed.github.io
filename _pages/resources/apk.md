@@ -42,7 +42,7 @@ secret: javascript:togglePiracy();
 
 # APKs Downloads
 Here are a few things to take note about the APKs here
-1. _**SOURCES**_. Almost everything here are pulled from an Android phone using [ADB](https://arifhamed.com/resources/apk/tools), and all apps are originally installed from the **[Google Play Store](https://play.google.com)**. 
+1. _**SOURCES**_. Almost everything here are pulled from an Android phone using [ADB](https://arifhamed.com/resources/apk/tools), and all apps are originally installed from the **[Google Play Store](https://play.google.com)**. There will be quite a few exceptions.
 1. _**UPDATES**_. Files here **might not be up-to-date** to the latest according to the Play Store, just comment in the page that it is outdated, or [report it](https://arifhamed.com/report)
 1. _**FILE SIZE NOTICE**_. Files that exceed __2 GB__ are split into multiple archives. Use any archival software such as the one I used to pack them, <a href="https://www.win-rar.com/start.html?&L=0" target="_blank">WinRAR</a>, to unpack them. As of <span class="timestamp">03 May 2022</span>, I have yet to find a reliable place to store these huge files that are more than _2 GB_
 1. _**VIRUSTOTAL**_. All files that are **less than 650 MB** <span class="timestamp">_[as of 03 May 2022]_</span> are scanned with <a href="https://www.virustotal.com/" target="_blank">_VirusTotal_</a> and _Windows Defender_.
@@ -60,8 +60,9 @@ Here are a few things to take note about the APKs here
     * There are (at least) 2 architectures that every Android phone uses. If the APK and your phone is one of the other, then no install (no matching ABIs)
     * arm64-v8a
     * armeabi-v7a
-1. _**GAMEPLAY**_. All gameplay here are **recorded by Genymobile's <a href="https://github.com/Genymobile/scrcpy" target="_blank">scrcpy</a> software, rom1v's <a href="https://github.com/rom1v/sndcpy" target="_blank">sndcpy</a> and Window’s Xbox Game Bar**. 
-1. _**REVIEW CREDIBILITY**_. Related to gameplay and compatibility, **not all games I have played through all the way**, so some of my thoughts may not be reflective of the whole game, and I would usually state about it too.
+1. _**TRAILERS**_. Almost all the trailers recorded for each game page here are pulled from Google Play. Those that don't come from Google Play may just be stills, short gameplay sourced from YouTube, and case-by-case may be from Steam as well.
+<!-- 1. _**GAMEPLAY**_. All gameplay here are **recorded by Genymobile's <a href="https://github.com/Genymobile/scrcpy" target="_blank">scrcpy</a> software, rom1v's <a href="https://github.com/rom1v/sndcpy" target="_blank">sndcpy</a> and Window’s Xbox Game Bar**. 
+1. _**REVIEW CREDIBILITY**_. Related to gameplay and compatibility, **not all games I have played through all the way**, so some of my thoughts may not be reflective of the whole game, and I would usually state about it too. -->
 1. _**METHODS & TOOLS**_. There are **a lot of tools** available that relate to installing or creating these APKs that I have, and you can find all of them **[here](https://arifhamed.com/resources/apk/tools)**
 1. _**COMMENT**_. If any of the games do not work or does not seem to work as intended, **leave a comment** on that page, <span style="font-size:80%;">if the comment system still works</span>.
 
@@ -94,7 +95,7 @@ Here are a few things to take note about the APKs here
 
 <span style="font-size:150%">ALRIGHT</span>
 
-So let's get straight to it. here it is.
+So let's get straight to it. here it is. Search will definitely be implemented soon.
 
 
 <div class="row" id="apk-gallery">

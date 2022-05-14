@@ -17,5 +17,5 @@ The only thing that holds this back is it's marketing, the controls (according t
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.sparklite_1.7.83.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.sparklite_1.7.83.xapk</b> (96.9 MB)</a><br>
-    <a class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.sparklite_1.7.105-full.apk")' style="text-decoration: none; background-color: #333;"> Download <b>com.playdigious.sparklite_1.7.105-full.apk</b> (93.1 MB)</a>
+    <a id="truth" class="btn btn-dark btn-block w-100" onclick='apk("com.playdigious.sparklite_1.7.105-full.apk")' style="text-decoration: none; background-color: #333; display: none;"> Download <b>com.playdigious.sparklite_1.7.105-full.apk</b> (93.1 MB)</a>
 </div>

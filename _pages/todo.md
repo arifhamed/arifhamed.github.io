@@ -7,54 +7,7 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] create gameplay for all which is lacking:
-    * myboy
-    * myoldboy
-    * exploding kittens
-    * ravensword shadowlands
-    * castle of illusion
-    * openmw
-    * planescape torment ee
-    * pocket rogues
-    * 9th dawn 1,2,3
-    * block story
-    * danganronpa 1,2
-    * rusty lake hotel
-    * cytus ii
-    * poppy playtime
-    * adorable home
-    * vanced (just put a 1s video of the vanced logo)
-    * drastic ds emu
-    * fran bow 
-    * little misfortune
-    * dead space
-    * simpleplanes
-    * scribblenauts unlimited
-    * cultist simulator
-    * strike team hydra
-    * only one
-    * fnaf hw
-    * fnaf ucd
-    * plug & play
-    * dungeon & gravestones
-    * northgard
-    * sparklite
-    * galaxy genome
-    * tailed demon slayer
-    * 1941 frozen front
-    * vector 1&2
-    * battle of polytopia
-    * my friend pedro
-    * AM2R
-    * bridge constructor portal 
-    * undertale
-    * don't starve pe
-    * kingdom 1&2
-    * crying suns
-    * graveyard keeper
-    * far lone sails (1s still of some art)
-    * brothers (1s still of some art)
-    * 
+* [YUYI] find space rpg 3 title screen mp3
 * there is some existing gameplay in SHLAHO
 * [YUYI] modify index page to hide this todo page
 * [YUYI] after uploading latest, continue the blog
@@ -107,6 +60,7 @@ redirect_from:
     * [bendy in nightmare run](https://play.google.com/store/apps/details?id=com.jds.binr)
     * nimian legends
     * beholder
+    * finding paradise
 <br>
 <br>
     * republique (full crack)

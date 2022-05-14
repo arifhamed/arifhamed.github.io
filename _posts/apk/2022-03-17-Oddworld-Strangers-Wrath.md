@@ -14,7 +14,7 @@ piracy: true
 
 I remember getting this game quite early into gaming, and I was impressed at the concept and story behind this game. Honestly, this game speaks for itself.
 
-Note that this game has multiple versions, in order to check which one your phone is compatible with, use <a onclick='apk(" com.dama.hardwareinfo_4.2.6.apk")' target="_blank">HardwareInfo</a> app. There should be some text by the OpenGL row, stating either Mali, Tegra, Adreno or PowerVR. Also note that this game is not compatible with Rockchip, Broadcom and Amlogic devices. The gameplay is provided with a PowerVR phone.
+Note that this game has multiple versions, in order to check which one your phone is compatible with, use <a onclick='apk("com.dama.hardwareinfo_4.2.6.apk")' target="_blank">HardwareInfo</a> app. There should be some text by the OpenGL row, stating either Mali, Tegra, Adreno or PowerVR. Also note that this game is not compatible with Rockchip, Broadcom and Amlogic devices.
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("com.oddworld.Stranger_1.0.13-Adreno.xapk")' style="text-decoration: none; background-color: #333;"> Download <b>com.oddworld.Stranger_1.0.13-Adreno.xapk</b> (676 MB)</a><br>
