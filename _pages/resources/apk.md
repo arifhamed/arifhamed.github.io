@@ -61,11 +61,11 @@ Here are a few things to take note about the APKs here
     * arm64-v8a
     * armeabi-v7a
 1. _**TRAILERS**_. Almost all the trailers recorded for each game page here are pulled from Google Play. Those that don't come from Google Play may just be stills, short gameplay sourced from YouTube, and case-by-case may be from Steam as well.
-<!-- 1. _**GAMEPLAY**_. All gameplay here are **recorded by Genymobile's <a href="https://github.com/Genymobile/scrcpy" target="_blank">scrcpy</a> software, rom1v's <a href="https://github.com/rom1v/sndcpy" target="_blank">sndcpy</a> and Window’s Xbox Game Bar**. 
-1. _**REVIEW CREDIBILITY**_. Related to gameplay and compatibility, **not all games I have played through all the way**, so some of my thoughts may not be reflective of the whole game, and I would usually state about it too. -->
 1. _**METHODS & TOOLS**_. There are **a lot of tools** available that relate to installing or creating these APKs that I have, and you can find all of them **[here](https://arifhamed.com/resources/apk/tools)**
 1. _**COMMENT**_. If any of the games do not work or does not seem to work as intended, **leave a comment** on that page, <span style="font-size:80%;">if the comment system still works</span>.
 
+<!-- 1. _**GAMEPLAY**_. All gameplay here are **recorded by Genymobile's <a href="https://github.com/Genymobile/scrcpy" target="_blank">scrcpy</a> software, rom1v's <a href="https://github.com/rom1v/sndcpy" target="_blank">sndcpy</a> and Window’s Xbox Game Bar**.  -->
+<!-- 1. _**REVIEW CREDIBILITY**_. Related to gameplay and compatibility, **not all games I have played through all the way**, so some of my thoughts may not be reflective of the whole game, and I would usually state about it too. -->
 <!-- 1. **Personal disclaimer**: * I do not condone piracy, <span style="font-size:170%">but</span>, I also do not condone putting **paywalls** and **paid subscription** behind software that is or was free, or paid to begin with, and limiting **freedom** &amp; **opinion** of customers. <a href="https://upload.wikimedia.org/wikipedia/commons/d/d7/The.Pirate.Bay.Cartoon-small.png" target="_blank">stay woke</a> -->
 
 <span ondblclick="document.getElementById('unobtainium').style.display='block'">I have a list of APKs that I just can't seem to possess at all, anywhere online, safely.</span>
