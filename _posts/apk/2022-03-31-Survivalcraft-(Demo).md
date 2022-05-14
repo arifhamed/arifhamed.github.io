@@ -3,7 +3,7 @@ title: "Survivalcraft (Demo)"
 layout: post-apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
-play-link: https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft
+play-link: https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcrafttrial
 ios-link: https://apps.apple.com/us/app/survivalcraft/id622613679
 tags: survival minecraft mine crafting rpg open-world fps first-person third-person
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');

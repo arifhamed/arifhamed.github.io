@@ -32,12 +32,12 @@
 
 			<h1>{{ page.title }}</h1>
 			
-			<video controls loop onclick="this.paused ? this.play() : this.pause();" style="max-height: 100vh">
-				<source src="/static/webm{{ page.url }}.webm" type="video/webm"></source>
+			<video controls muted autoplay loop onclick="this.paused ? this.play() : this.pause();" style="max-height: 100vh">
+				<source src="/static/mp4{{ page.url }}.mp4" type="video/mp4"></source>
 				gameplay not available right now
 			</video>
 			<br>
-			<span style="font-size:75%;font-style:italic;">Click to play video, click again to pause</span><br><br>
+			<span style="font-size:75%;font-style:italic;">Click to pause video, click again to play</span><br><br>
 			{% if page.play-link %}
 			Play Store: <a href="{{ page.play-link }}" target="_blank"><i class='fab fa-google-play'></i></a><br>
 			{% endif %}

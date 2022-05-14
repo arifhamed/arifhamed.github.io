@@ -105,6 +105,8 @@ redirect_from:
     * [arcane golf](https://play.google.com/store/apps/details?id=com.clickteam.arcanegolf)
     * one night at flumpty's 1,2 & 3
     * [bendy in nightmare run](https://play.google.com/store/apps/details?id=com.jds.binr)
+    * nimian legends
+    * beholder
 <br>
 <br>
     * republique (full crack)
