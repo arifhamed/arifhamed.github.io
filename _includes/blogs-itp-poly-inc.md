@@ -1,7 +1,7 @@
-# My Experiences in Internship Training Programme
+# My Experiences in Internship Programme
 For **almost all polytechnic students**, we all have to take internship for a variable amount of time in our **last semester**. This blog will be for me to track down what I did everyday and how it is everyday. Hopefully, somehow I will be able to make this for official use for all I did.
 
-<span style="font-size:130%;">I intend to have this as **something I can pass down** to whoever is the **intern after me**, or at most, anyone in **_NYP: School of IT_**</span>, though all details are dependant on the internship organization.
+<span style="font-size:130%;">I intend to have this as **something I can pass down** to whoever is the **intern after me**, or at most, anyone in **_NYP: School of IT_**</span>, though all details will differ in experience for everyone.
 
 Here are some details about my internship that I can share (publicly):
 * Time period (**applicable for Year 2022**):
