@@ -61,6 +61,7 @@ redirect_from:
     * nimian legends
     * beholder
     * finding paradise
+    * iris & the giant
 <br>
 <br>
     * republique (full crack)
