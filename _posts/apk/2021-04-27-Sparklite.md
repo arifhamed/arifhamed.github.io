@@ -1,6 +1,7 @@
 ---
 title: "Sparklite"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.playdigious.sparklite
 steam-link: https://store.steampowered.com/app/943140/Sparklite/

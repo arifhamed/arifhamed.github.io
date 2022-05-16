@@ -1,6 +1,7 @@
 ---
 title: "Battlevoid: Sector Siege"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=fi.bugbyte.battlevoid
 steam-link: https://store.steampowered.com/app/716630/Battlevoid_Sector_Siege/

@@ -1,6 +1,7 @@
 ---
 title: "FAR: Lone Sails"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=ch.misterwhale.far
 steam-link: https://store.steampowered.com/app/609320/FAR_Lone_Sails/

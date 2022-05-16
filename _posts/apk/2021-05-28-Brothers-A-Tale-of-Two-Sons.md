@@ -1,6 +1,7 @@
 ---
 title: "Brothers: A Tale of Two Sons"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.and.games505.brothers
 steam-link: https://store.steampowered.com/app/225080/Brothers__A_Tale_of_Two_Sons/

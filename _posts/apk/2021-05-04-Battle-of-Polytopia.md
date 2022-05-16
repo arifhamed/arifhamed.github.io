@@ -1,6 +1,7 @@
 ---
 title: "Battle of Polytopia"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=air.com.midjiwan.polytopia
 steam-link: https://store.steampowered.com/app/874390/The_Battle_of_Polytopia/

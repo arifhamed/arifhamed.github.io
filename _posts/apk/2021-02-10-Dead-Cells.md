@@ -1,6 +1,7 @@
 ---
 title: "Dead Cells"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: f6050cb0-6fa0-4684-ae17-347110f8e6c0

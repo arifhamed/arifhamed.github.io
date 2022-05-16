@@ -1,6 +1,7 @@
 ---
 title: "Getting Over It by Bennett Foddy"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 27fba95c-bc86-42df-96e7-3728ba00088f

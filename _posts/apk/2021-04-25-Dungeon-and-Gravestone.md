@@ -1,6 +1,7 @@
 ---
 title: "Dungeon and Gravestone"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.wlkzinc.dandg
 steam-link: https://store.steampowered.com/app/1579100/Dungeon_and_Gravestone/

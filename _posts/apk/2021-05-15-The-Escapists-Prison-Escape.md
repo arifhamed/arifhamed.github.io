@@ -1,6 +1,7 @@
 ---
 title: "The Escapists: Prison Escape"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.team17.escapists
 steam-link: https://store.steampowered.com/app/298630/The_Escapists/

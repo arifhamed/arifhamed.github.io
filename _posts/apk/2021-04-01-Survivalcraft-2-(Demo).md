@@ -1,6 +1,7 @@
 ---
 title: "Survivalcraft 2 (Demo)"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.candyrufusgames.survivalcraft2trial

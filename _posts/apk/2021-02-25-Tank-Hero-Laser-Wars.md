@@ -1,6 +1,7 @@
 ---
 title: "Tank Hero: Laser Wars"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.clapfootgames.laserwars

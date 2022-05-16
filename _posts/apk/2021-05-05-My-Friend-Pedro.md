@@ -1,6 +1,7 @@
 ---
 title: "My Friend Pedro"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.devolverdigital.myfriendpedro
 steam-link: https://store.steampowered.com/app/557340/My_Friend_Pedro/

@@ -1,6 +1,7 @@
 ---
 title: "Strike Team Hydra"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.WaveLightGames.StrikeTeamHydra
 steam-link: https://store.steampowered.com/app/716050/Strike_Team_Hydra/

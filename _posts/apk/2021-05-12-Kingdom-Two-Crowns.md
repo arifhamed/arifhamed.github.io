@@ -1,6 +1,7 @@
 ---
 title: "Kingdom: Two Crowns"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.rawfury.kingdom2crowns
 steam-link: https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/

@@ -1,6 +1,7 @@
 ---
 title: "Drill Down (Demo)"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 09ff9ba3-8dfd-45ca-8177-09cf69d65306

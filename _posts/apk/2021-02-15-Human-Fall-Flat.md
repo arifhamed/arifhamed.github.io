@@ -1,6 +1,7 @@
 ---
 title: "Human Fall Flat"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 06a9f8c0-86c4-48bd-aecb-3abbc49f6e80

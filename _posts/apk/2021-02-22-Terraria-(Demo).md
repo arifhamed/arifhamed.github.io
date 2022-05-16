@@ -1,6 +1,7 @@
 ---
 title: "Terraria (Demo)"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: c0cb7267-051c-42dd-b72b-48f10ace15fd

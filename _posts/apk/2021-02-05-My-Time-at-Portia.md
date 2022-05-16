@@ -1,6 +1,7 @@
 ---
 title: "My Time at Portia"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 45f822d4-c90e-4847-bfbe-e63e63288097

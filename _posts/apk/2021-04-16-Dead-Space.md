@@ -1,6 +1,7 @@
 ---
 title: "Dead Space"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://www.playstoresales.com/app/dead-space/
 tags: horror survival fps tps shooter

@@ -1,6 +1,7 @@
 ---
 title: "Crying Suns"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.altshift.orenda.cryingsuns
 steam-link: https://store.steampowered.com/app/873940/Crying_Suns/

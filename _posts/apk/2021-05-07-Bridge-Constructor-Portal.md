@@ -1,6 +1,7 @@
 ---
 title: "Bridge Constructor Portal"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.headupgames.bridgeconstructorportal
 steam-link: https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/

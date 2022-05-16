@@ -1,6 +1,7 @@
 ---
 title: "Castlevania: SotN"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=jp.konami.epjCastlevania2

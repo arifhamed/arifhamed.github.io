@@ -1,6 +1,7 @@
 ---
 title: "Little Inferno"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.littleinferno.google
 steam-link: https://store.steampowered.com/app/221260/Little_Inferno/

@@ -1,6 +1,7 @@
 ---
 title: "Five Nights at Freddy's: Sister Location"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.scottgames.sisterlocation

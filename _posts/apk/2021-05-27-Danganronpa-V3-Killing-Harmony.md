@@ -1,6 +1,7 @@
 ---
 title: "Danganronpa V3: Killing Harmony"
 layout: post-apk
+category: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DRV3
 ios-link: https://apps.apple.com/us/app/danganronpa-v3-killing-harmon/id1559869073

@@ -1,6 +1,7 @@
 ---
 title: "Boris & the Dark Survival"
 layout: post-apk
+category: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.jds.batds
