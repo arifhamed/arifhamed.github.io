@@ -15,7 +15,10 @@ redirect_from:
 * [YUYI] add in search for APK, and for ITP
 * [YUYI] create github cli page for guides
 * [NUYI] find and create apk entries for the following
-    * bad north: jotunn edition
+    * <s>bad north: jotunn edition</s>
+    * <s>there is no game wrong dimensions</s>
+    * <s>titan quest legendary edition</s>
+    * arif, pls do the damn report & poster first
     * world of goo
     * death road to canada
     * dungeon of the endless: apogee
