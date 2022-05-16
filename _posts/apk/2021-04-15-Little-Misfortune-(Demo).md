@@ -1,7 +1,7 @@
 ---
 title: "Little Misfortune (Demo)"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.KillmondayGames.LittleMisfortuneDemo
 steam-link: https://store.steampowered.com/app/714120/Little_Misfortune/

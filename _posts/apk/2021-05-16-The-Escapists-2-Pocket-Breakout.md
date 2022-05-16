@@ -1,7 +1,7 @@
 ---
 title: "The Escapists 2: Pocket Breakout"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.team17.escapists2
 steam-link: https://store.steampowered.com/app/641990/The_Escapists_2/

@@ -1,7 +1,7 @@
 ---
 title: "Danganronpa V3: Killing Harmony"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DRV3
 ios-link: https://apps.apple.com/us/app/danganronpa-v3-killing-harmon/id1559869073
@@ -18,7 +18,7 @@ The greatest downside to this, however, is the fact that the majority of the sto
 
 Other than that, this is a great day to find out that someone took the opportunity to pirate this game weeks after it got released. 
 
-<span class="timestamp">27 April 2022:</span> lmaooo apkaward.com, amongst other vendors, already found out the way to create a singular apk like mine. Mine's better though, because apkaward put in that "APKAWARD.COM" toast that no one likes. Also, apkaward's copy of DRV3 is <a href="https://www.virustotal.com/gui/file/4cc375108d8d67d56492b77b5c66edfd8920b6d1d80d8ba7293724bebd09e0cf" target="_blank">littered with adware</a>, like jeez, it's like if vegas was in file. That's right, i threw some shade right there. 
+<span class="timestamp">27 April 2022:</span> lmaooo <span class='disable-selection' ondblclick="this.innerHTML='apkaward.com'">&lt;<b>REDACTED</b>&gt;</span>, amongst other vendors, already found out the way to create a singular apk like mine. Mine's better though, because <span class='disable-selection' ondblclick="this.innerHTML='apkaward'">&lt;<b>REDACTED</b>&gt;</span> put in that "<span class='disable-selection' ondblclick="this.innerHTML='APKAWARD.COM'">&lt;<b>REDACTED</b>&gt;</span>" toast that no one likes. Also, <span class='disable-selection' ondblclick="this.innerHTML='apkaward'">&lt;<b>REDACTED</b>&gt;</span>'s copy of DRV3 is <a href="https://www.virustotal.com/gui/file/4cc375108d8d67d56492b77b5c66edfd8920b6d1d80d8ba7293724bebd09e0cf" target="_blank">littered with adware</a>, like jeez, it's like if a file was an anti-vaxxer's child. That's right, i threw some shade right there. 
 
 <div class="text-center">
     <a class="btn btn-dark btn-block w-100" onclick='apk("jp.co.spike_chunsoft.DRV3_1.0.2.apk")' style="text-decoration: none; background-color: #333;"> Download <b>jp.co.spike_chunsoft.DRV3_1.0.2.apk</b> (76.3 MB)</a>

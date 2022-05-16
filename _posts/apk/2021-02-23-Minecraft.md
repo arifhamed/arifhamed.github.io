@@ -1,7 +1,7 @@
 ---
 title: "Minecraft"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 279a7dab-3d50-4313-8f43-9fc0ff902c28

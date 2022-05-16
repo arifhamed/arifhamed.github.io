@@ -1,7 +1,7 @@
 ---
 title: "VA-11 Hall-A: Cyberpunk Bartender Action"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: 
 steam-link: https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/

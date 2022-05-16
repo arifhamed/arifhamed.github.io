@@ -1,7 +1,7 @@
 ---
 title: "9th Dawn III (Demo)"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.valorware.ninthdawniiifreedemo
 steam-link: https://store.steampowered.com/app/1154850/9th_Dawn_III/

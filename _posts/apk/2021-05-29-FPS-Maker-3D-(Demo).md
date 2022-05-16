@@ -1,7 +1,7 @@
 ---
 title: "FPS Maker 3D (Demo)"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=org.silentworks.fpscreatorfree
 tags: creator 3d

@@ -1,7 +1,7 @@
 ---
 title: "Marsus: Survival on Mars"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.MarsusProject
 tags: rpg space action crafting survival sandbox open-world

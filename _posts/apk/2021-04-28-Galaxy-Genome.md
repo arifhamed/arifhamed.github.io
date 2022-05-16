@@ -1,7 +1,7 @@
 ---
 title: "Galaxy Genome"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.skvgames.GalaxyGenome
 ios-link: https://apps.apple.com/us/app/galaxy-genome/id1566857517

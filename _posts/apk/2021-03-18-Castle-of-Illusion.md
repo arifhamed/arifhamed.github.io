@@ -1,7 +1,7 @@
 ---
 title: "Castle of Illusion"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.disney.castleofillusion_goo

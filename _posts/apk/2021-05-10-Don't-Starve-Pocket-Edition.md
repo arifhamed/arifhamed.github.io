@@ -1,7 +1,7 @@
 ---
 title: "Don't Starve: Pocket Edition"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.kleientertainment.doNotStarvePocket
 steam-link: https://store.steampowered.com/app/219740/Dont_Starve/

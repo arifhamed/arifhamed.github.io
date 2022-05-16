@@ -1,7 +1,7 @@
 ---
 title: "Danganronpa: Goodbye Despair"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DR2

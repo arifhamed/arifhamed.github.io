@@ -1,7 +1,7 @@
 ---
 title: "Ticket to Earth"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.robot_circus.TTE 
 steam-link: https://store.steampowered.com/app/636390/Ticket_to_Earth/ 

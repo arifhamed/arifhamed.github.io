@@ -1,7 +1,7 @@
 ---
 title: "Kingdom: New Lands"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=nl.noio.kingdom
 steam-link: https://store.steampowered.com/app/496300/Kingdom_New_Lands/

@@ -1,7 +1,7 @@
 ---
 title: "Spelunky Classic HD"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: c29817ca-e667-4beb-a237-ef266e8ed074

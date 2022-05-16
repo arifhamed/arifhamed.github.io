@@ -1,7 +1,7 @@
 ---
 title: "Thomas Was Alone"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 322d6a8a-8757-4b85-b9df-6adf6bc49e77

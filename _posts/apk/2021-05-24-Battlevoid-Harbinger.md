@@ -1,7 +1,7 @@
 ---
 title: "Battlevoid: Harbinger"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=fi.bugbyte.harbinger
 steam-link: https://store.steampowered.com/app/396480/Battlevoid_Harbinger/?curator_clanid=33097553

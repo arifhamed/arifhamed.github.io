@@ -1,7 +1,7 @@
 ---
 title: "OpenMicrowave"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 tags: microwave emulator morrowind

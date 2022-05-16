@@ -1,7 +1,7 @@
 ---
 title: "Stardew Valley"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: ba4add58-215a-4733-9c06-5d176986040e

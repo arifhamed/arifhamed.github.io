@@ -1,7 +1,7 @@
 ---
 title: "Niffelheim"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.elladagames.niffelheim

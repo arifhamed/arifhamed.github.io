@@ -1,7 +1,7 @@
 ---
 title: "Neon Shadow"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 2844705b-3a91-4459-b25b-7b9ef8b28073

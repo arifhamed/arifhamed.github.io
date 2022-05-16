@@ -1,7 +1,7 @@
 ---
 title: "Scribblenauts Unlimited"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.wb.goog.scribblenauts3
 steam-link: https://store.steampowered.com/app/218680/Scribblenauts_Unlimited/

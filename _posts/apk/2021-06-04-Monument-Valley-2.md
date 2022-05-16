@@ -1,7 +1,7 @@
 ---
 title: "Monument Valley 2"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley2
 ios-link: https://apps.apple.com/us/app/monument-valley-2/id1187265767

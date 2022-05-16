@@ -1,7 +1,7 @@
 ---
 title: "The Blockheads"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: bdef7b4a-e361-46ce-819e-7e9c903ee424

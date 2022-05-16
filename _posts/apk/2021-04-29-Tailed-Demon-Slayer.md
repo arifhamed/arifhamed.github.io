@@ -1,7 +1,7 @@
 ---
 title: "Tailed Demon Slayer"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.cookapps.taileddemonslayer
 ios-link: https://apps.apple.com/app/id1587114188

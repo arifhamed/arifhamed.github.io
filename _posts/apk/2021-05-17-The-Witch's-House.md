@@ -1,7 +1,7 @@
 ---
 title: "The Witch's House"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: 
 tags: horror survival-horror pixelated adventure rpg rpg-maker 

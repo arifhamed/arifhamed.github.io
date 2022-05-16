@@ -1,7 +1,7 @@
 ---
 title: "Hue: Alter the Colour World"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: 0748c564-c26f-44b3-aaed-a96ec44f0f9a

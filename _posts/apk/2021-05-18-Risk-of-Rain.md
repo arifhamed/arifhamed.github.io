@@ -1,7 +1,7 @@
 ---
 title: "Risk of Rain"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: 
 steam-link: https://store.steampowered.com/app/248820/Risk_of_Rain/

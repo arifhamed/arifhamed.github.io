@@ -1,7 +1,7 @@
 ---
 title: "Undertale"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: 
 steam-link: https://store.steampowered.com/app/391540/Undertale/

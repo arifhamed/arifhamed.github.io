@@ -2,6 +2,10 @@
 title: "my textual copy pastes"
 permalink: /copypaste
 layout: default
+redirect_from:
+ - /copypaste/
+ - /copypasta
+ - /copypasta/
 ---
 
 for redacted text

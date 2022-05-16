@@ -1,7 +1,7 @@
 ---
 title: "Rogue Hearts"
 layout: post-apk
-category: apk
+categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid
 ios-link: https://apps.apple.com/us/app/rogue-hearts/id1212726570

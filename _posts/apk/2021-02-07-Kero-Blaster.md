@@ -1,7 +1,7 @@
 ---
 title: "Kero Blaster"
 layout: post-apk
-category: apk
+categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 guid: b788ca01-899c-4a23-aff2-aa40737549b3
