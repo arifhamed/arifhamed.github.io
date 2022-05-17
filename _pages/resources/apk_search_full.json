@@ -3,7 +3,7 @@ layout: none
 ---
 
 [
-  {% for post in site.categories.apk | where: "piracy", "false" %}
+  {% for post in site.categories.apk %}
     {
       "title"    : "{{ post.title | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
