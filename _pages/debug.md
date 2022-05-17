@@ -7,14 +7,17 @@ permalink: /debug
 this is where i do random stuff before publishing
 
 <!-- <iframe width="1066" height="483" src="https://www.youtube.com/embed/O8ClOsE8ihA?rel=0&modestbranding=1&autohide=1&showinfo=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-
+<br><br><br><br><br>
 Current test: testing apk_search.json, found [here](https://arifhamed.com/_pages/resources/apk_search.json)
 
-Hypothesis: The span element, identified as "update", will get updated with the text "Crying Suns".
+Hypothesis: The span element, identified as "update", will get updated with the text "Little Inferno".
 
 Good result tasks: Proceed to implement search in /resources/apk
 
-Bas result tasks: analyse apk_search.json and/or javascript function
+Bad result tasks: analyse apk_search.json and/or javascript function
+
+<br><br><br><br><br><br>
+
 
 <span id="update"></span>
 <script>
@@ -28,6 +31,6 @@ Bas result tasks: analyse apk_search.json and/or javascript function
         //   		document.getElementById('update').innerHTML = "Downloads: "+all_assets[i]["download_count"]+"<br>Latest upload: "+all_assets[i]["updated_at"];
         //     }
         // }
-        document.getElementById('update').innerHTML = "bruh: "+all_assets[2]["title"];
+        document.getElementById('update').innerHTML = "bruh: "+all_assets[4]["title"];
     }
 </script>
