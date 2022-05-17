@@ -2,8 +2,10 @@
 layout: none
 ---
 
+{% assign normal = site.categories.apk | where: "piracy", "false" %}
+
 [
-  {% for post in site.categories.apk | where: "piracy", "false" %}
+  {% for post in normal %}
     {
       "title"    : "{{ post.title | escape }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
