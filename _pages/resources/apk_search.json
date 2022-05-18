@@ -2,7 +2,7 @@
 layout: none
 ---
 
-{% assign normal = site.categories.apk | where: "piracy", "false" %}
+{% assign normal = site.categories.apk | where_exp: "item", "item.piracy == true" %}
 
 [
   {% for post in normal %}

@@ -7,8 +7,7 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] find space rpg 3 title screen mp3
-* there is some existing gameplay in samsung ssd
+* [YUYI] create a new tool: turn characters to escape codes like <a href="https://mateam.net/html-escape-characters/" target="_blank">here</a>.
 * [YUNI] change thinkpad to linux
 * [YUYI] add in search for APK, and for ITP
 * [YUYI] create github cli page for guides
@@ -16,8 +15,8 @@ redirect_from:
     * <s>bad north: jotunn edition</s>
     * <s>there is no game wrong dimensions</s>
     * <s>titan quest legendary edition</s>
-    * human atlas
     * arif, pls do the damn report & poster first
+    * human atlas
     * world of goo
     * death road to canada
     * dungeon of the endless: apogee
