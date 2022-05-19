@@ -8,6 +8,7 @@ redirect_from:
 
 # thy to-do list
 * [YUYI] create a new tool: turn characters to escape codes like <a href="https://mateam.net/html-escape-characters/" target="_blank">here</a>.
+* check if [this thing](\static\others\htmlescape.csv) works.
 * [YUNI] change thinkpad to linux
 * [YUYI] add in search for APK, and for ITP
 * [YUYI] create github cli page for guides
@@ -119,4 +120,3 @@ redirect_from:
     * owlboy
     * every sonic game
     * sally face
-    

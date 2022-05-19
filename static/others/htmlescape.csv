@@ -1,0 +1,477 @@
+Number,Symbol,Entity Name,Code,Description
+9,Tab,&Tab;,&#9;,Tab
+10,New Line,&NewLine;,&#10;,New Line
+32,Space,&nbsp;,&#32;,Space
+33,!,,&#33;,Exclamation mark
+34,“,&quot;,&#34;,Quotation mark
+35,#,,&#35;,Number sign
+36,$,,&#36;,Dollar sign
+37,%,,&#37;,Percent sign
+38,&,&amp;,&#38;,Ampersand
+39,‘,,&#39;,Apostrophe
+40,(,,&#40;,Opening/Left Parenthesis
+41,),,&#41;,Closing/Right Parenthesis
+42,*,,&#42;,Asterisk
+43,+,,&#43;,Plus sign
+44,",",,&#44;,Comma
+45,–,,&#45;,Hyphen
+46,.,,&#46;,Period
+47,/,,&#47;,Slash
+48,0,,&#48;,Digit 0
+49,1,,&#49;,Digit 1
+50,2,,&#50;,Digit 2
+51,3,,&#51;,Digit 3
+52,4,,&#52;,Digit 4
+53,5,,&#53;,Digit 5
+54,6,,&#54;,Digit 6
+55,7,,&#55;,Digit 7
+56,8,,&#56;,Digit 8
+57,9,,&#57;,Digit 9
+58,:,,&#58;,Colon
+59,;,,&#59;,Semicolon
+60,<,&lt;,&#60;,Less-than
+61,=,,&#61;,Equals sign
+62,>,&gt;,&#62;,Greater than
+63,?,,&#63;,Question mark
+64,@,,&#64;,At sign
+65,A,,&#65;,Uppercase A
+66,B,,&#66;,Uppercase B
+67,C,,&#67;,Uppercase C
+68,D,,&#68;,Uppercase D
+69,E,,&#69;,Uppercase E
+70,F,,&#70;,Uppercase F
+71,G,,&#71;,Uppercase G
+72,H,,&#72;,Uppercase H
+73,I,,&#73;,Uppercase I
+74,J,,&#74;,Uppercase J
+75,K,,&#75;,Uppercase K
+76,L,,&#76;,Uppercase L
+77,M,,&#77;,Uppercase M
+78,N,,&#78;,Uppercase N
+79,O,,&#79;,Uppercase O
+80,P,,&#80;,Uppercase P
+81,Q,,&#81;,Uppercase Q
+82,R,,&#82;,Uppercase R
+83,S,,&#83;,Uppercase S
+84,T,,&#84;,Uppercase T
+85,U,,&#85;,Uppercase U
+86,V,,&#86;,Uppercase V
+87,W,,&#87;,Uppercase W
+88,X,,&#88;,Uppercase X
+89,Y,,&#89;,Uppercase Y
+90,Z,,&#90;,Uppercase Z
+91,[,,&#91;,Opening/Left square bracket
+92,\,,&#92;,Backslash
+93,],,&#93;,Closing/Right square bracket
+94,^,,&#94;,Caret
+95,_,,&#95;,Underscore
+96,`,,&#96;,Grave accent
+97,a,,&#97;,Lowercase a
+98,b,,&#98;,Lowercase b
+99,c,,&#99;,Lowercase c
+100,d,,&#100;,Lowercase d
+101,e,,&#101;,Lowercase e
+102,f,,&#102;,Lowercase f
+103,g,,&#103;,Lowercase g
+104,h,,&#104;,Lowercase h
+105,i,,&#105;,Lowercase i
+106,j,,&#106;,Lowercase j
+107,k,,&#107;,Lowercase k
+108,l,,&#108;,Lowercase l
+109,m,,&#109;,Lowercase m
+110,n,,&#110;,Lowercase n
+111,o,,&#111;,Lowercase o
+112,p,,&#112;,Lowercase p
+113,q,,&#113;,Lowercase q
+114,r,,&#114;,Lowercase r
+115,s,,&#115;,Lowercase s
+116,t,,&#116;,Lowercase t
+117,u,,&#117;,Lowercase u
+118,v,,&#118;,Lowercase v
+119,w,,&#119;,Lowercase w
+120,x,,&#120;,Lowercase x
+121,y,,&#121;,Lowercase y
+122,z,,&#122;,Lowercase z
+123,{,,&#123;,Opening/Left curly brace
+124,|,,&#124;,Vertical bar
+125,},,&#125;,Closing/Right curly brace
+126,~,,&#126;,Tilde
+128,€,,&#128;,Euro sign
+130,‚,,&#130;,Punctuation mark
+131,ƒ,,&#131;,Florin sign
+132,„,,&#132;,Quotation mark
+133,…,,&#133;,Horizontal ellipsis
+134,†,,&#134;,Dagger
+135,‡,,&#135;,Double dagger
+136,ˆ,,&#136;,Circumflex
+137,‰,,&#137;,Per-mille
+138,Š,,&#138;,Latin capital letter s with caron
+139,‹,,&#139;,Single left angle quotation
+140,Œ,,&#140;,Uppercase ligature OE
+142,Ž,,&#142;,Latin capital letter z with caron
+145,‘,,&#145;,Opening single quotation mark
+146,’,,&#146;,Closing single quotation mark
+147,“,,&#147;,Opening double quotation mark
+148,”,,&#148;,Closing double quotation mark
+149,•,,&#149;,Bullet
+150,–,,&#150;,En dash
+151,—,,&#151;,Em dash
+152,˜,,&#152;,Tilde
+153,™,,&#153;,Trademark
+154,š,,&#154;,Latin small letter s with caron
+155,›,,&#155;,Single right angle quotation
+156,œ,,&#156;,Lowercase ligature OE
+158,ž,,&#158;,Latin small letter z with caron
+159,Ÿ,,&#159;,Latin capital letter y with diaeresis
+160,Non-breaking space,&nbsp;,&#160;,Non-breaking space
+161,¡,&iexcl;,&#161;,Inverted exclamation mark
+162,¢,&cent;,&#162;,Cent
+163,£,&pound;,&#163;,Pound
+164,¤,&curren;,&#164;,Currency
+165,¥,&yen;,&#165;,Yen
+166,¦,&brvbar;,&#166;,Broken vertical bar
+167,§,&sect;,&#167;,Section
+168,¨,&uml;,&#168;,Spacing diaeresis
+169,©,&copy;,&#169;,Copyright
+170,ª,&ordf;,&#170;,Feminine ordinal indicator
+171,«,&laquo;,&#171;,Opening/Left angle quotation mark
+172,¬,&not;,&#172;,Negation
+173,­Soft hyphen,&shy;,&#173;,Soft hyphen
+174,®,&reg;,&#174;,Registered trademark
+175,¯,&macr;,&#175;,Spacing macron
+176,°,&deg;,&#176;,Degree
+177,±,&plusmn;,&#177;,Plus or minus
+178,²,&sup2;,&#178;,Superscript 2
+179,³,&sup3;,&#179;,Superscript 3
+180,´,&acute;,&#180;,Spacing acute
+181,µ,&micro;,&#181;,Micro
+182,¶,&para;,&#182;,Paragraph
+182,·,&dot;,&#183;,Dot
+184,¸,&cedil;,&#184;,Spacing cedilla
+185,¹,&sup1;,&#185;,Superscript 1
+186,º,&ordm;,&#186;,Masculine ordinal indicator
+187,»,&raquo;,&#187;,Closing/Right angle quotation mark
+188,¼,&frac14;,&#188;,Fraction 1/4
+189,½,&frac12;,&#189;,Fraction 1/2
+190,¾,&frac34;,&#190;,Fraction 3/4
+191,¿,&iquest;,&#191;,Inverted question mark
+192,À,&Agrave;,&#192;,Capital a with grave accent
+193,Á,&Aacute;,&#193;,Capital a with acute accent
+194,Â,&Acirc;,&#194;,Capital a with circumflex accent
+195,Ã,&Atilde;,&#195;,Capital a with tilde
+196,Ä,&Auml;,&#196;,Capital a with umlaut
+197,Å,&Aring;,&#197;,Capital a with ring
+198,Æ,&AElig;,&#198;,Capital ae
+199,Ç,&Ccedil;,&#199;,Capital c with cedilla
+200,È,&Egrave;,&#200;,Capital e with grave accent
+201,É,&Eacute;,&#201;,Capital e with acute accent
+202,Ê,&Ecirc;,&#202;,Capital e with circumflex accent
+203,Ë,&Euml;,&#203;,Capital e with umlaut
+204,Ì,&Igrave;,&#204;,Capital i with grave accent
+205,Í,&Iacute;,&#205;,Capital i with accute accent
+206,Î,&Icirc;,&#206;,Capital i with circumflex accent
+207,Ï,&Iuml;,&#207;,Capital i with umlaut
+208,Ð,&ETH;,&#208;,Capital eth (Icelandic)
+209,Ñ,&Ntilde;,&#209;,Capital n with tilde
+210,Ò,&Ograve;,&#210;,Capital o with grave accent
+211,Ó,&Oacute;,&#211;,Capital o with accute accent
+212,Ô,&Ocirc;,&#212;,Capital o with circumflex accent
+213,Õ,&Otilde;,&#213;,Capital o with tilde
+214,Ö,&Ouml;,&#214;,Capital o with umlaut
+215,×,&times;,&#215;,Multiplication
+216,Ø,&Oslash;,&#216;,Capital o with slash
+217,Ù,&Ugrave;,&#217;,Capital u with grave accent
+218,Ú,&Uacute;,&#218;,Capital u with acute accent
+219,Û,&Ucirc;,&#219;,Capital u with circumflex accent
+220,Ü,&Uuml;,&#220;,Capital u with umlaut
+221,Ý,&Yacute;,&#221;,Capital y with acute accent
+222,Þ,&THORN;,&#222;,Capital thorn (Icelandic)
+223,ß,&szlig;,&#223;,Lowercase sharp s (German)
+224,à,&agrave;,&#224;,Lowercase a with grave accent
+225,á,&aacute;,&#225;,Lowercase a with acute accent
+226,â,&acirc;,&#226;,Lowercase a with circumflex accent
+227,ã,&atilde;,&#227;,Lowercase a with tilde
+228,ä,&auml;,&#228;,Lowercase a with umlaut
+229,å,&aring;,&#229;,Lowercase a with ring
+230,æ,&aelig;,&#230;,Lowercase ae
+231,ç,&ccedil;,&#231;,Lowercase c with cedilla
+232,è,&egrave;,&#232;,Lowercase e with grave accent
+233,é,&eacute;,&#233;,Lowercase e with acute accent
+234,ê,&ecirc;,&#234;,Lowercase e with circumflex accent
+235,ë,&euml;,&#235;,Lowercase e with umlaut
+236,ì,&igrave;,&#236;,Lowercase i with grave accent
+237,í,&iacute;,&#237;,Lowercase i with acute accent
+238,î,&icirc;,&#238;,Lowercase i with circumflex accent
+239,ï,&iuml;,&#239;,Lowercase i with umlaut
+240,ð,&eth;,&#240;,Lowercase eth (Icelandic)
+241,ñ,&ntilde;,&#241;,Lowercase n with tilde
+242,ò,&ograve;,&#242;,Lowercase o with grave accent
+243,ó,&oacute;,&#243;,Lowercase o with acute accent
+244,ô,&ocirc;,&#244;,Lowercase o with circumflex accent
+245,õ,&otilde;,&#245;,Lowercase o with tilde
+246,ö,&ouml;,&#246;,Lowercase o with umlaut
+247,÷,&divide;,&#247;,Divide
+248,ø,&oslash;,&#248;,Lowercase o with slash
+249,ù,&ugrave;,&#249;,Lowercase u with grave accent
+250,ú,&uacute;,&#250;,Lowercase u with acute accent
+251,û,&ucirc;,&#251;,Lowercase u with circumflex accent
+252,ü,&uuml;,&#252;,Lowercase u with umlaut
+253,ý,&yacute;,&#253;,Lowercase y with acute accent
+254,þ,&thorn;,&#254;,Lowercase thorn (Icelandic)
+255,ÿ,&yuml;,&#255;,Lowercase y with umlaut
+256,?,&Amacr;,&#256;,Latin capital letter a with macron
+257,?,&amacr;,&#257;,Latin small letter a with macron
+258,?,&Abreve;,&#258;,Latin capital letter a with breve
+259,?,&abreve;,&#259;,Latin small letter a with breve
+260,?,&Aogon;,&#260;,Latin capital letter a with ogonek
+261,?,&aogon;,&#261;,Latin small letter a with ogonek
+262,?,&Cacute;,&#262;,Latin capital letter c with acute
+263,?,&cacute;,&#263;,Latin small letter c with acute
+264,?,&Ccirc;,&#264;,Latin capital letter c with circumflex
+265,?,&ccirc;,&#265;,Latin small letter c with circumflex
+266,?,&Cdot;,&#266;,Latin capital letter c with dot above
+267,?,&cdot;,&#267;,Latin small letter c with dot above
+268,?,&Ccaron;,&#268;,Latin capital letter c with caron
+269,?,&ccaron;,&#269;,Latin small letter c with caron
+270,?,&Dcaron;,&#270;,Latin capital letter d with caron
+271,?,&dcaron;,&#271;,Latin small letter d with caron
+272,?,&Dstrok;,&#272;,Latin capital letter d with stroke
+273,?,&dstrok;,&#273;,Latin small letter d with stroke
+274,?,&Emacr;,&#274;,Latin capital letter e with macron
+275,?,&emacr;,&#275;,Latin small letter e with macron
+276,?,&Ebreve;,&#276;,Latin capital letter e with breve
+277,?,&ebreve;,&#277;,Latin small letter e with breve
+278,?,&Edot;,&#278;,Latin capital letter e with dot above
+279,?,&edot;,&#279;,Latin small letter e with dot above
+280,?,&Eogon;,&#280;,Latin capital letter e with ogonek
+281,?,&eogon;,&#281;,Latin small letter e with ogonek
+282,?,&Ecaron;,&#282;,Latin capital letter e with caron
+283,?,&ecaron;,&#283;,Latin small letter e with caron
+284,?,&Gcirc;,&#284;,Latin capital letter g with circumflex
+285,?,&gcirc;,&#285;,Latin small letter g with circumflex
+286,?,&Gbreve;,&#286;,Latin capital letter g with breve
+287,?,&gbreve;,&#287;,Latin small letter g with breve
+288,?,&Gdot;,&#288;,Latin capital letter g with dot above
+289,?,&gdot;,&#289;,Latin small letter g with dot above
+290,?,&Gcedil;,&#290;,Latin capital letter g with cedilla
+291,?,&gcedil;,&#291;,Latin small letter g with cedilla
+292,?,&Hcirc;,&#292;,Latin capital letter h with circumflex
+293,?,&hcirc;,&#293;,Latin small letter h with circumflex
+294,?,&Hstrok;,&#294;,Latin capital letter h with stroke
+295,?,&hstrok;,&#295;,Latin small letter h with stroke
+296,?,&Itilde;,&#296;,Latin capital letter I with tilde
+297,?,&itilde;,&#297;,Latin small letter I with tilde
+298,?,&Imacr;,&#298;,Latin capital letter I with macron
+299,?,&imacr;,&#299;,Latin small letter I with macron
+300,?,&Ibreve;,&#300;,Latin capital letter I with breve
+301,?,&ibreve;,&#301;,Latin small letter I with breve
+302,?,&Iogon;,&#302;,Latin capital letter I with ogonek
+303,?,&iogon;,&#303;,Latin small letter I with ogonek
+304,?,&Idot;,&#304;,Latin capital letter I with dot above
+305,?,&imath; &inodot;,&#305;,Latin small letter dotless I
+306,?,&IJlig;,&#306;,Latin capital ligature ij
+307,?,&ijlig;,&#307;,Latin small ligature ij
+308,?,&Jcirc;,&#308;,Latin capital letter j with circumflex
+309,?,&jcirc;,&#309;,Latin small letter j with circumflex
+310,?,&Kcedil;,&#310;,Latin capital letter k with cedilla
+311,?,&kcedil;,&#311;,Latin small letter k with cedilla
+312,?,&kgreen;,&#312;,Latin small letter kra
+313,?,&Lacute;,&#313;,Latin capital letter l with acute
+314,?,&lacute;,&#314;,Latin small letter l with acute
+315,?,&Lcedil;,&#315;,Latin capital letter l with cedilla
+316,?,&lcedil;,&#316;,Latin small letter l with cedilla
+317,?,&Lcaron;,&#317;,Latin capital letter l with caron
+318,?,&lcaron;,&#318;,Latin small letter l with caron
+319,?,&Lmidot;,&#319;,Latin capital letter l with middle dot
+320,?,&lmidot;,&#320;,Latin small letter l with middle dot
+321,?,&Lstrok;,&#321;,Latin capital letter l with stroke
+322,?,&lstrok;,&#322;,Latin small letter l with stroke
+323,?,&Nacute;,&#323;,Latin capital letter n with acute
+324,?,&nacute;,&#324;,Latin small letter n with acute
+325,?,&Ncedil;,&#325;,Latin capital letter n with cedilla
+326,?,&ncedil;,&#326;,Latin small letter n with cedilla
+327,?,&Ncaron;,&#327;,Latin capital letter n with caron
+328,?,&ncaron;,&#328;,Latin small letter n with caron
+329,?,&napos;,&#329;,Latin small letter n preceded by apostrophe
+330,?,&ENG;,&#330;,Latin capital letter eng
+331,?,&eng;,&#331;,Latin small letter eng
+332,?,&Omacr;,&#332;,Latin capital letter o with macron
+333,?,&omacr;,&#333;,Latin small letter o with macron
+334,?,&Obreve;,&#334;,Latin capital letter o with breve
+335,?,&obreve;,&#335;,Latin small letter o with breve
+336,?,&Odblac;,&#336;,Latin capital letter o with double acute
+337,?,&odblac;,&#337;,Latin small letter o with double acute
+338,Œ,&OElig;,&#338;,Uppercase ligature OE
+339,œ,&oelig;,&#339;,Lowercase ligature OE
+340,?,&Racute;,&#340;,Latin capital letter r with acute
+341,?,&racute;,&#341;,Latin small letter r with acute
+342,?,&Rcedil;,&#342;,Latin capital letter r with cedilla
+343,?,&rcedil;,&#343;,Latin small letter r with cedilla
+344,?,&Rcaron;,&#344;,Latin capital letter r with caron
+345,?,&rcaron;,&#345;,Latin small letter r with caron
+346,?,&Sacute;,&#346;,Latin capital letter s with acute
+347,?,&sacute;,&#347;,Latin small letter s with acute
+348,?,&Scirc;,&#348;,Latin capital letter s with circumflex
+349,?,&scirc;,&#349;,Latin small letter s with circumflex
+350,?,&Scedil;,&#350;,Latin capital letter s with cedilla
+351,?,&scedil;,&#351;,Latin small letter s with cedilla
+352,Š,&Scaron;,&#352;,Uppercase S with caron
+353,š,&scaron;,&#353;,Lowercase S with caron
+354,?,&Tcedil;,&#354;,Latin capital letter t with cedilla
+355,?,&tcedil;,&#355;,Latin small letter t with cedilla
+356,?,&Tcaron;,&#356;,Latin capital letter t with caron
+357,?,&tcaron;,&#357;,Latin small letter t with caron
+358,?,&Tstrok;,&#358;,Latin capital letter t with stroke
+359,?,&tstrok;,&#359;,Latin small letter t with stroke
+360,?,&Utilde;,&#360;,Latin capital letter u with tilde
+361,?,&utilde;,&#361;,Latin small letter u with tilde
+362,?,&Umacr;,&#362;,Latin capital letter u with macron
+363,?,&umacr;,&#363;,Latin small letter u with macron
+364,?,&Ubreve;,&#364;,Latin capital letter u with breve
+365,?,&ubreve;,&#365;,Latin small letter u with breve
+366,?,&Uring;,&#366;,Latin capital letter u with ring above
+367,?,&uring;,&#367;,Latin small letter u with ring above
+368,?,&Udblac;,&#368;,Latin capital letter u with double acute
+369,?,&udblac;,&#369;,Latin small letter u with double acute
+370,?,&Uogon;,&#370;,Latin capital letter u with ogonek
+371,?,&uogon;,&#371;,Latin small letter u with ogonek
+372,?,&Wcirc;,&#372;,Latin capital letter w with circumflex
+373,?,&wcirc;,&#373;,Latin small letter w with circumflex
+374,?,&Ycirc;,&#374;,Latin capital letter y with circumflex
+375,?,&ycirc;,&#375;,Latin small letter y with circumflex
+376,Ÿ,&Yuml;,&#376;,Capital Y with diaeres
+402,ƒ,&fnof;,&#402;,Lowercase with hook
+710,ˆ,&circ;,&#710;,Circumflex accent
+732,˜,&tilde;,&#732;,Tilde
+913,?,&Alpha;,&#913;,Alpha
+914,?,&Beta;,&#914;,Beta
+915,?,&Gamma;,&#915;,Gamma
+916,?,&Delta;,&#916;,Delta
+917,?,&Epsilon;,&#917;,Epsilon
+918,?,&Zeta;,&#918;,Zeta
+919,?,&Eta;,&#919;,Eta
+920,?,&Theta;,&#920;,Theta
+921,?,&Iota;,&#921;,Iota
+922,?,&Kappa;,&#922;,Kappa
+923,?,&Lambda;,&#923;,Lambda
+924,?,&Mu;,&#924;,Mu
+925,?,&Nu;,&#925;,Nu
+926,?,&Xi;,&#926;,Xi
+927,?,&Omicron;,&#927;,Omicron
+928,?,&Pi;,&#928;,Pi
+929,?,&Rho;,&#929;,Rho
+931,?,&Sigma;,&#931;,Sigma
+932,?,&Tau;,&#932;,Tau
+933,?,&Upsilon;,&#933;,Upsilon
+934,?,&Phi;,&#934;,Phi
+935,?,&Chi;,&#935;,Chi
+936,?,&Psi;,&#936;,Psi
+937,?,&Omega;,&#937;,Omega
+945,?,&alpha;,&#945;,alpha
+946,?,&beta;,&#946;,beta
+947,?,&gamma;,&#947;,gamma
+948,?,&delta;,&#948;,delta
+949,?,&epsilon;,&#949;,epsilon
+950,?,&zeta;,&#950;,zeta
+951,?,&eta;,&#951;,eta
+952,?,&theta;,&#952;,theta
+953,?,&iota;,&#953;,iota
+954,?,&kappa;,&#954;,kappa
+955,?,&lambda;,&#955;,lambda
+956,?,&mu;,&#956;,mu
+957,?,&nu;,&#957;,nu
+958,?,&xi;,&#958;,xi
+959,?,&omicron;,&#959;,omicron
+960,?,&pi;,&#960;,pi
+961,?,&rho;,&#961;,rho
+962,?,&sigmaf;,&#962;,sigmaf
+963,?,&sigma;,&#963;,sigma
+964,?,&tau;,&#964;,tau
+965,?,&upsilon;,&#965;,upsilon
+966,?,&phi;,&#966;,phi
+967,?,&chi;,&#967;,chi
+968,?,&psi;,&#968;,psi
+969,?,&omega;,&#969;,omega
+977,?,&thetasym;,&#977;,Theta symbol
+978,?,&upsih;,&#978;,Upsilon symbol
+982,?,&piv;,&#982;,Pi symbol
+8194,En space,&ensp;,&#8194;,En space
+8195,Em space,&emsp;,&#8195;,Em space
+8201,Thin space,&thinsp;,&#8201;,Thin space
+8204,Zero width non-joiner,&zwnj;,&#8204;,Zero width non-joiner
+8205,Zero width joiner,&zwj;,&#8205;,Zero width joiner
+8206,Left-to-right mark,&lrm;,&#8206;,Left-to-right mark
+8207,Right-to-left mark,&rlm;,&#8207;,Right-to-left mark
+8211,–,&ndash;,&#8211;,En dash
+8212,—,&mdash;,&#8212;,Em dash
+8216,‘,&lsquo;,&#8216;,Left single quotation mark
+8217,’,&rsquo;,&#8217;,Right single quotation mark
+8218,‚,&sbquo;,&#8218;,Single low-9 quotation mark
+8220,“,&ldquo;,&#8220;,Left double quotation mark
+8221,”,&rdquo;,&#8221;,Right double quotation mark
+8222,„,&bdquo;,&#8222;,Double low-9 quotation mark
+8224,†,&dagger;,&#8224;,Dagger
+8225,‡,&Dagger;,&#8225;,Double dagger
+8226,•,&bull;,&#8226;,Bullet
+8230,…,&hellip;,&#8230;,Horizontal ellipsis
+8240,‰,&permil;,&#8240;,Per mille
+8242,?,&prime;,&#8242;,Minutes (Degrees)
+8243,?,&Prime;,&#8243;,Seconds (Degrees)
+8249,‹,&lsaquo;,&#8249;,Single left angle quotation
+8250,›,&rsaquo;,&#8250;,Single right angle quotation
+8254,?,&oline;,&#8254;,Overline
+8364,€,&euro;,&#8364;,Euro
+8482,™,&trade;,&#8482;,Trademark
+8592,?,&larr;,&#8592;,Left arrow
+8593,?,&uarr;,&#8593;,Up arrow
+8594,?,&rarr;,&#8594;,Right arrow
+8595,?,&darr;,&#8595;,Down arrow
+8596,?,&harr;,&#8596;,Left right arrow
+8629,?,&crarr;,&#8629;,Carriage return arrow
+8704,?,&forall;,&#8704;,For all
+8706,?,&part;,&#8706;,Part
+8707,?,&exist;,&#8707;,Exist
+8709,?,&empty;,&#8709;,Empty
+8711,?,&nabla;,&#8711;,Nabla
+8712,?,&isin;,&#8712;,Is in
+8713,?,&notin;,&#8713;,Not in
+8715,?,&ni;,&#8715;,Ni
+8719,?,&prod;,&#8719;,Product
+8721,?,&sum;,&#8721;,Sum
+8722,?,&minus;,&#8722;,Minus
+8727,?,&lowast;,&#8727;,Asterisk (Lowast)
+8730,?,&radic;,&#8730;,Square root
+8733,?,&prop;,&#8733;,Proportional to
+8734,?,&infin;,&#8734;,Infinity
+8736,?,&ang;,&#8736;,Angle
+8743,?,&and;,&#8743;,And
+8744,?,&or;,&#8744;,Or
+8745,?,&cap;,&#8745;,Cap
+8746,?,&cup;,&#8746;,Cup
+8747,?,&int;,&#8747;,Integral
+8756,?,&there4;,&#8756;,Therefore
+8764,?,&sim;,&#8764;,Similar to
+8773,?,&cong;,&#8773;,Congurent to
+8776,?,&asymp;,&#8776;,Almost equal
+8800,?,&ne;,&#8800;,Not equal
+8801,?,&equiv;,&#8801;,Equivalent
+8804,?,&le;,&#8804;,Less or equal
+8805,?,&ge;,&#8805;,Greater or equal
+8834,?,&sub;,&#8834;,Subset of
+8835,?,&sup;,&#8835;,Superset of
+8836,?,&nsub;,&#8836;,Not subset of
+8838,?,&sube;,&#8838;,Subset or equal
+8839,?,&supe;,&#8839;,Superset or equal
+8853,?,&oplus;,&#8853;,Circled plus
+8855,?,&otimes;,&#8855;,Circled times
+8869,?,&perp;,&#8869;,Perpendicular
+8901,?,&sdot;,&#8901;,Dot operator
+8968,?,&lceil;,&#8968;,Left ceiling
+8969,?,&rceil;,&#8969;,Right ceiling
+8970,?,&lfloor;,&#8970;,Left floor
+8971,?,&rfloor;,&#8971;,Right floor
+9674,?,&loz;,&#9674;,Lozenge
+9824,?,&spades;,&#9824;,Spade
+9827,?,&clubs;,&#9827;,Club
+9829,?,&hearts;,&#9829;,Heart
+9830,?,&diams;,&#9830;,Diamond
