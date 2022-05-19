@@ -83,7 +83,30 @@ The outer div's class, `outer`, and the footer's class, `inner`, are <span style
 <br>
 <hr>
 
-### General script and css tips
+### Javascript timed refresh
+In all honesty, I think there is a more systematic way to refresh a page, but I found this way that makes use of the meta element in the page's head. Using that, you can also set a delay after executing that function.
+
+``` js
+function addDelayedRefresh(){
+    const refresh = document.createElement('meta');
+    refresh.setAttribute("http-equiv", "refresh");
+    refresh.setAttribute("content", "5;url=https://www.w3schools.com");
+    document.getElementsByTagName('head')[0].appendChild(refresh);
+}
+```
+This function will actually add a meta element into the head of the page. The part that makes this stand out from StackOverflow is because of the last line in the function, in which I didn't know it was a thing! It makes sense, really, when you think about. Adding this to a button `onclick`, the page will redirect to w3schools.com after 5 seconds. If you just want the page to refresh, just remove the semi-colon and whatever is after in the 2nd argument if the 3rd line within the function.
+
+For some reason, I found that someone online was like:
+
+>This doesn't make sence... The head is parsed prior to the execution of javascript. Adding meta stuf to the head via javascript would not have the desired effect.
+
+Whoever made this comment has a _fixed mindset_, going by the book only. If you really persevere, you can get answers even if everyone says otherwise.
+
+<br>
+<br>
+<hr>
+
+### General script and css tools
 In every website, javascript and css will always be present, whether you like it or not. When a website loads a javascript file or a css file, it will take longer if either files are large. So here's just a small list of online tools that would help you:
 - [JS Compress](https://jscompress.com/)
 - [JS Beautifier](https://beautifier.io/)
