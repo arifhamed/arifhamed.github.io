@@ -32,7 +32,7 @@ Task name: Adhoc tasks
 
 Task hours: 0.5
 
-Create small list of customer NAS that has at less than or equal to 10% of space left, sent it after sending daily report on whatsapp. Information for list can be found in <span class="disable-selection" ondblclick="this.innerHTML='infospacenas03 CRM'">&lt;<b>REDACTED</b>&gt;</span>
+Create small list of client NAS that has at less than or equal to 10% of space left, sent it after sending daily report on whatsapp. Information for list can be found in <span class="disable-selection" ondblclick="this.innerHTML='infospacenas03 CRM'">&lt;<b>REDACTED</b>&gt;</span>
 
 ---
 
@@ -48,7 +48,7 @@ Given the following:
 
 ---
 
-Task name: Deliver items to customer office
+Task name: Deliver items to client office
 
 Task hours: 2
 

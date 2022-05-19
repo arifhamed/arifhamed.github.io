@@ -25,12 +25,6 @@ Bad result tasks: analyse apk_search.json and/or javascript function
     async function getLatestUpdate() {
         const response = await fetch("https://arifhamed.com/_pages/resources/apk_search.json");
         const all_assets = await response.json();
-        // for (let i = 0; i < all_assets.length; i++){
-        // 	console.log(all_assets[i]["name"]);
-       	// 	if (all_assets[i]["name"] == ""){
-        //   		document.getElementById('update').innerHTML = "Downloads: "+all_assets[i]["download_count"]+"<br>Latest upload: "+all_assets[i]["updated_at"];
-        //     }
-        // }
         document.getElementById('update').innerHTML = "bruh: "+all_assets[4]["title"];
     }
 </script>

@@ -9,6 +9,7 @@ play-link: https://play.google.com/store/apps/details?id=de.dakror.quarry.demo
 ios-link: https://apps.apple.com/us/app/my-time-at-portia/id1555184523
 tags: resource-management strategy economy automation tower-defense minimalist crafting
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
+piracy: false
 ---
 
 > _"You start out on the surface on a mine shaft, faced with several deposits of valuable ores. You begin building your basic mining rig, harvesting the resources and transporting them via conveyor belts to your storage center. You gather more resources, invest into research & development, discover new techniques and machinery. Your factory grows, your processing chains grow longer, you need to expand." - <a href="https://play.google.com/store/apps/details?id=de.dakror.quarry" target="_blank">Play Store</a>_

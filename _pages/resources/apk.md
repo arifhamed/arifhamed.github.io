@@ -26,17 +26,36 @@ secret: javascript:togglePiracy();
 ---
 
 <script>
-    var paidlist=document.getElementsByClassName('piracy');
-    //var paidflag=false;
+    var paidlist=document.getElementsByClassName('paid');
+    var freelist=document.getElementsByClassName('free');
+    var paidflag=false;
     function togglePiracy(){
         for(let a of paidlist){
             //a.setAttribute('style','display:inline;')
             if (a.style.display == "none"){
-                a.style.display = "inline"
+                a.style.display = "inline";
+                paidflag = true;
             } else {
-                a.style.display = "none"
+                a.style.display = "none";
+                paidflag = false;
             }
         };
+    };
+    function apkSearch(){
+        const q = document.getElementById("apkSearchId");
+        if (paidflag){
+            console.log(q)
+        }
+    }
+    async function getApkJson(n) {
+        if (paidflag){
+            const response = await fetch("https://arifhamed.com/_pages/resources/apk_search_full.json");
+        } else {
+            const response = await fetch("https://arifhamed.com/_pages/resources/apk_search.json");
+        };
+        const all_assets = await response.json();
+        // document.getElementById('update').innerHTML = "bruh: "+all_assets[4]["title"];
+
     }
 </script>
 
@@ -58,8 +77,8 @@ Here are a few things to take note about the APKs here
         * XAPK Installer works just as well too, actually.
 1. _**FUNCTIONALITY**_. Not all apps here will be successfully installed into your phone
     * There are (at least) 2 architectures that every Android phone uses. If the APK and your phone is one of the other, then no install (no matching ABIs)
-    * arm64-v8a
-    * armeabi-v7a
+        * arm64-v8a
+        * armeabi-v7a
 1. _**TRAILERS**_. Almost all the trailers recorded for each game page here are pulled from Google Play. Those that don't come from Google Play may just be stills, short gameplay sourced from YouTube, and case-by-case may be from Steam as well.
 1. _**METHODS & TOOLS**_. There are **a lot of tools** available that relate to installing or creating these APKs that I have, and you can find all of them **[here](https://arifhamed.com/resources/apk/tools)**
 1. _**COMMENT**_. If any of the games do not work or does not seem to work as intended, **leave a comment** on that page, <span style="font-size:80%;">if the comment system still works</span>.
@@ -67,20 +86,6 @@ Here are a few things to take note about the APKs here
 <!-- 1. _**GAMEPLAY**_. All gameplay here are **recorded by Genymobile's <a href="https://github.com/Genymobile/scrcpy" target="_blank">scrcpy</a> software, rom1v's <a href="https://github.com/rom1v/sndcpy" target="_blank">sndcpy</a> and Window’s Xbox Game Bar**.  -->
 <!-- 1. _**REVIEW CREDIBILITY**_. Related to gameplay and compatibility, **not all games I have played through all the way**, so some of my thoughts may not be reflective of the whole game, and I would usually state about it too. -->
 <!-- 1. **Personal disclaimer**: * I do not condone piracy, <span style="font-size:170%">but</span>, I also do not condone putting **paywalls** and **paid subscription** behind software that is or was free, or paid to begin with, and limiting **freedom** &amp; **opinion** of customers. <a href="https://upload.wikimedia.org/wikipedia/commons/d/d7/The.Pirate.Bay.Cartoon-small.png" target="_blank">stay woke</a> -->
-
-<span ondblclick="document.getElementById('unobtainium').style.display='block'">I have a list of APKs that I just can't seem to possess at all, anywhere online, safely.</span>
-
-<pre id="unobtainium" style="display:none;">
-- Megatroid
-    - Every APK found online besides Play Store either does not work or it is littered with viruses
-- Bladed Fury
-    - <s>Every APK of bladed fury isn't functional for some reason</s>
-    - Seems like it's dependant on online, or at least for the apk that i got currently. testing and scouting may still undergo
-- Portalize
-    - Nah. Almost all apks i have encountered are polluted as heck, just like Megatroid
-- Morphite
-    - All either non-premium or just adware that you do not want
-</pre>
 
 <!-- <span ondblclick="document.getElementById('banned').style.display='block'" style="font-size:60%;">there's also some that I never want to install on any phone</span>
 
@@ -95,13 +100,15 @@ Here are a few things to take note about the APKs here
 
 <span style="font-size:150%">ALRIGHT</span>
 
-So let's get straight to it. here it is. Search will definitely be implemented soon.
+So let's get straight to it. here it is. Search will definitely be implemented functionally soon.
+
+<input id="apkSearchId" type="text" class="w-100" onkeyup="apkSearch()">
 
 
 <div class="row" id="apk-gallery">
     {% for post in site.posts %}
     {% if post.url contains '/apk' %}
-    <div class="col-sm-3 {% if post.piracy or post.nsfw %} piracy {% endif %}" title="{{ post.title }}" style="{% if post.piracy or post.nsfw %} display:none; {% endif %}">
+    <div class="col-sm-3 {% if post.piracy or post.nsfw %} paid {% else %} free {% endif %}" title="{{ post.title }}" style="{% if post.piracy or post.nsfw %} display:none; {% endif %}">
         <div class="card">
             <div class="card-body">
                 <a href="{{site.baseurl}}{{post.url}}"><img class="card-img" src="/static/images{{ post.url }}-icon.webp" alt="{{ post.title }} icon"></a>

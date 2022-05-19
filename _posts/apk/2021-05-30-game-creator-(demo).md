@@ -6,6 +6,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=org.silentworks.gamecreatorplayer
 tags: creator 2d
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
+piracy: false
 ---
 
 > _"With Game Creator you can create your own games on your android tablet or phone.<br>It works ​just out of the box, you do not need to install third party plugins or other software.<br>NO programming or scripting is required." - <a href="https://play.google.com/store/apps/details?id=org.silentworks.gamecreatorplayer" target="_blank">Play Store</a>_

@@ -30,7 +30,7 @@ Checked service reports of the previous day:
 
 --- 
 
-Task name: (ADHOC) Check unit sum of a customer
+Task name: (ADHOC) Check unit sum of a client
 
 Task hours: 0.5
 
@@ -38,7 +38,7 @@ Check units for <span class="disable-selection" ondblclick="this.innerHTML='Dani
 
 ---
 
-Task name: (ADHOC) Check service reports for a customer
+Task name: (ADHOC) Check service reports for a client
 
 Task hours: 0.5
 

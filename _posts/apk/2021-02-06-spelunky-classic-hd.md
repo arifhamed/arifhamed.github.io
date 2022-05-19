@@ -9,6 +9,7 @@ itch-link: https://yancharkin.itch.io/spelunky-classic-hd
 steam-link: https://store.steampowered.com/app/239350/Spelunky/
 switch-link: https://www.nintendo.com/store/products/spelunky-switch/
 tags: roguelike platform 2d procedural multiplayer adventure 
+piracy: false
 ---
 
 > _"Spelunky is a cave exploration / treasure-hunting game inspired by classic platform games and roguelikes, where the goal is to grab as much treasure from the cave as possible. Every time you play the cave’s layout will be different. Use your wits, your reflexes, and the items available to you to survive and go ever deeper! Perhaps at the end you may find what you’re looking for… Don’t be afraid to die! But also don’t be afraid to live! Happy Spelunky-ing!" - <a href="https://yancharkin.itch.io/spelunky-classic-hd" target="_blank">itch.io</a>, <a href="https://yancharkin.itch.io/" target="_blank">yancharkin</a>_

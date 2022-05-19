@@ -10,11 +10,11 @@ categories: internship-poly
 
 ### What i did today
 * The following is <span ondblclick="this.innerHTML = 'service report SR11785'">a service report</span>
-* <span ondblclick="this.innerHTML = 'Scatech'"><**REDACTED**: customer name></span> Request
-    - remove A record for <span ondblclick="this.innerHTML = 'scatechgroup.com'"><**REDACTED**: customer's former parent></span>
-    - remove WWW CNAME for <span ondblclick="this.innerHTML = 'scatechgroup.com'"><**REDACTED**: customer's former parent></span>
+* <span ondblclick="this.innerHTML = 'Scatech'"><**REDACTED**: client name></span> Request
+    - remove A record for <span ondblclick="this.innerHTML = 'scatechgroup.com'"><**REDACTED**: client's former parent></span>
+    - remove WWW CNAME for <span ondblclick="this.innerHTML = 'scatechgroup.com'"><**REDACTED**: client's former parent></span>
     - update DNS zone & await propagation
-    - look through existing <span ondblclick="this.innerHTML = 'flexisystems'"><**REDACTED**: other customer name></span> website page by page to find reference to <span ondblclick="this.innerHTML = 'scatechgroup'"><**REDACTED**: customer's former parent></span>
+    - look through existing <span ondblclick="this.innerHTML = 'flexisystems'"><**REDACTED**: other client name></span> website page by page to find reference to <span ondblclick="this.innerHTML = 'scatechgroup'"><**REDACTED**: client's former parent></span>
 
 
 

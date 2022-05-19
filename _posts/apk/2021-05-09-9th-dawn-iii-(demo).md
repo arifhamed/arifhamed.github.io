@@ -8,6 +8,7 @@ steam-link: https://store.steampowered.com/app/1154850/9th_Dawn_III/
 ios-link: https://apps.apple.com/us/app/9th-dawn-iii/id1528353612
 tags: hack-and-slash dungeon-crawler collectathon rpg action
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
+piracy: false
 ---
 
 > _"9th Dawn III: Shadow of Erthil is a massive open world RPG/dungeon crawler packed full of content – featuring more than 270 monsters to fight and capture, a fun card game with 180 cards to collect, and over 1,400 unique items to hoard!" - <a href="https://store.steampowered.com/app/1154850/9th_Dawn_III/" target="_blank">Steam</a>_

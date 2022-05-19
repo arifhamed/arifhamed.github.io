@@ -13,7 +13,7 @@ categories: internship-poly
 <span class="timestamp">[17:28]</span> <sup><a href="#2">[2]</a></sup> 
 
 ### What i've done today
-* Create small list of customer NAS that has at less than or equal to 10% of space left, sent it after sending daily report on whatsapp.
+* Create small list of client NAS that has at less than or equal to 10% of space left, sent it after sending daily report on whatsapp.
 
 
 {% include comments.html url=page.url %}

@@ -7,6 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.pixowl.tsb2
 ios-link: https://apps.apple.com/us/app/the-sandbox-evolution/id944393180
 tags: sandbox creative creation
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
+piracy: false
 ---
 
 > _"Craft a pixel paradise or destroy the world with your Godly 8 bit touch in The Sandbox Evolution, the #1 pixel art world building game." - <a href="https://play.google.com/store/apps/details?id=com.pixowl.tsb2" target="_blank">Play Store</a>_

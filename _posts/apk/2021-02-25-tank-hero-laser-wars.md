@@ -7,6 +7,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.clapfootgames.laserwars
 tags: tank top-down shooter platform sci-fi futuristic arena
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
+piracy: false
 ---
 
 > _"The follow up to the hit puzzle action game Tank Hero has finally arrived! Charge your lasers and get ready to take the fight to new battlegrounds that will challenge you like never before. Equip your tank with ray guns, plasma howitzers, sonic cannons, and more. Use the all new interactive environments to strategically take our your enemies." - <a href="https://play.google.com/store/apps/details?id=com.clapfootgames.laserwars" target="_blank">Play Store</a>_
