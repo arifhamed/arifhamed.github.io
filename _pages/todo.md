@@ -117,4 +117,6 @@ redirect_from:
     * iconoclasts
     * carrion
     * owlboy
+    * every sonic game
+    * sally face
     
