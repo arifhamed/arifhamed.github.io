@@ -28,3 +28,7 @@ Bad result tasks: analyse apk_search.json and/or javascript function
         document.getElementById('update').innerHTML = "bruh: "+all_assets[4]["title"];
     }
 </script>
+
+<hr>
+
+This text is to test if the thinkpad git credentials are functioning correctly
