@@ -7,7 +7,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.MOBGames.PoppyMobileChap1
 ios-link: https://apps.apple.com/us/app/poppy-playtime-chapter-1/id1610947489
 tags: horror first-person fps slasher thriller survival-horror
-piracy: true
+paid: true
 ---
 
 > _"You must stay alive in this horror/puzzle adventure. Try to survive the vengeful toys waiting for you in the abandoned toy factory. Use your GrabPack to hack electrical circuits or nab anything from afar. Explore the mysterious facility... and don't get caught." - <a href="https://play.google.com/store/apps/details?id=com.MOBGames.PoppyMobileChap1" target="_blank">Play Store</a>_

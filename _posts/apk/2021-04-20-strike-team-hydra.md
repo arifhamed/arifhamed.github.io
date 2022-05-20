@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.WaveLightGames.Stri
 steam-link: https://store.steampowered.com/app/716050/Strike_Team_Hydra/
 ios-link: https://apps.apple.com/us/app/strike-team-hydra/id1262093285
 tags: turn-based rpg 
-piracy: true
+paid: true
 ---
 
 > _"You are the commander of an elite Strike Team aboard the warship, HYDRA. Your first combat mission will have you leading your team in vicious ship-to-ship battles against the Sethari, a mysterious alien race whose soldiers are genetically bred for war." - <a href="https://play.google.com/store/apps/details?id=com.WaveLightGames.StrikeTeamHydra" target="_blank">Play Store</a>_

@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.younghorses.octodad
 ios-link: https://apps.apple.com/us/app/octodad-dadliest-catch/id1017367213
 steam-link: https://store.steampowered.com/app/224480/Octodad_Dadliest_Catch/
 tags: comedy funny physics stealth difficult adventure challenging narrative puzzle platform
-piracy: true
+paid: true
 ---
 
 > _"Octodad: Dadliest Catch is a game about destruction, deception, and fatherhood. The player controls Octodad, a dapper octopus masquerading as a human, as he goes about his life. Octodad's existence is a constant struggle, as he must master mundane tasks with his unwieldy boneless tentacles while simultaneously keeping his cephalopodan nature a secret from his human family." - <a href="https://play.google.com/store/apps/details?id=com.younghorses.octodad" target="_blank">Play Store</a>_

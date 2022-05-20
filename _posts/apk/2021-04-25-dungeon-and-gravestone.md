@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.wlkzinc.dandg
 steam-link: https://store.steampowered.com/app/1579100/Dungeon_and_Gravestone/
 ios-link: https://apps.apple.com/us/app/dungeon-and-gravestone/id1606709286
 tags: rpg
-piracy: true
+paid: true
 ---
 
 > _"Collect food, complete quests and even fish for your life! Engage in fierce boss battles! Life in the dungeon sure is risky but it's super fun too! A mysterious world where not only dungeons but even towns change their appearance." - <a href="https://store.steampowered.com/app/1579100/Dungeon_and_Gravestone/" target="_blank">Steam</a>_

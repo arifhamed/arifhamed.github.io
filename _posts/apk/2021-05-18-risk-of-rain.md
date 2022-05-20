@@ -6,7 +6,7 @@ permalink: /resources/apk/:title
 play-link: 
 steam-link: https://store.steampowered.com/app/248820/Risk_of_Rain/
 tags: roguelite pixelated 2d pixel alien space shooter
-piracy: true
+paid: true
 ---
 
 > _"Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players will have to play their best to get as far as possible. Fight on a mysterious planet with randomly spawning enemies and bosses, either alone or with 3 friends in online co-op." - <a href="https://store.steampowered.com/app/248820/Risk_of_Rain/" target="_blank">Steam</a>_

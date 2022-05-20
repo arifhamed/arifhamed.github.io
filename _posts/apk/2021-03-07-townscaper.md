@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.OskarStalberg.Towns
 ios-link: https://apps.apple.com/us/app/townscaper/id1549531491
 steam-link: https://store.steampowered.com/app/1291340/Townscaper/
 tags: building relaxing sandbox casual indie zen
-piracy: true
+paid: true
 ---
 
 > _"Instant town building toy" - <a href="https://store.steampowered.com/app/1291340/Townscaper/" target="_blank">Steam</a> & <a href="https://apps.apple.com/us/app/townscaper/id1549531491" target="_blank">App Store</a>_

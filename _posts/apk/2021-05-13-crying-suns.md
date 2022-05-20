@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.altshift.orenda.cry
 steam-link: https://store.steampowered.com/app/873940/Crying_Suns/
 ios-link: https://apps.apple.com/us/app/crying-suns/id1511788295
 tags: strategy indie space roguelite sci-fi 2d
-piracy: true
+paid: true
 ---
 
 > _"When FTL meets Foundation and Dune:<br>Crying Suns is a tactical rogue-lite that puts you in the role of a space fleet commander as you explore a mysteriously fallen empire. In this story rich experience inspired by Dune and Foundation, each successful run will uncover the truth about the Empire... and yourself as well." - <a href="https://play.google.com/store/apps/details?id=com.altshift.orenda.cryingsuns" target="_blank">Play Store</a>_

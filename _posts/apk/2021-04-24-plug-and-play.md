@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.etterstudio.pnp
 steam-link: https://store.steampowered.com/app/353560/Plug__Play/
 ios-link: https://apps.apple.com/us/app/plug-play/id910076264
 tags: esoteric
-piracy: true
+paid: true
 ---
 
 > _"Explore the universe of Plug & Play, an interactive animation drawn by Michael Frei and coded by Mario von Rickenbach. An unashamedly surreal play with plugs. Run, hit, switch, fall, love, plug, pull. And push." - <a href="https://play.google.com/store/apps/details?id=com.etterstudio.pnp" target="_blank">Play Store</a>_

@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.robot_circus.TTE
 steam-link: https://store.steampowered.com/app/636390/Ticket_to_Earth/ 
 ios-link: https://apps.apple.com/us/app/ticket-to-earth/id1037285648 
 tags: strategy indie rpg puzzle turn-based 
-piracy: true
+paid: true
 ---
 
 > _"A distant planet. A dying colony. A deadly conspiracy. Fight a corrupt system in Ticket to Earth, the revolutionary tactical puzzle RPG!" - <a href="https://play.google.com/store/apps/details?id=com.robot_circus.TTE" target="_blank"></a>_

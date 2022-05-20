@@ -9,7 +9,7 @@ play-link: https://play.google.com/store/apps/details?id=com.crescentmoongames.n
 ios-link: https://apps.apple.com/us/app/neon-shadow-gameclub/id730030512
 steam-link: https://store.steampowered.com/app/296890/Neon_Shadow/
 tags: shooter fps first-person action neon doom futuristic sci-fi
-piracy: false
+paid: false
 ---
 
 > _"In this white-knuckle cyberpunk first-person shooter, you are the last line of defense between an abominable mechanical army and the fate of the entire universe. A dark force has commandeered the weaponry and defenses of a space station and it has big plans to expand! There's no one else to save the day. You'll have to grab the nearest weapon and take the fight to the machines. Don't expect them to just roll over and become scrap metal, though. You'll have to contend with flying drones, powerful cannons, and more!" - <a href="https://play.google.com/store/apps/details?id=com.crescentmoongames.neonshadow" target="_blank">Play Store</a>_

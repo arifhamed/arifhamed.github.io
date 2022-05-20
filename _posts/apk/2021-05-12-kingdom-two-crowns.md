@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.rawfury.kingdom2cro
 steam-link: https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/
 ios-link: https://apps.apple.com/us/app/kingdom-two-crowns/id1477991646
 tags: survival management turret-defense
-piracy: true
+paid: true
 ---
 
 > _"In Kingdom Two Crowns, players must work in the brand-new solo or co-op campaign mode to build their kingdom and secure it from the threat of the Greed. Experience new technology, units, enemies, mounts, and secrets in the next evolution of the award-winning micro strategy franchise!" - <a href="https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/" target="_blank">Steam</a>_

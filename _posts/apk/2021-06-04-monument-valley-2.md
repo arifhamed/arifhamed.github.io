@@ -6,7 +6,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley2
 ios-link: https://apps.apple.com/us/app/monument-valley-2/id1187265767
 tags: surreal atmospheric geometry puzzle adventure
-piracy: true
+paid: true
 ---
 
 > _"Guide a mother and her child as they embark on a journey through magical architecture, discovering illusionary pathways and delightful puzzles as you learn the secrets of the Sacred Geometry." - <a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley2" target="_blank">Play Store</a>_

@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.xd.tothemoon
 ios-link: https://apps.apple.com/us/app/to-the-moon/id1159700098
 steam-link: https://store.steampowered.com/app/206440/To_the_Moon/
 tags: rpg rpg-maker adventure indie story-rich puzzle emotional great-soundtrack
-piracy: true
+paid: true
 ---
 
 > _"Dr. Rosalene and Dr. Watts have peculiar jobs: They give people another chance to live, all the way from the very beginning… but only in their patients’ heads. <br><br>Due to the severity of the operation, the new life becomes the last thing the patients remember before drawing their last breath. Thus, the operation is only done to people on their deathbeds, to fulfill what they wish they had done with their lives, but didn’t. <br><br>This particular story follows their attempt to fulfill the dream of an elderly man, Johnny. With each step back in time, a new fragment of Johnny’s past is revealed. As the two doctors piece together the puzzled events that spanned a life time, they seek to find out just why the frail old man chose his dying wish to be what it is. <br><br>And Johnny’s last wish is, of course… to go to the moon." - <a href="https://freebirdgames.com/games/to-the-moon/" target="_blank">Freebird Games</a>_

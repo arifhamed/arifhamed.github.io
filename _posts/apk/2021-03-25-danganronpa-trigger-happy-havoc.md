@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DR
 ios-link: https://apps.apple.com/us/app/danganronpa-trigger-happy-hav/id1502232038
 steam-link: https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/
 tags: mystery visual-novel detective anime horror
-piracy: true
+paid: true
 ---
 
 > _"Investigate murders, search for clues and talk to your classmates to prepare for trial. There, you'll engage in deadly wordplay, going back and forth with suspects. Dissect their statements and fire their words back at them to expose their lies! There's only one way to survive—pull the trigger." - <a href="https://store.steampowered.com/app/413410/Danganronpa_Trigger_Happy_Havoc/" target="_blank">Steam</a>_

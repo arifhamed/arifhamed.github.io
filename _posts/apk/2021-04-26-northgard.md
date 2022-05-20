@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.playdigious.northga
 steam-link: https://store.steampowered.com/app/466560/Northgard/
 ios-link: https://apps.apple.com/us/app/northgard/id1533979882
 tags: strategy rts colony-sim city-builder management
-piracy: true
+paid: true
 ---
 
 > _"Northgard is a strategy game based on Norse mythology in which you control a clan of Vikings vying for the control of a mysterious newfound continent.

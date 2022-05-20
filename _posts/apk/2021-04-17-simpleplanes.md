@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.jundroo.SimplePlane
 steam-link: https://store.steampowered.com/app/397340/SimplePlanes/
 ios-link: https://apps.apple.com/us/app/simpleplanes/id823869162
 tags: construction flying 
-piracy: true
+paid: true
 ---
 
 > _"Build airplanes by snapping parts together, designing wing sections, and attaching engines. At any time, you can strap yourself into the cockpit and see how it flies with realistic physics. If you're not in the mood for building, over 100,000 airplanes are available to download for free." - <a href="https://store.steampowered.com/app/397340/SimplePlanes/" target="_blank">Steam</a>_

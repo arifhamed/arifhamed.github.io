@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.cookapps.taileddemo
 ios-link: https://apps.apple.com/app/id1587114188
 tags: afk slasher vertical action rpg 
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
-piracy: false
+paid: false
 ---
 
 > _"Welcome to Tailed Demon Slayer. Join our hero's adventure in Bestia, a once happy and peaceful little town turned dark. Undead bosses are now crowding the streets under King Richie's iron fist. But this will end now! Stock up on epic hero powers to start the battle of the century today!" - <a href="https://play.google.com/store/apps/details?id=com.cookapps.taileddemonslayer" target="_blank">Play Store</a>_

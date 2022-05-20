@@ -7,7 +7,7 @@ play-link:
 steam-link: https://store.steampowered.com/app/391540/Undertale/
 tags: rpg great-soundtrack story-rich choices-matter
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
-piracy: false
+paid: false
 ---
 
 > _"Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters. Now you must find your way out... or stay trapped forever." - <a href="https://store.steampowered.com/app/391540/Undertale/" target="_blank">Steam</a>_

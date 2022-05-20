@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=nl.noio.kingdom
 steam-link: https://store.steampowered.com/app/496300/Kingdom_New_Lands/
 ios-link: https://apps.apple.com/us/app/kingdom-new-lands/id1118513354
 tags: survival management turret-defense
-piracy: true
+paid: true
 ---
 
 > _"Kingdom: New Lands builds upon the award-winning gameplay and mystery of Kingdom by introducing an abundance of new content to the IGF-nominated title while maintaining the simplicity and depth that legions of monarchs have come to experience and enjoy." - <a href="https://store.steampowered.com/app/496300/Kingdom_New_Lands/" target="_blank">Steam</a>_

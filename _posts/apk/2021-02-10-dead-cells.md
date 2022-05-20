@@ -10,7 +10,7 @@ ios-link: https://apps.apple.com/us/app/dead-cells/id1389752090
 steam-link: https://store.steampowered.com/app/588650/Dead_Cells/
 switch-link: https://www.nintendo.com/store/products/dead-cells-switch/
 tags: roguelike metroidvania platform action pixel exploration procedural 
-piracy: true
+paid: true
 ---
 
 > _"Play as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island…! That is, assuming you’re able to fight your way past its keepers." - <a href="https://play.google.com/store/apps/details?id=com.playdigious.deadcells.mobile" target="_blank">Play Store</a>_

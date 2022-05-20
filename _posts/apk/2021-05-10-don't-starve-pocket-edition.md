@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.kleientertainment.d
 steam-link: https://store.steampowered.com/app/219740/Dont_Starve/
 ios-link: https://apps.apple.com/us/app/dont-starve-pocket-edition/id1012298403
 tags: rpg action survival horror 2D open-world open-world-survival-craft crafting
-piracy: true
+paid: true
 ---
 
 > _"Don’t Starve is an uncompromising wilderness survival game full of science and magic. Enter a strange and unexplored world full of strange creatures, dangers, and surprises. Gather resources to craft items and structures that match your survival style." - <a href="https://store.steampowered.com/app/219740/Dont_Starve/" target="_blank">Steam</a>_

@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=fi.bugbyte.battlevoid
 steam-link: https://store.steampowered.com/app/716630/Battlevoid_Sector_Siege/
 ios-link: https://apps.apple.com/us/app/battlevoid-sector-siege/id1274947855
 tags: strategy indie action simulation space
-piracy: true
+paid: true
 ---
 
 > _"Battlevoid: Sector Siege is an epic straight into action real-time space strategy game, in which you take command of human forces with the task of defending them against multiple enemy factions. The world of Battlevoid: Sector Siege has been built to deliver a lively battle field; where the action is never more than just seconds away at the start of every game." - <a href="https://play.google.com/store/apps/details?id=fi.bugbyte.battlevoid" target="_blank">Play Store</a>_

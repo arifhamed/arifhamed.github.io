@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.crescentmoongames.r
 ios-link: https://apps.apple.com/us/app/ravensword-shadowlands/id566839331
 steam-link: https://store.steampowered.com/app/253410/Ravensword_Shadowlands/
 tags: rpg open-world adventure action
-piracy: true
+paid: true
 ---
 
 > _"Ravensword brings unprecedented visuals to the RPG and adventure games genre. Explore a vast and richly detailed world, gather powerful weapons, collect hundreds of items, increase your skills, and follow a deep storyline to solve the mysteries of the Kingdom of Tyreas" - <a href="https://play.google.com/store/apps/details?id=com.crescentmoongames.ravensword2" target="_blank">Play Store</a>_

@@ -6,7 +6,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid
 ios-link: https://apps.apple.com/us/app/rogue-hearts/id1212726570
 tags: roguelike dungeon-crawler dungeon crawler strategy time-based srpg rpg action tactical
-piracy: true
+paid: true
 ---
 
 > _"Welcome to this modern reinterpretation of a rogue-like dungeon crawler!<br>You will need a strategy with self-judgment and control, a necessity in SRPG and tactical games.<br>Break through challenges and trials by controlling the character directly."<br> - <a href="https://play.google.com/store/apps/details?id=com.ninetailgames.roguehearts.paid" target="_blank">Play Store</a> & <a href="https://apps.apple.com/us/app/rogue-hearts/id1212726570" target="_blank">App Store</a>_

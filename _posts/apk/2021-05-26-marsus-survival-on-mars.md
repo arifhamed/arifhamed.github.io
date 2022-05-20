@@ -5,7 +5,7 @@ categories: apk
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.MarsusProject
 tags: rpg space action crafting survival sandbox open-world
-piracy: true
+paid: true
 ---
 
 > _"Marsus: Survival on Mars is a game from Invictus Studio, made in the genre of SANDBOX-SURVIVAL! Then you have to survive on Mars after an unsuccessful landing, there are no living creatures on Mars, but it seems that you will soon run out of oxygen and the food needs to be done." - <a href="https://play.google.com/store/apps/details?id=com.MarsusProject" target="_blank">Play Store</a>_

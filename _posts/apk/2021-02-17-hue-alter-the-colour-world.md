@@ -10,7 +10,7 @@ ios-link: https://apps.apple.com/sg/app/hue-a-valley-of-colors/id1495663583
 steam-link: https://store.steampowered.com/app/383270/Hue/
 switch-link: https://www.nintendo.com/store/products/hue-switch/
 tags: platform puzzle narrative narration colour 2d adventure casual relaxing
-piracy: true
+paid: true
 ---
 
 > _"Hue is a vibrant, award-winning puzzle adventure, where you alter the world by changing its background colour." - <a href="" target="_blank">Official Hue website</a>_

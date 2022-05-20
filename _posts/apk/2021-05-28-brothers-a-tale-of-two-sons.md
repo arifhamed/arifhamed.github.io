@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.and.games505.brothe
 steam-link: https://store.steampowered.com/app/225080/Brothers__A_Tale_of_Two_Sons/
 ios-link: https://apps.apple.com/us/app/brothers-a-tale-of-two-sons/id1029588869
 tags: adventure atmospheric story-rich controller
-piracy: true
+paid: true
 ---
 
 > _"Guide two brothers on an epic fairy tale journey from visionary Swedish film director, Josef Fares and top-tier developer Starbreeze Studios. Control both brothers at once as you experience co-op play in single player mode, like never before." - <a href="https://store.steampowered.com/app/225080/Brothers__A_Tale_of_Two_Sons/" target="_blank"></a>_

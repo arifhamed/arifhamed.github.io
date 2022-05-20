@@ -9,7 +9,7 @@ ios-link: https://apps.apple.com/us/app/labyrinth-legend/id1496499182
 tags:
 published: false
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
-piracy: false
+paid: false
 ---
 
 > _"Labyrinth Legend is an action RPG with hack and slash elements. Explore the automatically-generated dungeons, collect powerful equipment, and battle against unknown, formidable enemies!" - <a href="https://store.steampowered.com/app/1321010/Labyrinth_Legend/" target="_blank">Steam</a>_

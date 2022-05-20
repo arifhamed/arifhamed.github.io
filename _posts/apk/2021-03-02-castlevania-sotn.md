@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=jp.konami.epjCastlevani
 ios-link: https://apps.apple.com/us/app/castlevania-sotn/id1435456830
 steam-link: https://store.steampowered.com/app/1018010/Castlevania_Anniversary_Collection/
 tags: castlevania rpg metroidvania retro nes
-piracy: true
+paid: true
 ---
 
 > _"Everyone has Uno, dipshit, it came free with your ******* Morning Star" - <a href="https://www.youtube.com/watch?v=gcRTzxQzClk" target="_blank">Dracula</a>_

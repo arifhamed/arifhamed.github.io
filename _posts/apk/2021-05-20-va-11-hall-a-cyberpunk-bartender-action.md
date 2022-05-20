@@ -6,7 +6,7 @@ permalink: /resources/apk/:title
 play-link: 
 steam-link: https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/
 tags: action visual-novel cyberpunk pixelated casual
-piracy: true
+paid: true
 ---
 
 > _"VA-11 HALL-A: Cyberpunk Bartender Action is a booze em' up about waifus, technology, and post-dystopia life." - <a href="https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/" target="_blank">Steam</a>_

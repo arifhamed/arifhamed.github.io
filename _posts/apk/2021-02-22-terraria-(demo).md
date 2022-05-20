@@ -11,7 +11,7 @@ steam-link: https://store.steampowered.com/app/105600/Terraria/
 switch-link: https://www.nintendo.com/store/products/terraria-switch/
 tags: crafting adventure action procedural construction sandbox 2d retro pixel exploration cross-platform survival indie
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
-piracy: false
+paid: false
 ---
 
 > _"Dig, Fight, Build! The very world is at your fingertips as you fight for survival, fortune, and glory. Delve deep into cavernous expanses, seek out ever-greater foes to test your mettle in combat, or construct your own city - In the World of Terraria, the choice is yours!" - <a href="https://terraria.org/" target="_blank">Official Terraria site</a>_

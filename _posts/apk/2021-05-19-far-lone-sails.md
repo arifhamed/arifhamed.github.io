@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=ch.misterwhale.far
 steam-link: https://store.steampowered.com/app/609320/FAR_Lone_Sails/
 ios-link: https://apps.apple.com/us/app/far-lone-sails/id1525515023
 tags: atmospheric adventure indie post-apocalyptic
-piracy: true
+paid: true
 ---
 
 > _"Traverse a dried-out seabed littered with the remains of a decaying civilization. Keep your unique vessel going, overcome numerous obstacles and withstand the hazardous weather conditions. How far can you make it? What will you find?" - <a href="https://store.steampowered.com/app/609320/FAR_Lone_Sails/" target="_blank">Steam</a>_

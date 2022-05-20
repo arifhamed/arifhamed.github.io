@@ -9,7 +9,7 @@ ios-link: https://apps.apple.com/us/app/block-story-free/id536926804
 steam-link: https://store.steampowered.com/app/270110/Block_Story/
 tags: rpg action action-rpg adventure action-adventure open-world procedural dragon
 secret: document.getElementById('truth').setAttribute('style','display:block;');
-piracy: false
+paid: false
 ---
 
 > _"There isn’t much better than a wide open game world in which you have essentially no limits and can alter the very landscape in which you play – that is, unless you add dragons, of course…" - <a href="https://store.steampowered.com/app/270110/Block_Story/" target="_blank">Steam</a>_

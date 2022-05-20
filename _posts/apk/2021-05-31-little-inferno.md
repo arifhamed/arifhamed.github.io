@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.littleinferno.googl
 steam-link: https://store.steampowered.com/app/221260/Little_Inferno/
 ios-link: https://apps.apple.com/us/app/little-inferno-hd/id590250573
 tags: casual indie puzzle singleplayer satire physics
-piracy: true
+paid: true
 ---
 
 > _"Throw your toys into your fire, and play with them as they burn. An adventure that takes place almost entirely in front of a fireplace - about looking up up up out of the chimney, and the cold world just on the other side of the wall. From the creators of World of Goo and Human Resource Machine." - <a href="https://store.steampowered.com/app/221260/Little_Inferno/" target="_blank">Steam</a>_

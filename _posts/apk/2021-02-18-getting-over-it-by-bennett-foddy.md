@@ -9,7 +9,7 @@ play-link: https://play.google.com/store/apps/details?id=com.noodlecake.gettingo
 ios-link: https://apps.apple.com/us/app/getting-over-it/id1319618742
 steam-link: https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/
 tags: psychological horror difficult physics philosophical singleplayer abstract humor platform funny narrative narration 
-piracy: true
+paid: true
 ---
 
 > _"A game I made for a certain kind of person. To hurt them." - <a href="https://store.steampowered.com/app/240720/Getting_Over_It_with_Bennett_Foddy/" target="_blank">Steam</a> & <a href="http://www.foddy.net/2017/09/getting-over-it/" target="_blank">Foddy's website</a>_

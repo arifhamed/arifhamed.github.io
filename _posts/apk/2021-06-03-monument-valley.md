@@ -6,7 +6,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley
 ios-link: https://apps.apple.com/us/app/monument-valley/id728293409
 tags: surreal atmospheric geometry puzzle adventure
-piracy: true
+paid: true
 ---
 
 > _"In Monument Valley you will manipulate impossible architecture and guide a silent princess through a stunningly beautiful world." - <a href="https://play.google.com/store/apps/details?id=com.ustwo.monumentvalley" target="_blank">Play Store</a>_

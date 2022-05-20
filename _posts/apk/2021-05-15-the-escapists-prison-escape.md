@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.team17.escapists
 steam-link: https://store.steampowered.com/app/298630/The_Escapists/
 ios-link: https://apps.apple.com/us/app/the-escapists-prison-escape/id1005658093
 tags: strategy
-piracy: true
+paid: true
 ---
 
 > _"The Escapists, you’ve done the crime but can you survive and do the time? The Escapists is a unique prison escape sandbox game where you get to experience a life behind bars and barbed wire fences. You’ve had a life of crime but now you’re caught. With thrilling and immersive gameplay, you need to create an escape route in a world of other prisoners and ruled by routine." - <a href="https://play.google.com/store/apps/details?id=com.team17.escapists" target="_blank">Play Store</a>_

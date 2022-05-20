@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.dsemu.drastic
 tags: emulator retro
-piracy: true
+paid: true
 ---
 
 > _"DraStic is a fast emulator for Android that emulates a popular 2004 handheld console with two screens." - <a href="https://play.google.com/store/apps/details?id=com.dsemu.drastic" target="_blank">Play Store</a>_

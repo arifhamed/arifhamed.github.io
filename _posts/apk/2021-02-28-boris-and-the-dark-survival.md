@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.jds.batds
 ios-link: https://apps.apple.com/us/app/boris-and-the-dark-survival/id1497319834
 steam-link: https://store.steampowered.com/app/1236990/Boris_and_the_Dark_Survival/
 tags: action adventure strategy indie casual horror
-piracy: true
+paid: true
 ---
 
 > _"Play as Boris the Wolf, the cartoon companion of Bendy, as you hunt throughout the abandoned cartoon studio for the supplies Boris needs to keep going. You’re not alone! The monstrous Ink Demon stalks you at every turn. Beware the sound of his beating heart as he creeps up from behind and catches you in his dripping gaze. No where is safe. Yet secrets lie in wait for those adventurous enough to seek them out." - <a href="https://joeydrewstudios.com/batds" target="_blank">Joey Drew's Official Website</a>_

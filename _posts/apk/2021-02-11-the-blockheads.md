@@ -7,7 +7,7 @@ permalink: /resources/apk/:title
 guid: bdef7b4a-e361-46ce-819e-7e9c903ee424
 ios-link: https://apps.apple.com/us/app/the-blockheads/id519596406
 tags: sandbox survival crafting 2d minecraft procedural minimalist retro 
-piracy: false
+paid: false
 ---
 
 > _"Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of blocks wide with a full temperature and climate system, seasons, an equator, and frozen poles. Explore complex cave systems and flowing water, and survive deserts and snowy mountain tops. Build, farm, find & craft your way to advanced technology including shops, steam trains, electricity, and more!" - <a href="https://theblockheads.net/" target="_blank">Official Blockheads Website (and forum)</a>_

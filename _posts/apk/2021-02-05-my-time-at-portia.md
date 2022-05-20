@@ -10,7 +10,7 @@ ios-link: https://apps.apple.com/us/app/my-time-at-portia/id1555184523
 steam-link: https://store.steampowered.com/app/666140/My_Time_At_Portia/
 switch-link: https://www.nintendo.com/store/products/my-time-at-portia-switch/
 tags: rpg 3d exploration life-sim open-world farming indie sandbox construction crafting building adventure action
-piracy: true
+paid: true
 ---
 
 > _"Discover your inner builder in the open world of Portia! A top hit 3D simulation RPG on PC has now arrived on mobile! Inherit your Pa's workshop, craft and build your way to compete for top builder in town! As you explore and discover hidden relics, restore the glory of human civilization on this post-apocalyptic land. As you grow into a seasoned builder, bond with NPCs and townsfolk to build a circle of friends and romance!" - <a href="https://play.google.com/store/apps/details?id=com.pathea.mtap" target="_blank">Play Store</a>_

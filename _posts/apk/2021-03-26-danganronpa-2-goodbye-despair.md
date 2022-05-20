@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DR
 ios-link: https://apps.apple.com/us/app/danganronpa-2-goodbye-despair/id1526121506
 steam-link: https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/
 tags: mystery visual-novel detective anime horror
-piracy: true
+paid: true
 ---
 
 > _"Jabberwock Island—You and your classmates were ready for fun in the sun until Monokuma returned to restart his murderous game! Trapped in a kill-or-be-killed situation, your only hope rests in solving the island’s mysteries." - <a href="https://store.steampowered.com/app/413420/Danganronpa_2_Goodbye_Despair/" target="_blank">Steam</a>_

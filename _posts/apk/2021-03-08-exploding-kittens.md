@@ -7,7 +7,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.explodingkittens.projectbombsquad
 ios-link: https://apps.apple.com/us/app/exploding-kittens/id1040227414
 tags: card cards card-game cats cat kitten explosion
-piracy: true
+paid: true
 ---
 
 > _"Play the most-funded game in Kickstarter history anywhere with the Exploding Kittens® Official mobile game!🐈💣" - <a href="https://play.google.com/store/apps/details?id=com.explodingkittens.projectbombsquad" target="_blank">Play Store</a>_

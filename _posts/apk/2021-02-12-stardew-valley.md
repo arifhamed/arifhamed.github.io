@@ -10,7 +10,7 @@ ios-link: https://apps.apple.com/us/app/stardew-valley/id1406710800
 steam-link: https://store.steampowered.com/app/413150/Stardew_Valley/
 switch-link: https://www.nintendo.com/store/products/stardew-valley-switch/
 tags: farming simulation crafting rpg relaxing casual open-ended pixel agriculture 
-piracy: true
+paid: true
 ---
 
 > _"You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?" - <a href="https://store.steampowered.com/app/413150/Stardew_Valley/" target="_blank">Steam</a>_

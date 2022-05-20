@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.tinybuild.graveyard
 steam-link: https://store.steampowered.com/app/599140/Graveyard_Keeper/
 ios-link: https://apps.apple.com/us/app/graveyard-keeper/id1461238719
 tags: management survival rpg
-piracy: true
+paid: true
 ---
 
 > _"Build and manage a medieval graveyard while facing ethical dilemmas and making questionable decisions. Welcome to Graveyard Keeper, the most inaccurate medieval cemetery sim of the year." - <a href="https://store.steampowered.com/app/599140/Graveyard_Keeper/" target="_blank">Steam</a>_

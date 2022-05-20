@@ -108,7 +108,7 @@ So let's get straight to it. here it is. Search will definitely be implemented f
 <div class="row" id="apk-gallery">
     {% for post in site.posts %}
     {% if post.url contains '/apk' %}
-    <div class="col-sm-3 {% if post.piracy or post.nsfw %} paid {% else %} free {% endif %}" title="{{ post.title }}" style="{% if post.piracy or post.nsfw %} display:none; {% endif %}">
+    <div class="col-sm-3 {% if post.paid or post.nsfw %} paid {% else %} free {% endif %}" title="{{ post.title }}" style="{% if post.paid or post.nsfw %} display:none; {% endif %}">
         <div class="card">
             <div class="card-body">
                 <a href="{{site.baseurl}}{{post.url}}"><img class="card-img" src="/static/images{{ post.url }}-icon.webp" alt="{{ post.title }} icon"></a>

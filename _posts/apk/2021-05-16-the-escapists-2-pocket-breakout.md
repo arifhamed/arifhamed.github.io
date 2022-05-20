@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.team17.escapists2
 steam-link: https://store.steampowered.com/app/641990/The_Escapists_2/
 ios-link: https://apps.apple.com/us/app/escapists-2-pocket-breakout/id1356167732
 tags: strategy
-piracy: true
+paid: true
 ---
 
 > _"Craft, Steal, Brawl and Escape! It’s time to bust out of the toughest prisons in the world as you return to the life of an inmate in The Escapists 2, now with multiplayer! Have you got what it takes to escape?" - <a href="https://store.steampowered.com/app/641990/The_Escapists_2/" target="_blank">Steam</a>_

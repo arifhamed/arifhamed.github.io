@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.mangoprotocol.psych
 ios-link: https://apps.apple.com/us/app/agatha-knife/id1439443248
 steam-link: https://store.steampowered.com/app/618950/Agatha_Knife/
 tags: rpg
-piracy: true
+paid: true
 ---
 
 > _"Embark on this twisted adventure with Agatha, a child torn between her love for eating meat and her friendships with animals. Join her as she discovers religion and creates her own, Carnivorism, to convince the animals that the sacrifice of their flesh is the secret to their eternal happiness." - <a href="https://play.google.com/store/apps/details?id=com.mangoprotocol.psychotic.agatha" target="_blank">Play Store</a>_

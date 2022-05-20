@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.wb.goog.scribblenau
 steam-link: https://store.steampowered.com/app/218680/Scribblenauts_Unlimited/
 ios-link: https://apps.apple.com/us/app/scribblenauts-unlimited/id1030902626
 tags: 
-piracy: true
+paid: true
 ---
 
 > _"The award-winning, best-selling puzzle game franchise Scribblenauts is back!  Imagine Anything.  Explore Everything." - <a href="https://play.google.com/store/apps/details?id=com.wb.goog.scribblenauts3" target="_blank">Play Store</a>_

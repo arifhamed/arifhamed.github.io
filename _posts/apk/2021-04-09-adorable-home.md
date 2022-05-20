@@ -7,7 +7,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.hyperbeard.adorablehome
 ios-link: https://apps.apple.com/us/app/adorable-home/id1486637414
 tags: casual relaxing lgbtq 
-piracy: false
+paid: false
 ---
 
 > _"You and your partner have just moved to a new home in the suburbs with your furry companion, an adorable cat named Snow. What to do first? Let's clean up so you can start decorating!" - <a href="https://hyperbeard.com/game/adorable-home/" target="_blank">Hyperbeard Official Site</a>_

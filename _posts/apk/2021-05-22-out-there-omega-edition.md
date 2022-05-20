@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.miclos.google.games
 steam-link: https://store.steampowered.com/app/334420/Out_There__Edition/
 ios-link: https://apps.apple.com/us/app/out-there-%CF%89-edition/id799471892
 tags: exploration survival space rpg roguelite
-piracy: true
+paid: true
 ---
 
 > _"Out There is an award-winning space exploration game blending roguelike, resource management and interactive fiction." - <a href="https://store.steampowered.com/app/334420/Out_There__Edition/" target="_blank">Steam</a>_

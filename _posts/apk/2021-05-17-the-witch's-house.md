@@ -5,7 +5,7 @@ categories: apk
 permalink: /resources/apk/:title
 play-link: 
 tags: horror survival-horror pixelated adventure rpg rpg-maker 
-piracy: false
+paid: false
 ---
 
 > _A girl called Viola wakes up in the forest.<br>She follows the path to the inner area of the forest.<br>Deep in the wood, she finds "The Witch's House"...<br> - <a href="https://apps.qoo-app.com/en/app/13632" target="_blank">QooApp English</a>_

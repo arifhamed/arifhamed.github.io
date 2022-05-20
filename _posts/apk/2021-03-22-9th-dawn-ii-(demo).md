@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.valorware.ninthdawn
 steam-link: https://store.steampowered.com/app/279070/9th_Dawn_II/
 tags: rpg action adventure action-adventure open-world indie action-rpg
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
-piracy: false
+paid: false
 ---
 
 > _"A large scale fully openworld RPG full of fast-paced action, dungeon crawling, with single or multiplayer adventures! Fight plenty of ferocious monsters, collect masses of loot and take on ancient lost puzzles within the depths of Caspartia!" - <a href="https://store.steampowered.com/app/279070/9th_Dawn_II/" target="_blank">Steam</a>_

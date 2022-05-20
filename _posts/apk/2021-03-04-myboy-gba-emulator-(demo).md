@@ -7,7 +7,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.fastemulator.gbafree
 tags: emulator retro
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
-piracy: false
+paid: false
 ---
 
 > _"My Boy! is a super fast and full-featured emulator to run GameBoy Advance games on the broadest range of Android devices, from very low-end phones to modern tablets. It emulates nearly all aspects of the real hardware correctly." - <a href="https://play.google.com/store/apps/details?id=com.fastemulator.gbafree" target="_blank">Play Store</a>_

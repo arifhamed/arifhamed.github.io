@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.elladagames.niffelh
 ios-link: https://apps.apple.com/us/app/niffelheim/id1476445607
 steam-link: https://store.steampowered.com/app/351100/Niffelheim/
 tags: mythology co-op rpg crafting sandbox survival open-world
-piracy: true
+paid: true
 ---
 
 > _"Your avatar is a brave warrior who has fallen in battle. But instead of well-deserved peace in Asgard, his soul is trapped in the harsh world of Niffelheim. Survive in this hostile world, ransack the neighbor lands, explore dangerous dungeons and find your way to Valhalla" - <a href="https://play.google.com/store/apps/details?id=com.elladagames.niffelheim" target="_blank">Play Store</a>_

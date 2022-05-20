@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.scottgames.sisterlo
 steam-link: https://store.steampowered.com/app/506610/Five_Nights_at_Freddys_Sister_Location/
 ios-link: https://apps.apple.com/us/app/five-nights-at-freddys-sl/id1189781891
 tags: horror
-piracy: true
+paid: true
 ---
 
 > _"Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang! <br><br>Now hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment." - <a href="https://play.google.com/store/apps/details?id=com.scottgames.sisterlocation" target="_blank">Play Store</a>_

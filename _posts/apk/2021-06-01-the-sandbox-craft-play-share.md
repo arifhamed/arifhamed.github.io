@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.pixowl.thesandbox.a
 ios-link: https://apps.apple.com/us/app/the-sandbox-building-craft/id520777858
 tags: sandbox creative creation
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
-piracy: false
+paid: false
 ---
 
 > _"Play God & Create Worlds with Life or Destroy everything within a tap of your finger!" - <a href="https://play.google.com/store/apps/details?id=com.pixowl.thesandbox.android" target="_blank">Play Store</a>_

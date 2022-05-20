@@ -8,7 +8,7 @@ play-link: https://play.google.com/store/apps/details?id=com.oddworld.Stranger
 steam-link: https://store.steampowered.com/app/15750/Oddworld_Strangers_Wrath_HD/
 ios-link: https://apps.apple.com/us/app/oddworld-strangers-wrath/id923555295
 tags: first-person fps 3d open-world shooter oddworld
-piracy: true
+paid: true
 ---
 
 > _"In the dusty, undeveloped wastelands of Western Mudos, cantankerous townsfolk find their settlements besieged by belligerent outlaws. Along comes Stranger, a drifter turned bounty hunter, with a unique double-barreled critter-firing crossbow." - <a href="https://play.google.com/store/apps/details?id=com.oddworld.Stranger" target="_blank">Play Store</a>_

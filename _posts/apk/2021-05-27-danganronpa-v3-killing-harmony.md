@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=jp.co.spike_chunsoft.DR
 ios-link: https://apps.apple.com/us/app/danganronpa-v3-killing-harmon/id1559869073
 steam-link: https://store.steampowered.com/app/567640/Danganronpa_V3_Killing_Harmony/
 tags: mystery visual-novel detective anime horror
-piracy: true
+paid: true
 ---
 
 > _"A new cast of 16 characters find themselves kidnapped and imprisoned in a school. Inside, some will kill, some will die, and some will be punished. Reimagine what you thought high-stakes, fast-paced investigation was as you investigate twisted murder cases and condemn your new friends to death" - <a href="https://store.steampowered.com/app/567640/Danganronpa_V3_Killing_Harmony/" target="_blank">Steam</a>_

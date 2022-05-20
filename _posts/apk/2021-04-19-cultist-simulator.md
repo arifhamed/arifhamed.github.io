@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.playdigious.cultist
 steam-link: https://store.steampowered.com/app/718670/Cultist_Simulator/    
 ios-link: https://apps.apple.com/us/app/cultist-simulator/id1439886655
 tags: management
-piracy: true
+paid: true
 ---
 
 > _"Seize forbidden treasures. Summon alien gods. Feed on your disciples. Cultist Simulator is a game of apocalypse and yearning. Play as a seeker after unholy mysteries, in a 1920s-themed setting of hidden gods and secret histories." - <a href="https://store.steampowered.com/app/718670/Cultist_Simulator/" target="_blank">Steam</a>_

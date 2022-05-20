@@ -5,7 +5,7 @@ categories: apk
 excerpt_separator: <!--more-->
 permalink: /resources/apk/:title
 tags: microwave emulator morrowind
-piracy: false
+paid: false
 ---
 
 > _"The OpenMicroWave project is not affiliated with or endorsed by Bethesda Softworks. OpenMicroWave is an open-source recreation of the Morrowind game engine and contains no code or resources copyrighted by or belonging to Bethesda Softworks. To play the game, you need to copy a licensed installation of Morrowind from your PC." - <a href="https://omw.xyz.is/" target="_blank">OpenMicrowave Official Wife</a>_

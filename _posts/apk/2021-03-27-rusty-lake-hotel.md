@@ -9,7 +9,7 @@ ios-link: https://apps.apple.com/us/app/rusty-lake-hotel/id1059911569
 steam-link: https://store.steampowered.com/app/435120/Rusty_Lake_Hotel/
 itch-link: https://rustylake.itch.io/rustylakehotel
 tags: mystery horror gore puzzle box detective point-and-click
-piracy: true
+paid: true
 ---
 
 > _"Welcome our guests to the Rusty Lake Hotel and make sure they will have a pleasant stay. There will be 5 dinners this week. Make sure every dinner is worth dying for." - <a href="https://play.google.com/store/apps/details?id=air.com.RustyLake.RustyLakeHotel" target="_blank">Play Store</a>_

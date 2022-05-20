@@ -10,7 +10,7 @@ ios-link: https://apps.apple.com/us/app/kero-blaster/id867598817
 steam-link: https://store.steampowered.com/app/292500/Kero_Blaster/
 switch-link: https://www.nintendo.com/store/products/kero-blaster-switch/
 tags: scroller 2d shoot-em-up satire retro pixel platform action adventure rpg frog cat
-piracy: true
+paid: true
 ---
 
 > _"You play as a bipedal frog employed by the mysterious start-up company "Cat & Frog Inc.". Fend off enemies seeking to stop you and overcome the challenging landscape as you head toward your destination." - <a href="https://play.google.com/store/apps/details?id=jp.studiopixel.keroblaster" target="_blank">Play Store</a>_

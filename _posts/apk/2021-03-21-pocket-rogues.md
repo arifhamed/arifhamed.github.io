@@ -9,7 +9,7 @@ ios-link: https://apps.apple.com/us/app/pocket-rogues/id1330488406
 steam-link: https://store.steampowered.com/app/946610/Pocket_Rogues/
 tags: rpg roguelike action blood
 secret: document.getElementById('truth').setAttribute('style','text-decoration:none;background-color:#333;display:block;');
-piracy: false
+paid: false
 ---
 
 > _"For many centuries, a dark dungeon had been beckoning hapless travelers with its secrets and treasures. One after another, they disappeared after having met the true Evil, but gloomy legends only heat up new and new adventurers’ itches. So why not to become one of them?!" - <a href="https://play.google.com/store/apps/details?id=com.EtherGaming.PocketRogues" target="_blank">Play Store</a>_

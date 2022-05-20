@@ -10,7 +10,7 @@ ios-link: https://apps.apple.com/us/app/human-fall-flat/id1438091392
 steam-link: https://store.steampowered.com/app/477160/Human_Fall_Flat/
 switch-link: https://www.nintendo.com/store/products/human-fall-flat-switch/
 tags: funny physics exploration platform multiplayer parkour comedy puzzle 3d 
-piracy: true
+paid: true
 ---
 
 > _"Discover the funniest multiplayer physics puzzle platformer! In Human: Fall Flat you play as a wobbly human who keeps dreaming about surreal places filled with puzzles where he’s yet to find the exit. Exploration and creativity are key, as every option is welcome!" - <a href="https://505games.com/games/human-fall-flat/" target="_blank">505 Games</a>_

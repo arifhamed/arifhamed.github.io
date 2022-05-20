@@ -9,7 +9,7 @@ play-link: https://play.google.com/store/apps/details?id=com.mojang.minecraftpe
 ios-link: https://apps.apple.com/us/app/minecraft/id479516143
 switch-link: https://www.nintendo.com/store/products/minecraft-switch/
 tags: crafting action adventure exploration casual multiplayer singleplayer sandbox 3d survival indie
-piracy: true
+paid: true
 ---
 
 > _"Minecraft is a game about placing blocks and going on adventures. Explore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off the dangerous mobs." - <a href="https://www.minecraft.net/en-us" target="_blank">Nintendo site for Minecraft Switch</a>_

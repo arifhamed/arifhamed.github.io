@@ -7,7 +7,7 @@ play-link: https://play.google.com/store/apps/details?id=com.headupgames.bridgec
 steam-link: https://store.steampowered.com/app/684410/Bridge_Constructor_Portal/
 ios-link: https://apps.apple.com/us/app/bridge-constructor-portal/id1311353234
 tags: construction testing
-piracy: true
+paid: true
 ---
 
 > _"Enter the Aperture Science Enrichment Center and experience Bridge Constructor Portal – the unique merging of the classic Portal™ and Bridge Constructor™ games." - <a href="https://play.google.com/store/apps/details?id=com.headupgames.bridgeconstructorportal" target="_blank">Play Store</a>_

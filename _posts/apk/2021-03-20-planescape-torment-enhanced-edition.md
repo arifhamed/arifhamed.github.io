@@ -7,7 +7,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.beamdog.pstee
 steam-link: https://store.steampowered.com/app/466300/Planescape_Torment_Enhanced_Edition/
 tags: rpg
-piracy: true
+paid: true
 ---
 
 > _"What can change the nature of a man?" - <a href="https://planescape.com/" target="_blank">Planescape Official Website</a>_

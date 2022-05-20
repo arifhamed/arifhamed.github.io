@@ -6,7 +6,7 @@ permalink: /resources/apk/:title
 play-link: https://play.google.com/store/apps/details?id=com.skvgames.GalaxyGenome
 ios-link: https://apps.apple.com/us/app/galaxy-genome/id1566857517
 tags: sci-fi open-world simulator
-piracy: true
+paid: true
 ---
 
 > _"At the beginning of the game you are a pilot of a small ship. Financial struggle forces you to start transporting contraband. Certainly, it will lead to you being in trouble with the law someday. But at some point in your life you are forced to make a deal with the authorities of the system. And that is when your dangerous space adventure begins." - <a href="https://play.google.com/store/apps/details?id=com.skvgames.GalaxyGenome" target="_blank">Play Store</a>_
