@@ -10,7 +10,7 @@ this is where i do random stuff before publishing
 <br><br><br><br><br>
 Current test: testing apk_search.json, found [here](https://arifhamed.com/_pages/resources/apk_search.json)
 
-Hypothesis: The span element, identified as "update", will get updated with the text "Little Inferno".
+Hypothesis: The span element, identified as "update", will get updated with.. certain text.
 
 Good result tasks: Proceed to implement search in /resources/apk
 
