@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    
+    {% include icon.html %}
+    
+    {% include imports.html %}
+
+    {% seo %}
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    {% include header.html %}
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer" style="flex: 1;">
+	  
+      <section id="main_content" class="inner">
+
+        <div class="w-100" style="text-align:center;">
+          Date: {{ page.date | date: "%-d %B %Y" }}
+        </div>
+
+        <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+
+        <span class="disable-selection" id="truth" style="display:none;">{{ content }}</span>
+        
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    {% include footer.html %}
+
+  </body>
+</html>
