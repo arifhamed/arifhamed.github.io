@@ -2,7 +2,7 @@
 title: "Media Tips & Tricks"
 permalink: /guides/media-tips
 redirect_from:
- = /guides/media-tips/
+ - /guides/media-tips/
  - /guides/mediatips
  - /guides/mediatips/
  - /guides/media

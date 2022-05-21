@@ -3,7 +3,7 @@ title: "Webdev Tips"
 layout: default
 permalink: /guides/webdev-tips
 redirect_from:
- = /guides/webdev-tips/
+ - /guides/webdev-tips/
  - /guides/webdevtips
  - /guides/webdevtips/
  - /guides/webdev
@@ -54,8 +54,19 @@ The above is CSS you can put into your site.css that can apply to all pages (as 
 <hr>
 
 ### Place PDFs in website (with and without Bootstrap)
-&lt;will be updated soon(ish)&gt;
-still currently finding the best way as of <span class="timestamp">25 March 2022</span>
+As of <span class="timestamp">21 May 2022</span>, I was able to hold close to this method of uploading a .pdf file for display in a static website.
+
+#### Use Google Docs Viewer
+
+There are a few ways to put a .pdf file for display, just with HTML, but honestly, using Google's Document Viewer in embed is the best, as show below
+
+``` html
+<iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Farifhamed.com%2Fstatic%2Fpdf%2Fresume-2022-05-21.pdf" frameborder="no" style="position: relative; min-width: 100%; height: 800px; margin: 0 auto;"></iframe>
+```
+
+From where the `iframe` is, the .pdf will appear, displaying the first page. Notice how you **don't need to upload the file to your google docs**, you don't even need to have a Google account here (though more or less I would be suprised if you didn't have one or two). In this example, I uploaded my resume, which is a pdf, to a directory under my website. However, notice how link appears as in the `src` attribute's value. Where a `/` is, you may find a `%2F` instead. Just look up html escape codes to replace the symbols that cannot appear in a directory, like a slash or a colon, a few other things too. 
+
+Oh yeah, and as of this writing (look at timestamp above), height is hardcoded, which more or less is actually the hardest part of making the design behind a simple and ez pdf on a website display aesthetically functional and pleasing.
 
 <br>
 <br>

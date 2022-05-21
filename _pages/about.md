@@ -14,7 +14,7 @@ Currently taking **NYP**'s course for a <a href="https://www.nyp.edu.sg/schools/
 
 <!-- <embed src="/static/PDF/resume_internship_2.pdf" style="min-height:100vh;min-width:100%;"> -->
 
-<iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Farifhamed.com%2Fstatic%2FPDF%2Fresume-2022-05-21.pdf" frameborder="no" style="position: relative; min-width: 100%; height: 800px; margin: 0 auto;"></iframe>
+<iframe src="https://docs.google.com/viewer?embedded=true&url=http%3A%2F%2Farifhamed.com%2Fstatic%2Fpdf%2Fresume-2022-05-21.pdf" frameborder="no" style="position: relative; min-width: 100%; height: 800px; margin: 0 auto;"></iframe>
 
 
 For the rest:<br>
@@ -39,7 +39,7 @@ socials:<br>
 </div>
 
 {% include comments.html url=page.url %}
-
+<!-- 
 <br>
 <br>
 <br>
@@ -52,4 +52,4 @@ socials:<br>
 <br>
 <span id="list"></span>
 
-<span id="1"><sup>[1]</sup> as of <span class="date">2022-03-13</span></span>
+<span id="1"><sup>[1]</sup> as of <span class="date">2022-03-13</span></span> -->
