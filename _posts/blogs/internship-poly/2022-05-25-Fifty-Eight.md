@@ -11,6 +11,11 @@ published: false
 
 
 
+<!--
+
+<span class='disable-selection' ondblclick="this.innerHTML=''">&lt;<b>REDACTED</b>&gt;</span>
+
+-->
 {% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
