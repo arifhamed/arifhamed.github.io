@@ -3,6 +3,7 @@ title: "Poly Internship: Seventeen"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
+tags: 
 ---
 # Seventeenth day of internship
 

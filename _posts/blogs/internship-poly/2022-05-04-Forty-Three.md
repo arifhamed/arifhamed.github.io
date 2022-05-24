@@ -3,6 +3,7 @@ title: "Poly Internship: 43"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
+tags: 
 ---
 # 43rd day of internship, first bite of the last 3rd piece of the pie
 

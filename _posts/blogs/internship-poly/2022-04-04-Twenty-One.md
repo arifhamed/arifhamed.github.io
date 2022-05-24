@@ -3,6 +3,7 @@ title: "Poly Internship: Twenty One"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
+tags: 
 ---
 # Twenty-first day of internship
 

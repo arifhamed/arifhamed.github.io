@@ -3,6 +3,7 @@ title: "Poly Internship: 27"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
+tags: 
 ---
 # 27th day of internship
 
