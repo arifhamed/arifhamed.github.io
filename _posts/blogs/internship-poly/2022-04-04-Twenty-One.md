@@ -3,7 +3,7 @@ title: "Poly Internship: Twenty One"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: rpa death bob mess messing password change plesk pcp cp2 cp8 guidelines acme monaco backup report
 ---
 # Twenty-first day of internship
 

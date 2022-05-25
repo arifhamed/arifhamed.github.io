@@ -3,7 +3,7 @@ title: "Poly Internship: 25"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: benjamin kheng republic poly reflection seven treacherous
 ---
 # 25th day of internship
 
@@ -89,7 +89,7 @@ Next up in my itinerary of concerns is whether or not Good Friday is a valid hol
 ---
 ---
 
-<span class="timestamp">[16:50]</span> ...and submitted.. It always feels good to do that at the end of every week. My gosh this internship is like RP divided by 7 HAHA and damn, what an inside joke for singaporeans. I wonder if people in rp needs to write a reflection everyday even in internship. Oh lord, my meticulousness will kill me like that. Now I <span class="disable-selection" ondblclick="this.innerHTML='can finally buy that nice chicken cheese bread'">&lt;<b>REDACTED</b>&gt;</span>.
+<span class="timestamp">[16:50]</span> ...and submitted.. It always feels good to do that at the end of every week. My gosh this internship is like RP times by 5 HAHA and damn, what an inside joke for singaporeans. I wonder if people in rp needs to write a reflection everyday even in internship. Oh lord, my meticulousness will kill me like that. Now I <span class="disable-selection" ondblclick="this.innerHTML='can finally buy that nice chicken cheese bread'">&lt;<b>REDACTED</b>&gt;</span>.
 
 {% include comments.html url=page.url %}
 

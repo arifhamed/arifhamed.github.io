@@ -3,11 +3,11 @@ title: "Poly Internship: Twenty Two"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: stoning human easter lust relationships sunday
 ---
 # 22nd day of internship
 
-<span class="timestamp">[10:38]</span> As you see above there, i just decided to switch to numbers cuz the full style words from there one are just ridiculous.
+<span class="timestamp">[10:38]</span> As you see above there, i just decided to switch to numbers cuz the full style words from twenty one are just ridiculous.
 
 <span class="timestamp">[17:12]</span> So, i've been stoning and thinking, and i realised that after some time, doing this blog doesn't become second nature. idk, perhaps i'm just tired, from doing nothing. perhaps i might die early in life idk. i hope not though. 
 

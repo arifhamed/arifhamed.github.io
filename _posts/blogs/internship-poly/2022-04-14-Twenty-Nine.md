@@ -3,7 +3,7 @@ title: "Poly Internship: 29"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: depression despair suicide jump off suntec boulevard
 ---
 # 29th day of internship. Halfway done WOOHOOOO
 

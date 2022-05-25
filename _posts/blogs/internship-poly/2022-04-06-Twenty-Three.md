@@ -3,7 +3,7 @@ title: "Poly Internship: 23"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: sleep apk cctv ping dvr topplast top plasterceil plaster cmd powershell wlan it info
 ---
 # 23rd day of internship
 

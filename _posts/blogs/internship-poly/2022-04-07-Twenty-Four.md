@@ -3,7 +3,7 @@ title: "Poly Internship: Twenty Four"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: nothing
 ---
 # 24th day of internship
 
