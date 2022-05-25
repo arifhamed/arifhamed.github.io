@@ -17,11 +17,13 @@ secret: window.open("https://genderedintelligence.co.uk/panvisibilityday", "_sel
 huh, i'm already getting off topic from this internsh- this is a live blog, not an internship blog!
 
 Hmmmm, i may as well create one. I just remembered to add in tags too! I really gotta implement search to this ASAP.
+
 <!--
 
 <span class='disable-selection' ondblclick="this.innerHTML=''">&lt;<b>REDACTED</b>&gt;</span>
 
 -->
+
 {% include comments.html url=page.url %}
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">

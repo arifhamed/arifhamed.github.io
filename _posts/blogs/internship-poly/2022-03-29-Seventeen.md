@@ -3,7 +3,7 @@ title: "Poly Internship: Seventeen"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: dns a www google scatech
 ---
 # Seventeenth day of internship
 
