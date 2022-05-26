@@ -3,11 +3,11 @@ title: "Poly Internship: 48"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: poster report blackboard politemall ika dell xps lattitude big windows engineer external akmal akhmal akmahl email forwarding flexi excel sheets mail accounts ssd problem spoilt 
 ---
 # 48th day of internship
 
-<span class="timestamp">[10:58]</span> omt just simply starting on the poster and report is hard. It would've been much harder without the free references for the posters. They mentioned that examples of the report can be found in Blacboard, but i can't find it for the life of me.
+<span class="timestamp">[10:58]</span> omt just simply starting on the poster and report is hard. It would've been much harder without the free references for the posters. They mentioned that examples of the report can be found in Blackboard, but i can't find it for the life of me.
 
 <span class="timestamp">[12:18]</span> So someone from Dell visited the office, here to fix <span class='disable-selection' ondblclick="this.innerHTML='Ika'">&lt;<b>REDACTED</b>&gt;</span>'s Dell XPS 15.6" laptop. Big laptop. The requirement for me ensure that they do their job is that the laptop is able to make it through Windows login
 

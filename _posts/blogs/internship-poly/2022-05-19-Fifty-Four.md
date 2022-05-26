@@ -3,7 +3,7 @@ title: "Poly Internship: 54"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: aw damn crush fucking me in the heart right now stress freeze response
 ---
 # 54th day of internship
 

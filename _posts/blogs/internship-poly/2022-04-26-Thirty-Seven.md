@@ -3,7 +3,7 @@ title: "Poly Internship: 37"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: dell essentials tanjong pagar early etg export trading group soulja boy camel dubai turn up diary online dock docks 
 ---
 # 37th day of internship
 

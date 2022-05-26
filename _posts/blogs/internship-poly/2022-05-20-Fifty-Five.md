@@ -3,7 +3,7 @@ title: "Poly Internship: 55"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: thinkpad dock report poster presentation zoom covid
 ---
 # 55th day of internship
 

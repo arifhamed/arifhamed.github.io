@@ -3,7 +3,7 @@ title: "Poly Internship: 45"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: human being day of conquest
 ---
 # 45th day of internship
 

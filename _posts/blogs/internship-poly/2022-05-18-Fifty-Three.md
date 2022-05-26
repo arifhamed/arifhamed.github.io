@@ -3,7 +3,7 @@ title: "Poly Internship: 53"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: projector test record hong how corporation daniel teo associates alan kuik kuikie life sucks
 ---
 # 53rd day of internship
 

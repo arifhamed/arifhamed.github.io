@@ -3,7 +3,7 @@ title: "Poly Internship: 57"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: i am pansexual panvisibility visibility panromantic pan day awareness presentation home wfh work from home i need a new keyboard life blog internship penis asap tags
 secret: window.open("https://genderedintelligence.co.uk/panvisibilityday", "_self")
 ---
 # 57th day of internship, 2nd WFH

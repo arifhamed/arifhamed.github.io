@@ -3,7 +3,7 @@ title: "Poly Internship: 32"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: hikari automation systems high speed internet wfh horny
 ---
 # 32nd day of internship
 

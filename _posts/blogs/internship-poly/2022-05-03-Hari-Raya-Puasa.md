@@ -3,7 +3,7 @@ title: "Hari Raya Puasa"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: public holiday hari raya puasa 
 ---
 # Hari Raya Puasa
 

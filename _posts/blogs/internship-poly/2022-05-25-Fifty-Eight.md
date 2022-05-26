@@ -3,7 +3,7 @@ title: "Poly Internship: 58"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: wfh
+tags: wfh work from home presentation more time zoom journalling freedom of speech diminishing
 ---
 # 58th day of internship
 

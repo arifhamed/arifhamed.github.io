@@ -1,14 +1,13 @@
 ---
-title: "Poly Internship: "
+title: "Poly Internship: 59"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
-published: false
+tags: wfh work from home even when it hurts like hell i will praise you god 
 ---
-#  day of internship
+# 59th day of internship
 
-<span class="timestamp">[:]</span>
+<span class="timestamp">[11:37]</span> <sup><a href="#1">[1]</a></sup>
 
 
 <!--
@@ -20,4 +19,4 @@ published: false
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
 
-<span class="disable-selection" id="truth" style="display:block;"></span>
+<span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> even when it hurts like hell, i'll praise You</span>

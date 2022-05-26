@@ -3,7 +3,7 @@ title: "Poly Internship: 49"
 layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
-tags: 
+tags: chill chili report poster wheelchair turmoil psychological relate trusted individuals philosophical philosophy
 ---
 # 49th day of internship
 
