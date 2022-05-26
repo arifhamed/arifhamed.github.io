@@ -18,6 +18,6 @@ tags: arif 1000 600 laptop search rj-45 rj45 ethernet celeron processor
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> i live, in a blank dream. nothing but a nightmare. drowning in seperation. i'm gonna disappear, like spectre upon the winds of death<br><br>so much emotion, but i don't want to fight. i want to let my emotions go but i don't want to hurt myself or anybody. <br><br>i thought these feelings were a joke at the start of march, but it's all becoming to real. i just don't want to exist anymore. i can't live in this world and this world does not want me</span>

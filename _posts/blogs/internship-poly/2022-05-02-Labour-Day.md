@@ -11,6 +11,6 @@ Yet another public holiday, in which I am ever so grateful for. Interestingly, i
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:block;"></span>

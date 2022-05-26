@@ -15,6 +15,6 @@ tags: philosophy apk scouting google dns love
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> God's love won me again, and oh how I missed it! Yesterday during altar call, I saw everyone wanting for more. Matthew 7:7. On hindsight, I think I should've went too, but even on the gallery I saw people being with other people, and caring for them. As I looked, I realized that perhaps maybe this world isn't full of cold-hearted people after all, let alone this community. This is a community where I can truly be myself. i can feel His love. <br><br><sup id="2">[2]</sup> OH YES LORD!! Don't get me wrong, <span class="disable-selection" ondblclick="this.innerHTML='Elliot'">&lt;<b>REDACTED</b>&gt;</span>'s house and family are nice and all, but going home after hg is pain. The other houses are signifantly better to traverse home. Now, I get to see the entire cell group again AS ONE 🥳. </span>

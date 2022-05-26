@@ -13,6 +13,6 @@ published: false
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:block;"></span>

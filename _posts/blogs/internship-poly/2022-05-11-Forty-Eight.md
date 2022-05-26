@@ -51,6 +51,6 @@ I feel like IT in itself also has trends, like, haha, remember BitCoin? I think 
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;">chocolate sauce<br><br><sup id="1">[1]</sup> finally, my social anxiety lowers. it always happen, whenever i meet at least one new person with no other support there to help me. even if it was someone i knew i would not meet again ever, my every action i must take note to make myself look normal, every sound that existed in the office become deafening, my soul becomes frozen. <br><br>_sigh_, whatever, this happens a lot. I can only look like kind & confident person, but that holds no merit to my tiny scared soul inside of me.<br><br><sup id="2">[2]</sup> aw shit. Gotta commit tmr to complete the report first. Thank you Swan, a previous <span class='disable-selection' ondblclick="this.innerHTML='Infospace'">&lt;<b>REDACTED</b>&gt;</span> intern</span>

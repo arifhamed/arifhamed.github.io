@@ -100,6 +100,6 @@ It has occured to me that perhaps my reflection skills are also not optimal as o
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;">What an interesting day today. A Friday with no prayer meeting. This is likely due to sync with the Day of Conquest on Monday (2 May), or it could very much be related to the rest of the Church doing MIP doing.<br><br>i mean, yeah. Look, i want to write down these thoughts. I do not expect you to respond. All i ask is to have a listening ear.</span>

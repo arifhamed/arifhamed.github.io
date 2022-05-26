@@ -28,7 +28,7 @@
           Date: {{ page.date | date: "%-d %B %Y" }}
         </div>
 
-        <input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+        <input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
         <span class="disable-selection" id="truth" style="display:none;">{{ content }}</span>
         

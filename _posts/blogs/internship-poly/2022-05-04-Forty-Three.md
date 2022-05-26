@@ -41,6 +41,6 @@ very unrelated but fun fact: on instagram, after unsyncing your IG account and F
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> HG has been united, and everyone is coming to ONE HOUSE!! Also, isn't as far from home as 2 weeks ago. Love it, absolutely love it. Besides that, I really love to see my cell group at once again, even though i literally saw them 2 days ago for DOC lol. <br><br>Speaking about people, I think I could take this day if there are certain attributes that correlates with my ASD found in any of the relationships I have with these people. Perhaps I would be able to identify further stims that I have when with people. One stim that I notice that I have is stretching my thumb base, and moving my nose cartilage! Someday I should get a kaleidoscope, that would be a great birthday present actually.</span>

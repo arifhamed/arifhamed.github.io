@@ -15,6 +15,6 @@ Ironically, i'm quite awake this morning. I say it's ironic because stress will 
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> my heart just jumped over the thought of... someone. someone who, for some reason, i just have many feelings for. puberty is still hitting me with the mallet of hormones. This is most odd, because my concern over my internship deliverables should be taking priority. this is madness. oh jesus. i long for intimacy.<br><br><sup id="2">[2]</sup> death is what makes us alive</span>

@@ -4,9 +4,9 @@ layout: post-sequential
 permalink: /blogs/internship-poly/:year/:month/:day
 categories: internship-poly
 tags: i am pansexual panvisibility visibility panromantic pan day awareness presentation home wfh work from home i need a new keyboard life blog internship penis asap tags
-secret: window.open("https://genderedintelligence.co.uk/panvisibilityday", "_self")
+secret: window.open('https://genderedintelligence.co.uk/panvisibilityday', '_self')
 ---
-# 57th day of internship, 2nd WFH
+# 57th day of internship
 
 <span class="timestamp">[00:00]</span> <span class='disable-selection' ondblclick="this.innerHTML='Today is Pan Visibility Day, and almost no one within my circles are aware of what pansexuality is. After months of reflection, I finally identified myself as a pansexual person, and I want to let people know it, when the time comes.'">Today's a great day, and its not because my internship is ending, it is a totally different reason that I will not tell anyone <sup><a href="#1">[1]</a></sup></span>
 
@@ -26,6 +26,6 @@ Hmmmm, i may as well create one. I just remembered to add in tags too! I really 
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> double-click that text. also, click on the copyright sign in the footer<br><br><sup id="2">[2]</sup> BRUH i didn't hide the hidden text in the previous day AND SOMEONE TOLD ME THEY READ IT. BRUHHHH<br><br><sup id="3">[3]</sup> So I came out, more details at <sup><a href="#1">[1]</a></sup>, and no one caught it, except for one who liked it, but they retracted their like apparently, and one who asked me what flag was it lolll, welp. it's time i tell'em.</span>

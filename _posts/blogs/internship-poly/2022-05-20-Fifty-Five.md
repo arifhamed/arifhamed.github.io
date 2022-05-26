@@ -109,6 +109,6 @@ Thank you for reading.
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> I have been hit by an epiphany. I have meltdowns when things change drastically or if something isn't normal. That first day, all the way back from [7 March](https://arifhamed.com/blogs/internship-poly/2022/03/07), the reason why I was so sad is because it was a huge change. It was a change from something that I was comfortable with, to something I didn't look forward to. That was the first meltdown I ever had. I tried to mask when those kinds of emotions come, but the influx of emotions that day was overwhelming. It all makes sense<br><br>it all makes sense<br>it all makes sense<br>ever since i've been unmasking myself, everything seems to make sense now, everything about myself.<br><br>my life has never been better. thank you God.<br><br><sup id="2">[2]</sup> i bought this cool pin from the local "happy pin shop", for the 57th day of my internship.<br><br><sup id="3">[3]</sup> My mind keeps on stalling today. I have different processes in my mind and it tries to reign for power and land in my brain. This causes my initiative processes to step down, leaving me to look like i'm in another world<br><br>welp, now that I recognize that problem, time to finish my presentation slides.</span>

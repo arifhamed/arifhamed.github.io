@@ -85,6 +85,6 @@ Unit Used : 2.5
 
 {% include comments.html url=page.url %}
 
-<input id="password-input" type="password" class="text-secret" onkeyup="unlock()">
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
 <span class="disable-selection" id="truth" style="display:none;"><sup id="1">[1]</sup> I can't help but think that they should do this with every intern with ASD. Maybe once or twice in their entire internship. It's a way of dipping their toes into employment, really. <br><br><sup id="2">[2]</sup> Gosh, why do I worry so much? That really is part of ASD. Today's onsite work interrupts my routine, and its devastating. Ever since last week, everyday I have pondered over the actual implications if I ever end up in this kind of industry. Do I really want to do IT as a career? <br><br>my future is undetermined, so by His grace & mercy He has it.</span>
