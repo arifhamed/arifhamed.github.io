@@ -1,0 +1,46 @@
+---
+title: "ITP Polytechnic"
+permalink: /blogs/poly-internship
+layout: default
+redirect_from: 
+ - /blogs/poly-internship/
+ - /blogs/itp-poly
+ - /blogs/itp-poly/
+ - /poly-internship
+ - /poly-internship/
+ - /ITP-poly
+ - /itp-poly
+ - /ITP-poly/
+ - /itp-poly/
+ - /itp
+ - /itp/
+ - /internship
+ - /internship/
+---
+
+{% capture itp-poly-md %}
+{% include blogs-itp-poly-inc.md %}
+{% endcapture %}
+{{ itp-poly-md | markdownify }}
+
+<div class="container" id="itp-poly-days">
+    <div class="row row-cols-5">
+        {% for post in site.categories.poly-internship reversed %}
+            {% if post.title == "Good Friday" %}
+                <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">Good Friday</a>
+            {% elsif post.title == "NS Appointment" %}
+                <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">NS Appt.</a>
+            {% elsif post.title == "Labour Day" %}
+                <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">Labour Day</a>
+            {% elsif post.title == "Hari Raya Puasa" %}
+                <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">H.R. Puasa</a>
+            {% elsif post.title == "Vesak Day" %}
+                <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">Vesak Day</a>        
+            {% else %}
+                <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B" }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+</div>
+
+{% include comments.html url=page.url %}
