@@ -1,5 +1,5 @@
-# My Polytechnic Internship Odyssey
-For **almost all polytechnic students**, we all have to take internship for a variable amount of time in our **last semester**. This blog will be for me to track down what I did everyday and how it is everyday. 
+# my polytechnic internship odyssey
+for **almost all polytechnic students**, we all have to take internship for a variable amount of time in our **last semester**. This blog will be for me to track down what I did everyday and how it is everyday. 
 
 <span style="font-size:130%;">This blog is intended as **something I can pass down** to whoever is the **intern after me**, or at most, anyone in **_NYP: School of IT_**</span>, though all details will differ in experience for everyone. Could also apply to other students in IT or Engineering.
 

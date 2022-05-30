@@ -1,5 +1,5 @@
-# thou Poly Final-Year Project Odyssey
-For **almost all polytechnic students**, we all have to commit to a final-year project (aka FYPJ, or FYP) for a variable amount of time in our **last semester**. This blog will be for me to track down what I did everyday and how it is everyday. 
+# my polytechnic final-year project odyssey
+for **almost all polytechnic students**, we all have to commit to a final-year project (aka FYPJ, or FYP) for a variable amount of time in our **last semester**. This blog will be for me to track down what I did everyday and how it is everyday. 
 
 Here are some details about my fyp that I can share (publicly):
 * Time period (**applicable for Year 2022**):
