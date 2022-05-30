@@ -1,0 +1,23 @@
+---
+title: "Poly FYP: "
+layout: post-sequential
+permalink: /blogs/poly-finalyear/:year/:month/:day
+categories: poly-finalyear
+tags: 
+published: false
+---
+#  day of final year project
+
+<span class="timestamp">[:]</span>
+
+
+<!--
+
+<span class='disable-selection' ondblclick="this.innerHTML=''">&lt;<b>REDACTED</b>&gt;</span>
+
+-->
+{% include comments.html url=page.url %}
+
+<input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
+
+<span class="disable-selection" id="truth" style="display:none;"></span>

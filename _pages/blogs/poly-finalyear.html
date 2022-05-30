@@ -1,31 +1,31 @@
 ---
-title: "ITP Polytechnic"
-permalink: /blogs/poly-internship
+title: "FYP Polytechnic"
+permalink: /blogs/poly-finalyear
 layout: default
 redirect_from: 
- - /blogs/poly-internship/
- - /blogs/poly-itp
- - /blogs/poly-itp/
- - /poly-internship
- - /poly-internship/
- - /poly-ITP
- - /poly-itp
- - /poly-ITP/
- - /poly-itp/
- - /itp
- - /itp/
- - /internship
- - /internship/
+ - /blogs/poly-finalyear/
+ - /blogs/poly-fyp
+ - /blogs/poly-fyp/
+ - /poly-finalyear
+ - /poly-finalyear/
+ - /poly-FYP
+ - /poly-fyp
+ - /poly-FYP/
+ - /poly-fyp/
+ - /fyp
+ - /fyp/
+ - /finalyear
+ - /finalyear/
 ---
 
-{% capture poly-itp-md %}
-{% include blogs-poly-itp-inc.md %}
+{% capture poly-fyp-md %}
+{% include blogs-poly-fyp-inc.md %}
 {% endcapture %}
-{{ poly-itp-md | markdownify }}
+{{ poly-fyp-md | markdownify }}
 
-<div class="container" id="poly-itp-days">
+<div class="container" id="poly-fyp-days">
     <div class="row row-cols-5">
-        {% for post in site.categories.poly-internship reversed %}
+        {% for post in site.categories.poly-finalyear reversed %}
             {% if post.title == "Good Friday" %}
                 <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">Good Friday</a>
             {% elsif post.title == "NS Appointment" %}
