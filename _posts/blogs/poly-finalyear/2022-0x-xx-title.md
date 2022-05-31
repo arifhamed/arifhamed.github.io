@@ -14,6 +14,7 @@ published: false
 <!--
 
 <span class='disable-selection' ondblclick="this.innerHTML=''">&lt;<b>REDACTED</b>&gt;</span>
+<span class='disable-selection' ondblclick="this.innerHTML=''">****</span>
 
 -->
 {% include comments.html url=page.url %}
