@@ -1,0 +1,36 @@
+---
+title: "Sermon Notes"
+permalink: /blogs/sermon-notes
+layout: default
+redirect_from: 
+ - /blogs/sermon-notes/
+ - /sermon-notes
+ - /sermon-notes/
+ - /blogs/sermon
+ - /blogs/sermon/
+ - /sermon
+ - /sermon/
+ - /blogs/sermons
+ - /blogs/sermons/
+ - /sermons
+ - /sermons/
+---
+
+{% capture sermon-notes-md %}
+{% include blogs-sermon-notes-inc.md %}
+{% endcapture %}
+{{ sermon-notes-md | markdownify }}
+
+<div class="container" id="poly-fyp-days">
+    <div class="row row-cols-4">
+        {% for post in site.categories.sermon-notes reversed %}
+            <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">
+                {% if post.custom_label %}
+                    {{ post.custom_label}}
+                {% else %}
+                    {{ post.date | date: "%-d %B %y" }}
+                {% endif %}
+            </a>
+        {% endfor %}
+    </div>
+</div>
