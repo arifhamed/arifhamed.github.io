@@ -7,6 +7,7 @@ redirect_from:
 ---
 
 # thy to-do list
+* [YUYI] create a guides page instead of a dropdown in nav
 * [YUYI] figure out how to embed asciinema to [arifhamed.com](arifhamed.com)
 * [YUYI] create a new tool: turn characters to escape codes like <a href="https://mateam.net/html-escape-characters/" target="_blank">here</a>.
 * check if [this thing](\static\others\htmlescape.csv) works.
