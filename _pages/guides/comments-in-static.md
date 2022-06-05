@@ -1,7 +1,9 @@
 ---
 title: "Comments with Jekyll"
-permalink: /guides/comments
+permalink: /guides/comments-in-static
 redirect_from:
+ - /guides/comments-in-static/
+ - /guides/comments
  - /guides/comments/
  - /guides/comment
  - /guides/comment/

@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 43"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: report poster meta accounts instagram monthly acme monaco shirley penis

@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 57"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: i am pansexual panvisibility visibility panromantic pan day awareness presentation home wfh work from home i need a new keyboard life blog internship penis asap tags

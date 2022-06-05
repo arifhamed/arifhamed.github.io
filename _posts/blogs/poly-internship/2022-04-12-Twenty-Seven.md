@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 27"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: jae liew despair introspection suicide

@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 48"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: poster report blackboard politemall ika dell xps lattitude big windows engineer external akmal akhmal akmahl email forwarding flexi excel sheets mail accounts ssd problem spoilt 

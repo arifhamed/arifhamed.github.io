@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 34"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: arif 1000 600 laptop search rj-45 rj45 ethernet celeron processor

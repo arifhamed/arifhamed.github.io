@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 59"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: wfh work from home even when it hurts like hell i will praise you god

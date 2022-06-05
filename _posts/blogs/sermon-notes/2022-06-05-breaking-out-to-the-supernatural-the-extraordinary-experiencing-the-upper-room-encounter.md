@@ -1,11 +1,12 @@
 ---
 title: 'Sermon Notes: Breaking out to the Supernatural, the Extraordinary, experiencing the "Upper Room" Encounter'
 layout: post-sequential
+back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title
 categories: sermon-notes
 tags: breaking out upper room promise resurrection ascension
 ---
-# <span style="font-size:60%;">Breaking out to the Supernatural, the Extraordinary, experiencing the</span> "Upper Room" Encounter breaking-out-to-the-supernatural-the-extraordinary-experiencing-the-upper-room-encounter
+# <span style="font-size:60%;">Breaking out to the Supernatural, the Extraordinary, experiencing the</span> "Upper Room" Encounter
 
 ### <span class="timestamp">Acts 1:8, Acts 1:12-14</span>
 

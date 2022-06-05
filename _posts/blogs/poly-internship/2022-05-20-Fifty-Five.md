@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 55"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: thinkpad dock report poster presentation zoom covid

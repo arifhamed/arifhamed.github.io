@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 32"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: hikari automation systems high speed internet wfh horny

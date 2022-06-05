@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 23"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: sleep apk cctv ping dvr topplast top plasterceil plaster cmd powershell wlan it info

@@ -14,7 +14,7 @@ redirect_from:
 
 # ubuntu tips
 
-This is more, like, for me to reference to.
+This is more, like, for me to reference to. i learned some things **and i will forget them** after a while, so here it is.
 
 
 <br><br><br><hr>

@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 25"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: benjamin kheng republic poly reflection seven treacherous

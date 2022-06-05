@@ -1,17 +1,15 @@
 ---
 title: Respondus Lockdown Browser 
 layout: default
-permalink: /guides/respondus-lockdown-browser
+permalink: /guides/ldb-in-ubuntu
 redirect_from:
- - /guides/respondus-lockdown-browser/
- - /respondus-lockdown-browser
- - /respondus-lockdown-browser/
- - /ldb
- - /ldb/
- - /guides/ldb
- - /guides/ldb/
- - /respondus
- - /respondus/
+ - /guides/ldb-in-ubuntu/
+ - /guides/ldb-ubuntu
+ - /guides/ldb-ubuntu/
+ - /ldb-in-ubuntu
+ - /ldb-in-ubuntu/
+ - /ldb-ubuntu
+ - /ldb-ubuntu/
 ---
 
 # Respondus Lockdown Browser 

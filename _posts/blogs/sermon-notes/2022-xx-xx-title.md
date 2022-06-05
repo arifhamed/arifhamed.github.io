@@ -1,6 +1,7 @@
 ---
 title: "Sermon Notes: "
 layout: post-sequential
+back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title
 categories: sermon-notes
 tags: 

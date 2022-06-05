@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 29"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: depression despair suicide jump off suntec boulevard

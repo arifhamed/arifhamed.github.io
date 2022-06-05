@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 37"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: dell essentials tanjong pagar early etg export trading group soulja boy camel dubai turn up diary online dock docks 

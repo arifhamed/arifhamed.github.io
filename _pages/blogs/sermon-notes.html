@@ -21,9 +21,9 @@ redirect_from:
 {% endcapture %}
 {{ sermon-notes-md | markdownify }}
 
-<div class="container" id="poly-fyp-days">
+<div class="container" id="sermon-notes-days">
     <div class="row row-cols-4">
-        {% for post in site.categories.sermon-notes reversed %}
+        {% for post in site.categories.sermon-notes %}
             <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.custom_label %}
                     {{ post.custom_label}}

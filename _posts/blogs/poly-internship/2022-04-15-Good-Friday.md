@@ -1,6 +1,7 @@
 ---
 title: "Good Friday"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: public holiday good friday

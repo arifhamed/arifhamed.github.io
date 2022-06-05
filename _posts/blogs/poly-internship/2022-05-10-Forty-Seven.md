@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 47"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: terrible wake up agony philippines election digestive system voting booth outlook jerk crashing minutes inside turmoil eximdis zelia jae liew alan kuik kuikie

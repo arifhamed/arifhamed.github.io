@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 58"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: wfh work from home presentation more time zoom journalling freedom of speech diminishing

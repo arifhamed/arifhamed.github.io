@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: Twenty Two"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: stoning human easter lust relationships sunday

@@ -1,6 +1,7 @@
 ---
 title: "NS Appointment"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: ns appointment asd autism imh mental health institute

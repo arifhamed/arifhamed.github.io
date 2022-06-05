@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 54"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: aw damn crush fucking me in the heart right now stress freeze response

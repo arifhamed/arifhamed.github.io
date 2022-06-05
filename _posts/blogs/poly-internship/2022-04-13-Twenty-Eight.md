@@ -1,6 +1,7 @@
 ---
 title: "Poly Internship: 28"
 layout: post-sequential
+back: "../.."
 permalink: /blogs/poly-internship/:year/:month/:day
 categories: poly-internship
 tags: dell 2-in-1 hailstorm driver drivers licence
