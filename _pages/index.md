@@ -2,6 +2,7 @@
 title: "Arif Hamed"
 layout: default
 permalink: /
+funky: true
 ---
 
 <!-- <link rel="stylesheet" href="https://arifhamed.com/static/css/bootstrap.min.css">

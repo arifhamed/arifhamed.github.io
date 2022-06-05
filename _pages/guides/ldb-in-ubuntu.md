@@ -48,7 +48,7 @@ This is for Debian & Ubuntu, other distros, just figure out yourself. Just accep
 
 ### Step 4: Make some space for Windows
 
-Using GParted, resize your current local Linux, minusing off about 20GB or more for Windows. **Be sure to backup your data as there can be an error that will cause DATA LOSS or something like that**. After that, select the unallocated section and add new partition. Set it as NTFS, you can rename the label and partition whatever you want. 
+Using GParted, resize your current local Linux, minusing off about 20GB or more for Windows. **Be sure to backup your data as there can be an error that will cause DATA LOSS or something like that**. Actually, Gparted will easily show how much of that partition is occupied, and tbh i didn't even backup my data, because it still worked pretty well. However, make a single mistake, and all your data is gone. After that, select the unallocated section and add new partition. Set it as NTFS, you can rename the label and partition whatever you want. 
 
 ### Step 5: Restart and boot into the Windows media
 
