@@ -21,6 +21,13 @@ redirect_from:
 {% endcapture %}
 {{ sermon-notes-md | markdownify }}
 
+<style>
+    h1, h3 {
+        text-align: center;
+        align-content: center;
+    }
+</style>
+
 <div class="container" id="sermon-notes-days">
     <div class="row row-cols-4">
         {% for post in site.categories.sermon-notes %}
