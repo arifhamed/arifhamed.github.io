@@ -7,6 +7,13 @@ categories: sermon-notes
 tags: 
 published: false
 ---
+
+<style>
+    h1, h3{
+        text-align: center;
+    }
+</style>
+
 # <span style="font-size:60%;">subtitle</span> title
 
 ### <span class="timestamp"></span>
