@@ -9,14 +9,14 @@ published: false
 ---
 
 <style>
-    h1, h3{
+    h1#sn1, h4#sn4{
         text-align: center;
     }
 </style>
 
-# <span style="font-size:60%;">subtitle</span> title
+<h1 id="sn1"><span style="font-size:60%;">subtitle</span> title</h1>
 
-### <span class="timestamp"></span>
+<h4 id="sn4"><span class="timestamp"></span></h4>
 
 
 

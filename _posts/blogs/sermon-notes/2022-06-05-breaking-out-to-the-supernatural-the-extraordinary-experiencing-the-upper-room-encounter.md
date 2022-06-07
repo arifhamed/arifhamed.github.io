@@ -8,14 +8,14 @@ tags: breaking out upper room promise resurrection ascension
 ---
 
 <style>
-    h1, h3{
+    h1#sn1, h4#sn4{
         text-align: center;
     }
 </style>
 
-# <span style="font-size:60%;">Breaking out to the Supernatural, the Extraordinary, experiencing the</span> "Upper Room" Encounter
+<h1 id="sn1"><span style="font-size:60%;">Breaking out to the Supernatural, the Extraordinary, experiencing the</span> "Upper Room" Encounter</h1>
 
-### <span class="timestamp">Acts 1:8, Acts 1:12-14</span>
+<h4 id="sn4"><span class="timestamp">Acts 1:8, Acts 1:12-14</span></h4>
 
 A people redeemed from slavery to Satan and sin. A people set apart to live for Him. A people empowered to extend His rule on Earth by the power of the Holy Spirit. 
 
