@@ -27,12 +27,25 @@ While the resurrection and the ascension of Christ cannot be repeated, as well a
 
 Luke 24 and acts 1 & 2 shows you and me <span style="font-size:150%;">6 elements</span> involved in this "upper room" encounter.
 
-1. <span style="font-size:150%;">The Promise</span>. Empowerment of the Spirit to witness. [Luke 24: 49]
-1. <span style="font-size:150%;">The Place</span>. Upper Room as God's anointed place to wait upon His Spirit. [Acts 1:12, 13]
-1. <span style="font-size:150%;">The People</span>. The Church assembled in corporate prayer. [Acts 1:13, 14; Acts 2:2]
-1. <span style="font-size:150%;">The Practice</span>. United & Persistent prayer. [Acts 1:14; Acts 2:2]
-1. <span style="font-size:150%;">The Person</span>. Divine Presence of the Holy Spirit. [Acts 2:14]. The Holy Spirit is a comforter, a counsellor, a friend and is to be known intimately.
-1. <span style="font-size:150%;">The Push Forward</span>. To build and extend the church until Jesus returns. [Acts 1:8]
+1. <span style="font-size:150%;">The Promise</span> [Luke 24: 49]
+    * Empowerment of the Spirit to witness
+    * Expect → Pray → Happen
+1. <span style="font-size:150%;">The Place</span> [Acts 1:12, 13]
+    * Upper Room as God's anointed place to wait upon His Spirit
+    * Set aside Time, open heart & expectant heart
+1. <span style="font-size:150%;">The People</span> [Acts 1:13, 14; Acts 2:2] 
+    * The Church assembled in corporate prayer
+    * Church as family going in the same direction
+1. <span style="font-size:150%;">The Practice</span> [Acts 1:14; Acts 2:2]
+    * United & Persistent prayer 
+    * To be in unity, to be persistent, to be consistent
+1. <span style="font-size:150%;">The Person</span> [Acts 2:14]
+    * Divine Presence of the Holy Spirit
+    * The Holy Spirit is a comforter, a counsellor, a friend and is to be known intimately
+    * A friend, a Powerful Presence
+1. <span style="font-size:150%;">The Push Forward</span> [Acts 1:8]
+    * To build and extend the church until Jesus returns
+    * Going forward with the Holy Spriti Power in a single direction
 
 
 
@@ -44,4 +57,4 @@ Luke 24 and acts 1 & 2 shows you and me <span style="font-size:150%;">6 elements
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
-<span class="disable-selection" id="truth" style="display:none;"><br><span style="font-size:120%;">Sunday</span><br> today i noticed how much i was happy stimming, and it carried on througout praise & worship, still doing a bit now, and i'm still joyful, to be in this presence of God. Towards the end of praise & worship, God spoke through Ps. Foo, that He will forgive and bring healing when I forgive. There was truly one person that I really hated: myself. I needed to forgive myself for my past self, my past self that bottled everything up, my past self that hated myself for being/not being what others thought of me. But God said He will bring healing. Thank You God, for truly giving me a sign, for reminding me that the best healing exists through You, and You alone.<br><br><span style="font-size:120%;">Cell Group</span><br> </span>
+<span class="disable-selection" id="truth" style="display:noe;"><br><span style="font-size:120%;">Sunday</span><br> today i noticed how much i was happy stimming, and it carried on througout praise & worship, still doing a bit now, and i'm still joyful, to be in this presence of God. Towards the end of praise & worship, God spoke through Ps. Foo, that He will forgive and bring healing when I forgive. There was truly one person that I really hated: myself. I needed to forgive myself for my past self, my past self that bottled everything up, my past self that hated myself for being/not being what others thought of me. But God said He will bring healing. Thank You God, for truly giving me a sign, for reminding me that the best healing exists through You, and You alone.<br><br><span style="font-size:120%;">Cell Group</span><br>T'was a great time, instead of sharing point-to-point, we identified which of us ha</span>
