@@ -17,7 +17,7 @@ This was an idea that i had so that i don't have to keep on copying off from <a 
 ## STILL WIP
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.1.2/papaparse.js"></script>
-<script>function arrayToTable(a){var n=$("<table></table>");return $(a).each(function(a,e){var t=$("<tr></tr>");$(e).each(function(a,e){t.append($("<td><code>"+e+"</code></td>"))}),n.append(t)}),n}function refreshOutput(){var a=document.getElementById("input_raw").value;console.log(a)}$.ajax({type:"GET",url:"https://arifhamed.com/static/others/htmlescape.csv",success:function(a){$("#escape-table").append(arrayToTable(Papa.parse(a).data))}});</script>
+<script>function arrayToTable(a){var n=$("<table></table>");return $(a).each(function(a,e){var t=$("<tr></tr>");$(e).each(function(a,e){t.append($("<td><kbd>"+e+"</kbd></td>"))}),n.append(t)}),n}function refreshOutput(){var a=document.getElementById("input_raw").value;console.log(a)}$.ajax({type:"GET",url:"https://arifhamed.com/static/others/htmlescape.csv",success:function(a){$("#escape-table").append(arrayToTable(Papa.parse(a).data))}});</script>
 <script></script>
 
 ---
