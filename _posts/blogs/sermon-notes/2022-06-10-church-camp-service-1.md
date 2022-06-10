@@ -1,5 +1,5 @@
 ---
-title: "Sermon Notes: "
+title: "Sermon Notes: Church Camp Service 1"
 layout: post-sequential
 back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title
