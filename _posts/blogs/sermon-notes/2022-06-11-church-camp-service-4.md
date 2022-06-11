@@ -1,10 +1,10 @@
 ---
-title: "Sermon Notes: Church Camp Service 1"
+title: "Sermon Notes: Church Camp Service 4"
 layout: post-sequential
 back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title
 categories: sermon-notes
-tags: 
+tags: healing heal 
 ---
 
 <style>
@@ -13,16 +13,20 @@ tags:
     }
 </style>
 
-<h1 id="sn1"><span style="font-size:60%;">Breaking out </span> for Remembering</h1>
+<h1 id="sn1"><span style="font-size:60%;">Breaking out fervently seeks</span> &lt;&gt; healing</h1>
 
-<h4 id="sn4"><span class="timestamp"></span></h4>
+<h4 id="sn4"><span class="timestamp">Mark 5:26</span></h4>
 
-1. REMEMBER when you stood before the Lord
-    * Count the blessings of the Lord
-    * 
-2. REMEMBER when the Lord 
+Luke 8:45-48 (NKJV)
 
+physical healing<br>
+emotional healing<br>
+spiritual healing<br>
+- "shalom" = "go in peace" = "go and be restored to a proper relationship with God"
 
+The bleeding woman who touched Jesus' tassels received all of the healings above.
+
+Big surprise, Ps. Terry led healing in this service.
 
 <!--
 <span class='disable-selection' ondblclick="this.innerHTML=''">&lt;<b>REDACTED</b>&gt;</span>
