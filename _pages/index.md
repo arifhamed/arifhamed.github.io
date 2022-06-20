@@ -14,17 +14,15 @@ funky: true
 
 # arif hamed's guides, blogs & resources <br><span style="font-size:60%;">my casual digital abode</span>
 
-wanna see my resume? go to my [`about` page](https://arifhamed.com/about).
+wanna see my resume? go to my [`about` page](/about).
 
-here to look at some projects i did? go to my [`projects` page](https://arifhamed.com/projects).
+here to look at some projects i did? go to my [`projects` page](/projects).
 
-looking for some tips or guidance in certain IT topics? check out all my guides from the nav.
+looking for some tips or guidance in certain IT topics? check out all my [`guides`](/guides).
 
-got time to kill on your android phone? download some apks from my [`apk` resource page](https://arifhamed.com/resources/apk).
+got time to kill on your android phone? download some apks from my [`apk` resource page](/resources/apk).
 
-got an iphone instead? sponsor me a paid apple developer account cuz apple is an authoritarian company (still ethically better than nestle)
-
-<s>maybe you wanna stick to the current trend? play my own copy of [`wordle`](https://arifhamed.com/games/wordle).</s> i think it's out of trend by now
+got an iphone instead? too bad, i don't have one.
 
 think this homepage could be better? same. in fact, you can just leave comments almost anywhere in this website, you just need a github account.
 
