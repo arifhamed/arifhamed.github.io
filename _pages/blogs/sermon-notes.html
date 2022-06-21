@@ -22,13 +22,14 @@ redirect_from:
 {{ sermon-notes-md | markdownify }}
 
 <div class="container" id="sermon-notes-days">
-    <div class="row row-cols-4">
+    <div class="row row-cols-1">
         {% for post in site.categories.sermon-notes %}
             <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.custom_label %}
                     {{ post.custom_label}}
                 {% else %}
-                    {{ post.date | date: "%-d %B %y" }}
+                    <!-- {{ post.date | date: "%-d %B %y" }} -->
+                    {{ post.title }}
                 {% endif %}
             </a>
         {% endfor %}
