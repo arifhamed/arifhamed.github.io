@@ -8,10 +8,10 @@ redirect_from:
 
 # Guides & Tutorials
 
-A lot of guides that I saved into this website, and i have collated enough knowledge to put it from the navbar dropdown and into this page itself! So here it is.
+I have a lot of knowledge that i will almost definitely forget, in some time in the future, so I decided to save it all here. 
 
 <div class="container" id="poly-itp-days">
-    <div class="row row-cols-2">
+    <div class="row row-cols-1">
         <a class="col btn btn-outline-dark" href="/guides/markdown">markdown (jekyll)</a>
         <a class="col btn btn-outline-dark" href="/guides/git">git</a>
         <a class="col btn btn-outline-dark" href="/guides/github-cli">github cli</a>
@@ -25,3 +25,5 @@ A lot of guides that I saved into this website, and i have collated enough knowl
         <a class="col btn btn-outline-dark" href="/guides/bcache-ubuntu">bcache in ubuntu</a>
     </div>
 </div>
+
+<span style="font-size:70%;">disclaimer: in like maybe one or two decades in the future, the guides and tutorials saved here may be obsolete.</span>

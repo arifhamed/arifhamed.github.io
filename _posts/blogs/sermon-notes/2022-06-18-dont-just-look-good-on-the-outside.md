@@ -1,5 +1,5 @@
 ---
-title: "Sermon Notes: don't just look good on the outside"
+title: "Youth Service: don't just look good on the outside"
 layout: post-sequential
 back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title

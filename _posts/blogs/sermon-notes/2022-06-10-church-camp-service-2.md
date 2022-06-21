@@ -1,5 +1,5 @@
 ---
-title: "Sermon Notes: Church Camp Service 2"
+title: "Church Camp 2022: Breaking out to be useful"
 layout: post-sequential
 back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title

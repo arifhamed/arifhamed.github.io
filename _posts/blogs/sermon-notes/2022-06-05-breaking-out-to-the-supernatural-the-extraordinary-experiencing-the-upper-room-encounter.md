@@ -1,5 +1,5 @@
 ---
-title: 'Sermon Notes: Breaking out to the Supernatural, the Extraordinary, experiencing the "Upper Room" Encounter'
+title: 'Sunday Service: Breaking out to the Supernatural, the Extraordinary, experiencing the "Upper Room" Encounter'
 layout: post-sequential
 back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title

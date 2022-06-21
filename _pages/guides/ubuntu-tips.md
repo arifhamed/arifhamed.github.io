@@ -31,7 +31,7 @@ sudo tail -c+57 /sys/firmware/acpi/tables/MSDM
 ez
 
 Note that the output may look abit weird, like, there would be no newline after the license key text.<br>
-Also note that this may not work for custom built machines.
+Also note that this may not work for custom built machines (where Windows may not be pre-purchased with it)
 
 <br><br><br>
 
@@ -56,3 +56,29 @@ sudo apt install lm-sensors
 
 watch -n 1 sensors
 ```
+
+<br><br><br>
+
+---
+
+### Find display server protocol
+In all honesty, idk why or how became a thing, and so far, i have not found a scenario where this tip would help, but just in case, here it is:
+
+``` console
+arifhamed@arifhamed-ThinkPad-X250:~/Downloads$ loginctl
+SESSION  UID USER      SEAT  TTY
+     c2 1000 arifhamed seat0    
+
+1 sessions listed.
+arifhamed@arifhamed-ThinkPad-X250:~/Downloads$ loginctl show-session c2 -p Type
+Type=x11
+```
+
+Note that there are <a href="https://en.wikipedia.org/wiki/Windowing_system#Display_server_communications_protocols" target="_blank">6 known protocols</a>:
+1. X11
+1. Wayland
+1. Mir
+1. SurfaceFlinger
+1. Quarts Compositor
+1. Desktop Window Manager
+

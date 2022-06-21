@@ -1,5 +1,5 @@
 ---
-title: "Sermon Notes: Church Camp Service 3"
+title: "Church Camp 2022: Breaking out to heal"
 layout: post-sequential
 back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title
@@ -48,4 +48,4 @@ The Gift of Healings has come upon us. <span style="font-size:75%;">A long time 
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
-<span class="disable-selection" id="truth" style="display:block;"><br><span style="font-size:120%;">Sunday</span><br> <br><br><span style="font-size:120%;">Cell Group</span><br> </span>
+<span class="disable-selection" id="truth" style="display:none;"><br><span style="font-size:120%;">Sunday</span><br> <br><br><span style="font-size:120%;">Cell Group</span><br> </span>
