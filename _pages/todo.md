@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 # thy to-do list
-* [YUYI] create a guides page instead of a dropdown in nav
+* [YUYI] change make it so that the subtitle under the huge arifhamed.com header changes like the minecraft splash ([file](\static\others\splash.csv))
 * [YUYI] figure out how to embed asciinema to [arifhamed.com](arifhamed.com)
 * [YUYI] create a new tool: turn characters to escape codes like <a href="https://mateam.net/html-escape-characters/" target="_blank">here</a>.
 * check if [this thing](\static\others\htmlescape.csv) works.
@@ -17,7 +17,6 @@ redirect_from:
     * <s>bad north: jotunn edition</s>
     * <s>there is no game wrong dimensions</s>
     * <s>titan quest legendary edition</s>
-    * arif, pls do the damn report & poster first
     * human atlas
     * world of goo
     * death road to canada
