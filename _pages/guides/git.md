@@ -32,6 +32,17 @@ This can happen on any local repo that links to the same remote repo, but what i
 
 <hr>
 
+## git config
+Before we even begin anything at all, this step is essential to let the repository know that it is you who are changing it. tbh, idk why it doesn't require a password, because if someone knows your username and email, then they can just modify anything you have.
+``` console
+git config --global user.name "<your username>"
+git config --global user.email "<your email>"
+```
+
+Something that helps is using `gh auth login`, though more or less, the GitHub CLI is used for managing issues, branches, releases, release assets, and other GitHub-specific details. `git` here is also used for other repository types, like mercurial, and, um, other ones. Is mercurial counted as one anymore? eh, whatever.
+
+<hr>
+
 ## git clone 
 To start of, let's use a repository that you own. In this demo, I will be using an old repo, <a href="https://github.com/arifhamed/files-000" target="_blank">https://github.com/arifhamed/files-000</a>. Now, in your terminal, it's best to change your current working directory to one where files would move frequently, like Downloads or Documents.
 ``` console

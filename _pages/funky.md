@@ -10,4 +10,4 @@ redirect_from:
  - /nowitstimetogetfunky/
 ---
 
-<a href="#"><img src="/static/images/nowitstimetogetfunky.jpg" class="w-100"></a>
+<a href="/boo"><img src="/static/images/nowitstimetogetfunky.jpg" class="w-100"></a>

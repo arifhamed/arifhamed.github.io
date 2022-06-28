@@ -1,13 +1,22 @@
 ---
 title: h̸̢̼̋̀̿͑̓̐̎͂͌̏́͐̕͜͠é̷̢͇͖̇̇̌̊̇l̵̮͕̺͓͆̉͘l̶̢̡̳̘̜̼̹̆͑̾̈̓ǫ̸̢̢̛̗͙̟͍̭͖̗̯̭͇̠̎̊̄̋̒̈́̂͘
-layout: none
-permalink: /jumpscare
+layout: empty
+permalink: /nothingisworththerisknothingisworththerisknothingisworththerisknothingisworththerisknothingisworththerisknothingisworththerisknothingisworththerisk
 redirect_from:
+ - /jumpscare
  - /jumpscare/
  - /boo
  - /boo/
 ---
+<script>
+    document.getElementsByTagName("body")[0].requestFullscreen();
+</script>
 
-insert jumpscare here
+<img src="https://arifhamed.com/static/images/giraffe-town-final-boss.png" class="w-100">
 
-also add in that meta equiv refresh thingy smh
+<div style="display:none;">
+    <audio controls autoplay>
+        <source src="https://arifhamed.com/static/mp3/suicidemouse.avi-sped-up-400-trimmed.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</div>

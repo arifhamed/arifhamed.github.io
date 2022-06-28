@@ -16,6 +16,8 @@ redirect_from:
 
 This is more, like, for me to reference to. i learned some things **and i will forget them** after a while, so here it is.
 
+I also have some [preference commands](#preference-commands) that i can input when installing ubuntu (and it's derivatives) fresh
+
 
 <br><br><br>
 
@@ -82,3 +84,17 @@ Note that there are <a href="https://en.wikipedia.org/wiki/Windowing_system#Disp
 1. Quarts Compositor
 1. Desktop Window Manager
 
+
+<br><br><br>
+
+---
+
+### Preference commands
+
+the following are just **my** own commands that i run before taking a nap after fresh installing a new ubuntu installation. If you can't tell by the fact that i have this entire page about Ubuntu, i obviously have lesser love for the other distros (like Arch or especially CentOS).
+
+``` console
+sudo apt update; sudo apt upgrade -y; sudo apt install wine lm-sensors ffmpeg git asciinema adb apksigner qbittorrent hwinfo powertop fancontrol traceroute gparted tint quadrapassel gdebi gedit steam vlc obs-studio krita inkscape telegram-desktop -y; sudo snap install --classic sublime-text; sudo snap install --classic code; reboot
+
+sudo apt install apt-transport-https dirmngr -y; sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF; echo "deb https://download.mono-project.com/repo/ubuntu vs-bionic main" | sudo tee /etc/apt/sources.list.d/mono-official-vs.list; sudo apt update; sudo apt-get install monodevelop -y
+```
