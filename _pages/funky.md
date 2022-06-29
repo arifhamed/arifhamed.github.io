@@ -8,6 +8,11 @@ redirect_from:
  - /funky/
  - /nowitstimetogetfunky
  - /nowitstimetogetfunky/
+boo: true
 ---
 
-<a href="/boo"><img src="/static/images/nowitstimetogetfunky.jpg" class="w-100"></a>
+<img src="https://arifhamed.com/static/images/nowitstimetogetfunky.jpg" class="w-100" onclick="realfunky()" style="cursor:pointer;">
+
+
+
+

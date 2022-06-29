@@ -24,7 +24,7 @@ got time to kill on your android phone? download some apks from my [`apk` resour
 
 got an iphone instead? too bad, i don't have one.
 
-think this homepage could be better? same. in fact, you can just leave comments almost anywhere in this website, you just need a github account.
+think this homepage could be better? same. in fact, you can just leave comments almost anywhere in this website.
 
 <span id="time">i can't get the latest update to this website smh</span>
 
