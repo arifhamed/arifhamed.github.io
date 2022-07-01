@@ -37,6 +37,7 @@ Before we even begin anything at all, this step is essential to let the reposito
 ``` console
 git config --global user.name "<your username>"
 git config --global user.email "<your email>"
+git config --list
 ```
 
 Something that helps is using `gh auth login`, though more or less, the GitHub CLI is used for managing issues, branches, releases, release assets, and other GitHub-specific details. `git` here is also used for other repository types, like mercurial, and, um, other ones. Is mercurial counted as one anymore? eh, whatever.

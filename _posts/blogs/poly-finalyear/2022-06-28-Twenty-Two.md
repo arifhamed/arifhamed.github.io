@@ -10,7 +10,7 @@ tags:
 
 <span class="timestamp">[11:43]</span> made some [scary](/funky) changes to this website, and yes, there is indeed another redirect. Nothing really interesting happened recently, besides being able to get 10 people to test before the end of 26 June. Tomorrow me and my team are going to <span class='disable-selection' ondblclick="this.innerHTML='Pasir Ris Primary'">&lt;<b>REDACTED</b>&gt;</span> to conduct interviews with students and parents. I hope that it goes well
 
-[Unrelated] i've played <a href="https://store.steampowered.com/app/504230/Celeste/" target="_blank">Celeste</a> recently, and my gosh, i couldn't have related so much with the main character. In fact, that's something that everyone could relate too, except it would hit harder for those suffering with mental issues/illness such as depression, ADHD, OCD, **autism** (especially those without learning disabilities), etc. The story element for that game is not what i expected at all. I would definitely recommend it.
+[Unrelated] i've played <a href="https://store.steampowered.com/app/504230/Celeste/" target="_blank">Celeste</a> recently, and my gosh, i couldn't have related so much with the main character. In fact, that's something that everyone could relate too, except it would hit harder for those suffering with mental issues/illness such as _depression_, _ADHD_, _OCD_, _**autism**_ (especially those without learning disabilities), etc. The story element for that game is not what i expected at all. I would absolutely recommend it. Such a well-chiseled game, like it's meant for many types of gamers: story-driven, action-driven, speed-runners. I'm more of a story driven person myself. CHECK IT OUT!!! :D (as of this typing it's on sale right now)
 
 <!--
 
