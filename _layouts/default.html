@@ -11,29 +11,42 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% if page.boo %}
     <script>
+      // credits to Samer Khatib who made the abomination that is "Giraffe Town"
       function realfunky(){
+        // clear page and change background to black
         document.body.innerHTML = ''; 
         document.body.style.backgroundColor = "black";
+        // create an image element, and add all the styles needed for it
         var gtfb_img = document.createElement("img");
         gtfb_img.src = "https://arifhamed.com/static/images/giraffe-town-final-boss.png";
         gtfb_img.style.display = "block";
         gtfb_img.style.marginLeft = "auto";
         gtfb_img.style.marginRight = "auto";
+        gtfb_img.style.marginTop = "auto";
+        gtfb_img.style.marginBottom = "auto";
         gtfb_img.style.boxShadow = "none" ;
         gtfb_img.style.webkitBoxShadow = "none";
         gtfb_img.style.mozBoxShadow = "none";
         gtfb_img.style.oBoxShadow = "none";
         gtfb_img.style.border = "none";
         gtfb_img.style.width = "100%";
+        // put in audio element. it will play as long as the user clicked on the funky mouse
         document.body.innerHTML = '<audio id="suicidemouse" style="display:none;"><source src="https://arifhamed.com/static/mp3/suicidemouse.avi-sped-up-400-trimmed.mp3" type="audio/mpeg">Your browser does not support the audio element. </audio>'
         document.body.appendChild(gtfb_img);
+        // create immersion
         document.getElementsByTagName("body")[0].requestFullscreen();
+        // start the audio
         var audio = document.getElementById("suicidemouse");
         audio.play();
+        // the user gotta leave at some point, so give them an out for 10 seconds 
         const e = document.createElement("meta");
-        e.setAttribute("http-equiv", "refresh"), e.setAttribute("content", "15");
+        e.setAttribute("http-equiv", "refresh"), e.setAttribute("content", "10");
         document.getElementsByTagName("head")[0].appendChild(e)
+        // LOCK THEM UP!! MUAHHAHAHAHA!!!!
+        document.body.pointerEvents = "none";
+        document.onkeydown = function (e) {return false;};
       }
+      // gosh i have a lot of time
     </script>
     {% endif %}
 

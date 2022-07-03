@@ -87,6 +87,21 @@ Note that there are <a href="https://en.wikipedia.org/wiki/Windowing_system#Disp
 
 <br><br><br>
 
+### ESO in Linux (or just large programs on Proton/Wine)
+or just large Steam Games in general that are not built for Linux compatibility. For some reason, Proton or whatever will give you a very limited amount of storage for your Windows games to work with. This is an unfortunate case for _Elder Scrolls Online_, where it actually makes use of an external installer/launcher after downloading about 100GB of the game straight from Steam. After the initial download though, I don't think it actually downloads again, the installer/launcher is just there to apply updates when there is. To solve the limited storage space problem:
+
+1. Go to your **Steam library**
+1. **Right click** on the game that you want Wine to increase itself in size
+1. Choose **Properties**
+1. The second thing in the first page that you see should be "LAUNCH OPTIONS". In that text box, enter the following:
+     * `PROTON_SET_GAME_DRIVE=1 %command%`
+
+note that you actually need that total space in the start, minimum 128GB storage should be fine but i personally wouldn't recommend that. Also, it sure does work for me, though i may not guarantee that it'll work for everyone in different time periods (as would everything else here, really)
+
+Answer found <a href="https://www.reddit.com/r/linuxquestions/comments/n4dbiy/eso_on_proton_disk_space_issue_with_linux_pop_os/gwv9qbj/?utm_source=share&utm_medium=web2x&context=3" target="_blank">on Reddit</a>.
+
+<br><br><br>
+
 ---
 
 ### Preference commands
