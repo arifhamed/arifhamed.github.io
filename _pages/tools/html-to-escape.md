@@ -1,7 +1,7 @@
 ---
 title: HTML to Escape Code Sequence
 layout: default
-permalink: /resources/html-to-escape
+permalink: /tools/html-to-escape
 ---
 
 # HTML to Escape Code Sequence

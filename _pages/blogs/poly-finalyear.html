@@ -37,7 +37,11 @@ redirect_from:
             {% elsif post.title == "Vesak Day" %}
                 <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">Vesak Day</a>        
             {% else %}
-                <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B" }}</a>
+                {% if post.disabled %}
+                    <a class="col btn btn-outline-dark disabled" role="button" aria-disabled="true" href="#">{{ post.date | date: "%-d %B" }}</a>
+                {% else %}
+                    <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.date | date: "%-d %B" }}</a>
+                {% endif %}
             {% endif %}
         {% endfor %}
     </div>

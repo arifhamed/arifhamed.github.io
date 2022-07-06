@@ -24,7 +24,7 @@ For all reviews and my current judgements, I decided to make things simpler for 
 <br>
 <br>
 <br>
-External storage wise... I do not see a reason why I should disclose (only because I cannot bother too), at least 2TB.
+External storage wise... I do not see a reason why I should disclose (only because I cannot bother too), at least 8TB.
 
 
 

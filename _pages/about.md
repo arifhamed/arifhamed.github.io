@@ -8,16 +8,12 @@ permalink: /about
 A youth developer that currently<sup><a href="#1">[1]</a></sup> focuses on **full-stack** and on **mobile application development**.<br>
 Currently taking **NYP**'s course for a <a href="https://www.nyp.edu.sg/schools/sit/full-time-courses/information-technology.html" target="_blank">Diploma of Information Technology</a>, interested in Computer Science, and aiming for **Mobile App Development**, **RPA** and/or **A.I. R&D** as a career.<br>I'm best optimized for software
 
-### For employers:<br>
-<!-- GOOGLE DRIVE -->
-<!-- <iframe src="https://drive.google.com/file/d/1RRsTkrYlV3bz_OphYOpSgIBUOGze5P5N/preview" style="width:100%; height:100vh;" frameborder="0"></iframe><br> -->
-
-<!-- <embed src="/static/PDF/resume_internship_2.pdf" style="min-height:100vh;min-width:100%;"> -->
-
+### For employers:
+<a href="https://docs.google.com/viewer?embedded=true&url=https%3A%2F%2Farifhamed.com%2Fstatic%2Fpdf%2Fresume-2022-05-21.pdf" target="_blank" style="font-size:70%;">_Click here if the document doesn't appear below_</a><br>
 <iframe src="https://docs.google.com/viewer?embedded=true&url=https%3A%2F%2Farifhamed.com%2Fstatic%2Fpdf%2Fresume-2022-05-21.pdf" frameborder="no" style="position: relative; min-width: 100%; height: 800px; margin: 0 auto;"></iframe>
 
 
-For the rest:<br>
+For everyone else:<br>
 i basically do different things in this website i think is fun.
 
 socials:<br>
