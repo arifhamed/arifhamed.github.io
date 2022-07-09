@@ -68,6 +68,6 @@ Choosing between Linux & Windows should be easy if you know how to easily access
 
 ### Epilogue
 
-You know, there was a time where gestures on precision touchpads were not detected, until some narc bragged about to our applications security teacher one day. now i can't cheat anymore :(
+You know, there was a time where gestures on precision touchpads were not detected, until some narc bragged about to our applications security teacher one day. now i can't cheat no more :(
 
 No one likes Lockdown Browser.

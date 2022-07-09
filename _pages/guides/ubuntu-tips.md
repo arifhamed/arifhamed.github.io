@@ -27,7 +27,7 @@ I also have some [preference commands](#preference-commands) that i can input wh
 Sometimes you need to get the license key for whatever reason, just go to terminal and enter in the following, followed by your user password:
 
 ``` bash
-arifhamed@ahkubuntu:~$ sudo tail -c+57 /sys/firmware/acpi/tables/MSDM
+sudo tail -c+57 /sys/firmware/acpi/tables/MSDM
 ```
 
 ez
@@ -43,7 +43,7 @@ Also note that this may not work for custom built machines (where Windows may no
 I find this useful when you need to get the laptop's serial number and you're just to lazy to flip it around. Once again, go to terminal and enter in the following, followed by your user password:
 
 ``` bash
-arifhamed@ahkubuntu:~$ sudo dmidecode -t system | grep Serial
+sudo dmidecode -t system | grep Serial
 ```
 
 <br><br><br>
@@ -54,9 +54,9 @@ arifhamed@ahkubuntu:~$ sudo dmidecode -t system | grep Serial
 This is a way to keep a tab on how hot your laptop would be. You would need to install the `lm-sensors` package through `apt` before running the `watch` command
 
 ``` bash
-arifhamed@ahkubuntu:~$ sudo apt install lm-sensors
+sudo apt install lm-sensors
 
-arifhamed@ahkubuntu:~$ watch -n 1 sensors
+watch -n 1 sensors
 ```
 
 <br><br><br>
@@ -67,12 +67,12 @@ arifhamed@ahkubuntu:~$ watch -n 1 sensors
 In all honesty, idk why or how became a thing, and so far, i have not found a scenario where this tip would help, but just in case, here it is:
 
 ``` bash
-arifhamed@ahkubuntu:~$ loginctl
+loginctl
 SESSION  UID USER      SEAT  TTY
      c2 1000 arifhamed seat0    
 
 1 sessions listed.
-arifhamed@ahkubuntu:~$ loginctl show-session c2 -p Type
+loginctl show-session c2 -p Type
 Type=x11
 ```
 
@@ -109,7 +109,7 @@ Answer found <a href="https://www.reddit.com/r/linuxquestions/comments/n4dbiy/es
 I noticed that sometimes i get locked folders whenever i do some meta stuff that involves ubuntu. 
 
 ``` bash
-arifhamed@ahkubuntu:~$ sudo chown -R $USER: $HOME
+sudo chown -R $USER: $HOME
 ```
 
 `$USER` refers to the current user, which is you. <br>`$HOME` refers to the current user's home directory. Just entering `$HOME` itself, bash will return "Is a directory".
@@ -117,7 +117,7 @@ arifhamed@ahkubuntu:~$ sudo chown -R $USER: $HOME
 Just to put it here, say for example, my _APKs_ folder in my removable storage is locked for whatever reason. I just replaced `$HOME` with the exact location of the folder.
 
 ``` bash
-arifhamed@ahkubuntu:~$ sudo chown -R $USER: /media/arifhamed/080D1CF03C033DFF/APKs
+sudo chown -R $USER: /media/arifhamed/080D1CF03C033DFF/APKs
 ```
 
 <br><br><br>

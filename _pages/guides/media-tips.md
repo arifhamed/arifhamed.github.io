@@ -29,6 +29,8 @@ Say for example, I want to convert a lot of .WEBP that I downloaded from the int
 magick mogrify -format gif *.webp
 ```
 
+for Linux, change the `magick mogrify` to `convert` if you installed `imagemagick` via `apt`.
+
 ---
 
 ### Downloading n blob video using FFMPEG

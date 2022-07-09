@@ -34,12 +34,9 @@ This guide is really just for me to refer to if i'm in and out of debugging andr
 ## devices
 The command `adb devices` is used to check what devices are connected to the computer.
 ``` console
-C:\WINDOWS\system32>adb devices
+adb devices
 List of devices attached
 4200440cd42745ad        device
-
-
-C:\WINDOWS\system32>
 ```
 Over here, there are 1 device is connected via USB. 
 
@@ -50,10 +47,8 @@ Over here, there are 1 device is connected via USB.
 ## tcpip
 The command `adb tcpip` is used set the target device to listen for a TCP/IP connection on a port, usually 5555.
 ``` console
-C:\WINDOWS\system32>adb tcpip 5555
+adb tcpip 5555
 restarting in TCP mode port: 5555
-
-C:\WINDOWS\system32>
 ```
 This is used to prepare for the next command
 
@@ -62,20 +57,15 @@ This is used to prepare for the next command
 ## connect
 The command `adb connect` is used to connect to a device that has not been connected yet. This is usually used to connect a device wirelessly that is connected to the same WiFi network.
 ``` console
-C:\WINDOWS\system32>adb connect 192.168.50.154:5555
+adb connect 192.168.50.154:5555
 connected to 192.168.50.154:5555
-
-C:\WINDOWS\system32>
 ```
 Now you can use `adb devices` to check if the device is connected
 ``` console
-C:\WINDOWS\system32>adb devices
+adb devices
 List of devices attached
 4200440cd42745ad        device
 192.168.50.154:5555     device
-
-
-C:\WINDOWS\system32>
 ```
 Now adb is connected to multiple devices. Most commands here will return this error: `adb: error: failed to get feature set: more than one device/emulator`. In order to solve this error, look at <a href="#-s">-s</a>
 
@@ -101,18 +91,14 @@ adb install -r -t base.apk
 ## shell
 There are many uses to `adb shell`, but i've used `adb shell` to primarily identify locations of files by using `adb shell pm path`.
 ``` console My own app
-C:\Users\morph\Downloads>adb shell pm path com.arifhamed.albus
+adb shell pm path com.arifhamed.albus
 package:/data/app/~~Csp-EsZddaHFDHOLpuzSiw==/com.arifhamed.albus-nwluTCiu_4zV2HznTGtlFQ==/base.apk
-
-C:\Users\morph\Downloads>
 ```
 ``` console RAR app
-C:\Users\morph\Downloads>adb shell pm path "com.rarlab.rar"
+adb shell pm path "com.rarlab.rar"
 package:/data/app/~~Q_2vPHIW_fget0QXGx4WLA==/com.rarlab.rar-vyLBQeS4znyP8jiS0AvGmQ==/base.apk
 package:/data/app/~~Q_2vPHIW_fget0QXGx4WLA==/com.rarlab.rar-vyLBQeS4znyP8jiS0AvGmQ==/split_config.arm64_v8a.apk
 package:/data/app/~~Q_2vPHIW_fget0QXGx4WLA==/com.rarlab.rar-vyLBQeS4znyP8jiS0AvGmQ==/split_config.xhdpi.apk
-
-C:\Users\morph\Downloads>
 ```
 Here, I have used the name of an application package to find the exact location of the base APK. Note that installed APKs are never easily found in most file managers, hence explains the very mutated naming conventions.
 
@@ -124,17 +110,13 @@ Besides the base.apk, there are other APKs or files that could be present. This 
 
 This command is used to simply copy from your android device to your computer.
 ``` console
-C:\Users\morph\Downloads>adb pull /data/app/~~Csp-EsZddaHFDHOLpuzSiw==/com.arifhamed.albus-nwluTCiu_4zV2HznTGtlFQ==/base.apk
+adb pull /data/app/~~Csp-EsZddaHFDHOLpuzSiw==/com.arifhamed.albus-nwluTCiu_4zV2HznTGtlFQ==/base.apk
 /data/app/~~Csp-EsZddaHFDHOLpuzSiw==/com.arifhamed.albus-nwlu... 1 file pulled, 0 skipped. 3.3 MB/s (5269281 bytes in 1.501s)
-
-C:\Users\morph\Downloads>
 ```
 As show above, adb will actually show progress if the APK or OBB is large, and it willl save the file to the current working directory. For getting files that are accessible via the built-in file manager, just mention `sdcard` instead.
 ``` console
-C:\Users\morph\Downloads>adb pull /sdcard/Download/my-eyes.gif
+adb pull /sdcard/Download/my-eyes.gif
 /sdcard/Download/my-eyes.gif: 1 file pulled, 0 skipped. 8.3 MB/s (870969 bytes in 0.100s)
-
-C:\Users\morph\Downloads>
 ```
 `sdcard` actually refers to Internal Storage
 
@@ -144,10 +126,8 @@ C:\Users\morph\Downloads>
 
 The command `adb push` is basically the opposite of `adb pull`, copying a file from the computer to the device. 
 ``` console
-C:\Users\morph\Downloads>adb push maxresdefault.jpg /sdcard/Download/
+adb push maxresdefault.jpg /sdcard/Download/
 maxresdefault.jpg: 1 file pushed, 0 skipped. 10.2 MB/s (124332 bytes in 0.012s)
-
-C:\Users\morph\Downloads>
 ```
 In `adb push`, it is essential to state the end location for the file that will be pushed to.
 
@@ -157,11 +137,9 @@ In `adb push`, it is essential to state the end location for the file that will 
 This option is essential when there are multiple devices connected to the computer. A simple example is as follows:
 
 ``` console
-C:\Users\morph\Downloads>adb -s 4200440cd42745ad install com.rarlab.rar_6.10.build104.apk
+adb -s 4200440cd42745ad install com.rarlab.rar_6.10.build104.apk
 Performing Streamed Install
 Success
-
-C:\Users\morph\Downloads>
 ```
 Right after `adb` and before `<any command>`, you must state which device to do the action. For example, doing `shell` like shown above in this page will be like this: `adb -s 192.168.50.154:5555 shell pm path com.rarlab.rar`. Note that it is no different for wirelessly connected devices as well.
 
