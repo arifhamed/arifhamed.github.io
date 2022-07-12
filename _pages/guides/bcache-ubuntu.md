@@ -14,7 +14,7 @@ redirect_from:
 
 # Installing Ubuntu 20.04 and earlier with **bcache** support
 
-This guide is copied from <a href="" target="_blank"></a>.
+This guide is copied from <a href="https://kloppenborg.net/blog/installing-ubuntu-20-04-with-bcache/" target="_blank">_Kloppenborg's blog_</a> (and i can't believe they missed out the chance to call it the _Kloppenblog_).
 
 ## Overview
 
@@ -53,17 +53,17 @@ Don’t worry about doing a deep format of the caching and backing partitions as
 First, connect to the Internet. Make sure the connection is working. Next open up a terminal and wipe the cache and backing partition file systems:
 
 ```
-sudo wipefs -a /dev/sda2
-sudo wipefs -a /dev/sdb3
+~$ sudo wipefs -a /dev/sda2
+~$ sudo wipefs -a /dev/sdb3
 ```
 
 Next we will install `bcache-tools` and create the `bcache` device.
 
 ```
-sudo apt-get update
-sudo apt-get install bcache-tools
-sudo make-bcache -B /dev/sdb3 -C /dev/sda2
-sudo mkfs.ext4 /dev/bcache0
+~$ sudo apt-get update
+~$ sudo apt-get install bcache-tools
+~$ sudo make-bcache -B /dev/sdb3 -C /dev/sda2
+~$ sudo mkfs.ext4 /dev/bcache0
 ```
 
 Notice the command to `make-bcache` used the HDD partition, `/dev/sdb3`, as the backing (`-B`) device and the SDD partition, `/dev/sda2`, as the cache (`-C`) device.
@@ -90,31 +90,31 @@ Here is where things get tricky. What we’re going to do is switch to the new o
 First we are going to create a valid `chroot` environment. We start by mounting several directories from the new installation into specific sub-directories in order to create the directory structure Ubuntu Linux expects:
 
 ```
-sudo mount /dev/bcache0 /mnt
-sudo mount /dev/sda1 /mnt/boot
-sudo mount --bind /dev /mnt/dev
-sudo mount --bind /proc /mnt/proc
-sudo mount --bind /sys /mnt/sys
+~$ sudo mount /dev/bcache0 /mnt
+~$ sudo mount /dev/sda1 /mnt/boot
+~$ sudo mount --bind /dev /mnt/dev
+~$ sudo mount --bind /proc /mnt/proc
+~$ sudo mount --bind /sys /mnt/sys
 ```
 
 Because we will need Internet access, we need to copy the DNS configuration from the live CD into the `chroot` environment:
 
 ```
-sudo mv /mnt/etc/resolv.conf /mnt/etc/resolv.conf.backup
-sudo cp /etc/resolv.conf /mnt/etc/resolv.conf
+~$ sudo mv /mnt/etc/resolv.conf /mnt/etc/resolv.conf.backup
+~$ sudo cp /etc/resolv.conf /mnt/etc/resolv.conf
 ```
 
 Next we put ourselves into the `chroot`:
 
 ```
-sudo chroot /mnt
+~$ sudo chroot /mnt
 ```
 
 Now we are effectively within the new installation’s file system. So all we need to do is install `bcache-tools`
 
 ```
-sudo apt-get update
-sudo apt-get install bcache-tools
+~$ sudo apt-get update
+~$ sudo apt-get install bcache-tools
 ```
 
 <span style="font-size:120%">_Arif_: I had some problems with this. I entered in the following: `mount devpts /dev/pts -t devpts` . Somehow, it worked? idk if it would for everyone </span>
@@ -124,14 +124,14 @@ After the package is installed, you should notice that the `initramfs` is re-gen
 Now we clean up. Exit the `chroot`, restore the old `resolv.conf` file, cleanly dismount the file system, and reboot:
 
 ```
-exit
-sudo mv /mnt/etc/resolv.conf.backup /mnt/etc/resolv.conf
-sudo umount /mnt/sys
-sudo umount /mnt/proc
-sudo umount /mnt/dev
-sudo umount /mnt/boot
-sudo umount /mnt
-sudo reboot
+~$ exit
+~$ sudo mv /mnt/etc/resolv.conf.backup /mnt/etc/resolv.conf
+~$ sudo umount /mnt/sys
+~$ sudo umount /mnt/proc
+~$ sudo umount /mnt/dev
+~$ sudo umount /mnt/boot
+~$ sudo umount /mnt
+~$ sudo reboot
 ```
 
 <span style="font-size:120%">_Arif_: I couldn't umount `/mnt/dev`, but honestly just `sudo reboot` doesn't break everything. I think `/mnt/dev` is the only one that can go past.</span>

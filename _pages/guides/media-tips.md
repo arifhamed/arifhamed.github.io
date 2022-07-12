@@ -25,8 +25,8 @@ ImageMagick is a ImageMagick is a free and open-source cross-platform software s
 
 Say for example, I want to convert a lot of .WEBP that I downloaded from the internet, but as it seems, its actually gifs. Through the command prompt, I can use ImageMagick to create new .gif from reading the .webp, basically making a duplicate to your liking. The code is as showed below: 
 
-``` console
-magick mogrify -format gif *.webp
+``` bash
+~$ magick mogrify -format gif *.webp
 ```
 
 for Linux, change the `magick mogrify` to `convert` if you installed `imagemagick` via `apt`.

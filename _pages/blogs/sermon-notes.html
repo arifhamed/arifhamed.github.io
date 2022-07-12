@@ -24,12 +24,11 @@ redirect_from:
 <div class="container" id="sermon-notes-days">
     <div class="row row-cols-1">
         {% for post in site.categories.sermon-notes %}
-            <a class="col btn btn-outline-dark" href="{{ site.baseurl }}{{ post.url }}">
+            <a class="col btn btn-outline-dark" style="text-align: left;" href="{{ site.baseurl }}{{ post.url }}">
                 {% if post.custom_label %}
                     {{ post.custom_label}}
                 {% else %}
-                    <!-- {{ post.date | date: "%-d %B %y" }} -->
-                    {{ post.title }}
+                    <span class="timestamp">{{ post.date | date: "%-d %B %y" }}</span> {{ post.title }}
                 {% endif %}
             </a>
         {% endfor %}

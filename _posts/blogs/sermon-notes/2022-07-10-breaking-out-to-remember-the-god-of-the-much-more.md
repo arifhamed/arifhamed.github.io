@@ -1,5 +1,5 @@
 ---
-title: "Sunday Service: Breaking Out to Remember th God of the 'Much More'"
+title: "Sunday Service: Breaking Out to Remember the God of the 'Much More'"
 layout: post-sequential
 back: "../../.."
 permalink: /blogs/sermon-notes/:year/:month/:day/:title

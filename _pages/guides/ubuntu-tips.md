@@ -27,7 +27,7 @@ I also have some [preference commands](#preference-commands) that i can input wh
 Sometimes you need to get the license key for whatever reason, just go to terminal and enter in the following, followed by your user password:
 
 ``` bash
-sudo tail -c+57 /sys/firmware/acpi/tables/MSDM
+~$ sudo tail -c+57 /sys/firmware/acpi/tables/MSDM
 ```
 
 ez
@@ -43,7 +43,7 @@ Also note that this may not work for custom built machines (where Windows may no
 I find this useful when you need to get the laptop's serial number and you're just to lazy to flip it around. Once again, go to terminal and enter in the following, followed by your user password:
 
 ``` bash
-sudo dmidecode -t system | grep Serial
+~$ sudo dmidecode -t system | grep Serial
 ```
 
 <br><br><br>
@@ -54,9 +54,9 @@ sudo dmidecode -t system | grep Serial
 This is a way to keep a tab on how hot your laptop would be. You would need to install the `lm-sensors` package through `apt` before running the `watch` command
 
 ``` bash
-sudo apt install lm-sensors
+~$ sudo apt install lm-sensors
 
-watch -n 1 sensors
+~$ watch -n 1 sensors
 ```
 
 <br><br><br>
@@ -67,14 +67,16 @@ watch -n 1 sensors
 In all honesty, idk why or how became a thing, and so far, i have not found a scenario where this tip would help, but just in case, here it is:
 
 ``` bash
-loginctl
+~$ loginctl
 SESSION  UID USER      SEAT  TTY
      c2 1000 arifhamed seat0    
 
 1 sessions listed.
-loginctl show-session c2 -p Type
+~$ loginctl show-session c2 -p Type
 Type=x11
 ```
+
+The `c2` in the first output is used as the 2nd paremeter for `loginctl` in the next user input, as shown above.
 
 Note that there are <a href="https://en.wikipedia.org/wiki/Windowing_system#Display_server_communications_protocols" target="_blank">6 known protocols</a>:
 1. X11
@@ -109,7 +111,7 @@ Answer found <a href="https://www.reddit.com/r/linuxquestions/comments/n4dbiy/es
 I noticed that sometimes i get locked folders whenever i do some meta stuff that involves ubuntu. 
 
 ``` bash
-sudo chown -R $USER: $HOME
+~$ sudo chown -R $USER: $HOME
 ```
 
 `$USER` refers to the current user, which is you. <br>`$HOME` refers to the current user's home directory. Just entering `$HOME` itself, bash will return "Is a directory".
@@ -117,17 +119,19 @@ sudo chown -R $USER: $HOME
 Just to put it here, say for example, my _APKs_ folder in my removable storage is locked for whatever reason. I just replaced `$HOME` with the exact location of the folder.
 
 ``` bash
-sudo chown -R $USER: /media/arifhamed/080D1CF03C033DFF/APKs
+~$ sudo chown -R $USER: /media/arifhamed/080D1CF03C033DFF/APKs
 ```
 
 <br><br><br>
 
 ---
 
-### Preference commands
+### My own setup command.
 
 the following are just **my** own commands that i run before taking a nap or have lunch after fresh installing a new ubuntu installation. If you can't tell by the fact that i have this entire page about Ubuntu, i obviously have lesser love for the other distros (like Arch and especially CentOS).
 
 ``` bash
-sudo apt update; sudo apt upgrade -y; sudo apt install wine lm-sensors ffmpeg git gh asciinema adb apksigner qbittorrent hwinfo powertop powerstat fancontrol traceroute tint quadrapassel gnome-disk-utility gnome-screenshot gdebi steam vlc obs-studio krita inkscape telegram-desktop kamoso kdenlive imagemagick -y; sudo snap install discord mc-installer zoom-client kdiskmark; sudo snap install --classic sublime-text; sudo snap install --classic code; sudo snap install android-studio --classic; sudo apt install apt-transport-https dirmngr -y; sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF; echo "deb https://download.mono-project.com/repo/ubuntu vs-bionic main" | sudo tee /etc/apt/sources.list.d/mono-official-vs.list; sudo apt update; sudo apt-get install monodevelop mono-xsp4 -y; sudo snap refresh; reboot
+sudo apt update; sudo apt upgrade -y; sudo apt install wine lm-sensors ffmpeg git gh asciinema adb apksigner qbittorrent hwinfo powertop powerstat fancontrol traceroute tint quadrapassel gnome-disk-utility gnome-screenshot gdebi gedit steam vlc obs-studio krita inkscape telegram-desktop kamoso kdenlive imagemagick baobab -y; sudo snap install discord mc-installer zoom-client; sudo snap install --classic sublime-text; sudo snap install --classic code; sudo snap install android-studio --classic; sudo apt install apt-transport-https dirmngr -y; sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF; echo "deb https://download.mono-project.com/repo/ubuntu vs-bionic main" | sudo tee /etc/apt/sources.list.d/mono-official-vs.list; sudo apt update; sudo apt-get install monodevelop mono-xsp4 -y; sudo apt update; sudo apt upgrade -y; sudo snap refresh; reboot
 ```
+
+note for arif: the command above is configured for Kubuntu, where certain packages already exist as it's own version that belongs in KDE, such as _KDE Partition Manager_ that is the KDE version for _GParted_.

@@ -11,7 +11,7 @@ layout: default
 
 What is required for this:
 * A GitHub account (you can create <a href="https://github.com/signup" target="_blank">here</a>, awesome ui by github btw)
-* Any terminal/console window (preferably with administrator rights)
+* Any terminal/console/bash window (preferably with administrator rights)
 * <a href="https://git-scm.com/downloads" target="_blank">Git</a> installed to your computer
 * A repository you own (requires GitHub account). If you don't have one, you can create one <a href="https://github.com/new" target="_blank">here</a>
 
@@ -34,10 +34,10 @@ This can happen on any local repo that links to the same remote repo, but what i
 
 ## git config
 Before we even begin anything at all, this step is essential to let the repository know that it is you who are changing it. tbh, idk why it doesn't require a password, because if someone knows your username and email, then they can just modify anything you have.
-``` console
-git config --global user.name "<your username>"
-git config --global user.email "<your email>"
-git config --list
+``` bash
+~$ git config --global user.name "<your username>"
+~$ git config --global user.email "<your email>"
+~$ git config --list
 ```
 
 Something that helps is using `gh auth login`, though more or less, the GitHub CLI is used for managing issues, branches, releases, release assets, and other GitHub-specific details. `git` here is also used for other repository types, like mercurial, and, um, other ones. Is mercurial counted as one anymore? eh, whatever.
@@ -45,20 +45,9 @@ Something that helps is using `gh auth login`, though more or less, the GitHub C
 <hr>
 
 ## git clone 
-To start of, let's use a repository that you own. In this demo, I will be using an old repo, <a href="https://github.com/arifhamed/files-000" target="_blank">https://github.com/arifhamed/files-000</a>. Now, in your terminal, it's best to change your current working directory to one where files would move frequently, like Downloads or Documents.
-``` console
-C:\WINDOWS\system32>cd /users/arifhamed/downloads
-
-C:\Users\arifhamed\Downloads>D:
-
-D:\>cd repos
-
-
-```
-The above example is just showing you can do this in Downloads or on a seperate disk. 
-Next, your first git command is `git clone`, as shown below:
-``` console
-git clone https://github.com/arifhamed/files-000
+To start of, let's use a repository that you own. In this demo, I will be using an old repo, <a href="https://github.com/arifhamed/files-000" target="_blank">https://github.com/arifhamed/files-000</a>. Now, in your terminal, it's best to change your current working directory to one where files would move frequently, like Downloads or Documents. Next, your first git command is `git clone`, as shown below:
+``` bash
+~$ git clone https://github.com/arifhamed/files-000
 Cloning into 'files-000'...
 remote: Enumerating objects: 3, done.
 remote: Counting objects: 100% (3/3), done.
@@ -66,7 +55,7 @@ remote: Compressing objects: 100% (2/2), done.
 remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
 Receiving objects: 100% (3/3), done.
 
-cd files-000
+~$ cd files-000
 ```
 Now you have copied from the **remote** repository to your storage, in which that one is called the **local** repository. Git is where you can manage changes between **local & remote**, usually changes from local will update the remote. 
 
@@ -74,10 +63,10 @@ Now you have copied from the **remote** repository to your storage, in which tha
 
 ## git add, git rm
 `git add` will not update your remote repository so fast, but it will just record your change. I am a simple man, and so is this command too, for after making a lot of changes to your files, you can just put in the following command:
-``` console
-git add .
+``` bash
+~$ git add .
 
-git status
+~$ git status
 On branch main
 Your branch is up to date with 'origin/main'.
 
@@ -95,12 +84,12 @@ Now, your edit/addition/removal is recorded!
 ## git commit 
 Commit is basically putting all the changes into the envelope, but not sending it yet. `git commit` will put all your changes into a commit. You can have multiple commits at a time.
 
-``` console
-git commit -m "edit for the blog"
+``` bash
+~$ git commit -m "edit for the blog"
 [main 81af249] edit for the blog
  1 file changed, 2 insertions(+)
 
-git status
+~$ git status
 On branch main
 Your branch is ahead of 'origin/main' by 1 commit.
   (use "git push" to publish your local commits)
@@ -118,8 +107,8 @@ Now, you can push it!
 ## git push
 With your commit, it is important to push it so that you can update your remote repository. 
 
-``` console
-git push -u origin head
+``` bash
+~$ git push -u origin head
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
 Delta compression using up to 4 threads
