@@ -1,5 +1,5 @@
 ---
-title: "Introspection: "
+title: "Introspection"
 layout: post-introspection
 permalink: /blogs/introspection/:year/:month/:day
 categories: introspection
