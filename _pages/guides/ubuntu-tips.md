@@ -126,6 +126,33 @@ Just to put it here, say for example, my _APKs_ folder in my removable storage i
 
 ---
 
+### Timestamps in terminal/bash/console (whatever you call it)
+I find that this is a rather cool feature for whatever you want to do on the console, like if i left a command to run, i may want to know when it finished when i was gone or in another window. Please `sudo apt install gedit` first if you don't have `gedit` already (it'll just make life a bit easier imo)
+
+``` bash
+~$ sudo gedit ~/.bashrc
+```
+
+A window should appear where you see a whole bunch of text and comments in it. Add the following to end of the file:
+
+``` console
+export PROMPT_COMMAND="echo -n \[\$(date +%H:%M:%S)\]\ "
+```
+
+it's good to leave your own comment in as well telling future you what it is. Next, _save_ and _exit_. Close and open console, and you should see something like this:
+
+``` bash
+[23:40:09] arifhamed@C640:~$
+```
+
+yup, i typed this tip on 11:40pm.
+
+Source: <a href="https://askubuntu.com/questions/193416/adding-timestamps-to-terminal-prompts" target="_blank">Reddit</a>
+
+<br><br><br>
+
+---
+
 ### My own setup command.
 
 the following are just **my** own commands that i run before taking a nap or have lunch after fresh installing a new ubuntu installation. If you can't tell by the fact that i have this entire page about Ubuntu, i obviously have lesser love for the other distros (like Arch and especially CentOS).
