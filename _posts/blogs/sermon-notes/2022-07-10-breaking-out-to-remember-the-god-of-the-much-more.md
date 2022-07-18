@@ -15,7 +15,7 @@ tags: much more remember remembrance
 
 <h1 id="sn1"><span style="font-size:60%;">Breaking Out to</span> Remember <span style="font-size:60%;">the God of the 'Much More'</span></h1>
 
-<h4 id="sn4"><span class="timestamp"></span>Deuteronomy 2:1-8</h4>
+<h4 id="sn4"><span class="timestamp">Deuteronomy 2:1-8</span></h4>
 
 The Book of Deuteronomy is a Book of <span style='font-size: 140%;'>Remembrance</span>
 
