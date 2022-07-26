@@ -147,7 +147,40 @@ it's good to leave your own comment in as well telling future you what it is. Ne
 
 yup, i typed this tip on 11:40pm.
 
-Source: <a href="https://askubuntu.com/questions/193416/adding-timestamps-to-terminal-prompts" target="_blank">Reddit</a>
+Source: <a href="https://askubuntu.com/questions/193416/adding-timestamps-to-terminal-prompts" target="_blank">AskUbuntu</a>
+
+<br><br><br>
+
+---
+
+### Building Dolphin Emulator on Linux
+no not the Dolphin File Explorer given by Kubuntu, this is the GameCube & Wii emulator. Start out at where your directory for your `Repos` are and enter this one line. You may require to enter in your admin password one or two times. I would more or less rather enter each line after each other. It is the last 3 lines that may take a while, and use 100% of your threads. So if you do enter all of the lines at once, just sit back, relax, and see all of the cmake wizardry scroll through the terminal.
+
+```
+
+sudo apt install --no-install-recommends ca-certificates qtbase5-dev qtbase5-private-dev git cmake make gcc g++ pkg-config libavcodec-dev libavformat-dev libavutil-dev libswscale-dev libxi-dev libxrandr-dev libudev-dev libevdev-dev libsfml-dev libminiupnpc-dev libmbedtls-dev libcurl4-openssl-dev libhidapi-dev libsystemd-dev libbluetooth-dev libasound2-dev libpulse-dev libpugixml-dev libbz2-dev libzstd-dev liblzo2-dev libpng-dev libusb-1.0-0-dev gettext; 
+
+mkdir dolphin-emu; 
+
+cd dolphin-emu; 
+
+git clone https://github.com/dolphin-emu/dolphin; 
+
+cd dolphin; 
+
+git submodule update --init; 
+
+mkdir Build && cd Build; 
+
+cmake ..; 
+
+make -j$(nproc); 
+
+sudo make install
+
+```
+
+Source: <a href="https://wiki.dolphin-emu.org/index.php?title=Building_Dolphin_on_Linux" target="_blank">Dolphin Emulator Official Website</a>
 
 <br><br><br>
 
