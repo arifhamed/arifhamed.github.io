@@ -200,3 +200,9 @@ footer a:hover {
 #back-to-top:hover {
     background: #444;
 }
+
+/* for disabled posts in fyp */
+.btn.disabled, .btn:disabled, fieldset:disabled .btn {
+    pointer-events: none;
+    opacity: .35;
+}

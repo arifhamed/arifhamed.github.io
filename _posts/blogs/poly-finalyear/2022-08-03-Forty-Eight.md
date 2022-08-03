@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Poly FYP: 48"
 layout: post-sequential
 back: "../.."
 permalink: /blogs/poly-finalyear/:year/:month/:day
@@ -20,4 +20,4 @@ i hope everyone dies, especially me.
 
 <input id="password-input" type="password" class="text-secret" onkeyup="unlock()" autocomplete="off">
 
-<span class="disable-selection" id="truth" style="display:none;"></span>
+<span class="disable-selection" id="truth" style="display:none;">where is peace when i needed it the most?</span>
